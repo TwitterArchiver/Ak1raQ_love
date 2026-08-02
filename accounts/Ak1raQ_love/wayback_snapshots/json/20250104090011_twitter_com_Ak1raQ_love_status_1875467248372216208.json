@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1875467244924518400",
+        "3_1875467245071298561",
+        "3_1875467245100597248"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "1875467248372216208",
+    "created_at": "2025-01-04T09:00:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-04T10:00:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1875467248372216208"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "Zen Space",
+          "probability": 0.9119,
+          "start": 13,
+          "type": "Other"
+        },
+        {
+          "end": 33,
+          "normalized_text": "OxygenOS",
+          "probability": 0.8516,
+          "start": 26,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a9ZwD8f01w",
+          "end": 91,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/1875467248372216208/photo/1",
+          "media_key": "3_1875467244924518400",
+          "start": 68,
+          "url": "https://t.co/a9ZwD8f01w"
+        },
+        {
+          "display_url": "pic.x.com/a9ZwD8f01w",
+          "end": 91,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/1875467248372216208/photo/1",
+          "media_key": "3_1875467245071298561",
+          "start": 68,
+          "url": "https://t.co/a9ZwD8f01w"
+        },
+        {
+          "display_url": "pic.x.com/a9ZwD8f01w",
+          "end": 91,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/1875467248372216208/photo/1",
+          "media_key": "3_1875467245100597248",
+          "start": 68,
+          "url": "https://t.co/a9ZwD8f01w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875467248372216208",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "The built-in Zen Space in OxygenOS helps me focus a lot on studying https://t.co/a9ZwD8f01w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1875467244924518400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ggb_hcmbQAAIjT6.jpg",
+        "width": 931
+      },
+      {
+        "height": 1127,
+        "media_key": "3_1875467245071298561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ggb_hdJa8AETqtv.jpg",
+        "width": 998
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1875467245100597248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ggb_hdQaAAAxtmg.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875467244924518400",
+            "3_1875467245071298561",
+            "3_1875467245100597248"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "1875467248372216208",
+        "created_at": "2025-01-04T09:00:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T10:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875467248372216208"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "Zen Space",
+              "probability": 0.9119,
+              "start": 13,
+              "type": "Other"
+            },
+            {
+              "end": 33,
+              "normalized_text": "OxygenOS",
+              "probability": 0.8516,
+              "start": 26,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a9ZwD8f01w",
+              "end": 91,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/1875467248372216208/photo/1",
+              "media_key": "3_1875467244924518400",
+              "start": 68,
+              "url": "https://t.co/a9ZwD8f01w"
+            },
+            {
+              "display_url": "pic.x.com/a9ZwD8f01w",
+              "end": 91,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/1875467248372216208/photo/1",
+              "media_key": "3_1875467245071298561",
+              "start": 68,
+              "url": "https://t.co/a9ZwD8f01w"
+            },
+            {
+              "display_url": "pic.x.com/a9ZwD8f01w",
+              "end": 91,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/1875467248372216208/photo/1",
+              "media_key": "3_1875467245100597248",
+              "start": 68,
+              "url": "https://t.co/a9ZwD8f01w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875467248372216208",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "The built-in Zen Space in OxygenOS helps me focus a lot on studying https://t.co/a9ZwD8f01w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "A sweet soul🥺♥️/🏳️‍⚧️Non-Cis/🌏G11N/Learning English/Cuter is better!/Mood swings, but you all make me less lonely!/⚠️Following≠Agreeing⚠️/Private:@mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 146,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtfxyn.news",
+                "end": 23,
+                "expanded_url": "https://mtfxyn.news",
+                "start": 0,
+                "url": "https://t.co/UzwPXzKsQ2"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "🐱阿棄𝕄𝕖𝕠𝕨",
+        "pinned_tweet_id": "1874813579230367962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1366,
+          "following_count": 819,
+          "like_count": 102920,
+          "listed_count": 3,
+          "media_count": 710,
+          "tweet_count": 3716
+        },
+        "url": "https://t.co/UzwPXzKsQ2",
+        "username": "Ak1raQ_love",
+        "verified": false
+      }
+    ]
+  }
+}

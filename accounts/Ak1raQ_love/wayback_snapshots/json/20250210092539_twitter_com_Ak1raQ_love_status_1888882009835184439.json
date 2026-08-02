@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1888882006429462528"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "1888882009835184439",
+    "created_at": "2025-02-10T09:25:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T10:25:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1888882009835184439"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xx1W6VVy5y",
+          "end": 23,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/1888882009835184439/photo/1",
+          "media_key": "3_1888882006429462528",
+          "start": 0,
+          "url": "https://t.co/xx1W6VVy5y"
+        },
+        {
+          "display_url": "x.com/1213serika/sta…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/1213serika/status/1888548024504520704",
+          "start": 24,
+          "url": "https://t.co/PirqixgorB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888882009835184439",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888548024504520704",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/xx1W6VVy5y https://t.co/PirqixgorB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2255,
+        "media_key": "3_1888882006429462528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjaoLVfa8AAF_G0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888882006429462528"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "1888882009835184439",
+        "created_at": "2025-02-10T09:25:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T10:25:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888882009835184439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xx1W6VVy5y",
+              "end": 23,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/1888882009835184439/photo/1",
+              "media_key": "3_1888882006429462528",
+              "start": 0,
+              "url": "https://t.co/xx1W6VVy5y"
+            },
+            {
+              "display_url": "x.com/1213serika/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/1213serika/status/1888548024504520704",
+              "start": 24,
+              "url": "https://t.co/PirqixgorB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888882009835184439",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888548024504520704",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/xx1W6VVy5y https://t.co/PirqixgorB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855957873538523136",
+        "conversation_id": "1888548024504520704",
+        "created_at": "2025-02-09T11:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T12:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888548024504520704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "dweam.xyz/luck",
+              "end": 29,
+              "expanded_url": "https://dweam.xyz/luck",
+              "start": 6,
+              "status": 200,
+              "unwound_url": "https://dweam.xyz/luck",
+              "url": "https://t.co/RN2typ2guO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888548024504520704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 6170,
+          "like_count": 17,
+          "quote_count": 20,
+          "reply_count": 22,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "投胎抽卡機 https://t.co/RN2typ2guO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/😶‍🌫️Online-only introvert/🌏ZH,EN/🌈Inclusivity/🕊️Love & Peace/😔Not good at chatting/🔄Interact to gain my follow-back/🤫Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 141,
+                "username": "mkc_Cute"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵😺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1573,
+          "following_count": 946,
+          "like_count": 115498,
+          "listed_count": 5,
+          "media_count": 846,
+          "tweet_count": 4444
+        },
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-11T12:57:09.000Z",
+        "description": "🚪500 不接線下 接受私信 請註明來意 歡迎給我錢",
+        "id": "1855957873538523136",
+        "location": "世界上只有一個serika其他都是假的ˋ^ˊ！",
+        "name": "せりか三号机",
+        "pinned_tweet_id": "1886381816199954736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886664903907532802/s0J7-XJ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 347,
+          "like_count": 4823,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 328
+        },
+        "username": "1213serika",
+        "verified": false
+      }
+    ]
+  }
+}

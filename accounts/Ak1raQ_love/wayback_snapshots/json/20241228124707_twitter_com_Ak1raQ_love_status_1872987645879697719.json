@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1872987642696220672"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "1872969168955555906",
+    "created_at": "2024-12-28T12:47:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-28T13:47:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872987645879697719"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 73,
+          "normalized_text": "OxygenOS 14",
+          "probability": 0.9497,
+          "start": 63,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1664948430920359936",
+          "start": 0,
+          "username": "Snowcomics9452"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/R5EzvRXc8M",
+          "end": 117,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/1872987645879697719/photo/1",
+          "media_key": "3_1872987642696220672",
+          "start": 94,
+          "url": "https://t.co/R5EzvRXc8M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872987645879697719",
+    "in_reply_to_user_id": "1664948430920359936",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872986688479531476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snowcomics9452 I checked it just now\nSeems like it's still on OxygenOS 14 so there's no blur https://t.co/R5EzvRXc8M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1872987642696220672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gf4wVmeawAA6ZJJ.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872987642696220672"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "1872969168955555906",
+        "created_at": "2024-12-28T12:47:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T13:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872987645879697719"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 73,
+              "normalized_text": "OxygenOS 14",
+              "probability": 0.9497,
+              "start": 63,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1664948430920359936",
+              "start": 0,
+              "username": "Snowcomics9452"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R5EzvRXc8M",
+              "end": 117,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/1872987645879697719/photo/1",
+              "media_key": "3_1872987642696220672",
+              "start": 94,
+              "url": "https://t.co/R5EzvRXc8M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872987645879697719",
+        "in_reply_to_user_id": "1664948430920359936",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872986688479531476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snowcomics9452 I checked it just now\nSeems like it's still on OxygenOS 14 so there's no blur https://t.co/R5EzvRXc8M"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664948430920359936",
+        "conversation_id": "1872969168955555906",
+        "created_at": "2024-12-28T12:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T13:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872986688479531476"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 55,
+              "normalized_text": "Ace 3V",
+              "probability": 0.9636,
+              "start": 50,
+              "type": "Other"
+            },
+            {
+              "end": 65,
+              "normalized_text": "Nord 4",
+              "probability": 0.9622,
+              "start": 60,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872986688479531476",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872985536648102255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak1raQ_love I heard the international version of Ace 3V is Nord 4, but it doesn't have the blur effect and no app opening animations"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "A sweet soul🥺♥️/🏳️‍⚧️Non-Cis/🌏G11N/Cuter is better!/Mutual-followist/Mood swings, but you all make me less lonely!/⚠️Following≠Agreeing⚠️/Private:@mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 146,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtfxyn.news",
+                "end": 23,
+                "expanded_url": "https://mtfxyn.news",
+                "start": 0,
+                "url": "https://t.co/0auRNqe1RP"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄𝕄𝕖𝕠𝕨 #NewYear🎆",
+        "pinned_tweet_id": "1871929681479627262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865724365129805824/2wK-6ZpG_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1267,
+          "following_count": 789,
+          "like_count": 99303,
+          "listed_count": 3,
+          "media_count": 682,
+          "tweet_count": 3553
+        },
+        "url": "https://t.co/0auRNqe1RP",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-03T10:53:52.000Z",
+        "description": "雪花手機新聞的中文版 /🏳️‍⚧️🍥含糖MtX/\n歡迎來到雪花新聞中心，這裡是您追蹤各大品牌最新手機、平板等移動裝置的資訊與爆料平台。致力於為您第一時間帶來消息、掌握科技圈的最新動態。\n日常區 @SchneeSchmitt\nDiscord snowflake9452\nEN version @Snowcomics",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 97,
+                "username": "SchneeSchmitt"
+              },
+              {
+                "end": 156,
+                "start": 145,
+                "username": "Snowcomics"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "e-z.bio/snoocomics9452",
+                "end": 23,
+                "expanded_url": "https://e-z.bio/snoocomics9452",
+                "start": 0,
+                "url": "https://t.co/DHeHwyTwoQ"
+              }
+            ]
+          }
+        },
+        "id": "1664948430920359936",
+        "location": "香港 | Hong Kong",
+        "name": "雪花 (中文) ❄️",
+        "pinned_tweet_id": "1864699017470595470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863231634708860928/wGE-AHoX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 2306,
+          "like_count": 26392,
+          "listed_count": 1,
+          "media_count": 593,
+          "tweet_count": 3604
+        },
+        "url": "https://t.co/DHeHwyTwoQ",
+        "username": "Snowcomics9452",
+        "verified": false
+      }
+    ]
+  }
+}

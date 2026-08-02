@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2082372843665326178",
+    "created_at": "2026-07-29T08:00:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T09:00:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082375812502994976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1687475463474626560",
+          "start": 0,
+          "username": "CWorker62279"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082375812502994976",
+    "in_reply_to_user_id": "1663066129923981312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082375637155864744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CWorker62279 哦哦，差点忘记是你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2082372843665326178",
+        "created_at": "2026-07-29T08:00:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T09:00:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082375812502994976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1687475463474626560",
+              "start": 0,
+              "username": "CWorker62279"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082375812502994976",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082375637155864744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CWorker62279 哦哦，差点忘记是你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2082372843665326178",
+        "created_at": "2026-07-29T08:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T09:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082375637155864744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1687475463474626560",
+              "start": 0,
+              "username": "CWorker62279"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082375637155864744",
+        "in_reply_to_user_id": "1687475463474626560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082372843665326178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CWorker62279 厦门...？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/无糖/向往自由/欢迎推u面基/#蓝v互关/原创meme/顺直女 @zhwevea/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 26,
+                "tag": "蓝v互关"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "zhwevea"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": " 苏州/厦门",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9012,
+          "following_count": 1174,
+          "like_count": 205852,
+          "listed_count": 6,
+          "media_count": 1049,
+          "tweet_count": 8259
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-04T14:48:42.000Z",
+        "description": "泛性恋|糖姬🏳️‍⚧️|🍥攒|RLE💖|发电🔋|中/日/En|🐱宠抗力无|双相|重抑转轻|大证针娘|饿了么正规军🥺|LibreFox🦊-00后 |🎊177cm/61kg|HRT 2023.3.26|🎯厦门-海沧/湖里\\姐妹@szc055555 闺蜜@aronicaend",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 111,
+                "username": "szc055555"
+              },
+              {
+                "end": 135,
+                "start": 124,
+                "username": "aronicaend"
+              }
+            ]
+          }
+        },
+        "id": "1687475463474626560",
+        "location": "fujian.xiamen.",
+        "name": "CoolBeeWorker",
+        "pinned_tweet_id": "2008821549068059057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041211341516726272/rsngAW97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1771,
+          "following_count": 606,
+          "like_count": 8903,
+          "listed_count": 6,
+          "media_count": 1065,
+          "tweet_count": 6666
+        },
+        "url": "",
+        "username": "CWorker62279",
+        "verified": false
+      }
+    ]
+  }
+}

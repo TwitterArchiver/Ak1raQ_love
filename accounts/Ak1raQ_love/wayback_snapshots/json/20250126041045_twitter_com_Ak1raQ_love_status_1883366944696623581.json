@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1883358634199163341",
+    "created_at": "2025-01-26T04:10:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T05:10:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883366944696623581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1467175651954200577",
+          "start": 0,
+          "username": "kjkluk"
+        },
+        {
+          "end": 17,
+          "id": "1733852174591930368",
+          "start": 8,
+          "username": "mkc_Cute"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883366944696623581",
+    "in_reply_to_user_id": "1467175651954200577",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883360550568235422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kjkluk @mkc_Cute 喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1883358634199163341",
+        "created_at": "2025-01-26T04:10:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T05:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883366944696623581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1467175651954200577",
+              "start": 0,
+              "username": "kjkluk"
+            },
+            {
+              "end": 17,
+              "id": "1733852174591930368",
+              "start": 8,
+              "username": "mkc_Cute"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883366944696623581",
+        "in_reply_to_user_id": "1467175651954200577",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883360550568235422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kjkluk @mkc_Cute 喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467175651954200577",
+        "conversation_id": "1883358634199163341",
+        "created_at": "2025-01-26T03:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T04:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883360550568235422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1733852174591930368",
+              "start": 0,
+              "username": "mkc_Cute"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883360550568235422",
+        "in_reply_to_user_id": "1733852174591930368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883358634199163341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mkc_Cute 猫猫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/🏳️‍⚧️Non-Cisgender/🌈 Diversity & Inclusivity/😘Peace & Love/⚠️Following≠Agreeing/😔Sorry, I'm not good at chatting/Private: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 140,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "https://mikachan.us.kg/",
+                "start": 0,
+                "url": "https://t.co/yUfVtUE4yg"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄𝕄𝕖𝕠𝕨 #LunarNewYear🧧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1395,
+          "following_count": 848,
+          "like_count": 107018,
+          "listed_count": 3,
+          "media_count": 747,
+          "tweet_count": 3914
+        },
+        "url": "https://t.co/yUfVtUE4yg",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-04T16:55:23.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kjkluk.github.io",
+                "end": 23,
+                "expanded_url": "http://kjkluk.github.io",
+                "start": 0,
+                "url": "https://t.co/GgffWMPMkn"
+              }
+            ]
+          }
+        },
+        "id": "1467175651954200577",
+        "location": "Japan",
+        "name": "川井 橘音🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879463926951243776/JYf1bDOU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1869,
+          "following_count": 2110,
+          "like_count": 172967,
+          "listed_count": 10,
+          "media_count": 461,
+          "tweet_count": 7731
+        },
+        "url": "https://t.co/GgffWMPMkn",
+        "username": "kjkluk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-10T14:12:35.000Z",
+        "description": "Tweets that are not suitable for public posting will be shared here, so follow carefully.",
+        "id": "1733852174591930368",
+        "name": "米卡醬♥️🏳️‍⚧️",
+        "pinned_tweet_id": "1759849395204362593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828605336283926528/tcKmEHmX_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 46,
+          "like_count": 860,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 12
+        },
+        "username": "mkc_Cute",
+        "verified": false
+      }
+    ]
+  }
+}

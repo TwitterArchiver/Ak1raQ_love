@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2069394888584736927",
+    "created_at": "2026-06-23T12:30:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T13:30:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069397586172395872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1676119892230037509",
+          "start": 0,
+          "username": "Ayyyyano"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069397586172395872",
+    "in_reply_to_user_id": "1676119892230037509",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069394888584736927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayyyyano 厦大确实不错，可是我考不上"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1966,
+        "media_key": "3_2069394884117794816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLf3rtfaEAAo0RB.jpg",
+        "width": 2132
+      },
+      {
+        "height": 1966,
+        "media_key": "3_2069394882951827456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLf3rpJa0AAa6wy.jpg",
+        "width": 2132
+      },
+      {
+        "height": 1966,
+        "media_key": "3_2069394884558286848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLf3rvIbcAA-VDH.jpg",
+        "width": 2132
+      },
+      {
+        "height": 1966,
+        "media_key": "3_2069394882947579904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLf3rpIaAAABezS.jpg",
+        "width": 2132
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2069394888584736927",
+        "created_at": "2026-06-23T12:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T13:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069397586172395872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1676119892230037509",
+              "start": 0,
+              "username": "Ayyyyano"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069397586172395872",
+        "in_reply_to_user_id": "1676119892230037509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069394888584736927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayyyyano 厦大确实不错，可是我考不上"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069394884117794816",
+            "3_2069394882951827456",
+            "3_2069394884558286848",
+            "3_2069394882947579904"
+          ]
+        },
+        "author_id": "1676119892230037509",
+        "conversation_id": "2069394888584736927",
+        "created_at": "2026-06-23T12:19:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T13:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069394888584736927"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1IaY0Mze5J",
+              "end": 162,
+              "expanded_url": "https://x.com/Ayyyyano/status/2069394888584736927/photo/1",
+              "media_key": "3_2069394884117794816",
+              "start": 139,
+              "url": "https://t.co/1IaY0Mze5J"
+            },
+            {
+              "display_url": "pic.x.com/1IaY0Mze5J",
+              "end": 162,
+              "expanded_url": "https://x.com/Ayyyyano/status/2069394888584736927/photo/1",
+              "media_key": "3_2069394882951827456",
+              "start": 139,
+              "url": "https://t.co/1IaY0Mze5J"
+            },
+            {
+              "display_url": "pic.x.com/1IaY0Mze5J",
+              "end": 162,
+              "expanded_url": "https://x.com/Ayyyyano/status/2069394888584736927/photo/1",
+              "media_key": "3_2069394884558286848",
+              "start": 139,
+              "url": "https://t.co/1IaY0Mze5J"
+            },
+            {
+              "display_url": "pic.x.com/1IaY0Mze5J",
+              "end": 162,
+              "expanded_url": "https://x.com/Ayyyyano/status/2069394888584736927/photo/1",
+              "media_key": "3_2069394882947579904",
+              "start": 139,
+              "url": "https://t.co/1IaY0Mze5J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069394888584736927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "从厦门回来了。\n这两天和朋友参观了厦大与集美学村，很是羡慕那儿的校园环境，比自己待过的学校要好上不少，让我对未来的大学生活有了一些不切实际的幻想。可惜自己以后应该没机会碰到什么好的学校了。\n大概明天就会出高考成绩，希望能有一个令自己满意的结果吧，给我的高中生活画上圆满的句号。 https://t.co/1IaY0Mze5J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "08年Transfem🍥🏳️‍⚧️/断糖/炸柜/infp/泛性恋/家长不管党？/hrt 25.9.5/无证/留长发中/IT&AI/贴贴/互fo喵/闺蜜@qiuylove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "qiuylove"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://mikachan.dpdns.org/",
+                "start": 0,
+                "url": "https://t.co/IMLmPxFeyX"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Hokkien 閩南",
+        "name": "弃羽酱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1317,
+          "following_count": 999,
+          "like_count": 191974,
+          "listed_count": 3,
+          "media_count": 850,
+          "tweet_count": 7219
+        },
+        "url": "https://t.co/IMLmPxFeyX",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "Into the World / 请看置顶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nekro.top",
+                "end": 23,
+                "expanded_url": "https://www.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/INXz8Am8Dg"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "location": "幻想乡",
+        "name": "Pavlova",
+        "pinned_tweet_id": "2064340191507337636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 262,
+          "like_count": 4692,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 278
+        },
+        "url": "https://t.co/INXz8Am8Dg",
+        "username": "Ayyyyano",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2081751290141655542",
+    "created_at": "2026-07-27T14:51:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T15:51:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081754431532708063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1643976839071928325",
+          "start": 0,
+          "username": "wyuhanbyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081754431532708063",
+    "in_reply_to_user_id": "1643976839071928325",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081754149918777693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@wyuhanbyu 🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2081751290141655542",
+        "created_at": "2026-07-27T14:51:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T15:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081754431532708063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1643976839071928325",
+              "start": 0,
+              "username": "wyuhanbyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081754431532708063",
+        "in_reply_to_user_id": "1643976839071928325",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081754149918777693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@wyuhanbyu 🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643976839071928325",
+        "conversation_id": "2081751290141655542",
+        "created_at": "2026-07-27T14:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T15:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081754149918777693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081754149918777693",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081753927897530434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Ak1raQ_love 老遇到今天遇到好几次了现在烦躁的要死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/留长发中/无糖/向往自由/原创&二创meme/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 31,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "📍 苏州/🔙厦门/🔜天津",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9084,
+          "following_count": 1127,
+          "like_count": 204860,
+          "listed_count": 6,
+          "media_count": 1037,
+          "tweet_count": 8189
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-06T14:01:10.000Z",
+        "description": "06XYN丨MTF 丨 HRT:2026.5.11无证含糖生产日期2006.1.26丨爱哭鬼一个！变的不太正常了我，会变的很乖的不多说一句话也不会再开任何玩笑话了\n 喵喵喵~ 丨欢迎投稿（https://t.co/PYCX6e7aYS）丨🚪0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yubushiyu",
+                "end": 117,
+                "expanded_url": "https://ngl.link/yubushiyu",
+                "start": 94,
+                "url": "https://t.co/PYCX6e7aYS"
+              }
+            ]
+          }
+        },
+        "id": "1643976839071928325",
+        "location": "United States",
+        "name": "余不是鱼🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2079924273452572973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051913380047503360/t10OCd9L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 333,
+          "like_count": 4403,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 1483
+        },
+        "url": "",
+        "username": "wyuhanbyu",
+        "verified": false
+      }
+    ]
+  }
+}

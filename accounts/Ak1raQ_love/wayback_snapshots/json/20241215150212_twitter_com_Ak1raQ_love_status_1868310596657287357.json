@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1867751648078311486",
+    "created_at": "2024-12-15T15:02:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T16:02:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868310596657287357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1847778949272584192",
+          "start": 0,
+          "username": "jingsheng237248"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868310596657287357",
+    "in_reply_to_user_id": "1847778949272584192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867751648078311486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingsheng237248 是赚1200\n有的人可能会用第一次赚700然后亏300，最后赚500，来算出200，但是这个其实是错的因为你是在和最开始的3000比不是和4000比所以最后一次实际上赚了1500"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1867751648078311486",
+        "created_at": "2024-12-15T15:02:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T16:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868310596657287357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1847778949272584192",
+              "start": 0,
+              "username": "jingsheng237248"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868310596657287357",
+        "in_reply_to_user_id": "1847778949272584192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867751648078311486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingsheng237248 是赚1200\n有的人可能会用第一次赚700然后亏300，最后赚500，来算出200，但是这个其实是错的因为你是在和最开始的3000比不是和4000比所以最后一次实际上赚了1500"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867751644449959936"
+          ]
+        },
+        "author_id": "1847778949272584192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1867751648078311486",
+        "created_at": "2024-12-14T02:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T03:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867751648078311486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kldSdNA7eq",
+              "end": 35,
+              "expanded_url": "https://x.com/jingsheng237248/status/1867751648078311486/photo/1",
+              "media_key": "3_1867751644449959936",
+              "start": 12,
+              "url": "https://t.co/kldSdNA7eq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867751648078311486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 166,
+          "impression_count": 1621505,
+          "like_count": 2186,
+          "quote_count": 16,
+          "reply_count": 528,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "这到底是赚了还是赔了？ https://t.co/kldSdNA7eq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "A sweet soul🥺♥️ AkiraQ's gender is just itself 可愛即正義！ 互fo主义者 精神狀態時好時壞，所以你能看到不同的我 喜歡和你們在一起，就不會孤單了呢 部分日常会发往Bluesky !注意，互fo≠同意对方立场! 分身@mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 131,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "https://mikachan.us.kg/",
+                "start": 0,
+                "url": "https://t.co/yUfVtUE4yg"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵 𝓐𝓴𝓲𝓻𝓪𝓠",
+        "pinned_tweet_id": "1862810670238154974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865724365129805824/2wK-6ZpG_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1257,
+          "following_count": 776,
+          "like_count": 96385,
+          "listed_count": 3,
+          "media_count": 658,
+          "tweet_count": 3441
+        },
+        "url": "https://t.co/yUfVtUE4yg",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T23:17:00.000Z",
+        "description": "正在用有限的时间，探索无限的可能 tg频道https://t.co/TxjuPeke65 ｜人在United States 的ECE Ph.D. ｜🇺🇸华裔，中文学习中｜同类互fo，💯回fo，IFB｜图片推文如有侵权，联系删除",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/naofujiang",
+                "end": 44,
+                "expanded_url": "https://t.me/naofujiang",
+                "start": 21,
+                "url": "https://t.co/TxjuPeke65"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+-r03gqqFd_9jN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+-r03gqqFd_9jNmIx",
+                "start": 0,
+                "url": "https://t.co/hO6v9As72R"
+              }
+            ]
+          }
+        },
+        "id": "1847778949272584192",
+        "location": "你床上",
+        "name": "脑斧酱🐯🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1868255327105536280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862319622759862272/QyfBIzJR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4347,
+          "following_count": 4189,
+          "like_count": 1667,
+          "listed_count": 4,
+          "media_count": 125,
+          "tweet_count": 1672
+        },
+        "url": "https://t.co/hO6v9As72R",
+        "username": "jingsheng237248",
+        "verified": true
+      }
+    ]
+  }
+}

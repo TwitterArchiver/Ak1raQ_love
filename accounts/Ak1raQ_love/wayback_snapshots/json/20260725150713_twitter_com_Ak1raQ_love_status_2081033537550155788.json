@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2081033537550155788",
+    "created_at": "2026-07-25T15:07:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T16:07:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081033537550155788"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ak1raQ_love/st…",
+          "end": 101,
+          "expanded_url": "https://twitter.com/Ak1raQ_love/status/2040090150819213463",
+          "start": 78,
+          "url": "https://t.co/UFmAKmYORs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081033537550155788",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040090150819213463",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "我们来自五湖四海，但因为相见的信念会克服物理上的距离，我们终能相聚一堂\n那个地方可能并不遥远，并不是理想的乌托邦，也许可以近在咫尺\n「不惜一切代价地前去」 https://t.co/UFmAKmYORs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2081033537550155788",
+        "created_at": "2026-07-25T15:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081033537550155788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ak1raQ_love/st…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/Ak1raQ_love/status/2040090150819213463",
+              "start": 78,
+              "url": "https://t.co/UFmAKmYORs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081033537550155788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040090150819213463",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "我们来自五湖四海，但因为相见的信念会克服物理上的距离，我们终能相聚一堂\n那个地方可能并不遥远，并不是理想的乌托邦，也许可以近在咫尺\n「不惜一切代价地前去」 https://t.co/UFmAKmYORs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2040090150819213463",
+        "created_at": "2026-04-03T15:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T16:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040090150819213463"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040090150819213463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 238194,
+          "like_count": 60,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是否在一个遥远的地方\n我们终可以聚在一起呢\n如果有 我一定会不惜一切代价地前去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/留长发中/无糖/向往自由/原创&二创meme/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 31,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9225,
+          "following_count": 1115,
+          "like_count": 203984,
+          "listed_count": 6,
+          "media_count": 1033,
+          "tweet_count": 8139
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": true
+      }
+    ]
+  }
+}

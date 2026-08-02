@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1889635832069333123",
+    "created_at": "2025-02-12T12:09:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T13:09:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889647931596165260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1243945571796295681",
+          "start": 0,
+          "username": "59ryq"
+        },
+        {
+          "end": 14,
+          "id": "1761356959431925760",
+          "start": 7,
+          "username": "zhweaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889647931596165260",
+    "in_reply_to_user_id": "1243945571796295681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889637020907032601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@59ryq @zhweaa 我可以把APK发给你）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1889635832069333123",
+        "created_at": "2025-02-12T12:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T13:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889647931596165260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1243945571796295681",
+              "start": 0,
+              "username": "59ryq"
+            },
+            {
+              "end": 14,
+              "id": "1761356959431925760",
+              "start": 7,
+              "username": "zhweaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889647931596165260",
+        "in_reply_to_user_id": "1243945571796295681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889637020907032601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@59ryq @zhweaa 我可以把APK发给你）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243945571796295681",
+        "conversation_id": "1889635832069333123",
+        "created_at": "2025-02-12T11:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T12:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889637020907032601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            },
+            {
+              "end": 20,
+              "id": "1761356959431925760",
+              "start": 13,
+              "username": "zhweaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889637020907032601",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889636244235157600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak1raQ_love @zhweaa 羡慕你们收到了Beta邀请😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/😶‍🌫️Online-only introvert/🌏ZH,EN/🌈Inclusivity/🕊️Love & Peace/😔Not good at chatting/🔄Interact to gain my follow-back/🤫Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 141,
+                "username": "mkc_Cute"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵😺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1587,
+          "following_count": 962,
+          "like_count": 116748,
+          "listed_count": 4,
+          "media_count": 852,
+          "tweet_count": 4495
+        },
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-28T16:58:37.000Z",
+        "description": "「故事要从这里开始讲起」｜Make It Real｜PUBGM Player｜Esports Analys｜Language:CN/EN/JP｜Sister & lover: @xlj070423 @xlioilxlloiilv @yizhikapaiqaq @iranon_lcf ｜莱铭：@revive_meink",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 88,
+                "username": "xlj070423"
+              },
+              {
+                "end": 114,
+                "start": 99,
+                "username": "xlioilxlloiilv"
+              },
+              {
+                "end": 129,
+                "start": 115,
+                "username": "yizhikapaiqaq"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "iranon_lcf"
+              },
+              {
+                "end": 159,
+                "start": 146,
+                "username": "revive_meink"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/6W3mmCUM0f"
+              }
+            ]
+          }
+        },
+        "id": "1243945571796295681",
+        "location": "JDEsport",
+        "name": "你是想气死铨酱么🏳️‍⚧️",
+        "pinned_tweet_id": "1863553708816261124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811063132472889345/EAJ4Qnlm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16629,
+          "following_count": 4443,
+          "like_count": 170371,
+          "listed_count": 68,
+          "media_count": 4600,
+          "tweet_count": 21269
+        },
+        "url": "https://t.co/6W3mmCUM0f",
+        "username": "59ryq",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-24T11:48:04.000Z",
+        "description": "写着玩玩的🙃🤚 请重定向到我的大号：@saonanaa 通过iMessage联系我：elictop@icloud.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "saonanaa"
+              }
+            ]
+          }
+        },
+        "id": "1761356959431925760",
+        "location": "千年商港",
+        "name": "Zhi Wei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843962920012795904/iSqECHYN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 24,
+          "like_count": 190,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 259
+        },
+        "username": "zhweaa",
+        "verified": false
+      }
+    ]
+  }
+}

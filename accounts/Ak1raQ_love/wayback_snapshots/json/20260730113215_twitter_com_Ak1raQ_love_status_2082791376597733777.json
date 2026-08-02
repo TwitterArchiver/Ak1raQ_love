@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082791364073500672"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2082791376597733777",
+    "created_at": "2026-07-30T11:32:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T12:32:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082791376597733777"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NxctyIab0v",
+          "end": 28,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2082791376597733777/photo/1",
+          "media_key": "3_2082791364073500672",
+          "start": 5,
+          "url": "https://t.co/NxctyIab0v"
+        },
+        {
+          "display_url": "x.com/tangeorange/st…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/tangeorange/status/2082788563180273671",
+          "start": 29,
+          "url": "https://t.co/i2Xx1acHkE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082791376597733777",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082788563180273671",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "可爱喵w https://t.co/NxctyIab0v https://t.co/i2Xx1acHkE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082791364073500672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOePteTaMAApaeO.jpg",
+        "width": 1536
+      },
+      {
+        "height": 4080,
+        "media_key": "3_2082788548558962688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOeNJlsbwAAbRmB.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082791364073500672"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2082791376597733777",
+        "created_at": "2026-07-30T11:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T12:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082791376597733777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NxctyIab0v",
+              "end": 28,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2082791376597733777/photo/1",
+              "media_key": "3_2082791364073500672",
+              "start": 5,
+              "url": "https://t.co/NxctyIab0v"
+            },
+            {
+              "display_url": "x.com/tangeorange/st…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/tangeorange/status/2082788563180273671",
+              "start": 29,
+              "url": "https://t.co/i2Xx1acHkE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082791376597733777",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082788563180273671",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "可爱喵w https://t.co/NxctyIab0v https://t.co/i2Xx1acHkE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082788548558962688"
+          ]
+        },
+        "author_id": "1806849464386416640",
+        "conversation_id": "2082788563180273671",
+        "created_at": "2026-07-30T11:21:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T12:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082788563180273671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DoWb3dO92Z",
+              "end": 23,
+              "expanded_url": "https://x.com/tangeorange/status/2082788563180273671/photo/1",
+              "media_key": "3_2082788548558962688",
+              "start": 0,
+              "url": "https://t.co/DoWb3dO92Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082788563180273671",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DoWb3dO92Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/non-mtf/无糖/向往自由/欢迎推u面基/#蓝v互关/原创meme/顺直女 @zhwevea/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 34,
+                "tag": "蓝v互关"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 59,
+                "start": 51,
+                "username": "zhwevea"
+              },
+              {
+                "end": 77,
+                "start": 63,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": " 苏州/厦门",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8971,
+          "following_count": 1186,
+          "like_count": 206553,
+          "listed_count": 6,
+          "media_count": 1053,
+          "tweet_count": 8310
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-29T00:37:43.000Z",
+        "description": "ai, and life.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "orangestd.cn",
+                "end": 23,
+                "expanded_url": "http://orangestd.cn",
+                "start": 0,
+                "url": "https://t.co/NqG6Q8kFY7"
+              }
+            ]
+          }
+        },
+        "id": "1806849464386416640",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "橙子🫪",
+        "pinned_tweet_id": "2080144271894876640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064054650006020096/YsducvYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3359,
+          "following_count": 2894,
+          "like_count": 9263,
+          "listed_count": 5,
+          "media_count": 1458,
+          "tweet_count": 9306
+        },
+        "url": "https://t.co/NqG6Q8kFY7",
+        "username": "tangeorange",
+        "verified": true
+      }
+    ]
+  }
+}

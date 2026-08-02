@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2082805130798444679",
+    "created_at": "2026-07-30T13:39:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T14:39:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082823507415859513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1690570637499154432",
+          "start": 0,
+          "username": "zhwevea"
+        },
+        {
+          "end": 25,
+          "id": "1640917359493005313",
+          "start": 9,
+          "username": "shizukululu0721"
+        },
+        {
+          "end": 38,
+          "id": "1806849464386416640",
+          "start": 26,
+          "username": "tangeorange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082823507415859513",
+    "in_reply_to_user_id": "1690570637499154432",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082805325057716573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@zhwevea @shizukululu0721 @tangeorange 🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2082805130798444679",
+        "created_at": "2026-07-30T13:39:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T14:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082823507415859513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1690570637499154432",
+              "start": 0,
+              "username": "zhwevea"
+            },
+            {
+              "end": 25,
+              "id": "1640917359493005313",
+              "start": 9,
+              "username": "shizukululu0721"
+            },
+            {
+              "end": 38,
+              "id": "1806849464386416640",
+              "start": 26,
+              "username": "tangeorange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082823507415859513",
+        "in_reply_to_user_id": "1690570637499154432",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082805325057716573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@zhwevea @shizukululu0721 @tangeorange 🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690570637499154432",
+        "conversation_id": "2082805130798444679",
+        "created_at": "2026-07-30T12:27:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082805325057716573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            },
+            {
+              "end": 29,
+              "id": "1640917359493005313",
+              "start": 13,
+              "username": "shizukululu0721"
+            },
+            {
+              "end": 42,
+              "id": "1806849464386416640",
+              "start": 30,
+              "username": "tangeorange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082805325057716573",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082805130798444679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Ak1raQ_love @shizukululu0721 @tangeorange 羡慕嫉妒狠你们了completely"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/non-mtf/无糖/向往自由/欢迎推u面基/#蓝v互关/原创meme/顺直女 @zhwevea/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 34,
+                "tag": "蓝v互关"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 59,
+                "start": 51,
+                "username": "zhwevea"
+              },
+              {
+                "end": 77,
+                "start": 63,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": " 苏州/厦门",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8966,
+          "following_count": 1186,
+          "like_count": 206574,
+          "listed_count": 6,
+          "media_count": 1056,
+          "tweet_count": 8318
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei 👋｜ 还可以叫我 Eliya ～｜精益求精｜想要看遍大千世界 ✈️｜想要成为技术大拿 📲💡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/zhweaa",
+                "end": 23,
+                "expanded_url": "https://github.com/zhweaa",
+                "start": 0,
+                "url": "https://t.co/Lsl0VyAvMl"
+              }
+            ]
+          }
+        },
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "Zhi Wei 🥥🧊",
+        "pinned_tweet_id": "2045171291104403596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061738719095476224/g1B5Ghy6_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7661,
+          "following_count": 438,
+          "like_count": 33577,
+          "listed_count": 25,
+          "media_count": 2701,
+          "tweet_count": 20967
+        },
+        "url": "https://t.co/Lsl0VyAvMl",
+        "username": "zhwevea",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-29T03:22:47.000Z",
+        "description": "ACG、交通迷、玩机｜负面情绪警告❗️｜Student｜ISFJ｜顺直但友跨｜不麦｜喜欢聊天欢迎扩列喵～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Lulushizukuuu",
+                "end": 23,
+                "expanded_url": "https://t.me/Lulushizukuuu",
+                "start": 0,
+                "url": "https://t.co/IxTJNDUbn0"
+              }
+            ]
+          }
+        },
+        "id": "1640917359493005313",
+        "location": "Suzhou",
+        "name": "雨下るる",
+        "pinned_tweet_id": "2082418128307564928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076653649988837376/qIB73UYk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 1355,
+          "like_count": 1271,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 979
+        },
+        "url": "https://t.co/IxTJNDUbn0",
+        "username": "shizukululu0721",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T00:37:43.000Z",
+        "description": "ai, and life.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "orangestd.cn",
+                "end": 23,
+                "expanded_url": "http://orangestd.cn",
+                "start": 0,
+                "url": "https://t.co/NqG6Q8kFY7"
+              }
+            ]
+          }
+        },
+        "id": "1806849464386416640",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "橙子🫪",
+        "pinned_tweet_id": "2080144271894876640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064054650006020096/YsducvYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3361,
+          "following_count": 2894,
+          "like_count": 9272,
+          "listed_count": 5,
+          "media_count": 1459,
+          "tweet_count": 9315
+        },
+        "url": "https://t.co/NqG6Q8kFY7",
+        "username": "tangeorange",
+        "verified": true
+      }
+    ]
+  }
+}

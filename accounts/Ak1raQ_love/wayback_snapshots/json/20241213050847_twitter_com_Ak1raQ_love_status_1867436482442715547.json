@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1867350911225672033",
+    "created_at": "2024-12-13T05:08:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-13T06:08:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867436482442715547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1826070707748712448",
+          "start": 0,
+          "username": "KRKRDKDK2024"
+        },
+        {
+          "end": 20,
+          "id": "1243945571796295681",
+          "start": 14,
+          "username": "yqua_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867436482442715547",
+    "in_reply_to_user_id": "1826070707748712448",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867350911225672033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KRKRDKDK2024 @yqua_"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1867350911225672033].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1867350911225672033",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1867350911225672033"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1867350911225672033",
+        "created_at": "2024-12-13T05:08:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T06:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867436482442715547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1826070707748712448",
+              "start": 0,
+              "username": "KRKRDKDK2024"
+            },
+            {
+              "end": 20,
+              "id": "1243945571796295681",
+              "start": 14,
+              "username": "yqua_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867436482442715547",
+        "in_reply_to_user_id": "1826070707748712448",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867350911225672033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KRKRDKDK2024 @yqua_"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "A sweet soul🥺♥️\nAkiraQ's gender is just itself\n可愛即正義！\nMutual-Followist\n精神狀態時好時壞，所以你能看到不同的我\n喜歡和你們在一起，就不會孤單了呢\n部分日常会发往Bluesky\n!注意，互fo≠同意对方立场!\n分身@mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 141,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "https://mikachan.us.kg/",
+                "start": 0,
+                "url": "https://t.co/yUfVtUE4yg"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵 𝓐𝓴𝓲𝓻𝓪𝓠",
+        "pinned_tweet_id": "1862810670238154974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865724365129805824/2wK-6ZpG_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1242,
+          "following_count": 772,
+          "like_count": 95576,
+          "listed_count": 3,
+          "media_count": 652,
+          "tweet_count": 3409
+        },
+        "url": "https://t.co/yUfVtUE4yg",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T01:36:04.000Z",
+        "description": "#扫货标志 without a master/#猜你喜欢 #黑皮母狗 @mingckwkb @tianxiusi #永远怀念@Mizuki_bot 用来看奶龙色图的号@lovenailong",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "扫货标志"
+              },
+              {
+                "end": 28,
+                "start": 23,
+                "tag": "猜你喜欢"
+              },
+              {
+                "end": 34,
+                "start": 29,
+                "tag": "黑皮母狗"
+              },
+              {
+                "end": 62,
+                "start": 57,
+                "tag": "永远怀念"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "mingckwkb"
+              },
+              {
+                "end": 56,
+                "start": 46,
+                "username": "tianxiusi"
+              },
+              {
+                "end": 73,
+                "start": 62,
+                "username": "Mizuki_bot"
+              },
+              {
+                "end": 95,
+                "start": 83,
+                "username": "lovenailong"
+              }
+            ]
+          }
+        },
+        "id": "1826070707748712448",
+        "name": "🍋‍🟩KRKRDKDK",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851887057607757824/VWt5i9t8_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 467,
+          "like_count": 51994,
+          "listed_count": 1,
+          "media_count": 253,
+          "tweet_count": 3063
+        },
+        "username": "KRKRDKDK2024",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-28T16:58:37.000Z",
+        "description": "断糖MtX🏳️‍⚧️🍥｜Language：CN/EN/JP",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/6W3mmCUM0f"
+              }
+            ]
+          }
+        },
+        "id": "1243945571796295681",
+        "location": "天泰路",
+        "name": "铨🍥",
+        "pinned_tweet_id": "1863553708816261124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811063132472889345/EAJ4Qnlm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14113,
+          "following_count": 4253,
+          "like_count": 161970,
+          "listed_count": 62,
+          "media_count": 3880,
+          "tweet_count": 19035
+        },
+        "url": "https://t.co/6W3mmCUM0f",
+        "username": "yqua_",
+        "verified": true
+      }
+    ]
+  }
+}

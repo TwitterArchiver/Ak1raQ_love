@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1890321956232450048"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "1890321959075873032",
+    "created_at": "2025-02-14T08:47:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T09:47:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1890321959075873032"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/u6mLIhDRvz",
+          "end": 35,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/1890321959075873032/photo/1",
+          "media_key": "3_1890321956232450048",
+          "start": 12,
+          "url": "https://t.co/u6mLIhDRvz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890321959075873032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "zyn也是走向国际化了 https://t.co/u6mLIhDRvz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2376,
+        "media_key": "3_1890321956232450048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjvFzchbUAA1uAR.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890321956232450048"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "1890321959075873032",
+        "created_at": "2025-02-14T08:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T09:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890321959075873032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u6mLIhDRvz",
+              "end": 35,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/1890321959075873032/photo/1",
+              "media_key": "3_1890321956232450048",
+              "start": 12,
+              "url": "https://t.co/u6mLIhDRvz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890321959075873032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "zyn也是走向国际化了 https://t.co/u6mLIhDRvz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/😶‍🌫️Introvert/Highlights➡️Original meme/🌏ZH,EN/🌈Love & Peace/😔Not good at chatting/🔄Interact to gain my follow-back/🤫Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 141,
+                "username": "mkc_Cute"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵😺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1608,
+          "following_count": 978,
+          "like_count": 118286,
+          "listed_count": 4,
+          "media_count": 867,
+          "tweet_count": 4554
+        },
+        "username": "Ak1raQ_love",
+        "verified": true
+      }
+    ]
+  }
+}

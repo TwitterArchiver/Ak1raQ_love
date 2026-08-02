@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2075600204292915458",
+    "created_at": "2026-07-10T15:21:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T16:21:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075601218437792020"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2075601218437792020",
+    "in_reply_to_user_id": "1663066129923981312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075600204292915458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因为我也有类似的经历所以很是感同身受\n小学的时候有一次周末一个朋友来我家玩，我也是下午有补习课，玩的正开心就这样因为有课，我一直赖着说我不想去，我爸把我硬拉去上课"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2075600204292915458",
+        "created_at": "2026-07-10T15:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T16:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075601218437792020"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075601218437792020",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075600204292915458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为我也有类似的经历所以很是感同身受\n小学的时候有一次周末一个朋友来我家玩，我也是下午有补习课，玩的正开心就这样因为有课，我一直赖着说我不想去，我爸把我硬拉去上课"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2075600204292915458",
+        "created_at": "2026-07-10T15:17:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T16:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075600204292915458"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075600204292915458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天下午在地铁上坐对面有一个⏰家长骂他小孩，小孩大概小学一二年级这个样子，说“你怎么这么不听话”“你知不知道等会还有课（现在小学暑假，推测是补习），为什么只顾着和xxx玩，我叫你半天了”，骂的超大声，我到站还在骂，那孩子都要哭了的感觉\n哎，好可怜呐，有想上前去安慰的冲动，祝他早日逃离吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/自认为是一只很可爱的...？/留长发中/无糖/向往自由/秋月姐姐 @qiuylove/阿堇🕯️@Akatsuki_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "qiuylove"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "Akatsuki_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Amoy 廈門",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1347,
+          "following_count": 1029,
+          "like_count": 198492,
+          "listed_count": 3,
+          "media_count": 927,
+          "tweet_count": 7679
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": false
+      }
+    ]
+  }
+}

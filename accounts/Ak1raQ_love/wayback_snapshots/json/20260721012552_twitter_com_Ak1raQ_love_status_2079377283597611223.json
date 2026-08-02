@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2079051249551622162",
+    "created_at": "2026-07-21T01:25:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T02:25:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079377283597611223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1647075197277847552",
+          "start": 0,
+          "username": "1942ILSX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079377283597611223",
+    "in_reply_to_user_id": "1647075197277847552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079211525705978242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1942ILSX 可以根据局域网IP决定哪些设备是否要走代理的...\n亚洲线路能直连的太贵了，便宜的都绕路，绕路还不如美国IP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2079051249551622162",
+        "created_at": "2026-07-21T01:25:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T02:25:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079377283597611223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1647075197277847552",
+              "start": 0,
+              "username": "1942ILSX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079377283597611223",
+        "in_reply_to_user_id": "1647075197277847552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079211525705978242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1942ILSX 可以根据局域网IP决定哪些设备是否要走代理的...\n亚洲线路能直连的太贵了，便宜的都绕路，绕路还不如美国IP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647075197277847552",
+        "conversation_id": "2079051249551622162",
+        "created_at": "2026-07-20T14:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T15:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079211525705978242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079211525705978242",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 794,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079051249551622162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak1raQ_love 透明代理……只能说对homelab太不友好了……如果家里有服务器在运行基本上可以告别的项目。\n但是如果没有的话，那确实可以爽用了。\n不过还是问一句，为什么不选亚洲作为网络出口呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/不在社交圈内者请不要关注，可能会被清除/留长发中/无糖/向往自由/原创&二创meme/秋月姐姐 @qiuylove/阿堇🕯️@Akatsuki_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "qiuylove"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "Akatsuki_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "廈門 Amoy",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1429,
+          "following_count": 1071,
+          "like_count": 202249,
+          "listed_count": 2,
+          "media_count": 992,
+          "tweet_count": 8002
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-15T03:11:53.000Z",
+        "description": "Somewhere over the world. | HTTP 200 OK | ssh rosmontis@terminal -i ~/.ssh/1942ILSX_id_ed25519 | 🇨🇳🇺🇸 | sudo echo meow~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "re45.cn",
+                "end": 23,
+                "expanded_url": "http://re45.cn",
+                "start": 0,
+                "url": "https://t.co/TEjA8cGbSW"
+              }
+            ]
+          }
+        },
+        "id": "1647075197277847552",
+        "location": "Cupertino, CA",
+        "name": "1942ILSX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072317366407475200/x0K5OkXw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 63,
+          "like_count": 911,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 131
+        },
+        "url": "https://t.co/TEjA8cGbSW",
+        "username": "1942ILSX",
+        "verified": false
+      }
+    ]
+  }
+}

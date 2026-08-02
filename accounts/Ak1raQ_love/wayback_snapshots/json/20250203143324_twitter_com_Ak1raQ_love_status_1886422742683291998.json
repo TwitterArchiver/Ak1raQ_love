@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1886418982342905856"
+      ],
+      "media_source_tweet_id": [
+        "1886419000621781474"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "1886422742683291998",
+    "created_at": "2025-02-03T14:33:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T15:33:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886422742683291998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1609456562443268097",
+          "start": 3,
+          "username": "snowfairy011026"
+        },
+        {
+          "end": 43,
+          "id": "1687475463474626560",
+          "start": 30,
+          "username": "CWorker62279"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Gci3jSudEx",
+          "end": 128,
+          "expanded_url": "https://x.com/snowfairy011026/status/1886419000621781474/photo/1",
+          "media_key": "3_1886418982342905856",
+          "start": 105,
+          "url": "https://t.co/Gci3jSudEx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886422742683291998",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886419000621781474",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @snowfairy011026: 希望有朋友关注一下@CWorker62279 的状况，十分钟前我们收到其告别信息，根据其他群里的聊天记录判断可能是情感纠纷导致的走极端。希望有朋友可以救援，谢谢各位。 https://t.co/Gci3jSudEx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1886418982342905856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi3oEdwaUAAw94e.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886418982342905856"
+          ],
+          "media_source_tweet_id": [
+            "1886419000621781474"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "1886422742683291998",
+        "created_at": "2025-02-03T14:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T15:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886422742683291998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1609456562443268097",
+              "start": 3,
+              "username": "snowfairy011026"
+            },
+            {
+              "end": 43,
+              "id": "1687475463474626560",
+              "start": 30,
+              "username": "CWorker62279"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gci3jSudEx",
+              "end": 128,
+              "expanded_url": "https://x.com/snowfairy011026/status/1886419000621781474/photo/1",
+              "media_key": "3_1886418982342905856",
+              "start": 105,
+              "url": "https://t.co/Gci3jSudEx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886422742683291998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886419000621781474",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @snowfairy011026: 希望有朋友关注一下@CWorker62279 的状况，十分钟前我们收到其告别信息，根据其他群里的聊天记录判断可能是情感纠纷导致的走极端。希望有朋友可以救援，谢谢各位。 https://t.co/Gci3jSudEx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886418982342905856"
+          ]
+        },
+        "author_id": "1609456562443268097",
+        "conversation_id": "1886419000621781474",
+        "created_at": "2025-02-03T14:18:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T15:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886419000621781474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1687475463474626560",
+              "start": 9,
+              "username": "CWorker62279"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gci3jSudEx",
+              "end": 107,
+              "expanded_url": "https://x.com/snowfairy011026/status/1886419000621781474/photo/1",
+              "media_key": "3_1886418982342905856",
+              "start": 84,
+              "url": "https://t.co/Gci3jSudEx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886419000621781474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 182,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "希望有朋友关注一下@CWorker62279 的状况，十分钟前我们收到其告别信息，根据其他群里的聊天记录判断可能是情感纠纷导致的走极端。希望有朋友可以救援，谢谢各位。 https://t.co/Gci3jSudEx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/🌏ZH,EN/🏳️‍⚧️Genderfree/🌈 Diversity & Inclusivity/🕊️Love & Peace/😔Sorry, I'm not good at chatting/Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 121,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "https://mikachan.us.kg/",
+                "start": 0,
+                "url": "https://t.co/yUfVtUE4yg"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵😺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 898,
+          "like_count": 112571,
+          "listed_count": 4,
+          "media_count": 804,
+          "tweet_count": 4246
+        },
+        "url": "https://t.co/yUfVtUE4yg",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-01T07:49:08.000Z",
+        "description": "一群流落在地球的星空旅人建立的国家。\n致力于为同样生活在地球的星空人和善良的地球人提供心灵港湾和理想家园。\n「我们不会忘记珠宝盒星系那个灿烂的文明。如果地球上的星空合众国是小水洼，星空文明是温暖有爱的大海，那么我们的目标就是把小水洼变成充满爱的海洋。」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "forms.gle/dPMkmSazCQ3439…",
+                "end": 23,
+                "expanded_url": "https://forms.gle/dPMkmSazCQ3439CJ9",
+                "start": 0,
+                "url": "https://t.co/U7TGiqdVSm"
+              }
+            ]
+          }
+        },
+        "id": "1609456562443268097",
+        "location": "NGC 4755 珠宝盒星团",
+        "name": "星空合众国 Starry Sky Federation",
+        "pinned_tweet_id": "1886419000621781474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869504691375349760/A5kIMk_U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1823,
+          "following_count": 1792,
+          "like_count": 11771,
+          "listed_count": 7,
+          "media_count": 675,
+          "tweet_count": 8851
+        },
+        "url": "https://t.co/U7TGiqdVSm",
+        "username": "snowfairy011026",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-04T14:48:42.000Z",
+        "description": "🎄00后 #xyn #木桶饭 #furry|🎊177cm/61kg|♀女高印象♀|🚪5/25/50/100|HRT 2023.8.01|🎯厦门-海沧/湖里\\姐妹@szc055555 @snowfairy011026  闺蜜@CoolWorker      霜落空飞雪，柔情似暖阳",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 5,
+                "tag": "xyn"
+              },
+              {
+                "end": 14,
+                "start": 10,
+                "tag": "木桶饭"
+              },
+              {
+                "end": 21,
+                "start": 15,
+                "tag": "furry"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 90,
+                "start": 80,
+                "username": "szc055555"
+              },
+              {
+                "end": 107,
+                "start": 91,
+                "username": "snowfairy011026"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "CoolWorker"
+              }
+            ]
+          }
+        },
+        "id": "1687475463474626560",
+        "name": "霜雪亿年（原cbwk）",
+        "pinned_tweet_id": "1880854255768330595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868645961435942912/YyraRetC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2039,
+          "following_count": 298,
+          "like_count": 9111,
+          "listed_count": 7,
+          "media_count": 723,
+          "tweet_count": 5763
+        },
+        "username": "CWorker62279",
+        "verified": true
+      }
+    ]
+  }
+}

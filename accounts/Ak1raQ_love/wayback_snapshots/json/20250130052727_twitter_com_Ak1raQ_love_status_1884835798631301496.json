@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1884835788447535104"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "1884768954348147141",
+    "created_at": "2025-01-30T05:27:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T06:27:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884835798631301496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1751235517860196352",
+          "start": 0,
+          "username": "Cynun75"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yldecl5CIS",
+          "end": 44,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/1884835798631301496/photo/1",
+          "media_key": "3_1884835788447535104",
+          "start": 21,
+          "url": "https://t.co/yldecl5CIS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884835798631301496",
+    "in_reply_to_user_id": "1751235517860196352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884768954348147141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cynun75 Bluesky欢迎你！ https://t.co/yldecl5CIS"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1884768954348147141].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1884768954348147141",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1884768954348147141"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1884835788447535104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GihIKc5b0AAbFI5.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884835788447535104"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "1884768954348147141",
+        "created_at": "2025-01-30T05:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T06:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884835798631301496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1751235517860196352",
+              "start": 0,
+              "username": "Cynun75"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yldecl5CIS",
+              "end": 44,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/1884835798631301496/photo/1",
+              "media_key": "3_1884835788447535104",
+              "start": 21,
+              "url": "https://t.co/yldecl5CIS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884835798631301496",
+        "in_reply_to_user_id": "1751235517860196352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884768954348147141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cynun75 Bluesky欢迎你！ https://t.co/yldecl5CIS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/🌏ZH,EN/🏳️‍⚧️Transgnder Liberation/🌈 Diversity & Inclusivity/🕊️Love & Peace/😔Sorry, I'm not good at chatting/Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 132,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "https://mikachan.us.kg/",
+                "start": 0,
+                "url": "https://t.co/yUfVtUE4yg"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵 #ʟᴜɴᴀʀɴᴇᴡʏᴇᴀʀ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1435,
+          "following_count": 879,
+          "like_count": 109954,
+          "listed_count": 3,
+          "media_count": 766,
+          "tweet_count": 4079
+        },
+        "url": "https://t.co/yUfVtUE4yg",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T13:27:55.000Z",
+        "description": "Cynun | 碎碎念 | 计算机用户",
+        "id": "1751235517860196352",
+        "location": "@ringochichidim身旁",
+        "name": "Cynun",
+        "pinned_tweet_id": "1867020588075921669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762544794117742592/ibUegizA_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 650,
+          "like_count": 15183,
+          "listed_count": 3,
+          "media_count": 337,
+          "tweet_count": 3388
+        },
+        "username": "Cynun75",
+        "verified": false
+      }
+    ]
+  }
+}

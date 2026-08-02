@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1889327387458072847",
+    "created_at": "2025-02-12T07:05:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T08:05:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889571390660993382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1725486340542775296",
+          "start": 0,
+          "username": "myaukarova"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889571390660993382",
+    "in_reply_to_user_id": "1725486340542775296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889528835441574369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@myaukarova 是想完全拒绝性别叙事哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1889327387458072847",
+        "created_at": "2025-02-12T07:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T08:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889571390660993382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1725486340542775296",
+              "start": 0,
+              "username": "myaukarova"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889571390660993382",
+        "in_reply_to_user_id": "1725486340542775296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889528835441574369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@myaukarova 是想完全拒绝性别叙事哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1725486340542775296",
+        "conversation_id": "1889327387458072847",
+        "created_at": "2025-02-12T04:15:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T05:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889528835441574369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889528835441574369",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889327387458072847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak1raQ_love 要变非二元了吗（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/😶‍🌫️Online-only introvert/🌏ZH,EN/🌈Inclusivity/🕊️Love & Peace/😔Not good at chatting/🔄Interact to gain my follow-back/🤫Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 141,
+                "username": "mkc_Cute"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵😺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1586,
+          "following_count": 960,
+          "like_count": 116611,
+          "listed_count": 4,
+          "media_count": 852,
+          "tweet_count": 4492
+        },
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-17T12:09:48.000Z",
+        "description": "MTF，HRT20220915，并非ABDL，喜欢可爱的东西(´∀｀)♡",
+        "id": "1725486340542775296",
+        "location": "Anhui China",
+        "name": "Myaukarova🏳‍⚧🍔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819361384783597568/775Jceao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 119,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 701
+        },
+        "username": "myaukarova",
+        "verified": false
+      }
+    ]
+  }
+}

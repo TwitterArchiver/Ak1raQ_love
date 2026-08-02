@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1867578476959556087",
+    "created_at": "2024-12-13T14:33:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-13T15:33:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867578700436582883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1843461544740564995",
+          "start": 0,
+          "username": "Apache2_91329"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867578700436582883",
+    "in_reply_to_user_id": "1843461544740564995",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867578476959556087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Apache2_91329 馋了🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1867578476959556087",
+        "created_at": "2024-12-13T14:33:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T15:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867578700436582883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1843461544740564995",
+              "start": 0,
+              "username": "Apache2_91329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867578700436582883",
+        "in_reply_to_user_id": "1843461544740564995",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867578476959556087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Apache2_91329 馋了🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867578459587063811"
+          ]
+        },
+        "author_id": "1843461544740564995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1867578476959556087",
+        "created_at": "2024-12-13T14:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T15:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867578476959556087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/348SMI2BZ5",
+              "end": 29,
+              "expanded_url": "https://x.com/Apache2_91329/status/1867578476959556087/photo/1",
+              "media_key": "3_1867578459587063811",
+              "start": 6,
+              "url": "https://t.co/348SMI2BZ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867578476959556087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看着还行🤤 https://t.co/348SMI2BZ5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "A sweet soul🥺♥️\nAkiraQ's gender is just itself\n可愛即正義！\nMutual-Followist\n精神狀態時好時壞，所以你能看到不同的我\n喜歡和你們在一起，就不會孤單了呢\n部分日常会发往Bluesky\n!注意，互fo≠同意对方立场!\n分身@mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 141,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "https://mikachan.us.kg/",
+                "start": 0,
+                "url": "https://t.co/yUfVtUE4yg"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵 𝓐𝓴𝓲𝓻𝓪𝓠",
+        "pinned_tweet_id": "1862810670238154974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865724365129805824/2wK-6ZpG_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1243,
+          "following_count": 774,
+          "like_count": 95872,
+          "listed_count": 3,
+          "media_count": 652,
+          "tweet_count": 3415
+        },
+        "url": "https://t.co/yUfVtUE4yg",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T01:21:18.000Z",
+        "description": "你好啊 ~ 这里是一只超爱Apache2的猫猫 ~ |\nINFP一只，喜欢网络安全以及各种硬件知识 ~|Debian什么的最喜欢了❤️@debian|Primary Account @ChaserCHN0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 67,
+                "username": "debian"
+              },
+              {
+                "end": 105,
+                "start": 91,
+                "username": "ChaserCHN0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fengniaoyun.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://fengniaoyun.site/#/register?code=frs1jakp",
+                "start": 0,
+                "url": "https://t.co/iIK6AO3sQl"
+              }
+            ]
+          }
+        },
+        "id": "1843461544740564995",
+        "location": "https://ngl.link/chaserchn0721",
+        "name": "Apache2🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849037579662032897/rG0taPWl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855,
+          "following_count": 530,
+          "like_count": 2511,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 754
+        },
+        "url": "https://t.co/iIK6AO3sQl",
+        "username": "Apache2_91329",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075535438790742016"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2075535446151766026",
+    "created_at": "2026-07-10T10:59:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T11:59:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075535446151766026"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/W8d1Xlldip",
+          "end": 28,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2075535446151766026/photo/1",
+          "media_key": "3_2075535438790742016",
+          "start": 5,
+          "url": "https://t.co/W8d1Xlldip"
+        },
+        {
+          "display_url": "x.com/Ak1raQ_love/st…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/Ak1raQ_love/status/2070757967843180775",
+          "start": 29,
+          "url": "https://t.co/KGC9EWHOXl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075535446151766026",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070757967843180775",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有后续 https://t.co/W8d1Xlldip https://t.co/KGC9EWHOXl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075535438790742016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3IfCPbUAAvQVX.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070757963216965633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzPZW1b0AEAH1A.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075535438790742016"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2075535446151766026",
+        "created_at": "2026-07-10T10:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T11:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075535446151766026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W8d1Xlldip",
+              "end": 28,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2075535446151766026/photo/1",
+              "media_key": "3_2075535438790742016",
+              "start": 5,
+              "url": "https://t.co/W8d1Xlldip"
+            },
+            {
+              "display_url": "x.com/Ak1raQ_love/st…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/Ak1raQ_love/status/2070757967843180775",
+              "start": 29,
+              "url": "https://t.co/KGC9EWHOXl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075535446151766026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070757967843180775",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有后续 https://t.co/W8d1Xlldip https://t.co/KGC9EWHOXl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070757963216965633"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2070757967843180775",
+        "created_at": "2026-06-27T06:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T07:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070757967843180775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Ktg7Bwk9k",
+              "end": 39,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2070757967843180775/photo/1",
+              "media_key": "3_2070757963216965633",
+              "start": 16,
+              "url": "https://t.co/7Ktg7Bwk9k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070757967843180775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 179,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "英国的事怎么通知到我这里来了💦 https://t.co/7Ktg7Bwk9k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/自认为是一只很可爱的...？/留长发中/无糖/向往自由/秋月姐姐 @qiuylove/阿堇🕯️@Akatsuki_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "qiuylove"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "Akatsuki_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Amoy 廈門",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1346,
+          "following_count": 1029,
+          "like_count": 198427,
+          "listed_count": 3,
+          "media_count": 927,
+          "tweet_count": 7673
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": false
+      }
+    ]
+  }
+}

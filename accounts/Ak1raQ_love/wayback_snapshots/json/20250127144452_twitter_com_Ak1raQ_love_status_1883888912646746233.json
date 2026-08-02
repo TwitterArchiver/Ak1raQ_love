@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1883112105475481861",
+    "created_at": "2025-01-27T14:44:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T15:44:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883888912646746233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1770023696654286848",
+          "start": 0,
+          "username": "remXixi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883888912646746233",
+    "in_reply_to_user_id": "1770023696654286848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883112105475481861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@remXixi 只是拿来搭梯子的话这个价格贵了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1883112105475481861",
+        "created_at": "2025-01-27T14:44:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T15:44:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883888912646746233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1770023696654286848",
+              "start": 0,
+              "username": "remXixi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883888912646746233",
+        "in_reply_to_user_id": "1770023696654286848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883112105475481861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@remXixi 只是拿来搭梯子的话这个价格贵了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883112101813817345"
+          ]
+        },
+        "author_id": "1770023696654286848",
+        "conversation_id": "1883112105475481861",
+        "created_at": "2025-01-25T11:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T12:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883112105475481861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zAjxqkFys8",
+              "end": 42,
+              "expanded_url": "https://x.com/remXixi/status/1883112105475481861/photo/1",
+              "media_key": "3_1883112101813817345",
+              "start": 19,
+              "url": "https://t.co/zAjxqkFys8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883112105475481861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇，200M带宽，直接拿来搭体字 😃 https://t.co/zAjxqkFys8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/🏳️‍⚧️Non-Cisgender/🌈 Diversity & Inclusivity/🕊️Peace & Love/😔Sorry, I'm not good at chatting/Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 117,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "https://mikachan.us.kg/",
+                "start": 0,
+                "url": "https://t.co/yUfVtUE4yg"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄𝕄𝕖𝕠𝕨 #LunarNewYear🧧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1400,
+          "following_count": 857,
+          "like_count": 108143,
+          "listed_count": 3,
+          "media_count": 752,
+          "tweet_count": 3966
+        },
+        "url": "https://t.co/yUfVtUE4yg",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-19T09:45:17.000Z",
+        "description": "愿每个人自由的生活在阳光下🎀\n\n社恐😢 / 无证含糖🍥 /同类互fo ❤️ / MTF or MTX🏳️‍🌈 /想逃离现实 / 魔方速拧爱好者 / 技术栈vue+spring☕/很差劲 / Minecraft | Projectj Sekai🎵/ 另一个我@suta520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 128,
+                "username": "suta520"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blok.putileaf.top",
+                "end": 23,
+                "expanded_url": "http://blok.putileaf.top",
+                "start": 0,
+                "url": "https://t.co/2ZbP2HYbX2"
+              }
+            ]
+          }
+        },
+        "id": "1770023696654286848",
+        "name": "R苏塔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847478222868664321/p38Zc6Dq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 393,
+          "like_count": 3156,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 267
+        },
+        "url": "https://t.co/2ZbP2HYbX2",
+        "username": "remXixi",
+        "verified": false
+      }
+    ]
+  }
+}

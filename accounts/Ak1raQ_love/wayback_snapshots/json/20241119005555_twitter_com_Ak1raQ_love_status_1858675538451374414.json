@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1858541691671920773",
+    "created_at": "2024-11-19T00:55:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-19T01:55:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858675538451374414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "870666640752467968",
+          "start": 0,
+          "username": "belostedme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858675538451374414",
+    "in_reply_to_user_id": "870666640752467968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858541691671920773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@belostedme 为了我以后不成秃头格子衫大叔我要当xyn(逃)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1858541691671920773",
+        "created_at": "2024-11-19T00:55:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T01:55:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858675538451374414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "870666640752467968",
+              "start": 0,
+              "username": "belostedme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858675538451374414",
+        "in_reply_to_user_id": "870666640752467968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858541691671920773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@belostedme 为了我以后不成秃头格子衫大叔我要当xyn(逃)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "870666640752467968",
+        "conversation_id": "1858541691671920773",
+        "created_at": "2024-11-18T16:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T17:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858541691671920773"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1858541691671920773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 351,
+          "like_count": 19,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "十年前我对程序员的刻板印象是秃头格子衫大叔\n十年后我对程序员的刻板印象是可爱粉蓝白女孩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "A sweet soul\n阿棄的性別就是阿棄\n可爱即是正义\n社交软件重度依赖😣\n随缘回fo\n精神状态时好时坏，所以你能看到两个不同的我\n喜欢和推友们在一起，有你们在就不会孤独\n视奸你们的东西https://t.co/pMLFhL8CF1\n分身@mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 121,
+                "username": "mkc_Cute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg/fdap",
+                "end": 118,
+                "expanded_url": "https://mikachan.us.kg/fdap",
+                "start": 95,
+                "url": "https://t.co/pMLFhL8CF1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "http://mikachan.us.kg",
+                "start": 0,
+                "url": "https://t.co/lSEgpdslQn"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "是阿棄喵🥺♥️",
+        "pinned_tweet_id": "1850545437570470071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852745129033093120/bPab9bQm_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1171,
+          "following_count": 711,
+          "like_count": 89426,
+          "listed_count": 2,
+          "tweet_count": 3219
+        },
+        "url": "https://t.co/lSEgpdslQn",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-02T15:41:18.000Z",
+        "description": "ENFP-T | 09 | 想交朋友 | 可爱的男孩纸 | 中(native) Eng(maybe fluent) 日(translator) | 关注即可互fo | 是(伪)技术宅 | 友跨 | 疑似 ADHD (未确诊) | 暂时还没想好写什么…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/belostedme",
+                "end": 23,
+                "expanded_url": "https://t.me/belostedme",
+                "start": 0,
+                "url": "https://t.co/QtxvUZrJd5"
+              }
+            ]
+          }
+        },
+        "id": "870666640752467968",
+        "location": "あまねく奇跡の始発点",
+        "name": "罗斯特",
+        "pinned_tweet_id": "1839996964592857435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806317193900249089/wQlLShaE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 2197,
+          "like_count": 8711,
+          "listed_count": 0,
+          "tweet_count": 4425
+        },
+        "url": "https://t.co/QtxvUZrJd5",
+        "username": "belostedme",
+        "verified": false
+      }
+    ]
+  }
+}

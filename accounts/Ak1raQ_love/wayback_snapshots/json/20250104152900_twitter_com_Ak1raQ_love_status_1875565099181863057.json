@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1875540664143978938",
+    "created_at": "2025-01-04T15:29:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-04T16:29:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875565099181863057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1875215593688977408",
+          "start": 4,
+          "username": "tbh2317X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875565099181863057",
+    "in_reply_to_user_id": "1663066129923981312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875540664143978938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "新帐号：@tbh2317X"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1875540664143978938",
+        "created_at": "2025-01-04T15:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T16:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875565099181863057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1875215593688977408",
+              "start": 4,
+              "username": "tbh2317X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875565099181863057",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875540664143978938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "新帐号：@tbh2317X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875540660981567488"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "1875540664143978938",
+        "created_at": "2025-01-04T13:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T14:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875540664143978938"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "推友情況通報"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 38,
+              "id": "1725134739907211264",
+              "start": 30,
+              "username": "tbh2317"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6MiN7cCy24",
+              "end": 87,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/1875540664143978938/photo/1",
+              "media_key": "3_1875540660981567488",
+              "start": 64,
+              "url": "https://t.co/6MiN7cCy24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875540664143978938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 473,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#推友情況通報\n乇乇 momo （糖商）🍥 🏳️‍⚧️⚧️（@tbh2317）账号被冻结/Account suspended. https://t.co/6MiN7cCy24"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "A sweet soul🥺♥️/🏳️‍⚧️Non-Cis/🌏G11N/Learning English/Cuter is better!/Mood swings, but you all make me less lonely!/⚠️Following≠Agreeing⚠️/Private:@mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 146,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtfxyn.news",
+                "end": 23,
+                "expanded_url": "https://mtfxyn.news",
+                "start": 0,
+                "url": "https://t.co/UzwPXzKsQ2"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "🐱阿棄𝕄𝕖𝕠𝕨",
+        "pinned_tweet_id": "1874813579230367962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1370,
+          "following_count": 826,
+          "like_count": 103347,
+          "listed_count": 3,
+          "media_count": 713,
+          "tweet_count": 3730
+        },
+        "url": "https://t.co/UzwPXzKsQ2",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-03T16:20:26.000Z",
+        "description": "这里是@tbh2317的逃生仓，这里可以继续接单，我们的telegram账号是tbh2317x，点击右上角小信封私信购买,价格单在下面",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "tbh2317"
+              }
+            ]
+          }
+        },
+        "id": "1875215593688977408",
+        "location": "曼谷",
+        "name": "乇乇momo （糖商）🍥🏳️‍⚧️ ⚧️",
+        "pinned_tweet_id": "1875242120132620577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875240102999588864/cyvcGyu0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 383,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 3
+        },
+        "username": "tbh2317X",
+        "verified": false
+      }
+    ]
+  }
+}

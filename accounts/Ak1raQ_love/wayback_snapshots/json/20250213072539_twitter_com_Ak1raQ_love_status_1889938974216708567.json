@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1889938970995466242"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "1889935567053529512",
+    "created_at": "2025-02-13T07:25:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-13T08:25:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889938974216708567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1764991223792906240",
+          "start": 0,
+          "username": "ZW3333T"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eyjEDoL6OT",
+          "end": 44,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/1889938974216708567/photo/1",
+          "media_key": "3_1889938970995466242",
+          "start": 21,
+          "url": "https://t.co/eyjEDoL6OT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889938974216708567",
+    "in_reply_to_user_id": "1764991223792906240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889935567053529512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZW3333T 为什么我还是国际版的😭 https://t.co/eyjEDoL6OT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 282,
+        "media_key": "3_1889938970995466242",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjppexVaIAILCNj.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889938970995466242"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "1889935567053529512",
+        "created_at": "2025-02-13T07:25:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T08:25:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889938974216708567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1764991223792906240",
+              "start": 0,
+              "username": "ZW3333T"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eyjEDoL6OT",
+              "end": 44,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/1889938974216708567/photo/1",
+              "media_key": "3_1889938970995466242",
+              "start": 21,
+              "url": "https://t.co/eyjEDoL6OT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889938974216708567",
+        "in_reply_to_user_id": "1764991223792906240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889935567053529512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZW3333T 为什么我还是国际版的😭 https://t.co/eyjEDoL6OT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889935564679553028"
+          ]
+        },
+        "author_id": "1764991223792906240",
+        "conversation_id": "1889935567053529512",
+        "created_at": "2025-02-13T07:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T08:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889935567053529512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SyC7Jjmapp",
+              "end": 29,
+              "expanded_url": "https://x.com/ZW3333T/status/1889935567053529512/photo/1",
+              "media_key": "3_1889935564679553028",
+              "start": 6,
+              "url": "https://t.co/SyC7Jjmapp"
+            },
+            {
+              "display_url": "x.com/ZW3333T/status…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/ZW3333T/status/1889928986651984269",
+              "start": 30,
+              "url": "https://t.co/PMQY0Asv9u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889935567053529512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889928986651984269",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我造密码😭 https://t.co/SyC7Jjmapp https://t.co/PMQY0Asv9u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/😶‍🌫️Online-only introvert/🌏ZH,EN/🌈Inclusivity/🕊️Love & Peace/😔Not good at chatting/🔄Interact to gain my follow-back/🤫Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 141,
+                "username": "mkc_Cute"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵😺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1593,
+          "following_count": 967,
+          "like_count": 117327,
+          "listed_count": 4,
+          "media_count": 858,
+          "tweet_count": 4519
+        },
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-05T12:28:14.000Z",
+        "description": "我说话笨笨的，打字也慢慢的",
+        "id": "1764991223792906240",
+        "location": "VA-11 HALL-A ",
+        "name": "wet.zZz😿📝",
+        "pinned_tweet_id": "1837145243860488666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864299916555853824/kzmMGJ_P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1503,
+          "following_count": 2325,
+          "like_count": 181582,
+          "listed_count": 14,
+          "media_count": 761,
+          "tweet_count": 19002
+        },
+        "username": "ZW3333T",
+        "verified": false
+      }
+    ]
+  }
+}

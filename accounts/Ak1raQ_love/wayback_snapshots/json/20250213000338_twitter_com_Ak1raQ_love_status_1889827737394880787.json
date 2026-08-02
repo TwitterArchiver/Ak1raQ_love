@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1889713618674979050",
+    "created_at": "2025-02-13T00:03:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-13T01:03:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889827737394880787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1826450491204890624",
+          "start": 0,
+          "username": "hx68667428"
+        },
+        {
+          "end": 20,
+          "id": "1433678976564662273",
+          "start": 12,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889827737394880787",
+    "in_reply_to_user_id": "1826450491204890624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889719814169506118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hx68667428 @hsn8086 那个第9集实际上就是第6集只不过放倒了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1889713618674979050",
+        "created_at": "2025-02-13T00:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T01:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889827737394880787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1826450491204890624",
+              "start": 0,
+              "username": "hx68667428"
+            },
+            {
+              "end": 20,
+              "id": "1433678976564662273",
+              "start": 12,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889827737394880787",
+        "in_reply_to_user_id": "1826450491204890624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889719814169506118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hx68667428 @hsn8086 那个第9集实际上就是第6集只不过放倒了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826450491204890624",
+        "conversation_id": "1889713618674979050",
+        "created_at": "2025-02-12T16:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T17:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889719814169506118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889719814169506118",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 174,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889713618674979050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 哎，没看懂诶😖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/😶‍🌫️Online-only introvert/🌏ZH,EN/🌈Inclusivity/🕊️Love & Peace/😔Not good at chatting/🔄Interact to gain my follow-back/🤫Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 141,
+                "username": "mkc_Cute"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵😺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1592,
+          "following_count": 965,
+          "like_count": 116946,
+          "listed_count": 4,
+          "media_count": 854,
+          "tweet_count": 4506
+        },
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-22T02:45:27.000Z",
+        "description": "深度沉迷网络的在校05大学生是男的😓(牛马护士)，喜欢奇奇怪怪的事物Σ(ﾟ∀ﾟﾉ)ﾉ，对男孩子或许更加关注  汉语ok日语ok英语X😓",
+        "id": "1826450491204890624",
+        "location": "郑州",
+        "name": "hx溜吧溜",
+        "pinned_tweet_id": "1875225629177868583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866343897968021504/Cq-RDwu5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 2691,
+          "like_count": 382,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 270
+        },
+        "username": "hx68667428",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 避难所: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1846240135534596297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36956,
+          "following_count": 906,
+          "like_count": 36501,
+          "listed_count": 98,
+          "media_count": 6211,
+          "tweet_count": 11330
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

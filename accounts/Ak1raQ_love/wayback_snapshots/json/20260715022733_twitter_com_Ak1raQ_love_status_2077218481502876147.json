@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077191876172709888"
+      ],
+      "media_source_tweet_id": [
+        "2077191883215053301"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2077218481502876147",
+    "created_at": "2026-07-15T02:27:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T03:27:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077218481502876147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1663066129923981312",
+          "start": 3,
+          "username": "Ak1raQ_love"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9XSCFQ6I2E",
+          "end": 45,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2077191883215053301/photo/1",
+          "media_key": "3_2077191876172709888",
+          "start": 22,
+          "url": "https://t.co/9XSCFQ6I2E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077218481502876147",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077191883215053301",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ak1raQ_love: 紧跟时事 https://t.co/9XSCFQ6I2E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2077191876172709888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNOrAYWaAAAUrXo.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077191876172709888"
+          ],
+          "media_source_tweet_id": [
+            "2077191883215053301"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2077218481502876147",
+        "created_at": "2026-07-15T02:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T03:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077218481502876147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1663066129923981312",
+              "start": 3,
+              "username": "Ak1raQ_love"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9XSCFQ6I2E",
+              "end": 45,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2077191883215053301/photo/1",
+              "media_key": "3_2077191876172709888",
+              "start": 22,
+              "url": "https://t.co/9XSCFQ6I2E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077218481502876147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077191883215053301",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ak1raQ_love: 紧跟时事 https://t.co/9XSCFQ6I2E"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077191876172709888"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2077191883215053301",
+        "created_at": "2026-07-15T00:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T01:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077191883215053301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9XSCFQ6I2E",
+              "end": 28,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2077191883215053301/photo/1",
+              "media_key": "3_2077191876172709888",
+              "start": 5,
+              "url": "https://t.co/9XSCFQ6I2E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077191883215053301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 321,
+          "like_count": 13,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "紧跟时事 https://t.co/9XSCFQ6I2E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/留长发中/无糖/向往自由/原创&二创meme/秋月姐姐 @qiuylove/阿堇🕯️@Akatsuki_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "qiuylove"
+              },
+              {
+                "end": 60,
+                "start": 47,
+                "username": "Akatsuki_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "廈門 Amoy",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1386,
+          "following_count": 1050,
+          "like_count": 200042,
+          "listed_count": 3,
+          "media_count": 955,
+          "tweet_count": 7811
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": true
+      }
+    ]
+  }
+}

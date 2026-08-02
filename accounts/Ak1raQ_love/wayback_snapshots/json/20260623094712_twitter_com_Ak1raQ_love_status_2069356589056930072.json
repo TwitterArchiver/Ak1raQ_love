@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2069288584579027025",
+    "created_at": "2026-06-23T09:47:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T10:47:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069356589056930072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1889235307348037632",
+          "start": 0,
+          "username": "Phoeversum"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069356589056930072",
+    "in_reply_to_user_id": "1663066129923981312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069355828528959571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Phoeversum 如果自建节点用xray-core的话，弄一个warp出站然后路由规则 geosite:twitter -&gt; warp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2069288584579027025",
+        "created_at": "2026-06-23T09:47:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T10:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069356589056930072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1889235307348037632",
+              "start": 0,
+              "username": "Phoeversum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069356589056930072",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069355828528959571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Phoeversum 如果自建节点用xray-core的话，弄一个warp出站然后路由规则 geosite:twitter -&gt; warp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2069288584579027025",
+        "created_at": "2026-06-23T09:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T10:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069355828528959571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1889235307348037632",
+              "start": 0,
+              "username": "Phoeversum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069355828528959571",
+        "in_reply_to_user_id": "1889235307348037632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069288584579027025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Phoeversum IP问题吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Utopia, Texas, United States",
+              "geo": {
+                "coordinates": [
+                  -99.52699,
+                  29.61523
+                ],
+                "type": "Point"
+              },
+              "locality": "Utopia",
+              "region": "Texas",
+              "sub_region": "Uvalde County"
+            }
+          ]
+        },
+        "description": "永不言弃💫 / 爱、温情、勇气、美好 / 没有吃糖 / 秋月姐姐 @qiuylove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "qiuylove"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://mikachan.dpdns.org/",
+                "start": 0,
+                "url": "https://t.co/3Yo0IgyCS7"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Utopia",
+        "name": "💫🌸𝗔𝗸𝗶𝗿𝗮𝗺𝗲𝗻𝗮𝗶🍥🍰",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050925033426669568/m2nDg9MR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1312,
+          "following_count": 999,
+          "like_count": 191894,
+          "listed_count": 3,
+          "media_count": 849,
+          "tweet_count": 7213
+        },
+        "url": "https://t.co/3Yo0IgyCS7",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T08:49:48.000Z",
+        "description": "Trying to love myself. The last part of Zhixiang Huang.",
+        "id": "1889235307348037632",
+        "location": "Los Angeles, CA",
+        "name": "zhixiang_2nd",
+        "pinned_tweet_id": "2068325740626796720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919304074232725504/AKgbkaZN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 161,
+          "like_count": 2175,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 323
+        },
+        "url": "",
+        "username": "Phoeversum",
+        "verified": false
+      }
+    ]
+  }
+}

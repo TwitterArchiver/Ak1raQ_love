@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2070251920837779625",
+    "created_at": "2026-06-26T00:48:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T01:48:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070308114327544169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2042902564048355328",
+          "start": 0,
+          "username": "TTTypezhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070308114327544169",
+    "in_reply_to_user_id": "2042902564048355328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070251920837779625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TTTypezhi 好pass"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070251917658529792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLsDJoOboAAHjN5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2070251920837779625",
+        "created_at": "2026-06-26T00:48:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T01:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070308114327544169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2042902564048355328",
+              "start": 0,
+              "username": "TTTypezhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070308114327544169",
+        "in_reply_to_user_id": "2042902564048355328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070251920837779625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TTTypezhi 好pass"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070251917658529792"
+          ]
+        },
+        "author_id": "2042902564048355328",
+        "conversation_id": "2070251920837779625",
+        "created_at": "2026-06-25T21:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T22:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070251920837779625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UxRb1nns7i",
+              "end": 36,
+              "expanded_url": "https://x.com/TTTypezhi/status/2070251920837779625/photo/1",
+              "media_key": "3_2070251917658529792",
+              "start": 13,
+              "url": "https://t.co/UxRb1nns7i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070251920837779625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 194,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得我要剪一下刘海（） https://t.co/UxRb1nns7i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/Transfem/留长发中/无糖/IT&AI/一点点二次元/可爱宝宝互fo/秋月姐姐 @qiuylove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 48,
+                "username": "qiuylove"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://mikachan.dpdns.org/",
+                "start": 0,
+                "url": "https://t.co/IMLmPxFeyX"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Hokkien 閩南",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1348,
+          "following_count": 1010,
+          "like_count": 192528,
+          "listed_count": 3,
+          "media_count": 854,
+          "tweet_count": 7272
+        },
+        "url": "https://t.co/IMLmPxFeyX",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T09:48:33.000Z",
+        "description": "@TTypezhi 三代目也死了😭myl我恨你😭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "TTypezhi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "typezhi.top",
+                "end": 23,
+                "expanded_url": "http://typezhi.top",
+                "start": 0,
+                "url": "https://t.co/YJjSCQu1bw"
+              }
+            ]
+          }
+        },
+        "id": "2042902564048355328",
+        "name": "知式（四代目）🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042902713881731072/m36bwUKf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 157,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 38
+        },
+        "url": "https://t.co/YJjSCQu1bw",
+        "username": "TTTypezhi",
+        "verified": false
+      }
+    ]
+  }
+}

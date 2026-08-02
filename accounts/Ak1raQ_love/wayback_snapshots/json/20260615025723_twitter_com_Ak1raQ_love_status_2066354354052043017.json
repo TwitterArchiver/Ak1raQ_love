@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2066354354052043017",
+    "created_at": "2026-06-15T02:57:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T03:57:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066354354052043017"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "💫🌸𝗔𝗸𝗶𝗿𝗮𝗺𝗲𝗻𝗮𝗶🍥🍰’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1nxnR…",
+          "end": 28,
+          "expanded_url": "https://x.com/i/spaces/1nxnRRrgoEVxO",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2066354355843080192/3NP-Paet?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2066354355843080192/3NP-Paet?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 5,
+          "status": 200,
+          "title": "Happening now: 再试一次",
+          "unwound_url": "https://twitter.com/i/spaces/1nxnRRrgoEVxO/peek",
+          "url": "https://t.co/Zs6smS89IZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066354354052043017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "再试一次 https://t.co/Zs6smS89IZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2066354354052043017",
+        "created_at": "2026-06-15T02:57:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T03:57:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066354354052043017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "💫🌸𝗔𝗸𝗶𝗿𝗮𝗺𝗲𝗻𝗮𝗶🍥🍰’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1nxnR…",
+              "end": 28,
+              "expanded_url": "https://x.com/i/spaces/1nxnRRrgoEVxO",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2066354355843080192/3NP-Paet?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2066354355843080192/3NP-Paet?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 5,
+              "status": 200,
+              "title": "Happening now: 再试一次",
+              "unwound_url": "https://twitter.com/i/spaces/1nxnRRrgoEVxO/peek",
+              "url": "https://t.co/Zs6smS89IZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066354354052043017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再试一次 https://t.co/Zs6smS89IZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Utopia, Texas, United States",
+              "geo": {
+                "coordinates": [
+                  -99.52699,
+                  29.61523
+                ],
+                "type": "Point"
+              },
+              "locality": "Utopia",
+              "region": "Texas",
+              "sub_region": "Uvalde County"
+            }
+          ]
+        },
+        "description": "永不言弃💫 / 爱、温情、勇气、美好 / 没有吃糖 / 秋月姐姐 @qiuylove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "qiuylove"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://mikachan.dpdns.org/",
+                "start": 0,
+                "url": "https://t.co/3Yo0IgyCS7"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Utopia",
+        "name": "💫🌸𝗔𝗸𝗶𝗿𝗮𝗺𝗲𝗻𝗮𝗶🍥🍰",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050925033426669568/m2nDg9MR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1301,
+          "following_count": 995,
+          "like_count": 189355,
+          "listed_count": 3,
+          "media_count": 829,
+          "tweet_count": 7010
+        },
+        "url": "https://t.co/3Yo0IgyCS7",
+        "username": "Ak1raQ_love",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2076247190549549275",
+    "created_at": "2026-07-12T14:50:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T15:50:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076318383872888926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2019305812381077504",
+          "start": 0,
+          "username": "Mini_Sweetyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076318383872888926",
+    "in_reply_to_user_id": "2019305812381077504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076318293661745298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mini_Sweetyyy 那你本来要说什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2076247190549549275",
+        "created_at": "2026-07-12T14:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T15:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076318383872888926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2019305812381077504",
+              "start": 0,
+              "username": "Mini_Sweetyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076318383872888926",
+        "in_reply_to_user_id": "2019305812381077504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076318293661745298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mini_Sweetyyy 那你本来要说什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019305812381077504",
+        "conversation_id": "2076247190549549275",
+        "created_at": "2026-07-12T14:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T15:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076318293661745298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076318293661745298",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076312765963342113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak1raQ_love 尝试模仿闽南话失败QAQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/破茧成蝶/留长发中/无糖/向往自由/秋月姐姐 @qiuylove/阿堇🕯️@Akatsuki_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "qiuylove"
+              },
+              {
+                "end": 55,
+                "start": 42,
+                "username": "Akatsuki_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "廈門 Amoy",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1374,
+          "following_count": 1040,
+          "like_count": 199281,
+          "listed_count": 3,
+          "media_count": 941,
+          "tweet_count": 7740
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-05T07:03:30.000Z",
+        "description": "我不道啊，只是个爱碎碎念的小女孩✨",
+        "id": "2019305812381077504",
+        "name": "软糯小小甜",
+        "pinned_tweet_id": "2076263475605811645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062766062291345408/azeNwubU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 18,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 148
+        },
+        "url": "",
+        "username": "Mini_Sweetyyy",
+        "verified": false
+      }
+    ]
+  }
+}

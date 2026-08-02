@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1874290460610748730",
+    "created_at": "2025-01-01T03:04:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-01T04:04:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874290460610748730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1663066129923981312",
+          "start": 3,
+          "username": "Ak1raQ_love"
+        },
+        {
+          "end": 27,
+          "id": "1613864465195503616",
+          "start": 17,
+          "username": "filer0040"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874290460610748730",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874289776523907297",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ak1raQ_love: @filer0040 'GAY's in this picture are everywhere so you'll definitly see it no matter who you are XD https://t.co/P0tyQk5H…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1874290460610748730",
+        "created_at": "2025-01-01T03:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-01T04:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874290460610748730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1663066129923981312",
+              "start": 3,
+              "username": "Ak1raQ_love"
+            },
+            {
+              "end": 27,
+              "id": "1613864465195503616",
+              "start": 17,
+              "username": "filer0040"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874290460610748730",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874289776523907297",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ak1raQ_love: @filer0040 'GAY's in this picture are everywhere so you'll definitly see it no matter who you are XD https://t.co/P0tyQk5H…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874288911322886145"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "1874286652220465286",
+        "created_at": "2025-01-01T03:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-01T04:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874289776523907297"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "GAY",
+              "probability": 0.6118,
+              "start": 12,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1613864465195503616",
+              "start": 0,
+              "username": "filer0040"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P0tyQk5HU9",
+              "end": 124,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/1874289776523907297/photo/1",
+              "media_key": "3_1874288911322886145",
+              "start": 101,
+              "url": "https://t.co/P0tyQk5HU9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874289776523907297",
+        "in_reply_to_user_id": "1613864465195503616",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874286652220465286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@filer0040 'GAY's in this picture are everywhere so you'll definitly see it no matter who you are XD https://t.co/P0tyQk5HU9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "A sweet soul🥺♥️/🏳️‍⚧️Non-Cis/🌏G11N/Learning English/Cuter is better!/Mood swings, but you all make me less lonely!/⚠️Following≠Agreeing⚠️/Private:@mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 146,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtfxyn.news",
+                "end": 23,
+                "expanded_url": "https://mtfxyn.news",
+                "start": 0,
+                "url": "https://t.co/0auRNqezHn"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄𝕄𝕖𝕠𝕨 #NewYear🎆",
+        "pinned_tweet_id": "1874123806480228796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1336,
+          "following_count": 806,
+          "like_count": 101177,
+          "listed_count": 3,
+          "media_count": 700,
+          "tweet_count": 3654
+        },
+        "url": "https://t.co/0auRNqezHn",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-13T11:44:17.000Z",
+        "description": "idk just a silly trans girl tweeting x3 | besties @smallcircle_FPE @simplenomeLOL @Darkxwolf17_fan X333 | matching w @Dripluminum 💛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 50,
+                "username": "smallcircle_FPE"
+              },
+              {
+                "end": 81,
+                "start": 67,
+                "username": "simplenomeLOL"
+              },
+              {
+                "end": 98,
+                "start": 82,
+                "username": "Darkxwolf17_fan"
+              },
+              {
+                "end": 129,
+                "start": 117,
+                "username": "Dripluminum"
+              }
+            ]
+          }
+        },
+        "id": "1613864465195503616",
+        "location": "Paper School",
+        "name": "Leiri 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872256405727813632/RTsznHd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3026,
+          "following_count": 1201,
+          "like_count": 27403,
+          "listed_count": 42,
+          "media_count": 2966,
+          "tweet_count": 10543
+        },
+        "username": "filer0040",
+        "verified": false
+      }
+    ]
+  }
+}

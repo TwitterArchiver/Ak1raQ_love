@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1873792861051011543",
+    "created_at": "2024-12-30T21:56:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-30T22:56:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873850704709992889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1490707122291867648",
+          "start": 0,
+          "username": "ACENANAMI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873850704709992889",
+    "in_reply_to_user_id": "1490707122291867648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873792861051011543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ACENANAMI 鯊寶🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1873792861051011543",
+        "created_at": "2024-12-30T21:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T22:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873850704709992889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1490707122291867648",
+              "start": 0,
+              "username": "ACENANAMI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873850704709992889",
+        "in_reply_to_user_id": "1490707122291867648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873792861051011543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ACENANAMI 鯊寶🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490707122291867648",
+        "conversation_id": "1873792861051011543",
+        "created_at": "2024-12-30T18:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T19:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873792861051011543"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1873792861051011543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這個幾把的，越來越熟後，妳叫我鯊魚，她叫我鯊魚，還有誰會叫我鯊寶呃呃呃呃呃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "A sweet soul🥺♥️/🏳️‍⚧️Non-Cis/🌏G11N/lang=zh;en/Cuter is better!/Mood swings, but you all make me less lonely!/⚠️Following≠Agreeing⚠️/Private:@mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 140,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtfxyn.news",
+                "end": 23,
+                "expanded_url": "https://mtfxyn.news",
+                "start": 0,
+                "url": "https://t.co/0auRNqezHn"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄𝕄𝕖𝕠𝕨 #NewYear🎆",
+        "pinned_tweet_id": "1871929681479627262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1307,
+          "following_count": 798,
+          "like_count": 100137,
+          "listed_count": 3,
+          "media_count": 690,
+          "tweet_count": 3598
+        },
+        "url": "https://t.co/0auRNqezHn",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T15:20:56.000Z",
+        "description": "我將一直將你等待 等待你的愛\n 一直為你等待著 再會吧 再會吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "black-souls.fandom.com/wiki/Grimm",
+                "end": 23,
+                "expanded_url": "https://black-souls.fandom.com/wiki/Grimm",
+                "start": 0,
+                "url": "https://t.co/5dqeIhztJW"
+              }
+            ]
+          }
+        },
+        "id": "1490707122291867648",
+        "location": "因為太過思念妳 而徹底改變我的身姿",
+        "name": "玉姬小姐葉米爾",
+        "pinned_tweet_id": "1873443317788422253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872278498599206912/x1B63xvT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 613,
+          "like_count": 92170,
+          "listed_count": 4,
+          "media_count": 3957,
+          "tweet_count": 12274
+        },
+        "url": "https://t.co/5dqeIhztJW",
+        "username": "ACENANAMI",
+        "verified": false
+      }
+    ]
+  }
+}

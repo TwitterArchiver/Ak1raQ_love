@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "1890651839672250505",
+    "created_at": "2025-02-15T06:38:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T07:38:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1890651839672250505"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1890651839672250505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "Twitter FDAP 更新 02.11-02.15\n·新增多用户数据库支持\n·更改触发速率限制重试逻辑，触发Something went wrong后会先尝试Retry如果仍然触发再进入25秒的等待，直到限制解除，而非之前一触发就等待600秒\n·现在单取后恢复互fo也会记录到Returning Followers中\n·以Include all metadata方式导出JSON，使账号信息保存更完整\n·新增参数以临时禁用推送git和tg bot\n·修复了一些bug"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Twitter FDAP 更新 02.11-02.15\n·新增多用户数据库支持\n·更改触发速率限制重试逻辑，触发Something went wrong后会先尝试Retry如果仍然触发再进入25秒的等待，直到限制解除，而非之前一触发就等待600秒\n·现在单取后恢复互fo也会记录到Returning Followers中\n·以Include all…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1890651839672250505",
+        "created_at": "2025-02-15T06:38:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T07:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890651839672250505"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1890651839672250505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "Twitter FDAP 更新 02.11-02.15\n·新增多用户数据库支持\n·更改触发速率限制重试逻辑，触发Something went wrong后会先尝试Retry如果仍然触发再进入25秒的等待，直到限制解除，而非之前一触发就等待600秒\n·现在单取后恢复互fo也会记录到Returning Followers中\n·以Include all metadata方式导出JSON，使账号信息保存更完整\n·新增参数以临时禁用推送git和tg bot\n·修复了一些bug"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Twitter FDAP 更新 02.11-02.15\n·新增多用户数据库支持\n·更改触发速率限制重试逻辑，触发Something went wrong后会先尝试Retry如果仍然触发再进入25秒的等待，直到限制解除，而非之前一触发就等待600秒\n·现在单取后恢复互fo也会记录到Returning Followers中\n·以Include all…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/😶‍🌫️Introvert/Highlights➡️Original meme/🌏ZH,EN/🌈Love & Peace/😔Not good at chatting/🔄Interact to gain my follow-back/🤫Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 141,
+                "username": "mkc_Cute"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵😺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890411273348870144/2701b2jF_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1619,
+          "following_count": 975,
+          "like_count": 118724,
+          "listed_count": 4,
+          "media_count": 872,
+          "tweet_count": 4573
+        },
+        "username": "Ak1raQ_love",
+        "verified": true
+      }
+    ]
+  }
+}

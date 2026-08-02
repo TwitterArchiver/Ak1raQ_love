@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2069437793181294619",
+    "created_at": "2026-06-23T15:12:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T16:12:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069438428291518528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2033504930707996672",
+          "start": 0,
+          "username": "Xyliaxka"
+        },
+        {
+          "end": 20,
+          "id": "1368897611672018953",
+          "start": 10,
+          "username": "XUEQIUxka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069438428291518528",
+    "in_reply_to_user_id": "2033504930707996672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069437793181294619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xyliaxka @XUEQIUxka 你大号被标18+了，我都看不见"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069437773229314048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgesL4b0AAmT7T.jpg",
+        "width": 907
+      },
+      {
+        "height": 2080,
+        "media_key": "3_2069437773375787008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgesMbW0AAAbgz.jpg",
+        "width": 1560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2069437793181294619",
+        "created_at": "2026-06-23T15:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T16:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069438428291518528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2033504930707996672",
+              "start": 0,
+              "username": "Xyliaxka"
+            },
+            {
+              "end": 20,
+              "id": "1368897611672018953",
+              "start": 10,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069438428291518528",
+        "in_reply_to_user_id": "2033504930707996672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069437793181294619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xyliaxka @XUEQIUxka 你大号被标18+了，我都看不见"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069437773229314048",
+            "3_2069437773375787008"
+          ]
+        },
+        "author_id": "2033504930707996672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069437793181294619",
+        "created_at": "2026-06-23T15:09:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T16:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069437793181294619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WLryuUu27I",
+              "end": 38,
+              "expanded_url": "https://x.com/Xyliaxka/status/2069437793181294619/photo/1",
+              "media_key": "3_2069437773229314048",
+              "start": 15,
+              "url": "https://t.co/WLryuUu27I"
+            },
+            {
+              "display_url": "pic.x.com/WLryuUu27I",
+              "end": 38,
+              "expanded_url": "https://x.com/Xyliaxka/status/2069437793181294619/photo/1",
+              "media_key": "3_2069437773375787008",
+              "start": 15,
+              "url": "https://t.co/WLryuUu27I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069437793181294619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大号被发流动红旗了\n先鼠几天 https://t.co/WLryuUu27I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "永不言弃💫/Transfem/留长发中/无糖/IT&AI/一点点二次元/可爱宝宝互fo/秋月姐姐 @qiuylove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 49,
+                "username": "qiuylove"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://mikachan.dpdns.org/",
+                "start": 0,
+                "url": "https://t.co/IMLmPxFeyX"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Hokkien 閩南",
+        "name": "弃羽酱💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1320,
+          "following_count": 1001,
+          "like_count": 192065,
+          "listed_count": 3,
+          "media_count": 851,
+          "tweet_count": 7225
+        },
+        "url": "https://t.co/IMLmPxFeyX",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T11:25:41.000Z",
+        "description": "这是一个自动化小号（逃生舱），会转发大号自己的日常\n全平台账号名称：雪秋小可爱\n全平台账号ID： @XUEQIUxka\n雪球的号：@XUEQIUsuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 49,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 76,
+                "start": 65,
+                "username": "XUEQIUsuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/PagTOPITpg"
+              }
+            ]
+          }
+        },
+        "id": "2033504930707996672",
+        "name": "Xylia",
+        "pinned_tweet_id": "2033510785411154266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034187020449529856/Vm1fCZQt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 5,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 86
+        },
+        "url": "https://t.co/PagTOPITpg",
+        "username": "Xyliaxka",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看日常@Xyliaxka，淡圈，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTFT男娘，#HRT，#SRS，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "HRT"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "SRS"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9519,
+          "following_count": 2401,
+          "like_count": 33327,
+          "listed_count": 25,
+          "media_count": 2157,
+          "tweet_count": 6433
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

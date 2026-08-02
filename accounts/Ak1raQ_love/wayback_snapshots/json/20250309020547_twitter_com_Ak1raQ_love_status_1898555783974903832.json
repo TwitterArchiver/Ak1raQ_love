@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1898555778673278976"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "1898555783974903832",
+    "created_at": "2025-03-09T02:05:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T03:05:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1898555783974903832"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+          "display_url": "infinityweet.me/interaction-ci…",
+          "end": 40,
+          "expanded_url": "https://infinityweet.me/interaction-circle?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/1896035266302750720/kd9Q2bIk?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1896035266302750720/kd9Q2bIk?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 17,
+          "status": 200,
+          "title": "Interaction Circle • Infinitweet",
+          "unwound_url": "https://infinityweet.me/interaction-circle?lang=zh",
+          "url": "https://t.co/iXZbxvygGK"
+        },
+        {
+          "display_url": "pic.x.com/ESPIje9hcs",
+          "end": 64,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/1898555783974903832/photo/1",
+          "media_key": "3_1898555778673278976",
+          "start": 41,
+          "url": "https://t.co/ESPIje9hcs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898555783974903832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的Twitter互动圈\n\n➡️ https://t.co/iXZbxvygGK https://t.co/ESPIje9hcs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1898555778673278976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlkGa_YWAAACNTz.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898555778673278976"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1898555783974903832",
+        "created_at": "2025-03-09T02:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T03:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898555783974903832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinityweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1896035266302750720/kd9Q2bIk?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1896035266302750720/kd9Q2bIk?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/iXZbxvygGK"
+            },
+            {
+              "display_url": "pic.x.com/ESPIje9hcs",
+              "end": 64,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/1898555783974903832/photo/1",
+              "media_key": "3_1898555778673278976",
+              "start": 41,
+              "url": "https://t.co/ESPIje9hcs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898555783974903832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/iXZbxvygGK https://t.co/ESPIje9hcs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "呆在这样温馨的一个小地方真是安心呢\n永远喜欢你们哦，好开心🥰\n和世界好言相待\n无限期锁推...我不想让帖子被无关的人看到🙁\n小秋月~@Beta_Estradiol\n朋友&同学irl:@kmg114514",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 66,
+                "username": "Beta_Estradiol"
+              },
+              {
+                "end": 101,
+                "start": 91,
+                "username": "kmg114514"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "永不言棄???",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892581473846444032/cmEUeRud_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1253,
+          "following_count": 990,
+          "like_count": 123262,
+          "listed_count": 4,
+          "media_count": 927,
+          "tweet_count": 4854
+        },
+        "username": "Ak1raQ_love",
+        "verified": false
+      }
+    ]
+  }
+}

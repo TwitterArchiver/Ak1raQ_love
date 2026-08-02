@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2078395935978361321",
+    "created_at": "2026-07-18T08:26:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T09:26:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078395935978361321"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ak1raQ_love/st…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/Ak1raQ_love/status/2078370306025226290",
+          "start": 41,
+          "url": "https://t.co/xG40S1ZLed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078395935978361321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078370306025226290",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "「因为无法确定是否还能重逢，所以要把眼前这一次相见，当作此生唯一的一次来珍惜。」 https://t.co/xG40S1ZLed"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2078395935978361321",
+        "created_at": "2026-07-18T08:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T09:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078395935978361321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ak1raQ_love/st…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/Ak1raQ_love/status/2078370306025226290",
+              "start": 41,
+              "url": "https://t.co/xG40S1ZLed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078395935978361321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078370306025226290",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "「因为无法确定是否还能重逢，所以要把眼前这一次相见，当作此生唯一的一次来珍惜。」 https://t.co/xG40S1ZLed"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2078370306025226290",
+        "created_at": "2026-07-18T06:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T07:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078370306025226290"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078370306025226290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 163,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "离别从来不是轰轰烈烈的仪式，也许只是一个再普通不过的瞬间，一次正常不过的「再见」「我先走啦」，一次聊天界面里习以为常的last seen just now. \n\n我们总以为那些话还会再说，那个人还会再见，所以从未意识到，那竟是最后一次停留在彼此生命里的样子。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/留长发中/无糖/向往自由/原创&二创meme/秋月姐姐 @qiuylove/阿堇🕯️@Akatsuki_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "qiuylove"
+              },
+              {
+                "end": 60,
+                "start": 47,
+                "username": "Akatsuki_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "廈門 Amoy",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1399,
+          "following_count": 1053,
+          "like_count": 200967,
+          "listed_count": 2,
+          "media_count": 973,
+          "tweet_count": 7895
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": true
+      }
+    ]
+  }
+}

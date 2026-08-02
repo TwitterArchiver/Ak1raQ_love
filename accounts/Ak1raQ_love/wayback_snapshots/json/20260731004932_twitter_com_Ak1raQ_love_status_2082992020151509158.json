@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2082930313911775494",
+    "created_at": "2026-07-31T00:49:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T01:49:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082992020151509158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1769078117052854272",
+          "start": 0,
+          "username": "huahuojiang_"
+        },
+        {
+          "end": 29,
+          "id": "886262881",
+          "start": 14,
+          "username": "EddyAgusRahman"
+        },
+        {
+          "end": 43,
+          "id": "1876613242887282688",
+          "start": 30,
+          "username": "liujiayi1111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082992020151509158",
+    "in_reply_to_user_id": "1769078117052854272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082930313911775494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huahuojiang_ @EddyAgusRahman @liujiayi1111 怎么有你名字"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_2082930291757445120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOgOEIQacAAp16z.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2082930313911775494",
+        "created_at": "2026-07-31T00:49:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T01:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082992020151509158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1769078117052854272",
+              "start": 0,
+              "username": "huahuojiang_"
+            },
+            {
+              "end": 29,
+              "id": "886262881",
+              "start": 14,
+              "username": "EddyAgusRahman"
+            },
+            {
+              "end": 43,
+              "id": "1876613242887282688",
+              "start": 30,
+              "username": "liujiayi1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082992020151509158",
+        "in_reply_to_user_id": "1769078117052854272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082930313911775494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huahuojiang_ @EddyAgusRahman @liujiayi1111 怎么有你名字"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082930291757445120"
+          ]
+        },
+        "author_id": "1769078117052854272",
+        "conversation_id": "2082930313911775494",
+        "created_at": "2026-07-30T20:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T21:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082930313911775494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "886262881",
+              "start": 0,
+              "username": "EddyAgusRahman"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/83x9moaE03",
+              "end": 45,
+              "expanded_url": "https://x.com/huahuojiang_/status/2082930313911775494/photo/1",
+              "media_key": "3_2082930291757445120",
+              "start": 22,
+              "url": "https://t.co/83x9moaE03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082930313911775494",
+        "in_reply_to_user_id": "886262881",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@EddyAgusRahman 😅😅😅😅😅 https://t.co/83x9moaE03"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/non-mtf/无糖/向往自由/欢迎推u面基/#蓝v互关/原创meme/顺直女 @zhwevea/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 34,
+                "tag": "蓝v互关"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 59,
+                "start": 51,
+                "username": "zhwevea"
+              },
+              {
+                "end": 77,
+                "start": 63,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": " 苏州/厦门",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8945,
+          "following_count": 1187,
+          "like_count": 206776,
+          "listed_count": 6,
+          "media_count": 1058,
+          "tweet_count": 8329
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-16T19:07:54.000Z",
+        "description": "诶嘿～好无聊呀~｜加点东西@这里没有人｜换一个提问箱：https://t.co/0C8gTeJyHd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huahuojiang2",
+                "end": 50,
+                "expanded_url": "https://ngl.link/huahuojiang2",
+                "start": 27,
+                "url": "https://t.co/0C8gTeJyHd"
+              }
+            ]
+          }
+        },
+        "id": "1769078117052854272",
+        "location": "匹诺康尼",
+        "name": "花火酱～",
+        "pinned_tweet_id": "2082929721827049868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039013777560227840/6M7222YJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7222,
+          "following_count": 3584,
+          "like_count": 104368,
+          "listed_count": 18,
+          "media_count": 9226,
+          "tweet_count": 102562
+        },
+        "url": "",
+        "username": "huahuojiang_",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-17T06:44:50.000Z",
+        "description": "想看更多视频内容的小哥哥，可以顺手下载支持一下我常用的VPN👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fl1.me/2",
+                "end": 23,
+                "expanded_url": "https://fl1.me/2",
+                "start": 0,
+                "url": "https://t.co/dHfBfNtpCd"
+              }
+            ]
+          }
+        },
+        "id": "886262881",
+        "name": "我是刘佳怡，VPN我真只用银狐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082512727138824192/OpPu-Vji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 111,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 2466
+        },
+        "url": "https://t.co/dHfBfNtpCd",
+        "username": "EddyAgusRahman",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-07T12:54:22.000Z",
+        "description": "生活类博主，分享心情、吐槽、碎碎念，偶尔掉落日常生活碎片。不互fo，只关注自己感兴趣的。LOL游戏主播。被Tauri伤透两回，再也不喜欢Tauri了！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/liujiayi1111/s…",
+                "end": 23,
+                "expanded_url": "https://x.com/liujiayi1111/status/2058900883270758469",
+                "start": 0,
+                "url": "https://t.co/er9WmJIcnW"
+              }
+            ]
+          }
+        },
+        "id": "1876613242887282688",
+        "name": "刘佳怡",
+        "pinned_tweet_id": "2058900883270758469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058024477871468544/mleLXsRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10150,
+          "following_count": 98,
+          "like_count": 13706,
+          "listed_count": 28,
+          "media_count": 318,
+          "tweet_count": 3422
+        },
+        "url": "https://t.co/er9WmJIcnW",
+        "username": "liujiayi1111",
+        "verified": true
+      }
+    ]
+  }
+}

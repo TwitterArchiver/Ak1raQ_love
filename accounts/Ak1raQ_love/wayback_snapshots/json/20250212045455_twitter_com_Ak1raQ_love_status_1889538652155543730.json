@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1889538646002524160"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "1889531499546026161",
+    "created_at": "2025-02-12T04:54:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T05:54:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889538652155543730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1664948430920359936",
+          "start": 0,
+          "username": "Snowcomics9452"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/beAQtdoHEN",
+          "end": 54,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/1889538652155543730/photo/1",
+          "media_key": "3_1889538646002524160",
+          "start": 31,
+          "url": "https://t.co/beAQtdoHEN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889538652155543730",
+    "in_reply_to_user_id": "1664948430920359936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889531499546026161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snowcomics9452 怎么变成这样了，感觉不如之前 https://t.co/beAQtdoHEN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2376,
+        "media_key": "3_1889538646002524160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gjj9YyhaYAAigjy.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889538646002524160"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "1889531499546026161",
+        "created_at": "2025-02-12T04:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T05:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889538652155543730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1664948430920359936",
+              "start": 0,
+              "username": "Snowcomics9452"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/beAQtdoHEN",
+              "end": 54,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/1889538652155543730/photo/1",
+              "media_key": "3_1889538646002524160",
+              "start": 31,
+              "url": "https://t.co/beAQtdoHEN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889538652155543730",
+        "in_reply_to_user_id": "1664948430920359936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889531499546026161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snowcomics9452 怎么变成这样了，感觉不如之前 https://t.co/beAQtdoHEN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664948430920359936",
+        "conversation_id": "1889531499546026161",
+        "created_at": "2025-02-12T04:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T05:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889531499546026161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "1drv.ms/u/c/658d291379…",
+              "end": 64,
+              "expanded_url": "https://1drv.ms/u/c/658d29137910e7eb/EYwXCJV1LTBJsqtUKHMiXsUB8FgJbfIpC5YSGy4CAcCe4Q?e=ANcOHy",
+              "start": 41,
+              "status": 403,
+              "unwound_url": "https://onedrive.live.com/redir?cid=658d29137910e7eb&resid=658D29137910E7EB!s9508178c2d754930b2ab542873225ec5&e=ANcOHy&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3UvYy82NThkMjkxMzc5MTBlN2ViL0VZd1hDSlYxTFRCSnNxdFVLSE1pWHNVQjhGZ0piZklwQzVZU0d5NENBY0NlNFE_ZT1BTmNPSHk",
+              "url": "https://t.co/WRCoeS9D3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889531499546026161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ColorOS 15/Oxygen OS 15\n15.8.3 主頁\n動畫更爽滑了\nhttps://t.co/WRCoeS9D3g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/😶‍🌫️Online-only introvert/🌏ZH,EN/🌈Inclusivity/🕊️Love & Peace/😔Not good at chatting/🔄Interact to gain my follow-back/🤫Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 141,
+                "username": "mkc_Cute"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵😺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1585,
+          "following_count": 960,
+          "like_count": 116532,
+          "listed_count": 4,
+          "media_count": 852,
+          "tweet_count": 4490
+        },
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-03T10:53:52.000Z",
+        "description": "雪花手機新聞的中文版 /🏳️‍⚧️斷續含糖MtX🍥/\n歡迎來到雪花新聞中心，這裡是您追蹤各大品牌最新手機、平板等移動裝置的資訊與爆料平台。致力於為您第一時間帶來消息、掌握科技圈的最新動態。\nEN version @Snowcomics",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 106,
+                "username": "Snowcomics"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zyn-publiic.vercel.app",
+                "end": 23,
+                "expanded_url": "https://zyn-publiic.vercel.app/",
+                "start": 0,
+                "url": "https://t.co/j7lBh9ksyI"
+              }
+            ]
+          }
+        },
+        "id": "1664948430920359936",
+        "location": "香港 | Hong Kong",
+        "name": "雪花 (中文) ❄️",
+        "pinned_tweet_id": "1886825412237607119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874491914344673280/JLEFcqLG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1253,
+          "following_count": 2509,
+          "like_count": 28283,
+          "listed_count": 2,
+          "media_count": 660,
+          "tweet_count": 4251
+        },
+        "url": "https://t.co/j7lBh9ksyI",
+        "username": "Snowcomics9452",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1887738277895270400"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "1887736195914080674",
+    "created_at": "2025-02-07T05:40:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T06:40:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887738292948410623"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ddS669HYs4",
+          "end": 31,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/1887738292948410623/photo/1",
+          "media_key": "3_1887738277895270400",
+          "start": 8,
+          "url": "https://t.co/ddS669HYs4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887738292948410623",
+    "in_reply_to_user_id": "1663066129923981312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887736195914080674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "用英语问就行了 https://t.co/ddS669HYs4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1887738277895270400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjKX9kra8AAX0Sh.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887738277895270400"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "1887736195914080674",
+        "created_at": "2025-02-07T05:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T06:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887738292948410623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ddS669HYs4",
+              "end": 31,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/1887738292948410623/photo/1",
+              "media_key": "3_1887738277895270400",
+              "start": 8,
+              "url": "https://t.co/ddS669HYs4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887738292948410623",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887736195914080674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "用英语问就行了 https://t.co/ddS669HYs4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887736100615299072"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "1887736195914080674",
+        "created_at": "2025-02-07T05:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T06:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887736195914080674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sZnGLdnKuP",
+              "end": 50,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/1887736195914080674/photo/1",
+              "media_key": "3_1887736100615299072",
+              "start": 27,
+              "url": "https://t.co/sZnGLdnKuP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887736195914080674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我本地部署的deepseek还是不能问敏感问题 https://t.co/sZnGLdnKuP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/😶‍🌫️Online-only introvert/🌏ZH,EN/🌈Inclusivity/🕊️Love & Peace/😔Not good at chatting/🔄Interact to gain my follow-back/🤫Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 141,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "https://mikachan.us.kg/",
+                "start": 0,
+                "url": "https://t.co/yUfVtUE4yg"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵😺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1561,
+          "following_count": 939,
+          "like_count": 114854,
+          "listed_count": 4,
+          "media_count": 833,
+          "tweet_count": 4396
+        },
+        "url": "https://t.co/yUfVtUE4yg",
+        "username": "Ak1raQ_love",
+        "verified": true
+      }
+    ]
+  }
+}

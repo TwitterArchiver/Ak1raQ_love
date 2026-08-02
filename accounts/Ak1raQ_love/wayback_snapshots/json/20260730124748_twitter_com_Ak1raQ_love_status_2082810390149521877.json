@@ -1,0 +1,404 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082805080445833216",
+        "3_2082805083352559616",
+        "3_2082805111844483072",
+        "3_2082805084577218560"
+      ],
+      "media_source_tweet_id": [
+        "2082805130798444679",
+        "2082805130798444679",
+        "2082805130798444679",
+        "2082805130798444679"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2082810390149521877",
+    "created_at": "2026-07-30T12:47:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T13:47:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082810390149521877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1663066129923981312",
+          "start": 3,
+          "username": "Ak1raQ_love"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/10GbBKIpxc",
+          "end": 79,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2082805130798444679/photo/1",
+          "media_key": "3_2082805080445833216",
+          "start": 56,
+          "url": "https://t.co/10GbBKIpxc"
+        },
+        {
+          "display_url": "pic.x.com/10GbBKIpxc",
+          "end": 79,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2082805130798444679/photo/1",
+          "media_key": "3_2082805083352559616",
+          "start": 56,
+          "url": "https://t.co/10GbBKIpxc"
+        },
+        {
+          "display_url": "pic.x.com/10GbBKIpxc",
+          "end": 79,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2082805130798444679/photo/1",
+          "media_key": "3_2082805111844483072",
+          "start": 56,
+          "url": "https://t.co/10GbBKIpxc"
+        },
+        {
+          "display_url": "pic.x.com/10GbBKIpxc",
+          "end": 79,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2082805130798444679/photo/1",
+          "media_key": "3_2082805084577218560",
+          "start": 56,
+          "url": "https://t.co/10GbBKIpxc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082810390149521877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082805130798444679",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @Ak1raQ_love: 面基耶✌ x6\n一起去打舞萌，然后去吃烤肉耶，开心😊\nfumo可爱捏\n\n苏州 https://t.co/10GbBKIpxc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082805080445833216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOecL3xaUAAq3Ub.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2082805083352559616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOecMCmbcAADtcs.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1471,
+        "media_key": "3_2082805111844483072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOecNsvbsAAK0ou.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2082805084577218560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOecMHKaQAABt_X.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082805080445833216",
+            "3_2082805083352559616",
+            "3_2082805111844483072",
+            "3_2082805084577218560"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2082805130798444679",
+        "created_at": "2026-07-30T12:26:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082805130798444679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/10GbBKIpxc",
+              "end": 62,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2082805130798444679/photo/1",
+              "media_key": "3_2082805080445833216",
+              "start": 39,
+              "url": "https://t.co/10GbBKIpxc"
+            },
+            {
+              "display_url": "pic.x.com/10GbBKIpxc",
+              "end": 62,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2082805130798444679/photo/1",
+              "media_key": "3_2082805083352559616",
+              "start": 39,
+              "url": "https://t.co/10GbBKIpxc"
+            },
+            {
+              "display_url": "pic.x.com/10GbBKIpxc",
+              "end": 62,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2082805130798444679/photo/1",
+              "media_key": "3_2082805111844483072",
+              "start": 39,
+              "url": "https://t.co/10GbBKIpxc"
+            },
+            {
+              "display_url": "pic.x.com/10GbBKIpxc",
+              "end": 62,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2082805130798444679/photo/1",
+              "media_key": "3_2082805084577218560",
+              "start": 39,
+              "url": "https://t.co/10GbBKIpxc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082805130798444679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 186,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "other",
+        "text": "面基耶✌ x6\n一起去打舞萌，然后去吃烤肉耶，开心😊\nfumo可爱捏\n\n苏州 https://t.co/10GbBKIpxc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082805080445833216",
+            "3_2082805083352559616",
+            "3_2082805111844483072",
+            "3_2082805084577218560"
+          ],
+          "media_source_tweet_id": [
+            "2082805130798444679",
+            "2082805130798444679",
+            "2082805130798444679",
+            "2082805130798444679"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2082810390149521877",
+        "created_at": "2026-07-30T12:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082810390149521877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1663066129923981312",
+              "start": 3,
+              "username": "Ak1raQ_love"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/10GbBKIpxc",
+              "end": 79,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2082805130798444679/photo/1",
+              "media_key": "3_2082805080445833216",
+              "start": 56,
+              "url": "https://t.co/10GbBKIpxc"
+            },
+            {
+              "display_url": "pic.x.com/10GbBKIpxc",
+              "end": 79,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2082805130798444679/photo/1",
+              "media_key": "3_2082805083352559616",
+              "start": 56,
+              "url": "https://t.co/10GbBKIpxc"
+            },
+            {
+              "display_url": "pic.x.com/10GbBKIpxc",
+              "end": 79,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2082805130798444679/photo/1",
+              "media_key": "3_2082805111844483072",
+              "start": 56,
+              "url": "https://t.co/10GbBKIpxc"
+            },
+            {
+              "display_url": "pic.x.com/10GbBKIpxc",
+              "end": 79,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2082805130798444679/photo/1",
+              "media_key": "3_2082805084577218560",
+              "start": 56,
+              "url": "https://t.co/10GbBKIpxc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082810390149521877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082805130798444679",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @Ak1raQ_love: 面基耶✌ x6\n一起去打舞萌，然后去吃烤肉耶，开心😊\nfumo可爱捏\n\n苏州 https://t.co/10GbBKIpxc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/non-mtf/无糖/向往自由/欢迎推u面基/#蓝v互关/原创meme/顺直女 @zhwevea/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 34,
+                "tag": "蓝v互关"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 59,
+                "start": 51,
+                "username": "zhwevea"
+              },
+              {
+                "end": 77,
+                "start": 63,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": " 苏州/厦门",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8966,
+          "following_count": 1186,
+          "like_count": 206555,
+          "listed_count": 6,
+          "media_count": 1056,
+          "tweet_count": 8314
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1887820244951183360"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "1887820248411427292",
+    "created_at": "2025-02-07T11:06:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T12:05:33.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1887819985197949359",
+      "1887820248411427292"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 0,
+          "tag": "推友情況通報"
+        },
+        {
+          "end": 11,
+          "start": 8,
+          "tag": "冻结"
+        },
+        {
+          "end": 22,
+          "start": 12,
+          "tag": "Suspended"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 87,
+          "id": "1826070707748712448",
+          "start": 74,
+          "username": "KRKRDKDK2025"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WuK2JWhNCI",
+          "end": 118,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/1887820248411427292/photo/1",
+          "media_key": "3_1887820244951183360",
+          "start": 95,
+          "url": "https://t.co/WuK2JWhNCI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887820248411427292",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#推友情況通報 #冻结 #Suspended\nCheck Time: 2025-02-07 19:03:53 CST\n🍋‍🟩KRKRDKDK张传森\n@KRKRDKDK2025\n账号被冻结。 https://t.co/WuK2JWhNCI"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [KRKRDKDK2025].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "KRKRDKDK2025",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "KRKRDKDK2025"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1342,
+        "media_key": "3_1887820244951183360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjLigrwbMAA6gPe.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887819982270251009"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "1887819985197949359",
+        "created_at": "2025-02-07T11:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T12:05:33.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887819985197949359",
+          "1887820248411427292"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "推友情況通報"
+            },
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "冻结"
+            },
+            {
+              "end": 22,
+              "start": 12,
+              "tag": "Suspended"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 51,
+              "id": "1826070707748712448",
+              "start": 38,
+              "username": "KRKRDKDK2025"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/njwHViOUvi",
+              "end": 82,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/1887819985197949359/photo/1",
+              "media_key": "3_1887819982270251009",
+              "start": 59,
+              "url": "https://t.co/njwHViOUvi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887819985197949359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#推友情況通報 #冻结 #Suspended\n🍋‍🟩KRKRDKDK张传森\n@KRKRDKDK2025\n账号被冻结。 https://t.co/njwHViOUvi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887820244951183360"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "1887820248411427292",
+        "created_at": "2025-02-07T11:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T12:05:33.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887819985197949359",
+          "1887820248411427292"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "推友情況通報"
+            },
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "冻结"
+            },
+            {
+              "end": 22,
+              "start": 12,
+              "tag": "Suspended"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 87,
+              "id": "1826070707748712448",
+              "start": 74,
+              "username": "KRKRDKDK2025"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WuK2JWhNCI",
+              "end": 118,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/1887820248411427292/photo/1",
+              "media_key": "3_1887820244951183360",
+              "start": 95,
+              "url": "https://t.co/WuK2JWhNCI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887820248411427292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#推友情況通報 #冻结 #Suspended\nCheck Time: 2025-02-07 19:03:53 CST\n🍋‍🟩KRKRDKDK张传森\n@KRKRDKDK2025\n账号被冻结。 https://t.co/WuK2JWhNCI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/😶‍🌫️Online-only introvert/🌏ZH,EN/🌈Inclusivity/🕊️Love & Peace/😔Not good at chatting/🔄Interact to gain my follow-back/🤫Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 141,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "https://mikachan.us.kg/",
+                "start": 0,
+                "url": "https://t.co/yUfVtUE4yg"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵😺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1562,
+          "following_count": 939,
+          "like_count": 114952,
+          "listed_count": 4,
+          "media_count": 834,
+          "tweet_count": 4400
+        },
+        "url": "https://t.co/yUfVtUE4yg",
+        "username": "Ak1raQ_love",
+        "verified": true
+      }
+    ]
+  }
+}

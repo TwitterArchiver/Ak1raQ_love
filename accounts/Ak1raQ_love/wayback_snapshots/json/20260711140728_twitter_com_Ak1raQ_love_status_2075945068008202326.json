@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2075945068008202326",
+    "created_at": "2026-07-11T14:07:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T15:07:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075945068008202326"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RainEngine2026…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/RainEngine2026/status/2075917540547776833",
+          "start": 23,
+          "url": "https://t.co/h5BfLueob3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075945068008202326",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075917540547776833",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？你们不是前几天还面基吗，怎么会这样，啊啊啊 https://t.co/h5BfLueob3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2376,
+        "media_key": "3_2075917533597904896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8j_4UbsAArxyO.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2075945068008202326",
+        "created_at": "2026-07-11T14:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T15:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075945068008202326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RainEngine2026…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/RainEngine2026/status/2075917540547776833",
+              "start": 23,
+              "url": "https://t.co/h5BfLueob3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075945068008202326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075917540547776833",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？你们不是前几天还面基吗，怎么会这样，啊啊啊 https://t.co/h5BfLueob3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075917533597904896"
+          ]
+        },
+        "author_id": "1837843674283294720",
+        "conversation_id": "2075917540547776833",
+        "created_at": "2026-07-11T12:18:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T13:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075917540547776833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p468eqdiGZ",
+              "end": 63,
+              "expanded_url": "https://x.com/RainEngine2026/status/2075917540547776833/photo/1",
+              "media_key": "3_2075917533597904896",
+              "start": 40,
+              "url": "https://t.co/p468eqdiGZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075917540547776833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1380,
+          "like_count": 40,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "今天心态有点爆炸...被她骗了几千块救命钱....她已经把所有媒体账号都注销了 https://t.co/p468eqdiGZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Utopia, Texas, United States",
+              "geo": {
+                "coordinates": [
+                  -99.52699,
+                  29.61523
+                ],
+                "type": "Point"
+              },
+              "locality": "Utopia",
+              "region": "Texas",
+              "sub_region": "Uvalde County"
+            }
+          ]
+        },
+        "description": "弃羽酱💫/破茧成蝶/留长发中/无糖/向往自由/秋月姐姐 @qiuylove/阿堇🕯️@Akatsuki_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "qiuylove"
+              },
+              {
+                "end": 55,
+                "start": 42,
+                "username": "Akatsuki_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Utopia",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1350,
+          "following_count": 1030,
+          "like_count": 198837,
+          "listed_count": 3,
+          "media_count": 934,
+          "tweet_count": 7706
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-22T13:17:49.000Z",
+        "description": "Xiaomi Partner / RainEngine UX Design",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainEngine2026",
+                "end": 23,
+                "expanded_url": "http://t.me/RainEngine2026",
+                "start": 0,
+                "url": "https://t.co/7JvZdxAqN1"
+              }
+            ]
+          }
+        },
+        "id": "1837843674283294720",
+        "name": "晴日向_Official",
+        "pinned_tweet_id": "2074486635853758675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074471177054195712/JAy9wINP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 129,
+          "like_count": 580,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 116
+        },
+        "url": "https://t.co/7JvZdxAqN1",
+        "username": "RainEngine2026",
+        "verified": false
+      }
+    ]
+  }
+}

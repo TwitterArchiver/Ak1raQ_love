@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006225489351090179"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2006225491892621382",
+    "created_at": "2025-12-31T04:46:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T05:46:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006225491892621382"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/h8dZaZus3f",
+          "end": 39,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2006225491892621382/photo/1",
+          "media_key": "3_2006225489351090179",
+          "start": 16,
+          "url": "https://t.co/h8dZaZus3f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006225491892621382",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "文化输出了这下，特色诱导性广告 https://t.co/h8dZaZus3f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1492,
+        "media_key": "3_2006225489351090179",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9eLdAAbIAMiL_Q.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006225489351090179"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2006225491892621382",
+        "created_at": "2025-12-31T04:46:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T05:46:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006225491892621382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h8dZaZus3f",
+              "end": 39,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2006225491892621382/photo/1",
+              "media_key": "3_2006225489351090179",
+              "start": 16,
+              "url": "https://t.co/h8dZaZus3f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006225491892621382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "文化输出了这下，特色诱导性广告 https://t.co/h8dZaZus3f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "在模糊中辨认自己/可爱喵可爱喵/最棒的秋月姐姐w @qiuylove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "qiuylove"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "充满温柔与爱的世界",
+        "name": "🍥永不言弃🌸💫",
+        "pinned_tweet_id": "2002656150932824310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005058002446155780/6PTxaZkM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1333,
+          "following_count": 994,
+          "like_count": 174095,
+          "listed_count": 3,
+          "media_count": 667,
+          "tweet_count": 6034
+        },
+        "username": "Ak1raQ_love",
+        "verified": false
+      }
+    ]
+  }
+}

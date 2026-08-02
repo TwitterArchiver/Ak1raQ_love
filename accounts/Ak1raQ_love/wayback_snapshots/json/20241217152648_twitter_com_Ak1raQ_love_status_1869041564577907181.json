@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1869039050801512760",
+    "created_at": "2024-12-17T15:26:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-17T16:26:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869041564577907181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1775851282710122496",
+          "start": 0,
+          "username": "Vincy1230"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869041564577907181",
+    "in_reply_to_user_id": "1775851282710122496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869039050801512760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vincy1230 感觉这个对最近推文回复的权重很大，可能就单纯爬几个\n因为我昨天回了一下你推文就上圈了，平时除了like也没有互动过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1869039050801512760",
+        "created_at": "2024-12-17T15:26:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T16:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869041564577907181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1775851282710122496",
+              "start": 0,
+              "username": "Vincy1230"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869041564577907181",
+        "in_reply_to_user_id": "1775851282710122496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869039050801512760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vincy1230 感觉这个对最近推文回复的权重很大，可能就单纯爬几个\n因为我昨天回了一下你推文就上圈了，平时除了like也没有互动过"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869039040856768512",
+            "3_1869039040798093312",
+            "3_1869039040793894912"
+          ]
+        },
+        "author_id": "1775851282710122496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1750052293607669760",
+              "name": "DevPlatform JP"
+            }
+          }
+        ],
+        "conversation_id": "1869039050801512760",
+        "created_at": "2024-12-17T15:16:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T16:16:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869039050801512760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aJ16wVrq5m",
+              "end": 157,
+              "expanded_url": "https://x.com/Vincy1230/status/1869039050801512760/photo/1",
+              "media_key": "3_1869039040856768512",
+              "start": 134,
+              "url": "https://t.co/aJ16wVrq5m"
+            },
+            {
+              "display_url": "pic.x.com/aJ16wVrq5m",
+              "end": 157,
+              "expanded_url": "https://x.com/Vincy1230/status/1869039050801512760/photo/1",
+              "media_key": "3_1869039040798093312",
+              "start": 134,
+              "url": "https://t.co/aJ16wVrq5m"
+            },
+            {
+              "display_url": "pic.x.com/aJ16wVrq5m",
+              "end": 157,
+              "expanded_url": "https://x.com/Vincy1230/status/1869039050801512760/photo/1",
+              "media_key": "3_1869039040793894912",
+              "start": 134,
+              "url": "https://t.co/aJ16wVrq5m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869039050801512760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉这类游戏其实就是从你的公开列表中随机抽取一些人罢了，毕竟每次操作结果都不一样... \n想想也合理，毕竟 X API 还蛮贵的，单就靠用你的号关注几个垃圾账号赚的钱根本不足以去调你的交互历史，撑死了也就是弄个爬虫爬爬你的列表然后随机抽几个幸运好友随机排个序... https://t.co/aJ16wVrq5m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "A sweet soul🥺♥️ AkiraQ's gender is just itself 可愛即正義！ 互fo主义者 精神狀態時好時壞，所以你能看到不同的我 喜歡和你們在一起，就不會孤單了呢 部分日常会发往Bluesky !注意，互fo≠同意对方立场! 分身@mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 131,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "https://mikachan.us.kg/",
+                "start": 0,
+                "url": "https://t.co/yUfVtUE4yg"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵 𝓐𝓴𝓲𝓻𝓪𝓜𝓮𝓸𝔀",
+        "pinned_tweet_id": "1862810670238154974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865724365129805824/2wK-6ZpG_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1262,
+          "following_count": 779,
+          "like_count": 96710,
+          "listed_count": 3,
+          "media_count": 662,
+          "tweet_count": 3462
+        },
+        "url": "https://t.co/yUfVtUE4yg",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-04T11:42:12.000Z",
+        "description": "如果都回不来那么我该为了谁而存在 | 推友寻回中 | 只给熟人看的情绪垃圾场 @BeforeDawnBreak | 坏蛋主人 @HzShibari86",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 39,
+                "username": "BeforeDawnBreak"
+              },
+              {
+                "end": 75,
+                "start": 63,
+                "username": "HzShibari86"
+              }
+            ]
+          }
+        },
+        "id": "1775851282710122496",
+        "location": "Macau SAR / Beijing, P.R.China",
+        "name": "Vincy SHI 🍥",
+        "pinned_tweet_id": "1868911562502947297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861596813599608832/SPu60rTq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 210,
+          "like_count": 674,
+          "listed_count": 2,
+          "media_count": 254,
+          "tweet_count": 2111
+        },
+        "username": "Vincy1230",
+        "verified": true
+      }
+    ]
+  }
+}

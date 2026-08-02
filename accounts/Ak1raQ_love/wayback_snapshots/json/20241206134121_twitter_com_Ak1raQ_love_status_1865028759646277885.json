@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1865016988369850785",
+    "created_at": "2024-12-06T13:41:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-06T14:41:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865028759646277885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1817584080437014528",
+          "start": 0,
+          "username": "N552AA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865028759646277885",
+    "in_reply_to_user_id": "1817584080437014528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865016988369850785",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N552AA 不要！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1865016988369850785",
+        "created_at": "2024-12-06T13:41:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T14:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865028759646277885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1817584080437014528",
+              "start": 0,
+              "username": "N552AA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865028759646277885",
+        "in_reply_to_user_id": "1817584080437014528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865016988369850785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N552AA 不要！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865016984666279936",
+            "3_1865016985459003395"
+          ]
+        },
+        "author_id": "1817584080437014528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1865016988369850785",
+        "created_at": "2024-12-06T12:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T13:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865016988369850785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kbuopiYFJV",
+              "end": 42,
+              "expanded_url": "https://x.com/N552AA/status/1865016988369850785/photo/1",
+              "media_key": "3_1865016984666279936",
+              "start": 19,
+              "url": "https://t.co/kbuopiYFJV"
+            },
+            {
+              "display_url": "pic.x.com/kbuopiYFJV",
+              "end": 42,
+              "expanded_url": "https://x.com/N552AA/status/1865016988369850785/photo/1",
+              "media_key": "3_1865016985459003395",
+              "start": 19,
+              "url": "https://t.co/kbuopiYFJV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865016988369850785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 901,
+          "like_count": 22,
+          "quote_count": 8,
+          "reply_count": 16,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "3g亚硝酸钠应该够了吧 还有一把药呢 https://t.co/kbuopiYFJV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "A sweet soul\n阿棄的性別就是阿棄\n可爱即是正义\n社交软件重度依赖😣\n随缘回fo\n精神状态时好时坏，所以你能看到两个不同的我\n喜欢和推友们在一起，有你们在就不会孤独\n❗请注意，互fo≠同意对方立场；取fo我请双取，谢谢！\n分身@mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 118,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "https://mikachan.us.kg/",
+                "start": 0,
+                "url": "https://t.co/yUfVtUE4yg"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "是阿棄喵🥺♥️",
+        "pinned_tweet_id": "1862810670238154974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852745129033093120/bPab9bQm_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1227,
+          "following_count": 756,
+          "like_count": 93064,
+          "listed_count": 2,
+          "media_count": 640,
+          "tweet_count": 3336
+        },
+        "url": "https://t.co/yUfVtUE4yg",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T15:33:18.000Z",
+        "description": "09/MTX/ENTP-T/个人blog制作中/pronoun:she|her/pre-IB高一生/reHRT:2024/11/15/坐标上海QQ:234559943/发电小号: @N732FE /抱抱最最可爱的姐姐: @yizhikapaiqaq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 90,
+                "username": "N732FE"
+              },
+              {
+                "end": 124,
+                "start": 110,
+                "username": "yizhikapaiqaq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "n552aa.github.io",
+                "end": 23,
+                "expanded_url": "http://n552aa.github.io",
+                "start": 0,
+                "url": "https://t.co/zkiZZtLj51"
+              }
+            ]
+          }
+        },
+        "id": "1817584080437014528",
+        "location": "距离你0.1μm",
+        "name": "N552AA🏳️‍⚧️",
+        "pinned_tweet_id": "1853743463873065449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861222486119211008/acVum9Tu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 746,
+          "like_count": 1780,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 714
+        },
+        "url": "https://t.co/zkiZZtLj51",
+        "username": "N552AA",
+        "verified": false
+      }
+    ]
+  }
+}

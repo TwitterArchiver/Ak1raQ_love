@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076449503348137985",
+        "3_2076449503348215808"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2076449505806078445",
+    "created_at": "2026-07-12T23:31:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T00:31:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076449505806078445"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dPHB49byX6",
+          "end": 34,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2076449505806078445/photo/1",
+          "media_key": "3_2076449503348137985",
+          "start": 11,
+          "url": "https://t.co/dPHB49byX6"
+        },
+        {
+          "display_url": "pic.x.com/dPHB49byX6",
+          "end": 34,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2076449505806078445/photo/1",
+          "media_key": "3_2076449503348215808",
+          "start": 11,
+          "url": "https://t.co/dPHB49byX6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076449505806078445",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "咱一点都不社会qwq https://t.co/dPHB49byX6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2076449503348137985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNEH0mEaIAEthfk.jpg",
+        "width": 628
+      },
+      {
+        "height": 765,
+        "media_key": "3_2076449503348215808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNEH0mEbUAA9Ugk.jpg",
+        "width": 628
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076449503348137985",
+            "3_2076449503348215808"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2076449505806078445",
+        "created_at": "2026-07-12T23:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T00:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076449505806078445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dPHB49byX6",
+              "end": 34,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2076449505806078445/photo/1",
+              "media_key": "3_2076449503348137985",
+              "start": 11,
+              "url": "https://t.co/dPHB49byX6"
+            },
+            {
+              "display_url": "pic.x.com/dPHB49byX6",
+              "end": 34,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2076449505806078445/photo/1",
+              "media_key": "3_2076449503348215808",
+              "start": 11,
+              "url": "https://t.co/dPHB49byX6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076449505806078445",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咱一点都不社会qwq https://t.co/dPHB49byX6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/留长发中/无糖/向往自由/原创&二创meme/秋月姐姐 @qiuylove/阿堇🕯️@Akatsuki_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "qiuylove"
+              },
+              {
+                "end": 60,
+                "start": 47,
+                "username": "Akatsuki_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "廈門 Amoy",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1381,
+          "following_count": 1043,
+          "like_count": 199280,
+          "listed_count": 3,
+          "media_count": 942,
+          "tweet_count": 7744
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1889570284392309048",
+    "created_at": "2025-02-12T07:00:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T08:00:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889570284392309048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1797089026111098880",
+          "start": 3,
+          "username": "rebirthwingz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889570284392309048",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889564089241800916",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rebirthwingz: thank you to the angel that sent this in. Ill always be here for you guys, so please be here for me. I love you all, sinc…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1889570284392309048",
+        "created_at": "2025-02-12T07:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T08:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889570284392309048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1797089026111098880",
+              "start": 3,
+              "username": "rebirthwingz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889570284392309048",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889564089241800916",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rebirthwingz: thank you to the angel that sent this in. Ill always be here for you guys, so please be here for me. I love you all, sinc…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889564087421640707"
+          ]
+        },
+        "author_id": "1797089026111098880",
+        "conversation_id": "1889564089241800916",
+        "created_at": "2025-02-12T06:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T07:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889564089241800916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ntAWZRboKA",
+              "end": 183,
+              "expanded_url": "https://x.com/rebirthwingz/status/1889564089241800916/photo/1",
+              "media_key": "3_1889564087421640707",
+              "start": 160,
+              "url": "https://t.co/ntAWZRboKA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889564089241800916",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "thank you to the angel that sent this in. Ill always be here for you guys, so please be here for me. I love you all, sincerely, your internet angel, forever ❤️ https://t.co/ntAWZRboKA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/😶‍🌫️Online-only introvert/🌏ZH,EN/🌈Inclusivity/🕊️Love & Peace/😔Not good at chatting/🔄Interact to gain my follow-back/🤫Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 141,
+                "username": "mkc_Cute"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵😺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1586,
+          "following_count": 960,
+          "like_count": 116608,
+          "listed_count": 4,
+          "media_count": 852,
+          "tweet_count": 4491
+        },
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-02T02:13:14.000Z",
+        "description": "https://t.co/FlcgNKRIwU\nINTERNET YAMERO !!\n𓎢𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟\nshe / her        ilmpchan\nhttps://t.co/YM6UdNV74x\n𓎢𓎟𓎟𓎟𓎢𓎟𓎟𓎟𓎢𓎟𓎟𓎟𓎢",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zephyrs.straw.page",
+                "end": 23,
+                "expanded_url": "https://zephyrs.straw.page",
+                "start": 0,
+                "url": "https://t.co/FlcgNKRIwU"
+              },
+              {
+                "display_url": "ko-fi.com/angelznote",
+                "end": 105,
+                "expanded_url": "https://ko-fi.com/angelznote",
+                "start": 82,
+                "url": "https://t.co/YM6UdNV74x"
+              }
+            ]
+          }
+        },
+        "id": "1797089026111098880",
+        "location": "#bpdtwt   ﾉ   #nsotwt ୨୧ ꒱",
+        "name": "𝜗𝜚 ame / kangel.",
+        "pinned_tweet_id": "1887284105970393233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885751997464559617/3z4kB32T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2621,
+          "following_count": 2862,
+          "like_count": 25459,
+          "listed_count": 29,
+          "media_count": 984,
+          "tweet_count": 5423
+        },
+        "username": "rebirthwingz",
+        "verified": false
+      }
+    ]
+  }
+}

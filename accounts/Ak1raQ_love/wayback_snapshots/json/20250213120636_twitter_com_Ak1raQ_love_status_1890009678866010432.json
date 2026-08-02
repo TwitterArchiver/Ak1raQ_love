@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1889948508113010688"
+      ],
+      "media_source_tweet_id": [
+        "1889952651640709331"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "1890009678866010432",
+    "created_at": "2025-02-13T12:06:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-13T13:06:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890009678866010432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1663066129923981312",
+          "start": 3,
+          "username": "Ak1raQ_love"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KB1QDIxHNs",
+          "end": 48,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/1889952651640709331/photo/1",
+          "media_key": "3_1889948508113010688",
+          "start": 25,
+          "url": "https://t.co/KB1QDIxHNs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890009678866010432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889952651640709331",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ak1raQ_love: 要 开 学 了 https://t.co/KB1QDIxHNs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1127,
+        "media_key": "3_1889948508113010688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjpyJ53bAAAE5WC.jpg",
+        "width": 904
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889948508113010688"
+          ],
+          "media_source_tweet_id": [
+            "1889952651640709331"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "1890009678866010432",
+        "created_at": "2025-02-13T12:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T13:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890009678866010432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1663066129923981312",
+              "start": 3,
+              "username": "Ak1raQ_love"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KB1QDIxHNs",
+              "end": 48,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/1889952651640709331/photo/1",
+              "media_key": "3_1889948508113010688",
+              "start": 25,
+              "url": "https://t.co/KB1QDIxHNs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890009678866010432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889952651640709331",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ak1raQ_love: 要 开 学 了 https://t.co/KB1QDIxHNs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889948508113010688"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "1889952651640709331",
+        "created_at": "2025-02-13T08:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T09:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889952651640709331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KB1QDIxHNs",
+              "end": 31,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/1889952651640709331/photo/1",
+              "media_key": "3_1889948508113010688",
+              "start": 8,
+              "url": "https://t.co/KB1QDIxHNs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889952651640709331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1162,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "要 开 学 了 https://t.co/KB1QDIxHNs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/😶‍🌫️Introvert/🖼️Original meme pic/🌏ZH,EN/🌈Love & Peace/😔Not good at chatting/🔄Interact to gain my follow-back/🤫Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 135,
+                "username": "mkc_Cute"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵😺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1593,
+          "following_count": 967,
+          "like_count": 117577,
+          "listed_count": 4,
+          "media_count": 862,
+          "tweet_count": 4527
+        },
+        "username": "Ak1raQ_love",
+        "verified": true
+      }
+    ]
+  }
+}

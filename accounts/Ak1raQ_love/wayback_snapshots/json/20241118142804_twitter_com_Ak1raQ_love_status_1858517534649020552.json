@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1858371726633275785",
+    "created_at": "2024-11-18T14:28:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-18T15:28:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858517534649020552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1560129932524544000",
+          "start": 0,
+          "username": "xijiu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858517534649020552",
+    "in_reply_to_user_id": "1560129932524544000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858371726633275785",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xijiu_ 为啥会往自杀那个方向想呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1858371726633275785",
+        "created_at": "2024-11-18T14:28:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T15:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858517534649020552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1560129932524544000",
+              "start": 0,
+              "username": "xijiu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858517534649020552",
+        "in_reply_to_user_id": "1560129932524544000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858371726633275785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xijiu_ 为啥会往自杀那个方向想呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560129932524544000",
+        "conversation_id": "1858371726633275785",
+        "created_at": "2024-11-18T04:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T05:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858371726633275785"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1858371726633275785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 280,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有看到你们有人在说晚自习逃课的事\n但是你们晚自习老师发现人没请假不见了，真的不会认为你们去自杀然后到处找你嘛…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "A sweet soul\n阿棄的性別就是阿棄\n可爱即是正义\n社交软件重度依赖😣\n随缘回fo\n精神状态时好时坏，所以你能看到两个不同的我\n喜欢和推友们在一起，有你们在就不会孤独\n视奸你们的东西https://t.co/pMLFhL8CF1\n分身@mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 121,
+                "username": "mkc_Cute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg/fdap",
+                "end": 118,
+                "expanded_url": "https://mikachan.us.kg/fdap",
+                "start": 95,
+                "url": "https://t.co/pMLFhL8CF1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "http://mikachan.us.kg",
+                "start": 0,
+                "url": "https://t.co/lSEgpdslQn"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "是阿棄喵🥺♥️",
+        "pinned_tweet_id": "1850545437570470071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852745129033093120/bPab9bQm_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1169,
+          "following_count": 711,
+          "like_count": 89317,
+          "listed_count": 2,
+          "tweet_count": 3212
+        },
+        "url": "https://t.co/lSEgpdslQn",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-18T05:02:26.000Z",
+        "description": "⚧一只在校的高三笨猫|a transgirl| I am who I am,would never be defined🍥|姐姐@han_zi53015|女高杀手，全球可飞，保证把委托人杀死",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 64,
+                "username": "han_zi53015"
+              }
+            ]
+          }
+        },
+        "id": "1560129932524544000",
+        "location": "中国 山东省",
+        "name": "希玖.🍥",
+        "pinned_tweet_id": "1858024741422117307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799273016024846336/s8YOvPfF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2726,
+          "following_count": 782,
+          "like_count": 93585,
+          "listed_count": 1,
+          "tweet_count": 5177
+        },
+        "username": "xijiu_",
+        "verified": false
+      }
+    ]
+  }
+}

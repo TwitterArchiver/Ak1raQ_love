@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1884237913103499706",
+    "created_at": "2025-01-28T15:50:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T16:50:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884267829148672145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1433678976564662273",
+          "start": 0,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884267829148672145",
+    "in_reply_to_user_id": "1433678976564662273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884237913103499706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086 我随便拿捏你家人中间忘了后面忘了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1884237913103499706",
+        "created_at": "2025-01-28T15:50:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T16:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884267829148672145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884267829148672145",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884237913103499706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 我随便拿捏你家人中间忘了后面忘了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884237909454381063",
+            "3_1884237909685067779"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "1884237913103499706",
+        "created_at": "2025-01-28T13:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T14:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884237913103499706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T4RDgT0JV1",
+              "end": 35,
+              "expanded_url": "https://x.com/hsn8086/status/1884237913103499706/photo/1",
+              "media_key": "3_1884237909454381063",
+              "start": 12,
+              "url": "https://t.co/T4RDgT0JV1"
+            },
+            {
+              "display_url": "pic.x.com/T4RDgT0JV1",
+              "end": 35,
+              "expanded_url": "https://x.com/hsn8086/status/1884237913103499706/photo/1",
+              "media_key": "3_1884237909685067779",
+              "start": 12,
+              "url": "https://t.co/T4RDgT0JV1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884237913103499706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2173,
+          "like_count": 38,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我去,感觉看到了zyn https://t.co/T4RDgT0JV1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/🏳️‍⚧️Non-Cisgender/🌈 Diversity & Inclusivity/🕊️Peace & Love/😔Sorry, I'm not good at chatting/Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 117,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "https://mikachan.us.kg/",
+                "start": 0,
+                "url": "https://t.co/yUfVtUE4yg"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄𝕄𝕖𝕠𝕨 #LunarNewYear🧧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1411,
+          "following_count": 857,
+          "like_count": 108816,
+          "listed_count": 3,
+          "media_count": 757,
+          "tweet_count": 4016
+        },
+        "url": "https://t.co/yUfVtUE4yg",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 避难所: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1869317700327199087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32866,
+          "following_count": 904,
+          "like_count": 36450,
+          "listed_count": 90,
+          "media_count": 5543,
+          "tweet_count": 10496
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

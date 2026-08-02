@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1886335294653284386",
+    "created_at": "2025-02-04T06:01:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T07:01:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886656290623250586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1676228046247038976",
+          "start": 0,
+          "username": "1ka16103257"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886656290623250586",
+    "in_reply_to_user_id": "1676228046247038976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886335294653284386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1ka16103257 外圈但我好像没有fo你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1886335294653284386",
+        "created_at": "2025-02-04T06:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T07:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886656290623250586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676228046247038976",
+              "start": 0,
+              "username": "1ka16103257"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886656290623250586",
+        "in_reply_to_user_id": "1676228046247038976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886335294653284386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1ka16103257 外圈但我好像没有fo你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886335289603379200"
+          ]
+        },
+        "author_id": "1676228046247038976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1886335294653284386",
+        "created_at": "2025-02-03T08:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T09:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886335294653284386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinityweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1885796828546822144/Dt7tm4Pe?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1885796828546822144/Dt7tm4Pe?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/ajbPToQlKn"
+            },
+            {
+              "display_url": "pic.x.com/ta90QxijPw",
+              "end": 64,
+              "expanded_url": "https://x.com/1ka16103257/status/1886335294653284386/photo/1",
+              "media_key": "3_1886335289603379200",
+              "start": 41,
+              "url": "https://t.co/ta90QxijPw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886335294653284386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 408,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/ajbPToQlKn https://t.co/ta90QxijPw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/🌏ZH,EN/🏳️‍⚧️Genderfree/🌈 Diversity & Inclusivity/🕊️Love & Peace/😔Sorry, I'm not good at chatting/Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 121,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "https://mikachan.us.kg/",
+                "start": 0,
+                "url": "https://t.co/yUfVtUE4yg"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵😺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1473,
+          "following_count": 901,
+          "like_count": 112821,
+          "listed_count": 4,
+          "media_count": 808,
+          "tweet_count": 4260
+        },
+        "url": "https://t.co/yUfVtUE4yg",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-04T13:55:00.000Z",
+        "description": "初三牲/maimai/鸣潮/喵斯/phigros/cytoid",
+        "id": "1676228046247038976",
+        "location": "Internet",
+        "name": "1ka_",
+        "pinned_tweet_id": "1885942356786221566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885390474627997698/yRuGD_yc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 318,
+          "like_count": 4267,
+          "listed_count": 5,
+          "media_count": 58,
+          "tweet_count": 1487
+        },
+        "username": "1ka16103257",
+        "verified": false
+      }
+    ]
+  }
+}

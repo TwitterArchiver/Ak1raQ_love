@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1874113775823142912"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "1874113879128891650",
+    "created_at": "2024-12-31T15:22:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-31T16:22:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1874113879128891650"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/A9MTcOprD5",
+          "end": 42,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/1874113879128891650/video/1",
+          "media_key": "7_1874113775823142912",
+          "start": 19,
+          "url": "https://t.co/A9MTcOprD5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874113879128891650",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "What's happening?! https://t.co/A9MTcOprD5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20373,
+        "height": 720,
+        "media_key": "7_1874113775823142912",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1874113775823142912/pu/img/ZxyMuZpP-SDCjOgN.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1874113775823142912/pu/vid/avc1/480x270/bSlzCz0BIpI-Hv6Q.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1874113775823142912/pu/vid/avc1/640x360/BTDusWTaOcqQGP1j.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1874113775823142912/pu/vid/avc1/1280x720/5-vK_2vNK_3rTwHc.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1874113775823142912/pu/pl/_ESqB4EG3BdH0yTw.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1874113775823142912"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "1874113879128891650",
+        "created_at": "2024-12-31T15:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T16:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874113879128891650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A9MTcOprD5",
+              "end": 42,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/1874113879128891650/video/1",
+              "media_key": "7_1874113775823142912",
+              "start": 19,
+              "url": "https://t.co/A9MTcOprD5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874113879128891650",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "What's happening?! https://t.co/A9MTcOprD5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "A sweet soul🥺♥️/🏳️‍⚧️Non-Cis/🌏G11N/lang=zh;en/Cuter is better!/Mood swings, but you all make me less lonely!/⚠️Following≠Agreeing⚠️/Private:@mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 140,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtfxyn.news",
+                "end": 23,
+                "expanded_url": "https://mtfxyn.news",
+                "start": 0,
+                "url": "https://t.co/0auRNqezHn"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄𝕄𝕖𝕠𝕨 #NewYear🎆",
+        "pinned_tweet_id": "1871929681479627262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1325,
+          "following_count": 801,
+          "like_count": 100602,
+          "listed_count": 3,
+          "media_count": 696,
+          "tweet_count": 3636
+        },
+        "url": "https://t.co/0auRNqezHn",
+        "username": "Ak1raQ_love",
+        "verified": false
+      }
+    ]
+  }
+}

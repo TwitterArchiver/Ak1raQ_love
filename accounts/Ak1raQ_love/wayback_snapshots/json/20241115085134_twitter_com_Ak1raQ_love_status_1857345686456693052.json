@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1857345686456693052",
+    "created_at": "2024-11-15T08:51:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-15T09:51:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1857345686456693052"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ak1raQ_love/st…",
+          "end": 96,
+          "expanded_url": "https://twitter.com/Ak1raQ_love/status/1856953418730152265",
+          "start": 73,
+          "url": "https://t.co/xekPmuiaxK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857345686456693052",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856953418730152265",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今天早上年段那边还恐吓我们“上车前要金属探测仪一个一个查”实际上压根就没查手机！\n我还信了他们的鬼话，就把手机藏在教室里面，就这样放了一整天啊啊 https://t.co/xekPmuiaxK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1857345686456693052",
+        "created_at": "2024-11-15T08:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T09:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857345686456693052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ak1raQ_love/st…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/Ak1raQ_love/status/1856953418730152265",
+              "start": 73,
+              "url": "https://t.co/xekPmuiaxK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857345686456693052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856953418730152265",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天早上年段那边还恐吓我们“上车前要金属探测仪一个一个查”实际上压根就没查手机！\n我还信了他们的鬼话，就把手机藏在教室里面，就这样放了一整天啊啊 https://t.co/xekPmuiaxK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1856953418730152265",
+        "created_at": "2024-11-14T06:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T07:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856953418730152265"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1856953418730152265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 850,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我们学校明天研学居然说不让带手机\n不过依我看来他们应该是不会查的\n毕竟全校基本上人人要带，要查也差不过来啊\n顺带一提我们班上的讨论已经从“”要不要带“”变更为“”怎么藏了“”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "A sweet soul\n阿棄的性別就是阿棄\n喜欢可爱的事物\n在上高二，好累好痛苦😣\n精神状态时好时坏，所以你能看到两个不同的我\n喜欢和推友们在一起，有你们在就不会孤独\n全自动follower监视https://t.co/pMLFhL8CF1\n分身@mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 124,
+                "username": "mkc_Cute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg/fdap",
+                "end": 121,
+                "expanded_url": "https://mikachan.us.kg/fdap",
+                "start": 98,
+                "url": "https://t.co/pMLFhL8CF1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "http://mikachan.us.kg",
+                "start": 0,
+                "url": "https://t.co/lSEgpdslQn"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "是阿棄喵🥺♥️",
+        "pinned_tweet_id": "1850545437570470071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852745129033093120/bPab9bQm_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1164,
+          "following_count": 704,
+          "like_count": 87592,
+          "listed_count": 2,
+          "tweet_count": 3166
+        },
+        "url": "https://t.co/lSEgpdslQn",
+        "username": "Ak1raQ_love",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076905516438360064"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2076905519831519403",
+    "created_at": "2026-07-14T05:43:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T06:43:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076905519831519403"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2eHJhdpEIP",
+          "end": 51,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2076905519831519403/photo/1",
+          "media_key": "3_2076905516438360064",
+          "start": 28,
+          "url": "https://t.co/2eHJhdpEIP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076905519831519403",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "美国封堵t[.]me的时候为什么不封一下t[.]co（ https://t.co/2eHJhdpEIP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 370,
+        "media_key": "3_2076905516438360064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNKmkDNbkAAPN5j.jpg",
+        "width": 739
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076905516438360064"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2076905519831519403",
+        "created_at": "2026-07-14T05:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T06:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076905519831519403"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2eHJhdpEIP",
+              "end": 51,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2076905519831519403/photo/1",
+              "media_key": "3_2076905516438360064",
+              "start": 28,
+              "url": "https://t.co/2eHJhdpEIP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076905519831519403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "美国封堵t[.]me的时候为什么不封一下t[.]co（ https://t.co/2eHJhdpEIP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/留长发中/无糖/向往自由/原创&二创meme/秋月姐姐 @qiuylove/阿堇🕯️@Akatsuki_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "qiuylove"
+              },
+              {
+                "end": 60,
+                "start": 47,
+                "username": "Akatsuki_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "廈門 Amoy",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1372,
+          "following_count": 1048,
+          "like_count": 199757,
+          "listed_count": 3,
+          "media_count": 952,
+          "tweet_count": 7784
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": true
+      }
+    ]
+  }
+}

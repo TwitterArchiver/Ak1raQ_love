@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1890405011441545431",
+    "created_at": "2025-02-14T14:17:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T15:17:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1890405011441545431"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 0,
+          "tag": "推友情況通報"
+        },
+        {
+          "end": 14,
+          "start": 8,
+          "tag": "中推讣告栏"
+        },
+        {
+          "end": 18,
+          "start": 15,
+          "tag": "注销"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 63,
+          "id": "1243945571796295681",
+          "start": 57,
+          "username": "59ryq"
+        },
+        {
+          "end": 70,
+          "id": "1882056461599326208",
+          "start": 64,
+          "username": "yqua_"
+        },
+        {
+          "end": 77,
+          "id": "1787840172794519552",
+          "start": 71,
+          "username": "ryq59"
+        },
+        {
+          "end": 88,
+          "id": "1731220298610188288",
+          "start": 78,
+          "username": "hereisryq"
+        },
+        {
+          "end": 95,
+          "id": "1545277694325116928",
+          "start": 89,
+          "username": "4cyun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890405011441545431",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#推友情況通報 #中推讣告栏 #注销\nCheck Time: 2025-02-14 22:02:02 CST\n铨\n@59ryq @yqua_ @ryq59 @hereisryq @4cyun\n注销了账号。"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [59ryq].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "59ryq",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "59ryq"
+    },
+    {
+      "detail": "Could not find user with entities.mentions.username: [yqua_].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "yqua_",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "yqua_"
+    },
+    {
+      "detail": "Could not find user with entities.mentions.username: [ryq59].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "ryq59",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "ryq59"
+    },
+    {
+      "detail": "Could not find user with entities.mentions.username: [hereisryq].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "hereisryq",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "hereisryq"
+    },
+    {
+      "detail": "Could not find user with entities.mentions.username: [4cyun].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "4cyun",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "4cyun"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1890405011441545431",
+        "created_at": "2025-02-14T14:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T15:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890405011441545431"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "推友情況通報"
+            },
+            {
+              "end": 14,
+              "start": 8,
+              "tag": "中推讣告栏"
+            },
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "注销"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 63,
+              "id": "1243945571796295681",
+              "start": 57,
+              "username": "59ryq"
+            },
+            {
+              "end": 70,
+              "id": "1882056461599326208",
+              "start": 64,
+              "username": "yqua_"
+            },
+            {
+              "end": 77,
+              "id": "1787840172794519552",
+              "start": 71,
+              "username": "ryq59"
+            },
+            {
+              "end": 88,
+              "id": "1731220298610188288",
+              "start": 78,
+              "username": "hereisryq"
+            },
+            {
+              "end": 95,
+              "id": "1545277694325116928",
+              "start": 89,
+              "username": "4cyun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890405011441545431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#推友情況通報 #中推讣告栏 #注销\nCheck Time: 2025-02-14 22:02:02 CST\n铨\n@59ryq @yqua_ @ryq59 @hereisryq @4cyun\n注销了账号。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/😶‍🌫️Introvert/Highlights➡️Original meme/🌏ZH,EN/🌈Love & Peace/😔Not good at chatting/🔄Interact to gain my follow-back/🤫Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 141,
+                "username": "mkc_Cute"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵😺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1604,
+          "following_count": 974,
+          "like_count": 118595,
+          "listed_count": 4,
+          "media_count": 870,
+          "tweet_count": 4565
+        },
+        "username": "Ak1raQ_love",
+        "verified": true
+      }
+    ]
+  }
+}

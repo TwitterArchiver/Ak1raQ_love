@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1865296298594992128"
+      ],
+      "media_source_tweet_id": [
+        "1865296305565917338"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "1865715313041666509",
+    "created_at": "2024-12-08T11:09:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-08T12:09:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865715313041666509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1646829104078143494",
+          "start": 3,
+          "username": "8EY3rZMN2k78200"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CSQeeLTlY8",
+          "end": 59,
+          "expanded_url": "https://x.com/8EY3rZMN2k78200/status/1865296305565917338/photo/1",
+          "media_key": "3_1865296298594992128",
+          "start": 36,
+          "url": "https://t.co/CSQeeLTlY8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865715313041666509",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865296305565917338",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @8EY3rZMN2k78200: 我要精通C++\n在變了在變了 https://t.co/CSQeeLTlY8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1865296298594992128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeLdGc6bAAALz8c.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865296298594992128"
+          ],
+          "media_source_tweet_id": [
+            "1865296305565917338"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "1865715313041666509",
+        "created_at": "2024-12-08T11:09:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T12:09:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865715313041666509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1646829104078143494",
+              "start": 3,
+              "username": "8EY3rZMN2k78200"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CSQeeLTlY8",
+              "end": 59,
+              "expanded_url": "https://x.com/8EY3rZMN2k78200/status/1865296305565917338/photo/1",
+              "media_key": "3_1865296298594992128",
+              "start": 36,
+              "url": "https://t.co/CSQeeLTlY8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865715313041666509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865296305565917338",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @8EY3rZMN2k78200: 我要精通C++\n在變了在變了 https://t.co/CSQeeLTlY8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865296298594992128"
+          ]
+        },
+        "author_id": "1646829104078143494",
+        "conversation_id": "1865296305565917338",
+        "created_at": "2024-12-07T07:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T08:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865296305565917338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CSQeeLTlY8",
+              "end": 38,
+              "expanded_url": "https://x.com/8EY3rZMN2k78200/status/1865296305565917338/photo/1",
+              "media_key": "3_1865296298594992128",
+              "start": 15,
+              "url": "https://t.co/CSQeeLTlY8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865296305565917338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 4788,
+          "like_count": 154,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "我要精通C++\n在變了在變了 https://t.co/CSQeeLTlY8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "A sweet soul🥺♥️\nAkiraQ's gender is just itself\n可愛即正義！\nSocial media overdoser;\nMutual-Followist\n精神狀態時好時壞，所以你能看到不同的我\n喜歡和你們在一起，就不會孤單了呢\n!注意，互fo≠同意对方立场!\n分身@mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 150,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "https://mikachan.us.kg/",
+                "start": 0,
+                "url": "https://t.co/yUfVtUE4yg"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵 𝓐𝓴𝓲𝓻𝓪𝓠",
+        "pinned_tweet_id": "1862810670238154974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852745129033093120/bPab9bQm_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1237,
+          "following_count": 765,
+          "like_count": 94097,
+          "listed_count": 3,
+          "media_count": 643,
+          "tweet_count": 3365
+        },
+        "url": "https://t.co/yUfVtUE4yg",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-14T10:54:50.000Z",
+        "description": "資工（computer science）大學生，喜歡梗圖、小說、幻想、女裝，喜歡和各種有趣的人聊天，蘿莉控+百合控，intp，都會回跟，會聊政治，但僅限回覆，盡量不吵到不聊政治的人\n(我不是beautifulsoup的作者，只是當暱稱而已)",
+        "id": "1646829104078143494",
+        "location": "Taiwan",
+        "name": "湯湯 beautiful soup（求互fo!!）",
+        "pinned_tweet_id": "1864690737667035216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1693455888768745472/P3GUay9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 3156,
+          "like_count": 64394,
+          "listed_count": 4,
+          "media_count": 400,
+          "tweet_count": 7230
+        },
+        "username": "8EY3rZMN2k78200",
+        "verified": false
+      }
+    ]
+  }
+}

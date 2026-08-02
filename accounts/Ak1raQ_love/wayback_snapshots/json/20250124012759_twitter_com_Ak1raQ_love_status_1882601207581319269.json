@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1882382524133065095",
+    "created_at": "2025-01-24T01:27:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-24T02:27:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882601207581319269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1798595457750360064",
+          "start": 0,
+          "username": "AosoiShiikooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882601207581319269",
+    "in_reply_to_user_id": "1798595457750360064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882600096044634166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AosoiShiikooo 对的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1882382524133065095",
+        "created_at": "2025-01-24T01:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T02:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882601207581319269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1798595457750360064",
+              "start": 0,
+              "username": "AosoiShiikooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882601207581319269",
+        "in_reply_to_user_id": "1798595457750360064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882600096044634166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AosoiShiikooo 对的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798595457750360064",
+        "conversation_id": "1882382524133065095",
+        "created_at": "2025-01-24T01:23:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T02:23:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882600096044634166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882600096044634166",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882382524133065095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak1raQ_love 啥意思 放假还要开个闭学式的意思吗😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/🏳️‍⚧️Non-Cisgender/🌈 Diversity & Inclusivity/😘Peace & Love/⚠️Following≠Agreeing/😔Sorry, I'm not good at chatting/Private: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 140,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "https://mikachan.us.kg/",
+                "start": 0,
+                "url": "https://t.co/yUfVtUE4yg"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄𝕄𝕖𝕠𝕨 #LunarNewYear🧧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1391,
+          "following_count": 845,
+          "like_count": 106126,
+          "listed_count": 3,
+          "media_count": 740,
+          "tweet_count": 3878
+        },
+        "url": "https://t.co/yUfVtUE4yg",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T05:59:19.000Z",
+        "description": "choose life",
+        "id": "1798595457750360064",
+        "location": "髑髏地修女街六號",
+        "name": "苹果奶绿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876868043319726080/u7YiRLfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 204,
+          "like_count": 5011,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 584
+        },
+        "username": "AosoiShiikooo",
+        "verified": false
+      }
+    ]
+  }
+}

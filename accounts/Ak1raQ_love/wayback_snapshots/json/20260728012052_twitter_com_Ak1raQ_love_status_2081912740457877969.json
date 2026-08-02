@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2081900656890392679",
+    "created_at": "2026-07-28T01:20:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T02:20:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081912740457877969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2062401835047211009",
+          "start": 0,
+          "username": "_Depussy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081912740457877969",
+    "in_reply_to_user_id": "2062401835047211009",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081910095655612636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Depussy 🥰🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2081900656890392679",
+        "created_at": "2026-07-28T01:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T02:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081912740457877969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2062401835047211009",
+              "start": 0,
+              "username": "_Depussy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081912740457877969",
+        "in_reply_to_user_id": "2062401835047211009",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081910095655612636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Depussy 🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062401835047211009",
+        "conversation_id": "2081900656890392679",
+        "created_at": "2026-07-28T01:10:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T02:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081910095655612636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081910095655612636",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081900656890392679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak1raQ_love 我我我，原来我已经和你互关了啊那没事了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/留长发中/无糖/向往自由/原创&二创meme/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 31,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": " 苏州/厦门",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9059,
+          "following_count": 1128,
+          "like_count": 205019,
+          "listed_count": 6,
+          "media_count": 1039,
+          "tweet_count": 8199
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-04T05:13:24.000Z",
+        "description": "小药娘 🍥‌／作曲 🎶／前端开发 🖥／照片在亮点✨／乐理教学私 ✉️／想和大家交朋友，求互 fo 🥺🥺🥺／🚪88，私信只回好友的或过门的，请记得看看置顶推文喵～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/De_pussy",
+                "end": 23,
+                "expanded_url": "https://t.me/De_pussy",
+                "start": 0,
+                "url": "https://t.co/PYruwaAzXv"
+              }
+            ]
+          }
+        },
+        "id": "2062401835047211009",
+        "location": "浙江省 杭州市",
+        "name": "超反差管弦乐作曲 (｀・ω・´) 🍥",
+        "pinned_tweet_id": "2065286076605096437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062412735636447232/PHalNa_T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 231,
+          "like_count": 452,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 525
+        },
+        "url": "https://t.co/PYruwaAzXv",
+        "username": "_Depussy",
+        "verified": true
+      }
+    ]
+  }
+}

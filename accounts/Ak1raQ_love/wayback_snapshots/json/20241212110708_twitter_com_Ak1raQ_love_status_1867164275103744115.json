@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1647916016280936451",
+    "created_at": "2024-12-12T11:07:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-12T12:07:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867164275103744115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "251206830",
+          "start": 0,
+          "username": "TOSHINROFFICIAL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867164275103744115",
+    "in_reply_to_user_id": "251206830",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1647916016280936451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TOSHINROFFICIAL 1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1647916016280936451",
+        "created_at": "2024-12-12T11:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T12:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867164275103744115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "251206830",
+              "start": 0,
+              "username": "TOSHINROFFICIAL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867164275103744115",
+        "in_reply_to_user_id": "251206830",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1647916016280936451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TOSHINROFFICIAL 1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1647915978683199488"
+          ]
+        },
+        "author_id": "251206830",
+        "conversation_id": "1647916016280936451",
+        "created_at": "2023-04-17T10:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2023-04-17T11:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1647916016280936451"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "千葉県松戸市",
+              "probability": 0.7641,
+              "start": 12,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Idhta1DTyj",
+              "end": 84,
+              "expanded_url": "https://x.com/TOSHINROFFICIAL/status/1647916016280936451/video/1",
+              "media_key": "7_1647915978683199488",
+              "start": 61,
+              "url": "https://t.co/Idhta1DTyj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1647916016280936451",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 263,
+          "impression_count": 38132,
+          "like_count": 357,
+          "quote_count": 14,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "4月13日午前4時ごろ、千葉県松戸市のマンション敷地内に少女2人が倒れているのが見つかったとかいう自殺配信が衝撃すぎる… https://t.co/Idhta1DTyj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "A sweet soul🥺♥️\nAkiraQ's gender is just itself\n可愛即正義！\nMutual-Followist\n精神狀態時好時壞，所以你能看到不同的我\n喜歡和你們在一起，就不會孤單了呢\n部分日常会发往Bluesky\n!注意，互fo≠同意对方立场!\n分身@mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 141,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "https://mikachan.us.kg/",
+                "start": 0,
+                "url": "https://t.co/yUfVtUE4yg"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵 𝓐𝓴𝓲𝓻𝓪𝓠",
+        "pinned_tweet_id": "1862810670238154974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865724365129805824/2wK-6ZpG_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1238,
+          "following_count": 768,
+          "like_count": 95225,
+          "listed_count": 3,
+          "media_count": 649,
+          "tweet_count": 3397
+        },
+        "url": "https://t.co/yUfVtUE4yg",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2011-02-12T17:20:20.000Z",
+        "description": "TOSHIKUN Official Twitter. Recording&MixEngineer,Musician!!Or Songwriter,Arranger,Drums,piano. 未来へ AcousticVer発売中！司法試験合格者・法律論解説",
+        "id": "251206830",
+        "location": "東京都港区赤坂在住",
+        "name": "TOSHIKUN",
+        "pinned_tweet_id": "1786780222001713403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739903127267299329/cj0Awl85_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 642,
+          "like_count": 671,
+          "listed_count": 17,
+          "media_count": 1711,
+          "tweet_count": 4378
+        },
+        "username": "TOSHINROFFICIAL",
+        "verified": false
+      }
+    ]
+  }
+}

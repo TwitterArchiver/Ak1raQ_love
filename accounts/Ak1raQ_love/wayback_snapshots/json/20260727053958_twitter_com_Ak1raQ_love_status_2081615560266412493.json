@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2081608260461994345",
+    "created_at": "2026-07-27T05:39:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T06:39:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081615560266412493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2035668415231492096",
+          "start": 0,
+          "username": "4rulq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081615560266412493",
+    "in_reply_to_user_id": "2035668415231492096",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081608260461994345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4rulq 🥺🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9171,
+        "height": 720,
+        "media_key": "13_2081608213192163328",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081608213192163328/img/dcXn2_FewMbiK237.jpg",
+        "public_metrics": {
+          "view_count": 24
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081608213192163328/vid/avc1/480x270/fTaYQFLV70ue095u.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081608213192163328/vid/avc1/640x360/zmmSYllAHwXU5L5m.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081608213192163328/vid/avc1/1280x720/0uZWJMNk8kBgYiVN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081608213192163328/pl/3go9nC52CnOZBCMm.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081608213196328960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HONbpB0aUAABIYY.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081608213120856064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HONbpBiasAAEJd2.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081608213192122368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HONbpBzaIAA1I6e.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2081608260461994345",
+        "created_at": "2026-07-27T05:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T06:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081615560266412493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2035668415231492096",
+              "start": 0,
+              "username": "4rulq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081615560266412493",
+        "in_reply_to_user_id": "2035668415231492096",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081608260461994345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4rulq 🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081608213192163328",
+            "3_2081608213196328960",
+            "3_2081608213120856064",
+            "3_2081608213192122368"
+          ]
+        },
+        "author_id": "2035668415231492096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2081608260461994345",
+        "created_at": "2026-07-27T05:10:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T06:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081608260461994345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JYhvtyYNMZ",
+              "end": 39,
+              "expanded_url": "https://x.com/4rulq/status/2081608260461994345/video/1",
+              "media_key": "13_2081608213192163328",
+              "start": 16,
+              "url": "https://t.co/JYhvtyYNMZ"
+            },
+            {
+              "display_url": "pic.x.com/JYhvtyYNMZ",
+              "end": 39,
+              "expanded_url": "https://x.com/4rulq/status/2081608260461994345/video/1",
+              "media_key": "3_2081608213196328960",
+              "start": 16,
+              "url": "https://t.co/JYhvtyYNMZ"
+            },
+            {
+              "display_url": "pic.x.com/JYhvtyYNMZ",
+              "end": 39,
+              "expanded_url": "https://x.com/4rulq/status/2081608260461994345/video/1",
+              "media_key": "3_2081608213120856064",
+              "start": 16,
+              "url": "https://t.co/JYhvtyYNMZ"
+            },
+            {
+              "display_url": "pic.x.com/JYhvtyYNMZ",
+              "end": 39,
+              "expanded_url": "https://x.com/4rulq/status/2081608260461994345/video/1",
+              "media_key": "3_2081608213192122368",
+              "start": 16,
+              "url": "https://t.co/JYhvtyYNMZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081608260461994345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一醬第一次嘗試自殺⋯失敗惹⋯😿 https://t.co/JYhvtyYNMZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/留长发中/无糖/向往自由/原创&二创meme/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 31,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9111,
+          "following_count": 1124,
+          "like_count": 204612,
+          "listed_count": 6,
+          "media_count": 1037,
+          "tweet_count": 8180
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-22T10:42:53.000Z",
+        "description": "一隻路過且無人愛的一醬喵😭🥹\n情感碎碎念\n無助\n需要被愛\n黃推一醬（？）\n接圓角喵\n負面情緒注意⚠️\n中焦重抑\n隨時亖亡（？）\n亖亡時間：半夜\n雌二醇重度依賴\n最愛的姐姐@mapo_q",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 85,
+                "username": "mapo_q"
+              }
+            ]
+          }
+        },
+        "id": "2035668415231492096",
+        "location": "精神衛生中心的封閉病房/醫院ICU/太平間（？）",
+        "name": "不該存在的いいちゃん😾😿",
+        "pinned_tweet_id": "2080030592926892493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055329903961366529/9MXwtaFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 970,
+          "like_count": 4136,
+          "listed_count": 5,
+          "media_count": 159,
+          "tweet_count": 3898
+        },
+        "url": "",
+        "username": "4rulq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076658803081379841"
+      ],
+      "media_source_tweet_id": [
+        "2076658805434417612"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2076844477579468894",
+    "created_at": "2026-07-14T01:41:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T02:41:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076844477579468894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1663066129923981312",
+          "start": 3,
+          "username": "Ak1raQ_love"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ufZYbzlRr9",
+          "end": 53,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2076658805434417612/photo/1",
+          "media_key": "3_2076658803081379841",
+          "start": 30,
+          "url": "https://t.co/ufZYbzlRr9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076844477579468894",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076658805434417612",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ak1raQ_love: 药娘世家be like: https://t.co/ufZYbzlRr9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 658,
+        "media_key": "3_2076658803081379841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHGLcVagAEM3ih.jpg",
+        "width": 466
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076658803081379841"
+          ],
+          "media_source_tweet_id": [
+            "2076658805434417612"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2076844477579468894",
+        "created_at": "2026-07-14T01:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T02:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076844477579468894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1663066129923981312",
+              "start": 3,
+              "username": "Ak1raQ_love"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ufZYbzlRr9",
+              "end": 53,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2076658805434417612/photo/1",
+              "media_key": "3_2076658803081379841",
+              "start": 30,
+              "url": "https://t.co/ufZYbzlRr9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076844477579468894",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076658805434417612",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ak1raQ_love: 药娘世家be like: https://t.co/ufZYbzlRr9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076658803081379841"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2076658805434417612",
+        "created_at": "2026-07-13T13:23:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T14:23:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076658805434417612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ufZYbzlRr9",
+              "end": 36,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2076658805434417612/photo/1",
+              "media_key": "3_2076658803081379841",
+              "start": 13,
+              "url": "https://t.co/ufZYbzlRr9"
+            },
+            {
+              "display_url": "x.com/tatanakots/sta…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/tatanakots/status/2076653784550474192",
+              "start": 37,
+              "url": "https://t.co/lxjZJnLQnv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076658805434417612",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 561,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076653784550474192",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "药娘世家be like: https://t.co/ufZYbzlRr9 https://t.co/lxjZJnLQnv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/留长发中/无糖/向往自由/原创&二创meme/秋月姐姐 @qiuylove/阿堇🕯️@Akatsuki_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "qiuylove"
+              },
+              {
+                "end": 60,
+                "start": 47,
+                "username": "Akatsuki_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "廈門 Amoy",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1372,
+          "following_count": 1047,
+          "like_count": 199614,
+          "listed_count": 3,
+          "media_count": 948,
+          "tweet_count": 7773
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": true
+      }
+    ]
+  }
+}

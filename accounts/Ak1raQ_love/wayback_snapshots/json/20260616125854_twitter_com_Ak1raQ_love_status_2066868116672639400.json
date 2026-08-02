@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066868111706558464"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2066867652224856514",
+    "created_at": "2026-06-16T12:58:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T13:58:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066868116672639400"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2lmYG5ejbQ",
+          "end": 23,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2066868116672639400/photo/1",
+          "media_key": "3_2066868111706558464",
+          "start": 0,
+          "url": "https://t.co/2lmYG5ejbQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066868116672639400",
+    "in_reply_to_user_id": "1663066129923981312",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066867652224856514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/2lmYG5ejbQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066868111706558464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK79mMvaEAAAYE4.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066865069984718849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK761JcaIAETaTr.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066868111706558464"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066867652224856514",
+        "created_at": "2026-06-16T12:58:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T13:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066868116672639400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2lmYG5ejbQ",
+              "end": 23,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2066868116672639400/photo/1",
+              "media_key": "3_2066868111706558464",
+              "start": 0,
+              "url": "https://t.co/2lmYG5ejbQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066868116672639400",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066867652224856514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/2lmYG5ejbQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066865069984718849"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066867652224856514",
+        "created_at": "2026-06-16T12:57:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T13:57:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066867652224856514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0HXRFdXjOc",
+              "end": 63,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2066867652224856514/photo/1",
+              "media_key": "3_2066865069984718849",
+              "start": 40,
+              "url": "https://t.co/0HXRFdXjOc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066867652224856514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "神经啊...哎 看着烦b了还没两分钟，想着算了，回去解掉吧，怎么给我挂了hhh https://t.co/0HXRFdXjOc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Utopia, Texas, United States",
+              "geo": {
+                "coordinates": [
+                  -99.52699,
+                  29.61523
+                ],
+                "type": "Point"
+              },
+              "locality": "Utopia",
+              "region": "Texas",
+              "sub_region": "Uvalde County"
+            }
+          ]
+        },
+        "description": "永不言弃💫 / 爱、温情、勇气、美好 / 没有吃糖 / 秋月姐姐 @qiuylove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "qiuylove"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://mikachan.dpdns.org/",
+                "start": 0,
+                "url": "https://t.co/3Yo0IgyCS7"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Utopia",
+        "name": "💫🌸𝗔𝗸𝗶𝗿𝗮𝗺𝗲𝗻𝗮𝗶🍥🍰",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050925033426669568/m2nDg9MR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1308,
+          "following_count": 993,
+          "like_count": 189623,
+          "listed_count": 3,
+          "media_count": 834,
+          "tweet_count": 7039
+        },
+        "url": "https://t.co/3Yo0IgyCS7",
+        "username": "Ak1raQ_love",
+        "verified": false
+      }
+    ]
+  }
+}

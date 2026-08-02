@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078473691617525760"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2078472707734388781",
+    "created_at": "2026-07-18T13:35:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T14:35:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078473693957926994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1303335410609790976",
+          "start": 0,
+          "username": "Rococo90933671"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/n7vIBHUB9q",
+          "end": 79,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2078473693957926994/photo/1",
+          "media_key": "3_2078473691617525760",
+          "start": 56,
+          "url": "https://t.co/n7vIBHUB9q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078473693957926994",
+    "in_reply_to_user_id": "1303335410609790976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078472707734388781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rococo90933671 对，英文叫TW Mobile，应该是台湾移动的意思（？ 大哥大只是那边的叫法吧 https://t.co/n7vIBHUB9q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078473691617525760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNg4z2_bgAAYrn4.jpg",
+        "width": 931
+      },
+      {
+        "height": 893,
+        "media_key": "3_2078472696611196928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNg358Tb0AALCHW.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078473691617525760"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2078472707734388781",
+        "created_at": "2026-07-18T13:35:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T14:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078473693957926994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n7vIBHUB9q",
+              "end": 79,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2078473693957926994/photo/1",
+              "media_key": "3_2078473691617525760",
+              "start": 56,
+              "url": "https://t.co/n7vIBHUB9q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078473693957926994",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078472707734388781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 对，英文叫TW Mobile，应该是台湾移动的意思（？ 大哥大只是那边的叫法吧 https://t.co/n7vIBHUB9q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078472696611196928"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2078472707734388781",
+        "created_at": "2026-07-18T13:31:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T14:31:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078472707734388781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JSHEYIAxNA",
+              "end": 48,
+              "expanded_url": "https://x.com/Rococo90933671/status/2078472707734388781/photo/1",
+              "media_key": "3_2078472696611196928",
+              "start": 25,
+              "url": "https://t.co/JSHEYIAxNA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078472707734388781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽，台湾大哥大是真实存在的？还以为是网梗P图呢 https://t.co/JSHEYIAxNA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/留长发中/无糖/向往自由/原创&二创meme/秋月姐姐 @qiuylove/阿堇🕯️@Akatsuki_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "qiuylove"
+              },
+              {
+                "end": 60,
+                "start": 47,
+                "username": "Akatsuki_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "廈門 Amoy",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1403,
+          "following_count": 1055,
+          "like_count": 201124,
+          "listed_count": 2,
+          "media_count": 976,
+          "tweet_count": 7914
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13340,
+          "following_count": 3193,
+          "like_count": 43887,
+          "listed_count": 40,
+          "media_count": 4716,
+          "tweet_count": 24027
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2069394888584736927",
+    "created_at": "2026-06-23T13:17:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T14:17:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069409515334971841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1676119892230037509",
+          "start": 0,
+          "username": "Ayyyyano"
+        },
+        {
+          "end": 19,
+          "id": "1948779210937683968",
+          "start": 10,
+          "username": "NoirQuac"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069409515334971841",
+    "in_reply_to_user_id": "1676119892230037509",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069408876248945003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayyyyano @NoirQuac 诶诶是的喵\n另外看下私信）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2069394888584736927",
+        "created_at": "2026-06-23T13:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T14:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069409515334971841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1676119892230037509",
+              "start": 0,
+              "username": "Ayyyyano"
+            },
+            {
+              "end": 19,
+              "id": "1948779210937683968",
+              "start": 10,
+              "username": "NoirQuac"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069409515334971841",
+        "in_reply_to_user_id": "1676119892230037509",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069408876248945003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayyyyano @NoirQuac 诶诶是的喵\n另外看下私信）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676119892230037509",
+        "conversation_id": "2069394888584736927",
+        "created_at": "2026-06-23T13:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T14:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069408876248945003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            },
+            {
+              "end": 22,
+              "id": "1948779210937683968",
+              "start": 13,
+              "username": "NoirQuac"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069408876248945003",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069405775689355672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak1raQ_love @NoirQuac 应该都是福建 )"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "08年Transfem🍥🏳️‍⚧️/断糖/炸柜/infp/泛性恋/家长不管党？/hrt 25.9.5/无证/留长发中/IT&AI/贴贴/互fo喵/闺蜜@qiuylove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "qiuylove"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://mikachan.dpdns.org/",
+                "start": 0,
+                "url": "https://t.co/IMLmPxFeyX"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Hokkien 閩南",
+        "name": "弃羽酱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1319,
+          "following_count": 999,
+          "like_count": 191993,
+          "listed_count": 3,
+          "media_count": 851,
+          "tweet_count": 7224
+        },
+        "url": "https://t.co/IMLmPxFeyX",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "Into the World / 请看置顶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nekro.top",
+                "end": 23,
+                "expanded_url": "https://www.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/INXz8Am8Dg"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "location": "幻想乡",
+        "name": "Pavlova",
+        "pinned_tweet_id": "2064340191507337636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 262,
+          "like_count": 4715,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 283
+        },
+        "url": "https://t.co/INXz8Am8Dg",
+        "username": "Ayyyyano",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-25T16:16:41.000Z",
+        "description": "主要爱好maimai和一些移动端音游，🉑扩列喵，无🍬mtx，可以互fo，有点轻度沟通障碍，纯良，高三ing",
+        "id": "1948779210937683968",
+        "location": " ",
+        "name": "相合伞🍀🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039015444775137281/3uelDdsY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 186,
+          "like_count": 1046,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 224
+        },
+        "url": "",
+        "username": "NoirQuac",
+        "verified": false
+      }
+    ]
+  }
+}

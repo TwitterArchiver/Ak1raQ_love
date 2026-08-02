@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078005038392459265",
+        "3_2078005037880782848",
+        "3_2078005038618939392"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2078005063470190622",
+    "created_at": "2026-07-17T06:33:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T07:33:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078005063470190622"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 14,
+          "tag": "阿弃乱逛"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/L6QsyqEkfh",
+          "end": 47,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2078005063470190622/photo/1",
+          "media_key": "3_2078005038392459265",
+          "start": 24,
+          "url": "https://t.co/L6QsyqEkfh"
+        },
+        {
+          "display_url": "pic.x.com/L6QsyqEkfh",
+          "end": 47,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2078005063470190622/photo/1",
+          "media_key": "3_2078005037880782848",
+          "start": 24,
+          "url": "https://t.co/L6QsyqEkfh"
+        },
+        {
+          "display_url": "pic.x.com/L6QsyqEkfh",
+          "end": 47,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2078005063470190622/photo/1",
+          "media_key": "3_2078005038618939392",
+          "start": 24,
+          "url": "https://t.co/L6QsyqEkfh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078005063470190622",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这段时间 最后一个在厦门的 #阿弃乱逛\n五缘湾 https://t.co/L6QsyqEkfh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2078005038392459265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNaOkprawAEfbel.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2078005037880782848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNaOknxbMAAdP-o.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2078005038618939392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNaOkqhakAAoWRi.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078005038392459265",
+            "3_2078005037880782848",
+            "3_2078005038618939392"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2078005063470190622",
+        "created_at": "2026-07-17T06:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T07:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078005063470190622"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "阿弃乱逛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L6QsyqEkfh",
+              "end": 47,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2078005063470190622/photo/1",
+              "media_key": "3_2078005038392459265",
+              "start": 24,
+              "url": "https://t.co/L6QsyqEkfh"
+            },
+            {
+              "display_url": "pic.x.com/L6QsyqEkfh",
+              "end": 47,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2078005063470190622/photo/1",
+              "media_key": "3_2078005037880782848",
+              "start": 24,
+              "url": "https://t.co/L6QsyqEkfh"
+            },
+            {
+              "display_url": "pic.x.com/L6QsyqEkfh",
+              "end": 47,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2078005063470190622/photo/1",
+              "media_key": "3_2078005038618939392",
+              "start": 24,
+              "url": "https://t.co/L6QsyqEkfh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078005063470190622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这段时间 最后一个在厦门的 #阿弃乱逛\n五缘湾 https://t.co/L6QsyqEkfh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/留长发中/无糖/向往自由/原创&二创meme/秋月姐姐 @qiuylove/阿堇🕯️@Akatsuki_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "qiuylove"
+              },
+              {
+                "end": 60,
+                "start": 47,
+                "username": "Akatsuki_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1394,
+          "following_count": 1055,
+          "like_count": 200558,
+          "listed_count": 2,
+          "media_count": 968,
+          "tweet_count": 7861
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": true
+      }
+    ]
+  }
+}

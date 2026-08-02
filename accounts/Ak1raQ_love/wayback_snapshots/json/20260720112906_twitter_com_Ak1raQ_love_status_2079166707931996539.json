@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079166688843759616"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2079166707931996539",
+    "created_at": "2026-07-20T11:29:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T12:29:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079166707931996539"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/P95t1629FX",
+          "end": 35,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2079166707931996539/photo/1",
+          "media_key": "3_2079166688843759616",
+          "start": 12,
+          "url": "https://t.co/P95t1629FX"
+        },
+        {
+          "display_url": "x.com/SnozakiSakura/…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/SnozakiSakura/status/2078930114738585658",
+          "start": 36,
+          "url": "https://t.co/CWLuv9ggkj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079166707931996539",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078930114738585658",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还真是这样🤯 在711 https://t.co/P95t1629FX https://t.co/CWLuv9ggkj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079166688843759616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqvFm1bgAA3hB0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079166688843759616"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2079166707931996539",
+        "created_at": "2026-07-20T11:29:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079166707931996539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P95t1629FX",
+              "end": 35,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2079166707931996539/photo/1",
+              "media_key": "3_2079166688843759616",
+              "start": 12,
+              "url": "https://t.co/P95t1629FX"
+            },
+            {
+              "display_url": "x.com/SnozakiSakura/…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/SnozakiSakura/status/2078930114738585658",
+              "start": 36,
+              "url": "https://t.co/CWLuv9ggkj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079166707931996539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078930114738585658",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还真是这样🤯 在711 https://t.co/P95t1629FX https://t.co/CWLuv9ggkj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1573704119516176384",
+        "conversation_id": "2078930114738585658",
+        "created_at": "2026-07-19T19:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T20:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078930114738585658"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/a1onesky/statu…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/a1onesky/status/2078556966851645758",
+              "start": 36,
+              "url": "https://t.co/5Rk5De7WJc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078930114738585658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1292,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078556966851645758",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我在711做过兼职，这种冰柜后面其实是冷库，要定期给冰柜里面的货架补货 https://t.co/5Rk5De7WJc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/留长发中/无糖/向往自由/原创&二创meme/秋月姐姐 @qiuylove/阿堇🕯️@Akatsuki_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "qiuylove"
+              },
+              {
+                "end": 60,
+                "start": 47,
+                "username": "Akatsuki_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "廈門 Amoy",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1440,
+          "following_count": 1066,
+          "like_count": 201770,
+          "listed_count": 2,
+          "media_count": 990,
+          "tweet_count": 7975
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-24T16:01:21.000Z",
+        "description": "私は地雷系女の子です～🌸 | She/Her | 分享段子和有趣的故事 ｜好看的自拍照都在“亮点”里🍧｜Living today with the hope that tomorrow will be a little better🩷💙",
+        "id": "1573704119516176384",
+        "location": "魔女岛",
+        "name": "草莓泡芙🍀",
+        "pinned_tweet_id": "2076297327455981834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070709599590920192/O5wJU2Nl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96107,
+          "following_count": 2077,
+          "like_count": 7074,
+          "listed_count": 204,
+          "media_count": 380,
+          "tweet_count": 3311
+        },
+        "url": "",
+        "username": "SnozakiSakura",
+        "verified": true
+      }
+    ]
+  }
+}

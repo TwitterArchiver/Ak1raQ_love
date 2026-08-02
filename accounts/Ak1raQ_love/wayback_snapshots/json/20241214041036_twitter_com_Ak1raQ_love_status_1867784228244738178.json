@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1867775927931089125",
+    "created_at": "2024-12-14T04:10:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-14T05:10:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867784228244738178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "908312740455907330",
+          "start": 0,
+          "username": "Beta_Estradiol"
+        },
+        {
+          "end": 30,
+          "id": "1843518394056015872",
+          "start": 16,
+          "username": "xxxx123yyy545"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867784228244738178",
+    "in_reply_to_user_id": "908312740455907330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867782522496856463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Beta_Estradiol @xxxx123yyy545 你锁推了人家怎么看得到（）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1867782522496856463].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1867782522496856463",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1867782522496856463"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1867775927931089125",
+        "created_at": "2024-12-14T04:10:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T05:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867784228244738178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "908312740455907330",
+              "start": 0,
+              "username": "Beta_Estradiol"
+            },
+            {
+              "end": 30,
+              "id": "1843518394056015872",
+              "start": 16,
+              "username": "xxxx123yyy545"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867784228244738178",
+        "in_reply_to_user_id": "908312740455907330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867782522496856463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Beta_Estradiol @xxxx123yyy545 你锁推了人家怎么看得到（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "A sweet soul🥺♥️ AkiraQ's gender is just itself 可愛即正義！ 互fo主义者 精神狀態時好時壞，所以你能看到不同的我 喜歡和你們在一起，就不會孤單了呢 部分日常会发往Bluesky !注意，互fo≠同意对方立场! 分身@mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 131,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "https://mikachan.us.kg/",
+                "start": 0,
+                "url": "https://t.co/yUfVtUE4yg"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵 𝓐𝓴𝓲𝓻𝓪𝓠",
+        "pinned_tweet_id": "1862810670238154974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865724365129805824/2wK-6ZpG_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1249,
+          "following_count": 776,
+          "like_count": 96071,
+          "listed_count": 3,
+          "media_count": 653,
+          "tweet_count": 3421
+        },
+        "url": "https://t.co/yUfVtUE4yg",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-14T12:53:27.000Z",
+        "description": "里推/一只09的MtF噢/未炸柜但被迫断糖/化竞生/INFP/sub/视觉设计爱好者/前世600+fo/只通过熟悉的人的follow/因为被晶格找了所以锁推  姐姐：@illusory_p @iluvtale 提问箱 https://t.co/XVltslmm7k",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 83,
+                "username": "illusory_p"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "iluvtale"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/beta_estradiol",
+                "end": 132,
+                "expanded_url": "https://ngl.link/beta_estradiol",
+                "start": 109,
+                "url": "https://t.co/XVltslmm7k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/playlist/0ETzV…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/playlist/0ETzVTcvLjjxCuzT9xMjmV?si=367bbafcc369445b",
+                "start": 0,
+                "url": "https://t.co/qLU5z1lJqT"
+              }
+            ]
+          }
+        },
+        "id": "908312740455907330",
+        "location": "Seattle, WA",
+        "name": "🍥小秋月🏳️‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821401822323679232/gjmZ-8lh_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 191,
+          "like_count": 991,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 114
+        },
+        "url": "https://t.co/qLU5z1lJqT",
+        "username": "Beta_Estradiol",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T05:06:59.000Z",
+        "description": "百合无限好！\n\n持证含糖xyn / 日常发疯 / 偶尔鉴证 / 是Gal重度爱好者 / 热爱猎奇血图 / 高考政治满分者 / 战双最弱者 / 巅峰战舰提尔曼首铸者 / 喜欢天依南北 / 喜欢被调教（bushi\n\n知识拥有：文学 电影 戏剧 高中生化竞赛（？欢迎交流\n求灌注，只要是好康的同类通通回关！",
+        "id": "1843518394056015872",
+        "location": "后海旁边地道老北京人",
+        "name": "纪~伊~🏳‍⚧️",
+        "pinned_tweet_id": "1867775927931089125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843519143460646915/nykInaID_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 249,
+          "like_count": 297,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 275
+        },
+        "username": "xxxx123yyy545",
+        "verified": false
+      }
+    ]
+  }
+}

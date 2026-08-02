@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2069114517813137677",
+    "created_at": "2026-06-23T10:48:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T11:48:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069371986254737481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1650521797299953665",
+          "start": 0,
+          "username": "yorei_puewwoc"
+        },
+        {
+          "end": 30,
+          "id": "932061213831266304",
+          "start": 15,
+          "username": "ShiinaYuriChan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069371986254737481",
+    "in_reply_to_user_id": "1663066129923981312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069366059266981890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yorei_puewwoc @ShiinaYuriChan 药味变大喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2069114517813137677",
+        "created_at": "2026-06-23T10:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069371986254737481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1650521797299953665",
+              "start": 0,
+              "username": "yorei_puewwoc"
+            },
+            {
+              "end": 30,
+              "id": "932061213831266304",
+              "start": 15,
+              "username": "ShiinaYuriChan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069371986254737481",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069366059266981890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yorei_puewwoc @ShiinaYuriChan 药味变大喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2069114517813137677",
+        "created_at": "2026-06-23T10:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069366059266981890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1650521797299953665",
+              "start": 0,
+              "username": "yorei_puewwoc"
+            },
+            {
+              "end": 30,
+              "id": "932061213831266304",
+              "start": 15,
+              "username": "ShiinaYuriChan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069366059266981890",
+        "in_reply_to_user_id": "1650521797299953665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069360684933206151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yorei_puewwoc @ShiinaYuriChan 窝突然想把bio改成那种了）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Utopia, Texas, United States",
+              "geo": {
+                "coordinates": [
+                  -99.52699,
+                  29.61523
+                ],
+                "type": "Point"
+              },
+              "locality": "Utopia",
+              "region": "Texas",
+              "sub_region": "Uvalde County"
+            }
+          ]
+        },
+        "description": "08年Transfem🍥🏳️‍⚧️/断糖/炸柜/infp/泛性恋/家长不管党？/hrt 25.9.5/无证/留长发中/梦想是成为女孩子/闺蜜@qiuylove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "qiuylove"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://mikachan.dpdns.org/",
+                "start": 0,
+                "url": "https://t.co/IMLmPxEGJp"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Utopia",
+        "name": "弃羽酱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050925033426669568/m2nDg9MR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1312,
+          "following_count": 999,
+          "like_count": 191902,
+          "listed_count": 3,
+          "media_count": 850,
+          "tweet_count": 7216
+        },
+        "url": "https://t.co/IMLmPxEGJp",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-24T15:27:27.000Z",
+        "description": "Yorei Puewwoc ｜ 呼唤我的名字吧 晚餐铃",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.yulingko.moe",
+                "end": 23,
+                "expanded_url": "https://blog.yulingko.moe/",
+                "start": 0,
+                "url": "https://t.co/t6Y3dpb1nq"
+              }
+            ]
+          }
+        },
+        "id": "1650521797299953665",
+        "name": "与岭",
+        "pinned_tweet_id": "2026491877558735319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062555853778309120/Zs3A2qZZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1270,
+          "following_count": 722,
+          "like_count": 79727,
+          "listed_count": 3,
+          "media_count": 933,
+          "tweet_count": 15257
+        },
+        "url": "https://t.co/t6Y3dpb1nq",
+        "username": "yorei_puewwoc",
+        "verified": true
+      },
+      {
+        "created_at": "2017-11-19T01:41:25.000Z",
+        "description": "「Nekomimi Otoko」/ 🐶 @ShiinaRanChan /",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 20,
+                "username": "ShiinaRanChan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yuris.moe",
+                "end": 23,
+                "expanded_url": "http://yuris.moe",
+                "start": 0,
+                "url": "https://t.co/zGwBhKMlOL"
+              }
+            ]
+          }
+        },
+        "id": "932061213831266304",
+        "location": "Bellevue, WA",
+        "name": "椎名ゆり🌇",
+        "pinned_tweet_id": "1926916679725908239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1520808387981709312/4zMtoUt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4628,
+          "following_count": 1460,
+          "like_count": 72914,
+          "listed_count": 17,
+          "media_count": 187,
+          "tweet_count": 1699
+        },
+        "url": "https://t.co/zGwBhKMlOL",
+        "username": "ShiinaYuriChan",
+        "verified": false
+      }
+    ]
+  }
+}

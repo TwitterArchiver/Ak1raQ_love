@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077995783165722624"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2077951256623247548",
+    "created_at": "2026-07-17T05:56:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T06:56:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077995785892032611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1781893716183060480",
+          "start": 0,
+          "username": "akihiro_0313"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/S54NURjTXQ",
+          "end": 50,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2077995785892032611/photo/1",
+          "media_key": "3_2077995783165722624",
+          "start": 27,
+          "url": "https://t.co/S54NURjTXQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077995785892032611",
+    "in_reply_to_user_id": "1781893716183060480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077951256623247548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akihiro_0313 流量一天比一天少怎么办😭 https://t.co/S54NURjTXQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 860,
+        "media_key": "3_2077995783165722624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNaGJ7RaQAAWDNX.jpg",
+        "width": 1079
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2077951249794924544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZdpvibAAAYLVG.jpg",
+        "width": 1127
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077995783165722624"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2077951256623247548",
+        "created_at": "2026-07-17T05:56:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T06:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077995785892032611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781893716183060480",
+              "start": 0,
+              "username": "akihiro_0313"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S54NURjTXQ",
+              "end": 50,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2077995785892032611/photo/1",
+              "media_key": "3_2077995783165722624",
+              "start": 27,
+              "url": "https://t.co/S54NURjTXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077995785892032611",
+        "in_reply_to_user_id": "1781893716183060480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077951256623247548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akihiro_0313 流量一天比一天少怎么办😭 https://t.co/S54NURjTXQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077951249794924544"
+          ]
+        },
+        "author_id": "1781893716183060480",
+        "conversation_id": "2077951256623247548",
+        "created_at": "2026-07-17T02:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T03:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077951256623247548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LmFgFRGhcK",
+              "end": 42,
+              "expanded_url": "https://x.com/akihiro_0313/status/2077951256623247548/photo/1",
+              "media_key": "3_2077951249794924544",
+              "start": 19,
+              "url": "https://t.co/LmFgFRGhcK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077951256623247548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近每天是这样的，流量慢慢慢慢慢慢来 https://t.co/LmFgFRGhcK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/留长发中/无糖/向往自由/原创&二创meme/秋月姐姐 @qiuylove/阿堇🕯️@Akatsuki_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "qiuylove"
+              },
+              {
+                "end": 60,
+                "start": 47,
+                "username": "Akatsuki_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1394,
+          "following_count": 1055,
+          "like_count": 200546,
+          "listed_count": 2,
+          "media_count": 967,
+          "tweet_count": 7857
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-21T03:52:38.000Z",
+        "description": "あきひろ ☄️\n🇨🇳｜15\n\n🌌 アニメと宇宙が好き\n💻 プログラミング\n✏️ 日本語勉強中\n\n気軽に絡んでください😼✨\n\n🐾 大切な親友がいます➰\n\nDM◎ & Telegram↓\nhttps://t.co/RV6X4WIAjP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/akihiro_0313",
+                "end": 115,
+                "expanded_url": "http://t.me/akihiro_0313",
+                "start": 92,
+                "url": "https://t.co/RV6X4WIAjP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akihiro0313",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akihiro0313",
+                "start": 0,
+                "url": "https://t.co/5zPAH9OdaS"
+              }
+            ]
+          }
+        },
+        "id": "1781893716183060480",
+        "location": "A happy world...",
+        "name": "💁あきひろくんです✨",
+        "pinned_tweet_id": "2071854934258311450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076871250207719424/mEmVLdQH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1135,
+          "following_count": 1716,
+          "like_count": 9612,
+          "listed_count": 0,
+          "media_count": 969,
+          "tweet_count": 7056
+        },
+        "url": "https://t.co/5zPAH9OdaS",
+        "username": "akihiro_0313",
+        "verified": true
+      }
+    ]
+  }
+}

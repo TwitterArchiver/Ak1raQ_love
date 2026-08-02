@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070106462278606848"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2070106476065276244",
+    "created_at": "2026-06-25T11:26:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T12:26:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070106476065276244"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/w0YBOwGSKq",
+          "end": 42,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2070106476065276244/photo/1",
+          "media_key": "3_2070106462278606848",
+          "start": 19,
+          "url": "https://t.co/w0YBOwGSKq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070106476065276244",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "文明有喵？有文明喵？没有喵？不知道喵 https://t.co/w0YBOwGSKq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070106462278606848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLp-3AtbYAAazDX.jpg",
+        "width": 1992
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070106462278606848"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2070106476065276244",
+        "created_at": "2026-06-25T11:26:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T12:26:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070106476065276244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w0YBOwGSKq",
+              "end": 42,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2070106476065276244/photo/1",
+              "media_key": "3_2070106462278606848",
+              "start": 19,
+              "url": "https://t.co/w0YBOwGSKq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070106476065276244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "文明有喵？有文明喵？没有喵？不知道喵 https://t.co/w0YBOwGSKq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/Transfem/留长发中/无糖/IT&AI/一点点二次元/可爱宝宝互fo/秋月姐姐 @qiuylove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 48,
+                "username": "qiuylove"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://mikachan.dpdns.org/",
+                "start": 0,
+                "url": "https://t.co/IMLmPxFeyX"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Hokkien 閩南",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1345,
+          "following_count": 1007,
+          "like_count": 192419,
+          "listed_count": 3,
+          "media_count": 855,
+          "tweet_count": 7266
+        },
+        "url": "https://t.co/IMLmPxFeyX",
+        "username": "Ak1raQ_love",
+        "verified": false
+      }
+    ]
+  }
+}

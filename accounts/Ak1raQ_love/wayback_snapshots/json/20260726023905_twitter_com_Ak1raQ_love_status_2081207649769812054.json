@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2081207649769812054",
+    "created_at": "2026-07-26T02:39:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T03:39:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081207649769812054"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086k/statu…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/hsn8086k/status/2080953657512935687",
+          "start": 34,
+          "url": "https://t.co/UmlHa4jd9Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081207649769812054",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080953657512935687",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "我提出一个观点，如果说这几天谁往长三角扔一颗核弹，中推就变成91了 https://t.co/UmlHa4jd9Y"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2081207649769812054",
+        "created_at": "2026-07-26T02:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T03:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081207649769812054"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2080953657512935687",
+              "start": 34,
+              "url": "https://t.co/UmlHa4jd9Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081207649769812054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080953657512935687",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "我提出一个观点，如果说这几天谁往长三角扔一颗核弹，中推就变成91了 https://t.co/UmlHa4jd9Y"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2080953657512935687",
+        "created_at": "2026-07-25T09:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T10:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080953657512935687"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080953657512935687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 17966,
+          "like_count": 102,
+          "quote_count": 3,
+          "reply_count": 52,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我们提出了一个观点, 如果谁今天往杭州扔一颗核弹, 明天中推就只剩鉴证和瑟瑟了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/留长发中/无糖/向往自由/原创&二创meme/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 31,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9206,
+          "following_count": 1118,
+          "like_count": 204170,
+          "listed_count": 6,
+          "media_count": 1033,
+          "tweet_count": 8143
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2301,
+          "following_count": 247,
+          "like_count": 10669,
+          "listed_count": 8,
+          "media_count": 242,
+          "tweet_count": 2709
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

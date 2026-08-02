@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1857642333493436430",
+    "created_at": "2024-11-16T04:30:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-16T05:30:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857642333493436430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "209086758",
+          "start": 3,
+          "username": "RaitoTowai"
+        },
+        {
+          "end": 28,
+          "id": "1663066129923981312",
+          "start": 16,
+          "username": "Ak1raQ_love"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857642333493436430",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857566918603059336",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RaitoTowai: @Ak1raQ_love 其實我覺得不必刪除這句話\n不必把過去的可橙和她的話語視同禁忌\n可橙和 MtF 們的快樂日子\n以及共同對抗扭轉機構和老保家長的寶貴經驗\n都是真實存在過的\n\n可橙教官讓我想起另一位「教官」 https://t.co/V9M3…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1857642333493436430",
+        "created_at": "2024-11-16T04:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T05:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857642333493436430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "209086758",
+              "start": 3,
+              "username": "RaitoTowai"
+            },
+            {
+              "end": 28,
+              "id": "1663066129923981312",
+              "start": 16,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857642333493436430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857566918603059336",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RaitoTowai: @Ak1raQ_love 其實我覺得不必刪除這句話\n不必把過去的可橙和她的話語視同禁忌\n可橙和 MtF 們的快樂日子\n以及共同對抗扭轉機構和老保家長的寶貴經驗\n都是真實存在過的\n\n可橙教官讓我想起另一位「教官」 https://t.co/V9M3…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857563063240781824"
+          ]
+        },
+        "author_id": "209086758",
+        "conversation_id": "1857069359153270805",
+        "created_at": "2024-11-15T23:30:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T00:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857566918603059336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V9M3FBIvOz",
+              "end": 129,
+              "expanded_url": "https://x.com/RaitoTowai/status/1857566918603059336/photo/1",
+              "media_key": "3_1857563063240781824",
+              "start": 106,
+              "url": "https://t.co/V9M3FBIvOz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857566918603059336",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 109,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857069359153270805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak1raQ_love 其實我覺得不必刪除這句話\n不必把過去的可橙和她的話語視同禁忌\n可橙和 MtF 們的快樂日子\n以及共同對抗扭轉機構和老保家長的寶貴經驗\n都是真實存在過的\n\n可橙教官讓我想起另一位「教官」 https://t.co/V9M3FBIvOz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "A sweet soul\n阿棄的性別就是阿棄\n喜欢可爱的事物\n在上高二，好累好痛苦😣\n精神状态时好时坏，所以你能看到两个不同的我\n喜欢和推友们在一起，有你们在就不会孤独\n全自动follower监视https://t.co/pMLFhL8CF1\n分身@mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 124,
+                "username": "mkc_Cute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg/fdap",
+                "end": 121,
+                "expanded_url": "https://mikachan.us.kg/fdap",
+                "start": 98,
+                "url": "https://t.co/pMLFhL8CF1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "http://mikachan.us.kg",
+                "start": 0,
+                "url": "https://t.co/lSEgpdslQn"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "是阿棄喵🥺♥️",
+        "pinned_tweet_id": "1850545437570470071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852745129033093120/bPab9bQm_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1165,
+          "following_count": 707,
+          "like_count": 88178,
+          "listed_count": 2,
+          "tweet_count": 3180
+        },
+        "url": "https://t.co/lSEgpdslQn",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2010-10-28T13:51:56.000Z",
+        "description": "㍿川和神楽坂HD代表取締役│#SAOIF 専用垢 → @Balancyth\n\n無性愛Cis♂│友🏳️‍🌈🏳️‍⚧️⚧🍥│社会人│左下│真・香港人🎗️\nゲーム│ガジェット│政治│哲学│他\n#StandWithUkraine🇺🇦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 14,
+                "tag": "SAOIF"
+              },
+              {
+                "end": 110,
+                "start": 93,
+                "tag": "StandWithUkraine"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "Balancyth"
+              }
+            ]
+          }
+        },
+        "id": "209086758",
+        "location": "香港",
+        "name": "川和北雁神楽坂・永井光（トワイライト）【鍵政垢🎗️】",
+        "pinned_tweet_id": "1675593101459726336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752527741604573184/9CYe5WhN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 1897,
+          "like_count": 40376,
+          "listed_count": 2,
+          "tweet_count": 8391
+        },
+        "username": "RaitoTowai",
+        "verified": false
+      }
+    ]
+  }
+}

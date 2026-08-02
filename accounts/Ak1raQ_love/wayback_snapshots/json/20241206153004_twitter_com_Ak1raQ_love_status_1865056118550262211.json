@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1865051380450496552",
+    "created_at": "2024-12-06T15:30:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-06T16:30:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865056118550262211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1429405137198452736",
+          "start": 0,
+          "username": "Ruri_Mitsuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865056118550262211",
+    "in_reply_to_user_id": "1429405137198452736",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865051380450496552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruri_Mitsuki 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1865051380450496552",
+        "created_at": "2024-12-06T15:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T16:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865056118550262211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429405137198452736",
+              "start": 0,
+              "username": "Ruri_Mitsuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865056118550262211",
+        "in_reply_to_user_id": "1429405137198452736",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865051380450496552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruri_Mitsuki 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429405137198452736",
+        "conversation_id": "1865051380450496552",
+        "created_at": "2024-12-06T15:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T16:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865051380450496552"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1865051380450496552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "由於可能的威脅，將清理本號關注者列表。\n不想被我飛就留言"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "A sweet soul\n阿棄的性別就是阿棄\n可爱即是正义\n社交软件重度依赖😣\n随缘回fo（🏳️‍⚧️看到就回）\n精神状态时好时坏，所以你能看到两个不同的我\n喜欢和推友们在一起，有你们在就不会孤独\n❗请注意，互fo≠同意对方立场；取fo我请双取，谢谢！\n分身@mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 129,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "https://mikachan.us.kg/",
+                "start": 0,
+                "url": "https://t.co/yUfVtUE4yg"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "是阿棄喵🥺♥️",
+        "pinned_tweet_id": "1862810670238154974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852745129033093120/bPab9bQm_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1229,
+          "following_count": 759,
+          "like_count": 93229,
+          "listed_count": 2,
+          "media_count": 640,
+          "tweet_count": 3339
+        },
+        "url": "https://t.co/yUfVtUE4yg",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-22T11:28:44.000Z",
+        "description": "Can you hear the people crying?\n一個社會運動幸存者|驕傲的女權主義者|驕傲的性別酷兒 (she/they)|為權利和自由力拼|願所有死難者、被迫自殺者安息...|願所有良心政治犯得到釋放...\n姐姐是 @iTZQing |郵箱：suzumiya.acpi.gov@outlook.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 117,
+                "username": "iTZQing"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nmsl.yuezhiyan.ggff.net",
+                "end": 23,
+                "expanded_url": "https://nmsl.yuezhiyan.ggff.net/",
+                "start": 0,
+                "url": "https://t.co/qdYoVuV8vN"
+              }
+            ]
+          }
+        },
+        "id": "1429405137198452736",
+        "location": "N/A",
+        "name": "祈/みつき るり🧋",
+        "pinned_tweet_id": "1863453886515921027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862763551489769472/Be5CurGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7414,
+          "following_count": 528,
+          "like_count": 123813,
+          "listed_count": 32,
+          "media_count": 3286,
+          "tweet_count": 19299
+        },
+        "url": "https://t.co/qdYoVuV8vN",
+        "username": "Ruri_Mitsuki",
+        "verified": true
+      }
+    ]
+  }
+}

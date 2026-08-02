@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079368952317452288"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2079149959472124244",
+    "created_at": "2026-07-21T00:52:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T01:52:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079368955509317847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1920869622670393344",
+          "start": 0,
+          "username": "remiria_jp89"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sx2bAri8QM",
+          "end": 37,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2079368955509317847/photo/1",
+          "media_key": "3_2079368952317452288",
+          "start": 14,
+          "url": "https://t.co/sx2bAri8QM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079368955509317847",
+    "in_reply_to_user_id": "1920869622670393344",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079149959472124244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@remiria_jp89 https://t.co/sx2bAri8QM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1074,
+        "media_key": "3_2079368952317452288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNtnC4_boAAW27p.jpg",
+        "width": 1080
+      },
+      {
+        "height": 733,
+        "media_key": "3_2079149952731914240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqf3b9bIAAmuHq.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079368952317452288"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079149959472124244",
+        "created_at": "2026-07-21T00:52:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T01:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079368955509317847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1920869622670393344",
+              "start": 0,
+              "username": "remiria_jp89"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sx2bAri8QM",
+              "end": 37,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2079368955509317847/photo/1",
+              "media_key": "3_2079368952317452288",
+              "start": 14,
+              "url": "https://t.co/sx2bAri8QM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079368955509317847",
+        "in_reply_to_user_id": "1920869622670393344",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079149959472124244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@remiria_jp89 https://t.co/sx2bAri8QM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079149952731914240"
+          ]
+        },
+        "author_id": "1920869622670393344",
+        "conversation_id": "2079149959472124244",
+        "created_at": "2026-07-20T10:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T11:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079149959472124244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P4Ec71639v",
+              "end": 30,
+              "expanded_url": "https://x.com/remiria_jp89/status/2079149959472124244/photo/1",
+              "media_key": "3_2079149952731914240",
+              "start": 7,
+              "url": "https://t.co/P4Ec71639v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079149959472124244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 850,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "大陆还有兵力 https://t.co/P4Ec71639v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/不在社交圈内者请不要关注，可能会被清除/留长发中/无糖/向往自由/原创&二创meme/秋月姐姐 @qiuylove/阿堇🕯️@Akatsuki_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "qiuylove"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "Akatsuki_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "廈門 Amoy",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1428,
+          "following_count": 1071,
+          "like_count": 202220,
+          "listed_count": 2,
+          "media_count": 992,
+          "tweet_count": 8000
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-09T15:53:17.000Z",
+        "description": "I look to heaven to fulfill its prophecy set me free\nI can't believe this is the land from which I came\n无立场全部中立| 梗图每日分享 |｜蓝勾、浪蛆互fo｜友好讨论不好的留言会删\nIP属地：河南省驻马店",
+        "id": "1920869622670393344",
+        "location": "驻马店冲浪里",
+        "name": "小野寺薄瓜瓜_オノデラ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068513298073464832/wfEQdkrV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1047,
+          "following_count": 1026,
+          "like_count": 8893,
+          "listed_count": 1,
+          "media_count": 216,
+          "tweet_count": 566
+        },
+        "url": "",
+        "username": "remiria_jp89",
+        "verified": true
+      }
+    ]
+  }
+}

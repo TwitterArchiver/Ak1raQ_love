@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1890671847320219650"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "1890671272767439254",
+    "created_at": "2025-02-15T07:57:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T08:57:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890671850654498968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1761356959431925760",
+          "start": 0,
+          "username": "zhweaa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fg8SXL81fU",
+          "end": 31,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/1890671850654498968/photo/1",
+          "media_key": "3_1890671847320219650",
+          "start": 8,
+          "url": "https://t.co/fg8SXL81fU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890671850654498968",
+    "in_reply_to_user_id": "1761356959431925760",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890671272767439254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhweaa https://t.co/fg8SXL81fU"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1890671272767439254].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1890671272767439254",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1890671272767439254"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2376,
+        "media_key": "3_1890671847320219650",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gj0EByZacAIhRWm.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890671847320219650"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "1890671272767439254",
+        "created_at": "2025-02-15T07:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T08:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890671850654498968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1761356959431925760",
+              "start": 0,
+              "username": "zhweaa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fg8SXL81fU",
+              "end": 31,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/1890671850654498968/photo/1",
+              "media_key": "3_1890671847320219650",
+              "start": 8,
+              "url": "https://t.co/fg8SXL81fU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890671850654498968",
+        "in_reply_to_user_id": "1761356959431925760",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890671272767439254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhweaa https://t.co/fg8SXL81fU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/😶‍🌫️Introvert/Highlights➡️Original meme/🌏ZH,EN/🌈Love & Peace/😔Not good at chatting/🔄Interact to gain my follow-back/🤫Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 141,
+                "username": "mkc_Cute"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵😺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890411273348870144/2701b2jF_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1616,
+          "following_count": 976,
+          "like_count": 118728,
+          "listed_count": 4,
+          "media_count": 874,
+          "tweet_count": 4577
+        },
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-24T11:48:04.000Z",
+        "description": "请注意我对隐私非常重视，写着玩玩的🙃🤚 请重定向到我的大号：@saonanaa 通过iMessage联系我：elictop@icloud.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 30,
+                "username": "saonanaa"
+              }
+            ]
+          }
+        },
+        "id": "1761356959431925760",
+        "location": "千年商港",
+        "name": "Zhi Wei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843962920012795904/iSqECHYN_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 44,
+          "like_count": 441,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 486
+        },
+        "username": "zhweaa",
+        "verified": false
+      }
+    ]
+  }
+}

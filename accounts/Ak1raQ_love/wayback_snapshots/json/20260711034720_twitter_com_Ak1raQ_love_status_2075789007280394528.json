@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075788997855707137"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2075789007280394528",
+    "created_at": "2026-07-11T03:47:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T04:47:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075789007280394528"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fRk0aAwj18",
+          "end": 33,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2075789007280394528/photo/1",
+          "media_key": "3_2075788997855707137",
+          "start": 10,
+          "url": "https://t.co/fRk0aAwj18"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075789007280394528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "再玩个esim漫游 https://t.co/fRk0aAwj18"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075788997855707137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM6vGHXagAEcO4G.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075788997855707137"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2075789007280394528",
+        "created_at": "2026-07-11T03:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T04:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075789007280394528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fRk0aAwj18",
+              "end": 33,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2075789007280394528/photo/1",
+              "media_key": "3_2075788997855707137",
+              "start": 10,
+              "url": "https://t.co/fRk0aAwj18"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075789007280394528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再玩个esim漫游 https://t.co/fRk0aAwj18"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/自认为是一只很可爱的...？/留长发中/无糖/向往自由/秋月姐姐 @qiuylove/阿堇🕯️@Akatsuki_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "qiuylove"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "Akatsuki_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Amoy 廈門",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1348,
+          "following_count": 1030,
+          "like_count": 198666,
+          "listed_count": 3,
+          "media_count": 929,
+          "tweet_count": 7682
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": false
+      }
+    ]
+  }
+}

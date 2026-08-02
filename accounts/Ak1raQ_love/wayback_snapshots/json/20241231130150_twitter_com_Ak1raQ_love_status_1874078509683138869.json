@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1874078509683138869",
+    "created_at": "2024-12-31T13:01:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-31T14:01:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874078509683138869"
+    ],
+    "entities": {
+      "cashtags": [
+        {
+          "end": 106,
+          "start": 99,
+          "tag": "FOGMOE"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 16,
+          "tag": "FOGMOE"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "756779273155858432",
+          "start": 3,
+          "username": "ScarletKc_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874078509683138869",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874073771642151220",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ScarletKc_: #FOGMOE 2024-2025 跨年空投活动\n为庆祝2024-2025跨年，FOGMOE 官方团队特此举办空投活动，回馈广大社区支持者。参与者将有机会赢取丰厚的 $FOGMOE 代币奖励。\n\n参与方式：\n - 关注官方 X  账号：@Scar…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1874078509683138869",
+        "created_at": "2024-12-31T13:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T14:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874078509683138869"
+        ],
+        "entities": {
+          "cashtags": [
+            {
+              "end": 106,
+              "start": 99,
+              "tag": "FOGMOE"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 16,
+              "tag": "FOGMOE"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "756779273155858432",
+              "start": 3,
+              "username": "ScarletKc_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874078509683138869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874073771642151220",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ScarletKc_: #FOGMOE 2024-2025 跨年空投活动\n为庆祝2024-2025跨年，FOGMOE 官方团队特此举办空投活动，回馈广大社区支持者。参与者将有机会赢取丰厚的 $FOGMOE 代币奖励。\n\n参与方式：\n - 关注官方 X  账号：@Scar…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "756779273155858432",
+        "conversation_id": "1874073771642151220",
+        "created_at": "2024-12-31T12:43:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T13:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874073771642151220"
+        ],
+        "entities": {
+          "cashtags": [
+            {
+              "end": 90,
+              "start": 83,
+              "tag": "FOGMOE"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "FOGMOE"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 129,
+              "id": "756779273155858432",
+              "start": 118,
+              "username": "ScarletKc_"
+            },
+            {
+              "end": 140,
+              "id": "1872636853205204992",
+              "start": 132,
+              "username": "FOG_MOE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874073771642151220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "cashtags": [
+              {
+                "end": 90,
+                "start": 83,
+                "tag": "FOGMOE"
+              },
+              {
+                "end": 278,
+                "start": 271,
+                "tag": "FOGMOE"
+              },
+              {
+                "end": 302,
+                "start": 295,
+                "tag": "FOGMOE"
+              },
+              {
+                "end": 325,
+                "start": 318,
+                "tag": "FOGMOE"
+              },
+              {
+                "end": 631,
+                "start": 624,
+                "tag": "FOGMOE"
+              }
+            ],
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "FOGMOE"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 129,
+                "id": "756779273155858432",
+                "start": 118,
+                "username": "ScarletKc_"
+              },
+              {
+                "end": 140,
+                "id": "1872636853205204992",
+                "start": 132,
+                "username": "FOG_MOE"
+              }
+            ]
+          },
+          "text": "#FOGMOE 2024-2025 跨年空投活动\n为庆祝2024-2025跨年，FOGMOE 官方团队特此举办空投活动，回馈广大社区支持者。参与者将有机会赢取丰厚的 $FOGMOE 代币奖励。\n\n参与方式：\n - 关注官方 X  账号：@ScarletKc_ 和 @FOG_MOE\n - 点赞并转发此帖子。\n - 在本帖子下方发表评论。\n\n参与资格：\n参与者需满足以下条件之一：\n - X 平台粉丝数至少 50 人。\n - 于 2023 年 1 月 1 日前注册 X 平台，且发帖数量大于 1。\n\n奖项设置：\n特等奖（1 名）：88,888 $FOGMOE\n一等奖（1 名）：20,000 $FOGMOE\n二等奖（1 名）：6,666 $FOGMOE\n\n重要日期：\n活动截止日期：2025 年 1 月 5 日 13:00 (UTC+9)\n开奖日期：2025 年 1 月 5 日 20:00 (UTC+9)\n\n领奖方式：\n中奖者需提供有效的 Solana (SOL) 钱包地址。我们将在开奖后通过官方 X 账号私信联系中奖用户，并在此帖文的评论区公布中奖者名单。请务必警惕任何非官方渠道的联系，谨防诈骗。\n\n合约地址：\nAdFiMA3G8cEAmQq4HZHVTsoJMYyCBGvbF9xsdrCP8Md2\n\n重要声明：\n参与本次活动即表示您同意并遵守所有活动规则和条款。\nFOGMOE 团队不对因参与本次活动而造成的任何直接或间接损失承担责任。\n$FOGMOE 代币目前尚无实际交易价值，仅作为社区代币收藏使用。参与者应充分了解并自行承担相关风险。\n中奖结果将通过公平、随机的方式抽取。如遇技术或其他不可抗力因素影响抽奖结果，FOGMOE 团队保留最终解释权。\nFOGMOE 团队保留在不事先通知的情况下，修改、暂停或取消本次活动的权利。\n请务必注意网络安全，妥善保管个人信息及钱包地址。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 63,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "#FOGMOE 2024-2025 跨年空投活动\n为庆祝2024-2025跨年，FOGMOE 官方团队特此举办空投活动，回馈广大社区支持者。参与者将有机会赢取丰厚的 $FOGMOE 代币奖励。\n\n参与方式：\n - 关注官方 X  账号：@ScarletKc_ 和 @FOG_MOE\n - 点赞并转发此帖子。\n - 在本帖子下方发表评论。\n\n参与资格：…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "A sweet soul🥺♥️/🏳️‍⚧️Non-Cis/🌏G11N/lang=zh;en/Cuter is better!/Mood swings, but you all make me less lonely!/⚠️Following≠Agreeing⚠️/Private:@mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 140,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtfxyn.news",
+                "end": 23,
+                "expanded_url": "https://mtfxyn.news",
+                "start": 0,
+                "url": "https://t.co/0auRNqezHn"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄𝕄𝕖𝕠𝕨 #NewYear🎆",
+        "pinned_tweet_id": "1871929681479627262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1322,
+          "following_count": 802,
+          "like_count": 100447,
+          "listed_count": 3,
+          "media_count": 694,
+          "tweet_count": 3630
+        },
+        "url": "https://t.co/0auRNqezHn",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-23T09:13:33.000Z",
+        "description": "关注了你",
+        "id": "756779273155858432",
+        "location": "🏳️‍⚧️",
+        "name": "詩音",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872461591347867648/iqHPGTW8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1357,
+          "following_count": 585,
+          "like_count": 25635,
+          "listed_count": 2,
+          "media_count": 51,
+          "tweet_count": 2731
+        },
+        "username": "ScarletKc_",
+        "verified": false
+      }
+    ]
+  }
+}

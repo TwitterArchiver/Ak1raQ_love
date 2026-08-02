@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2066489844306731083",
+    "created_at": "2026-06-16T03:46:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T04:46:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066729133988806838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1278831792540139523",
+          "start": 0,
+          "username": "miike_hrk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066729133988806838",
+    "in_reply_to_user_id": "1278831792540139523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066489844306731083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miike_hrk 多儿...."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2066489841278472192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2lj9lbUAA7eLu.jpg",
+        "width": 1172
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2066489844306731083",
+        "created_at": "2026-06-16T03:46:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T04:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066729133988806838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1278831792540139523",
+              "start": 0,
+              "username": "miike_hrk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066729133988806838",
+        "in_reply_to_user_id": "1278831792540139523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066489844306731083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miike_hrk 多儿...."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066489841278472192"
+          ]
+        },
+        "author_id": "1278831792540139523",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2066489844306731083",
+        "created_at": "2026-06-15T11:55:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T12:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066489844306731083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oWcMtqGxjw",
+              "end": 40,
+              "expanded_url": "https://x.com/miike_hrk/status/2066489844306731083/photo/1",
+              "media_key": "3_2066489841278472192",
+              "start": 17,
+              "url": "https://t.co/oWcMtqGxjw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066489844306731083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1122,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "阿姨这个鸡腿怎么是绿的呀😹🤣🐔🦆 https://t.co/oWcMtqGxjw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "永不言弃💫 / 爱、温情、勇气、美好 / 没有吃糖 / 秋月姐姐 @qiuylove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "qiuylove"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://mikachan.dpdns.org/",
+                "start": 0,
+                "url": "https://t.co/3Yo0IgyCS7"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Utopia",
+        "name": "💫🌸𝗔𝗸𝗶𝗿𝗮𝗺𝗲𝗻𝗮𝗶🍥🍰",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050925033426669568/m2nDg9MR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1309,
+          "following_count": 994,
+          "like_count": 189563,
+          "listed_count": 3,
+          "media_count": 831,
+          "tweet_count": 7028
+        },
+        "url": "https://t.co/3Yo0IgyCS7",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-02T23:24:04.000Z",
+        "description": "20↑｜Cosplay｜Tourette's Syndrome｜CFA & FRM｜SP500 ETF Trading Analyst",
+        "id": "1278831792540139523",
+        "location": "600 Wanping Road (S), Shanghai",
+        "name": "❀雲堇はるか❀",
+        "pinned_tweet_id": "2046849424257912833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923486647221616646/jewlxugo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4993,
+          "following_count": 469,
+          "like_count": 33977,
+          "listed_count": 18,
+          "media_count": 12354,
+          "tweet_count": 47836
+        },
+        "username": "miike_hrk",
+        "verified": false
+      }
+    ]
+  }
+}

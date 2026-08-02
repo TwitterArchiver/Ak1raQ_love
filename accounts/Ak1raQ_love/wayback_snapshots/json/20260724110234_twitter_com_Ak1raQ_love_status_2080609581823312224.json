@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080602842726019072"
+      ],
+      "media_source_tweet_id": [
+        "2080602851815071930"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2080609581823312224",
+    "created_at": "2026-07-24T11:02:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T12:02:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080609581823312224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1663066129923981312",
+          "start": 3,
+          "username": "Ak1raQ_love"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4HNwMATzg1",
+          "end": 76,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2080602851815071930/photo/1",
+          "media_key": "3_2080602842726019072",
+          "start": 53,
+          "url": "https://t.co/4HNwMATzg1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080609581823312224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080602851815071930",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ak1raQ_love: 依旧神秘仪式x2\n\n（xnn拾柒好可爱qwq\n\n上海杨浦区合生汇星巴克 https://t.co/4HNwMATzg1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2080602842726019072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_JQw9aMAATRuk.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080602842726019072"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080602851815071930",
+        "created_at": "2026-07-24T10:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T11:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080602851815071930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4HNwMATzg1",
+              "end": 59,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2080602851815071930/photo/1",
+              "media_key": "3_2080602842726019072",
+              "start": 36,
+              "url": "https://t.co/4HNwMATzg1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080602851815071930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 346,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "依旧神秘仪式x2\n\n（xnn拾柒好可爱qwq\n\n上海杨浦区合生汇星巴克 https://t.co/4HNwMATzg1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080602842726019072"
+          ],
+          "media_source_tweet_id": [
+            "2080602851815071930"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080609581823312224",
+        "created_at": "2026-07-24T11:02:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T12:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080609581823312224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1663066129923981312",
+              "start": 3,
+              "username": "Ak1raQ_love"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4HNwMATzg1",
+              "end": 76,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2080602851815071930/photo/1",
+              "media_key": "3_2080602842726019072",
+              "start": 53,
+              "url": "https://t.co/4HNwMATzg1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080609581823312224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080602851815071930",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ak1raQ_love: 依旧神秘仪式x2\n\n（xnn拾柒好可爱qwq\n\n上海杨浦区合生汇星巴克 https://t.co/4HNwMATzg1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/留长发中/无糖/向往自由/原创&二创meme/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 31,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9315,
+          "following_count": 1104,
+          "like_count": 203363,
+          "listed_count": 6,
+          "media_count": 1020,
+          "tweet_count": 8107
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": true
+      }
+    ]
+  }
+}

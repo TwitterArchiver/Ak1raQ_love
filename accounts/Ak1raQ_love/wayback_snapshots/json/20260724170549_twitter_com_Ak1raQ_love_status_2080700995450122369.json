@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2080656063897248221",
+    "created_at": "2026-07-24T17:05:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T18:05:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080700995450122369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1439465002851725314",
+          "start": 0,
+          "username": "chengzi"
+        },
+        {
+          "end": 17,
+          "id": "1690570637499154432",
+          "start": 9,
+          "username": "zhwevea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080700995450122369",
+    "in_reply_to_user_id": "1439465002851725314",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080657369017745486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chengzi @zhwevea 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2080656063897248221",
+        "created_at": "2026-07-24T17:05:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T18:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080700995450122369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1439465002851725314",
+              "start": 0,
+              "username": "chengzi"
+            },
+            {
+              "end": 17,
+              "id": "1690570637499154432",
+              "start": 9,
+              "username": "zhwevea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080700995450122369",
+        "in_reply_to_user_id": "1439465002851725314",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080657369017745486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chengzi @zhwevea 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1439465002851725314",
+        "conversation_id": "2080656063897248221",
+        "created_at": "2026-07-24T14:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T15:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080657369017745486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            },
+            {
+              "end": 21,
+              "id": "1690570637499154432",
+              "start": 13,
+              "username": "zhwevea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080657369017745486",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 194,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080656063897248221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak1raQ_love @zhwevea 我记得你在麦当劳好像也会面了一个宝贝！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/留长发中/无糖/向往自由/原创&二创meme/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 31,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9288,
+          "following_count": 1110,
+          "like_count": 203513,
+          "listed_count": 6,
+          "media_count": 1024,
+          "tweet_count": 8118
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-19T05:43:05.000Z",
+        "description": "iiii | 我不是营销号｜喜欢拍vlog｜日常LC｜业余心理咨询师｜私信都会回｜工作邮箱：chengzi@sissydream.cn |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chengzi.baby",
+                "end": 23,
+                "expanded_url": "http://chengzi.baby",
+                "start": 0,
+                "url": "https://t.co/VCsG9lSP0q"
+              }
+            ]
+          }
+        },
+        "id": "1439465002851725314",
+        "location": "everywhere",
+        "name": "橙子𝗖𝗵𝗲𝗻𝗴𝘇𝗶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044051122789273600/7sRjs3xI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21494,
+          "following_count": 1683,
+          "like_count": 3931,
+          "listed_count": 58,
+          "media_count": 625,
+          "tweet_count": 2245
+        },
+        "url": "https://t.co/VCsG9lSP0q",
+        "username": "chengzi",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei 👋｜ 还可以叫我 Eliya ～｜想要每天耍乐到处玩 ✈️｜想要成为技术大拿 📲💡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/zhweaa",
+                "end": 23,
+                "expanded_url": "https://github.com/zhweaa",
+                "start": 0,
+                "url": "https://t.co/Lsl0VyAvMl"
+              }
+            ]
+          }
+        },
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "Zhi Wei 🥥🧊",
+        "pinned_tweet_id": "2045171291104403596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061738719095476224/g1B5Ghy6_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7634,
+          "following_count": 436,
+          "like_count": 33506,
+          "listed_count": 24,
+          "media_count": 2667,
+          "tweet_count": 20796
+        },
+        "url": "https://t.co/Lsl0VyAvMl",
+        "username": "zhwevea",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,401 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082805174238957568",
+        "3_2082805175501410304",
+        "3_2082805176222785536",
+        "3_2082805177434898432"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2082805130798444679",
+    "created_at": "2026-07-30T12:27:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T13:27:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082805199773766106"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/idf5T5x21T",
+          "end": 23,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2082805199773766106/photo/1",
+          "media_key": "3_2082805174238957568",
+          "start": 0,
+          "url": "https://t.co/idf5T5x21T"
+        },
+        {
+          "display_url": "pic.x.com/idf5T5x21T",
+          "end": 23,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2082805199773766106/photo/1",
+          "media_key": "3_2082805175501410304",
+          "start": 0,
+          "url": "https://t.co/idf5T5x21T"
+        },
+        {
+          "display_url": "pic.x.com/idf5T5x21T",
+          "end": 23,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2082805199773766106/photo/1",
+          "media_key": "3_2082805176222785536",
+          "start": 0,
+          "url": "https://t.co/idf5T5x21T"
+        },
+        {
+          "display_url": "pic.x.com/idf5T5x21T",
+          "end": 23,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2082805199773766106/photo/1",
+          "media_key": "3_2082805177434898432",
+          "start": 0,
+          "url": "https://t.co/idf5T5x21T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082805199773766106",
+    "in_reply_to_user_id": "1663066129923981312",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082805167838425126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "https://t.co/idf5T5x21T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082805174238957568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOecRVLb0AAi5-U.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082805175501410304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOecRZ4bUAATGGH.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2082805176222785536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOecRckaoAA-j54.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2082805177434898432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOecRhFaAAASOwP.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082805135579955200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOecPFKaQAAkze8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2082805136574050304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOecPI3a8AA82Gg.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2082805144018898944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOecPkmaUAARIi2.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082805144815824896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOecPnkacAAS0jG.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082805174238957568",
+            "3_2082805175501410304",
+            "3_2082805176222785536",
+            "3_2082805177434898432"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2082805130798444679",
+        "created_at": "2026-07-30T12:27:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:27:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082805199773766106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/idf5T5x21T",
+              "end": 23,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2082805199773766106/photo/1",
+              "media_key": "3_2082805174238957568",
+              "start": 0,
+              "url": "https://t.co/idf5T5x21T"
+            },
+            {
+              "display_url": "pic.x.com/idf5T5x21T",
+              "end": 23,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2082805199773766106/photo/1",
+              "media_key": "3_2082805175501410304",
+              "start": 0,
+              "url": "https://t.co/idf5T5x21T"
+            },
+            {
+              "display_url": "pic.x.com/idf5T5x21T",
+              "end": 23,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2082805199773766106/photo/1",
+              "media_key": "3_2082805176222785536",
+              "start": 0,
+              "url": "https://t.co/idf5T5x21T"
+            },
+            {
+              "display_url": "pic.x.com/idf5T5x21T",
+              "end": 23,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2082805199773766106/photo/1",
+              "media_key": "3_2082805177434898432",
+              "start": 0,
+              "url": "https://t.co/idf5T5x21T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082805199773766106",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082805167838425126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "https://t.co/idf5T5x21T"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082805135579955200",
+            "3_2082805136574050304",
+            "3_2082805144018898944",
+            "3_2082805144815824896"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082805130798444679",
+        "created_at": "2026-07-30T12:27:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082805167838425126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BhGm5htGaI",
+              "end": 23,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2082805167838425126/photo/1",
+              "media_key": "3_2082805135579955200",
+              "start": 0,
+              "url": "https://t.co/BhGm5htGaI"
+            },
+            {
+              "display_url": "pic.x.com/BhGm5htGaI",
+              "end": 23,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2082805167838425126/photo/1",
+              "media_key": "3_2082805136574050304",
+              "start": 0,
+              "url": "https://t.co/BhGm5htGaI"
+            },
+            {
+              "display_url": "pic.x.com/BhGm5htGaI",
+              "end": 23,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2082805167838425126/photo/1",
+              "media_key": "3_2082805144018898944",
+              "start": 0,
+              "url": "https://t.co/BhGm5htGaI"
+            },
+            {
+              "display_url": "pic.x.com/BhGm5htGaI",
+              "end": 23,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2082805167838425126/photo/1",
+              "media_key": "3_2082805144815824896",
+              "start": 0,
+              "url": "https://t.co/BhGm5htGaI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082805167838425126",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082805130798444679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "https://t.co/BhGm5htGaI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/non-mtf/无糖/向往自由/欢迎推u面基/#蓝v互关/原创meme/顺直女 @zhwevea/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 34,
+                "tag": "蓝v互关"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 59,
+                "start": 51,
+                "username": "zhwevea"
+              },
+              {
+                "end": 77,
+                "start": 63,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": " 苏州/厦门",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8969,
+          "following_count": 1186,
+          "like_count": 206553,
+          "listed_count": 6,
+          "media_count": 1056,
+          "tweet_count": 8313
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2025857864041172992"
+      ],
+      "media_source_tweet_id": [
+        "2025857923780657323"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2082029489782210964",
+    "created_at": "2026-07-28T09:04:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T10:04:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082029489782210964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1663066129923981312",
+          "start": 3,
+          "username": "Ak1raQ_love"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xrvce9kJ8m",
+          "end": 52,
+          "expanded_url": "https://x.com/ww123qwq/status/2025857923780657323/video/1",
+          "media_key": "7_2025857864041172992",
+          "start": 29,
+          "url": "https://t.co/Xrvce9kJ8m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082029489782210964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082028959035002945",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ak1raQ_love: 感觉不如n55虚空舞萌\nhttps://t.co/Xrvce9kJ8m"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12308,
+        "height": 1280,
+        "media_key": "7_2025857864041172992",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2025857864041172992/pu/img/DeUnLhHuhCgtU6jC.jpg",
+        "public_metrics": {
+          "view_count": 5216
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2025857864041172992/pu/vid/avc1/320x710/Dtnd6JLtakIWvxZ0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2025857864041172992/pu/vid/avc1/480x1066/LPCB9PJp5VFXBnL5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2025857864041172992/pu/vid/avc1/576x1280/d6oZMVLGfmChz1Ui.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2025857864041172992/pu/pl/23QmaTOVhTSV7Kou.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2025857864041172992"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2025857923780657323",
+        "created_at": "2026-02-23T08:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T09:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025857923780657323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YYq1J6FlwU",
+              "end": 35,
+              "expanded_url": "https://x.com/ww123qwq/status/2025857923780657323/video/1",
+              "media_key": "7_2025857864041172992",
+              "start": 12,
+              "url": "https://t.co/YYq1J6FlwU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025857923780657323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 12369,
+          "like_count": 116,
+          "quote_count": 1,
+          "reply_count": 22,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "n55传奇之虚空打舞萌 https://t.co/YYq1J6FlwU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2025857864041172992"
+          ],
+          "media_source_tweet_id": [
+            "2025857923780657323"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2082029489782210964",
+        "created_at": "2026-07-28T09:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082029489782210964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1663066129923981312",
+              "start": 3,
+              "username": "Ak1raQ_love"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xrvce9kJ8m",
+              "end": 52,
+              "expanded_url": "https://x.com/ww123qwq/status/2025857923780657323/video/1",
+              "media_key": "7_2025857864041172992",
+              "start": 29,
+              "url": "https://t.co/Xrvce9kJ8m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082029489782210964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082028959035002945",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ak1raQ_love: 感觉不如n55虚空舞萌\nhttps://t.co/Xrvce9kJ8m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2025857864041172992"
+          ],
+          "media_source_tweet_id": [
+            "2025857923780657323"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2082028959035002945",
+        "created_at": "2026-07-28T09:02:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082028959035002945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xrvce9kJ8m",
+              "end": 35,
+              "expanded_url": "https://x.com/ww123qwq/status/2025857923780657323/video/1",
+              "media_key": "7_2025857864041172992",
+              "start": 12,
+              "url": "https://t.co/Xrvce9kJ8m"
+            },
+            {
+              "display_url": "x.com/trg_maimai/sta…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/trg_maimai/status/2081827446610137285",
+              "start": 36,
+              "url": "https://t.co/iPZd6ZSZqu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082028959035002945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081827446610137285",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉不如n55虚空舞萌\nhttps://t.co/Xrvce9kJ8m https://t.co/iPZd6ZSZqu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/留长发中/无糖/向往自由/欢迎面基/ #蓝v互fo 🥺/原创&二创meme/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 24,
+                "tag": "蓝v互fo"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 60,
+                "start": 46,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": " 苏州/厦门",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9043,
+          "following_count": 1153,
+          "like_count": 205203,
+          "listed_count": 6,
+          "media_count": 1042,
+          "tweet_count": 8218
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": true
+      }
+    ]
+  }
+}

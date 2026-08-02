@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1889399137768185995",
+    "created_at": "2025-02-12T01:44:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T02:44:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889490780043260249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1109080684419670017",
+          "start": 0,
+          "username": "EcstasyRC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889490780043260249",
+    "in_reply_to_user_id": "1109080684419670017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889399137768185995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EcstasyRC 这个号还fo了我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1889399137768185995",
+        "created_at": "2025-02-12T01:44:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T02:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889490780043260249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1109080684419670017",
+              "start": 0,
+              "username": "EcstasyRC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889490780043260249",
+        "in_reply_to_user_id": "1109080684419670017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889399137768185995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EcstasyRC 这个号还fo了我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889399130382094336"
+          ]
+        },
+        "author_id": "1109080684419670017",
+        "conversation_id": "1889399137768185995",
+        "created_at": "2025-02-11T19:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T20:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889399137768185995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h2qeDmjtTk",
+              "end": 35,
+              "expanded_url": "https://x.com/EcstasyRC/status/1889399137768185995/photo/1",
+              "media_key": "3_1889399130382094336",
+              "start": 12,
+              "url": "https://t.co/h2qeDmjtTk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889399137768185995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 495,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这人到底是不是鸡哥小号 https://t.co/h2qeDmjtTk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/😶‍🌫️Online-only introvert/🌏ZH,EN/🌈Inclusivity/🕊️Love & Peace/😔Not good at chatting/🔄Interact to gain my follow-back/🤫Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 141,
+                "username": "mkc_Cute"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵😺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1584,
+          "following_count": 956,
+          "like_count": 116333,
+          "listed_count": 4,
+          "media_count": 851,
+          "tweet_count": 4486
+        },
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-22T13:13:35.000Z",
+        "description": "She/Her/les/双相/脾气暴躁/ff14在陆行鸟/Meteor/Honey·B·Lovely激推❤\n个人日常社交账号，什么都发\n好友位入门88只收口令\n闲聊群1021607914\n好妹妹@OvO_futa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "OvO_futa"
+              }
+            ]
+          }
+        },
+        "id": "1109080684419670017",
+        "location": "Living Memory",
+        "name": "甜心杀人蜂",
+        "pinned_tweet_id": "1888376421258817621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882758060130889728/oYZq7EUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17344,
+          "following_count": 1734,
+          "like_count": 26306,
+          "listed_count": 42,
+          "media_count": 2336,
+          "tweet_count": 19253
+        },
+        "username": "EcstasyRC",
+        "verified": false
+      }
+    ]
+  }
+}

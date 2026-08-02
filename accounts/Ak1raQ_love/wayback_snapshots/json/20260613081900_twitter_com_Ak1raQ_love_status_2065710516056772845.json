@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065710497962631168",
+        "3_2065710492543586304"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2065710516056772845",
+    "created_at": "2026-06-13T08:19:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T09:19:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065710516056772845"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hbdFRKnBls",
+          "end": 37,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2065710516056772845/photo/1",
+          "media_key": "3_2065710497962631168",
+          "start": 14,
+          "url": "https://t.co/hbdFRKnBls"
+        },
+        {
+          "display_url": "pic.x.com/hbdFRKnBls",
+          "end": 37,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2065710516056772845/photo/1",
+          "media_key": "3_2065710492543586304",
+          "start": 14,
+          "url": "https://t.co/hbdFRKnBls"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065710516056772845",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "面基 午饭 和 铨酱 雪秋 https://t.co/hbdFRKnBls"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2065710497962631168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrgwNfboAAd8kv.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2065710492543586304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrgv5TbkAABy9D.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065710497962631168",
+            "3_2065710492543586304"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2065710516056772845",
+        "created_at": "2026-06-13T08:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T09:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065710516056772845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hbdFRKnBls",
+              "end": 37,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2065710516056772845/photo/1",
+              "media_key": "3_2065710497962631168",
+              "start": 14,
+              "url": "https://t.co/hbdFRKnBls"
+            },
+            {
+              "display_url": "pic.x.com/hbdFRKnBls",
+              "end": 37,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2065710516056772845/photo/1",
+              "media_key": "3_2065710492543586304",
+              "start": 14,
+              "url": "https://t.co/hbdFRKnBls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065710516056772845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "面基 午饭 和 铨酱 雪秋 https://t.co/hbdFRKnBls"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Utopia, Texas, United States",
+              "geo": {
+                "coordinates": [
+                  -99.52699,
+                  29.61523
+                ],
+                "type": "Point"
+              },
+              "locality": "Utopia",
+              "region": "Texas",
+              "sub_region": "Uvalde County"
+            }
+          ]
+        },
+        "description": "永不言弃💫 / 爱、温情、勇气、美好 / 没有吃糖 / 秋月姐姐 @qiuylove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "qiuylove"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://mikachan.dpdns.org/",
+                "start": 0,
+                "url": "https://t.co/3Yo0IgyCS7"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Utopia",
+        "name": "💫🌸𝗔𝗸𝗶𝗿𝗮𝗺𝗲𝗻𝗮𝗶🍥🍰",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050925033426669568/m2nDg9MR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1292,
+          "following_count": 991,
+          "like_count": 189020,
+          "listed_count": 3,
+          "media_count": 826,
+          "tweet_count": 6979
+        },
+        "url": "https://t.co/3Yo0IgyCS7",
+        "username": "Ak1raQ_love",
+        "verified": false
+      }
+    ]
+  }
+}

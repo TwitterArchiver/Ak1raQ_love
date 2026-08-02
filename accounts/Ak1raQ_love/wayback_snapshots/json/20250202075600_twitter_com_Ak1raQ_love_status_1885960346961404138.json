@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1885960346961404138",
+    "created_at": "2025-02-02T07:56:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T08:56:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885960346961404138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "140972898",
+          "start": 3,
+          "username": "LQZhao6819"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885960346961404138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885927327634457027",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LQZhao6819: 第一次发帖子有什么注意的嘛 毕竟在国内平台待了好久有点被污染到了 想试试这里的环境"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1885960346961404138",
+        "created_at": "2025-02-02T07:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T08:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885960346961404138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "140972898",
+              "start": 3,
+              "username": "LQZhao6819"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885960346961404138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885927327634457027",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LQZhao6819: 第一次发帖子有什么注意的嘛 毕竟在国内平台待了好久有点被污染到了 想试试这里的环境"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "140972898",
+        "conversation_id": "1885927327634457027",
+        "created_at": "2025-02-02T05:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T06:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885927327634457027"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1885927327634457027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "第一次发帖子有什么注意的嘛 毕竟在国内平台待了好久有点被污染到了 想试试这里的环境"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/🌏ZH,EN/🏳️‍⚧️Genderfree/🌈 Diversity & Inclusivity/🕊️Love & Peace/😔Sorry, I'm not good at chatting/Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 121,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "https://mikachan.us.kg/",
+                "start": 0,
+                "url": "https://t.co/yUfVtUE4yg"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵 #ʟᴜɴᴀʀɴᴇᴡʏᴇᴀʀ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 891,
+          "like_count": 111530,
+          "listed_count": 4,
+          "media_count": 794,
+          "tweet_count": 4183
+        },
+        "url": "https://t.co/yUfVtUE4yg",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-06T21:18:18.000Z",
+        "description": "您安，这里赵曦晴｜18岁｜🏳️‍🌈无性别认同｜随缘社交｜偶尔发言｜对世界保持适度好奇｜记录生活｜欢迎互fo",
+        "id": "140972898",
+        "location": "Tianjin",
+        "name": "赵曦晴是照妖镜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885923926183940096/lt6As-Rr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 24,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "LQZhao6819",
+        "verified": false
+      }
+    ]
+  }
+}

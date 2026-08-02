@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1889511295164228064",
+    "created_at": "2025-02-12T03:34:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T04:34:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889518420443668827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1869440990970556416",
+          "start": 0,
+          "username": "Kaohchuancity"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889518420443668827",
+    "in_reply_to_user_id": "1869440990970556416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889511295164228064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kaohchuancity 能哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1889511295164228064",
+        "created_at": "2025-02-12T03:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T04:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889518420443668827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1869440990970556416",
+              "start": 0,
+              "username": "Kaohchuancity"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889518420443668827",
+        "in_reply_to_user_id": "1869440990970556416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889511295164228064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kaohchuancity 能哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869440990970556416",
+        "conversation_id": "1889511295164228064",
+        "created_at": "2025-02-12T03:06:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T04:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889511295164228064"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1889511295164228064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是不是被限流了？\n你们能看见我说话吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/😶‍🌫️Online-only introvert/🌏ZH,EN/🌈Inclusivity/🕊️Love & Peace/😔Not good at chatting/🔄Interact to gain my follow-back/🤫Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 141,
+                "username": "mkc_Cute"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵😺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1584,
+          "following_count": 959,
+          "like_count": 116425,
+          "listed_count": 4,
+          "media_count": 851,
+          "tweet_count": 4489
+        },
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-18T17:54:48.000Z",
+        "description": "珠宝盒星系的天外来客\n本体是一只白白胖胖的肥鸽子\n可以揉我的翅膀但不要折断它\n我会陪着你们的\n我是mtf 你可以不喜欢 但别抱着恶意 不然ban\n一同旅行的旅伴 @tangmiaolive @rmoxolly @xixiccn_n\n 不要找我表白不然全部当作诈骗处理",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 81,
+                "username": "tangmiaolive"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "rmoxolly"
+              },
+              {
+                "end": 115,
+                "start": 105,
+                "username": "xixiccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1869440990970556416",
+        "location": "星空合众国云屏市北云区星辰官邸",
+        "name": "🌈雪原剑仙✨（大白鸽版）",
+        "pinned_tweet_id": "1889511295164228064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884571333230759937/_CkcENFZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 176,
+          "like_count": 233,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 306
+        },
+        "username": "Kaohchuancity",
+        "verified": false
+      }
+    ]
+  }
+}

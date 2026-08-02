@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "1889833020821254164",
+    "created_at": "2025-02-13T00:24:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-13T01:24:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889833020821254164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1690706941134397440",
+          "start": 3,
+          "username": "ITNSatori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889833020821254164",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889604342761562278",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ITNSatori: 还有应试教育也是，纯纯就是泯灭人性的东西，我读高中的时候早上五点多起床，然后跑去吃早饭，跑去早读，早读还要求站着读，要求很大声的读，读的不够大声的人还被要求去外面罚站\n校领导也全是畜生，克扣学生假期，完全不把学生当人\n16个学生住一个宿舍，共用一个…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "1889833020821254164",
+        "created_at": "2025-02-13T00:24:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T01:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889833020821254164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1690706941134397440",
+              "start": 3,
+              "username": "ITNSatori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889833020821254164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889604342761562278",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ITNSatori: 还有应试教育也是，纯纯就是泯灭人性的东西，我读高中的时候早上五点多起床，然后跑去吃早饭，跑去早读，早读还要求站着读，要求很大声的读，读的不够大声的人还被要求去外面罚站\n校领导也全是畜生，克扣学生假期，完全不把学生当人\n16个学生住一个宿舍，共用一个…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690706941134397440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "1889600541963034948",
+        "created_at": "2025-02-12T09:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T10:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889604342761562278"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1889604342761562278",
+        "in_reply_to_user_id": "1690706941134397440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 534,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889600541963034948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有应试教育也是，纯纯就是泯灭人性的东西，我读高中的时候早上五点多起床，然后跑去吃早饭，跑去早读，早读还要求站着读，要求很大声的读，读的不够大声的人还被要求去外面罚站\n校领导也全是畜生，克扣学生假期，完全不把学生当人\n16个学生住一个宿舍，共用一个洗浴间，学校还不让开空调\n恶心恶心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/😶‍🌫️Online-only introvert/🌏ZH,EN/🌈Inclusivity/🕊️Love & Peace/😔Not good at chatting/🔄Interact to gain my follow-back/🤫Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 141,
+                "username": "mkc_Cute"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵😺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1592,
+          "following_count": 965,
+          "like_count": 117004,
+          "listed_count": 4,
+          "media_count": 854,
+          "tweet_count": 4509
+        },
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-13T12:48:48.000Z",
+        "description": "1/5 164/49 🏳‍⚧️HRT:2023.12.16🍥 主人 @KOISHI_IV 姐姐们 @shuixian120886 Sub/brat 拒绝键政\n英酱是一只想努力帮助别人的猫猫\n原来英酱只是过气了所以推文才没人看",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "KOISHI_IV"
+              },
+              {
+                "end": 64,
+                "start": 49,
+                "username": "shuixian120886"
+              }
+            ]
+          }
+        },
+        "id": "1690706941134397440",
+        "location": "恋恋的笼子里",
+        "name": "小英酱喵🍥🏳‍⚧️",
+        "pinned_tweet_id": "1834562768722379079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866231302997098496/mnl2_0mk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3069,
+          "following_count": 258,
+          "like_count": 7778,
+          "listed_count": 6,
+          "media_count": 142,
+          "tweet_count": 702
+        },
+        "username": "ITNSatori",
+        "verified": false
+      }
+    ]
+  }
+}

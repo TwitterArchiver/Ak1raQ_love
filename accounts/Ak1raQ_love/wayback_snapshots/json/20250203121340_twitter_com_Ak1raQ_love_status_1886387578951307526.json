@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1886385044912038189",
+    "created_at": "2025-02-03T12:13:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T13:13:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886387578951307526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1675012461790113792",
+          "start": 0,
+          "username": "Fallings_Yuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886387578951307526",
+    "in_reply_to_user_id": "1675012461790113792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886385044912038189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fallings_Yuki 咋做的，api还是操控浏览器"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1886385044912038189",
+        "created_at": "2025-02-03T12:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T13:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886387578951307526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1675012461790113792",
+              "start": 0,
+              "username": "Fallings_Yuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886387578951307526",
+        "in_reply_to_user_id": "1675012461790113792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886385044912038189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fallings_Yuki 咋做的，api还是操控浏览器"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675012461790113792",
+        "conversation_id": "1886385044912038189",
+        "created_at": "2025-02-03T12:03:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T13:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886385044912038189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Fallings_Yuki/…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/Fallings_Yuki/status/1886373918157537662",
+              "start": 44,
+              "url": "https://t.co/9VTnebwFTm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886385044912038189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886373918157537662",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自动化测试大获成功，从今天开始设立一个自动化晚安推，看看在不主动维护的情况下能运行多久 https://t.co/9VTnebwFTm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/🌏ZH,EN/🏳️‍⚧️Genderfree/🌈 Diversity & Inclusivity/🕊️Love & Peace/😔Sorry, I'm not good at chatting/Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 121,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "https://mikachan.us.kg/",
+                "start": 0,
+                "url": "https://t.co/yUfVtUE4yg"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵 #ʟᴜɴᴀʀɴᴇᴡʏᴇᴀʀ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 898,
+          "like_count": 112517,
+          "listed_count": 4,
+          "media_count": 803,
+          "tweet_count": 4236
+        },
+        "url": "https://t.co/yUfVtUE4yg",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-01T05:24:55.000Z",
+        "description": "你为什么会来到这里呢？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fallings-snow.github.io",
+                "end": 23,
+                "expanded_url": "https://fallings-snow.github.io/",
+                "start": 0,
+                "url": "https://t.co/nCWbb8G02w"
+              }
+            ]
+          }
+        },
+        "id": "1675012461790113792",
+        "location": "赤鬼川-紅井",
+        "name": "⛩️櫻坠落雪.",
+        "pinned_tweet_id": "1784927153156743375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875899326255296512/oaYOjTKZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 92,
+          "like_count": 28445,
+          "listed_count": 3,
+          "media_count": 605,
+          "tweet_count": 7259
+        },
+        "url": "https://t.co/nCWbb8G02w",
+        "username": "Fallings_Yuki",
+        "verified": false
+      }
+    ]
+  }
+}

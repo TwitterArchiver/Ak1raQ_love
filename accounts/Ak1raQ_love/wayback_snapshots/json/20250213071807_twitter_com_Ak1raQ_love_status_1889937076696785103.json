@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1889937070573146112"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "1889937076696785103",
+    "created_at": "2025-02-13T07:18:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-13T08:18:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1889937076696785103"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 0,
+          "tag": "推友情況通報"
+        },
+        {
+          "end": 14,
+          "start": 8,
+          "tag": "中推讣告栏"
+        },
+        {
+          "end": 18,
+          "start": 15,
+          "tag": "注销"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 28,
+          "id": "1809497565630722052",
+          "start": 21,
+          "username": "w1a2ng"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gCO038nqYu",
+          "end": 60,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/1889937076696785103/photo/1",
+          "media_key": "3_1889937070573146112",
+          "start": 37,
+          "url": "https://t.co/gCO038nqYu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889937076696785103",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#推友情況通報 #中推讣告栏 #注销\n王\n@w1a2ng \n注销了账号。 https://t.co/gCO038nqYu"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [w1a2ng].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "w1a2ng",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "w1a2ng"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1277,
+        "media_key": "3_1889937070573146112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjpnwJta0AAP6me.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889937070573146112"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "1889937076696785103",
+        "created_at": "2025-02-13T07:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T08:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889937076696785103"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "推友情況通報"
+            },
+            {
+              "end": 14,
+              "start": 8,
+              "tag": "中推讣告栏"
+            },
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "注销"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1809497565630722052",
+              "start": 21,
+              "username": "w1a2ng"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gCO038nqYu",
+              "end": 60,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/1889937076696785103/photo/1",
+              "media_key": "3_1889937070573146112",
+              "start": 37,
+              "url": "https://t.co/gCO038nqYu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889937076696785103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#推友情況通報 #中推讣告栏 #注销\n王\n@w1a2ng \n注销了账号。 https://t.co/gCO038nqYu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/😶‍🌫️Online-only introvert/🌏ZH,EN/🌈Inclusivity/🕊️Love & Peace/😔Not good at chatting/🔄Interact to gain my follow-back/🤫Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 141,
+                "username": "mkc_Cute"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵😺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1593,
+          "following_count": 967,
+          "like_count": 117319,
+          "listed_count": 4,
+          "media_count": 857,
+          "tweet_count": 4517
+        },
+        "username": "Ak1raQ_love",
+        "verified": true
+      }
+    ]
+  }
+}

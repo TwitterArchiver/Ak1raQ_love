@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2079051249551622162",
+    "created_at": "2026-07-20T06:40:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T07:40:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079094100658434133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1711607784071147520",
+          "start": 0,
+          "username": "CuteFemboyAddMe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079094100658434133",
+    "in_reply_to_user_id": "1711607784071147520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079071069357650054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CuteFemboyAddMe 并不是太能，只是发推这么说，其实在外面主要还是用国内卡流量x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2079051249551622162",
+        "created_at": "2026-07-20T06:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T07:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079094100658434133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1711607784071147520",
+              "start": 0,
+              "username": "CuteFemboyAddMe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079094100658434133",
+        "in_reply_to_user_id": "1711607784071147520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079071069357650054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CuteFemboyAddMe 并不是太能，只是发推这么说，其实在外面主要还是用国内卡流量x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711607784071147520",
+        "conversation_id": "2079051249551622162",
+        "created_at": "2026-07-20T05:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T06:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079071069357650054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079071069357650054",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 250,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079051249551622162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak1raQ_love 新加坡卡漫遊費能日常用？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/留长发中/无糖/向往自由/原创&二创meme/秋月姐姐 @qiuylove/阿堇🕯️@Akatsuki_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "qiuylove"
+              },
+              {
+                "end": 60,
+                "start": 47,
+                "username": "Akatsuki_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "廈門 Amoy",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1424,
+          "following_count": 1064,
+          "like_count": 201734,
+          "listed_count": 2,
+          "media_count": 986,
+          "tweet_count": 7961
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-10T05:01:55.000Z",
+        "description": "無価値な人。Retweet Master/リツィートマスター/轉發大師。",
+        "id": "1711607784071147520",
+        "name": "花咲ねむ🍼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956187384342831107/c69qna1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 1947,
+          "like_count": 53647,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 3845
+        },
+        "url": "",
+        "username": "CuteFemboyAddMe",
+        "verified": false
+      }
+    ]
+  }
+}

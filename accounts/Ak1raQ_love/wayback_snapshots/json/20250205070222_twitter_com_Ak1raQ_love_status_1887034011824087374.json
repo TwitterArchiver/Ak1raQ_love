@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1887034011824087374",
+    "created_at": "2025-02-05T07:02:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T08:02:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1887034011824087374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1243945571796295681",
+          "start": 12,
+          "username": "59ryq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887034011824087374",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我怎么突然有一种感觉， @59ryq 一个小时一次的定时推文像是给我整点报时一样（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1887034011824087374",
+        "created_at": "2025-02-05T07:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T08:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887034011824087374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1243945571796295681",
+              "start": 12,
+              "username": "59ryq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887034011824087374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我怎么突然有一种感觉， @59ryq 一个小时一次的定时推文像是给我整点报时一样（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/🌏ZH,EN/🏳️‍⚧️/🌈 Diversity & Inclusivity/🕊️Love & Peace/😔Not good at chatting/🔄Interact to gain my follow-back/🤫Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "https://mikachan.us.kg/",
+                "start": 0,
+                "url": "https://t.co/yUfVtUE4yg"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵😺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1484,
+          "following_count": 900,
+          "like_count": 113471,
+          "listed_count": 4,
+          "media_count": 817,
+          "tweet_count": 4306
+        },
+        "url": "https://t.co/yUfVtUE4yg",
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-28T16:58:37.000Z",
+        "description": "「故事要从这里开始讲起」｜Make It Real｜JDEsports｜PUBGM Pro Player & Esports Analys｜Language:CN/EN/JP/KR｜曦玲酱：@xlj070423｜Sister@yizhikapaiqaq @iranon_lcf｜莱铭：@revive_meink",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 95,
+                "username": "xlj070423"
+              },
+              {
+                "end": 138,
+                "start": 127,
+                "username": "iranon_lcf"
+              },
+              {
+                "end": 155,
+                "start": 142,
+                "username": "revive_meink"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/6W3mmCUeaH"
+              }
+            ]
+          }
+        },
+        "id": "1243945571796295681",
+        "location": "JDEsport",
+        "name": "你是想气死铨酱么🏳️‍⚧️",
+        "pinned_tweet_id": "1863553708816261124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811063132472889345/EAJ4Qnlm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16611,
+          "following_count": 4416,
+          "like_count": 169496,
+          "listed_count": 69,
+          "media_count": 4497,
+          "tweet_count": 20981
+        },
+        "url": "https://t.co/6W3mmCUeaH",
+        "username": "59ryq",
+        "verified": true
+      }
+    ]
+  }
+}

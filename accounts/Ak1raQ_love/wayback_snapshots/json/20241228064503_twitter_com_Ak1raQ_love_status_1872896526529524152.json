@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1872894025692479902",
+    "created_at": "2024-12-28T06:45:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-28T07:45:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872896526529524152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1427572752358141956",
+          "start": 0,
+          "username": "Hongcha_Meow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872896526529524152",
+    "in_reply_to_user_id": "1427572752358141956",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872896201680699834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hongcha_Meow 是本来要按ctrl+shift+c复制东西的，然后shift没按着）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1872894025692479902",
+        "created_at": "2024-12-28T06:45:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T07:45:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872896526529524152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1427572752358141956",
+              "start": 0,
+              "username": "Hongcha_Meow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872896526529524152",
+        "in_reply_to_user_id": "1427572752358141956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872896201680699834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hongcha_Meow 是本来要按ctrl+shift+c复制东西的，然后shift没按着）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1427572752358141956",
+        "conversation_id": "1872894025692479902",
+        "created_at": "2024-12-28T06:43:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T07:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872896201680699834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872896201680699834",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872894025692479902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak1raQ_love 你是指你不小心一起按到了ctrl和c是吗）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "A sweet soul🥺♥️/🏳️‍⚧️Non-Cis/🌏G11N/Cuter is better!/Mutual-followist/Mood swings, but you all make me less lonely!/⚠️Following≠Agreeing⚠️/Private:@mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 146,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtfxyn.news",
+                "end": 23,
+                "expanded_url": "https://mtfxyn.news",
+                "start": 0,
+                "url": "https://t.co/0auRNqe1RP"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄𝕄𝕖𝕠𝕨 #NewYear🎆",
+        "pinned_tweet_id": "1871929681479627262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865724365129805824/2wK-6ZpG_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1265,
+          "following_count": 787,
+          "like_count": 99177,
+          "listed_count": 3,
+          "media_count": 679,
+          "tweet_count": 3541
+        },
+        "url": "https://t.co/0auRNqe1RP",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-17T10:07:31.000Z",
+        "description": "She/They | EE/CS | 可以叫我红茶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+hrc7QFYeEPQ4N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+hrc7QFYeEPQ4NDI8",
+                "start": 0,
+                "url": "https://t.co/RcrGZLB8rD"
+              }
+            ]
+          }
+        },
+        "id": "1427572752358141956",
+        "location": "44怀里~",
+        "name": "紅茶",
+        "pinned_tweet_id": "1854180898176197112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1618954126871924741/ZXkOdYhu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1498,
+          "following_count": 1549,
+          "like_count": 29577,
+          "listed_count": 3,
+          "media_count": 115,
+          "tweet_count": 4372
+        },
+        "url": "https://t.co/RcrGZLB8rD",
+        "username": "Hongcha_Meow",
+        "verified": false
+      }
+    ]
+  }
+}

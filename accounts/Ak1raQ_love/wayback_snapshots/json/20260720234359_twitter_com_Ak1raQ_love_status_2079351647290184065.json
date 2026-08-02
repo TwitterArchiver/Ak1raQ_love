@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2079351647290184065",
+    "created_at": "2026-07-20T23:43:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T00:43:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079351647290184065"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ak1raQ_love/st…",
+          "end": 166,
+          "expanded_url": "https://twitter.com/Ak1raQ_love/status/2079221428369629501",
+          "start": 143,
+          "url": "https://t.co/r7rKFgOJMs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079351647290184065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079221428369629501",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不敢想象那个场景，是她的头像配上聊天框然后冒出一堆叽里咕噜的话，然后一堆人在那里欢呼说「雪風回来了」\n仅凭一些聊天记录，是不可能还原的，没有那些过去经历、背景、处境之类的，那就永远是残缺的空壳！\n人性是有温度的，永远不是通过规律通过计算得来的\n再说哪天说出ooc的话真的不会感到膈应吗 https://t.co/r7rKFgOJMs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2079351647290184065",
+        "created_at": "2026-07-20T23:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T00:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079351647290184065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ak1raQ_love/st…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/Ak1raQ_love/status/2079221428369629501",
+              "start": 143,
+              "url": "https://t.co/r7rKFgOJMs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079351647290184065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079221428369629501",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不敢想象那个场景，是她的头像配上聊天框然后冒出一堆叽里咕噜的话，然后一堆人在那里欢呼说「雪風回来了」\n仅凭一些聊天记录，是不可能还原的，没有那些过去经历、背景、处境之类的，那就永远是残缺的空壳！\n人性是有温度的，永远不是通过规律通过计算得来的\n再说哪天说出ooc的话真的不会感到膈应吗 https://t.co/r7rKFgOJMs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2079221428369629501",
+        "created_at": "2026-07-20T15:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T16:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079221428369629501"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079221428369629501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1438,
+          "like_count": 33,
+          "quote_count": 2,
+          "reply_count": 17,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得那个收集雪風聊天记录做AI机器人的好诡异... 还用她做QQ群头像，有点反感\n她不会同意被这样的\n目的不过是想她能一直陪在大家身边嘛，不能接受她已经离开的事实...\n可是离开就是离开了，再怎么挽回也无用的，做出来的AI再像她也不会是她呀，而且，背后的是冷冰冰的机器.\n我只觉得反感\n不要这么做"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/不在社交圈内者请不要关注，可能会被清除/留长发中/无糖/向往自由/原创&二创meme/秋月姐姐 @qiuylove/阿堇🕯️@Akatsuki_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "qiuylove"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "Akatsuki_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "廈門 Amoy",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1425,
+          "following_count": 1071,
+          "like_count": 202160,
+          "listed_count": 2,
+          "media_count": 991,
+          "tweet_count": 7996
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": true
+      }
+    ]
+  }
+}

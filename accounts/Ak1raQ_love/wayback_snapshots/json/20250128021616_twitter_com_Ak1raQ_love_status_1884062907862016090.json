@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1884062907862016090",
+    "created_at": "2025-01-28T02:16:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T03:16:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884062907862016090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1797089026111098880",
+          "start": 3,
+          "username": "severedwingz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884062907862016090",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884021164986802517",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @severedwingz: this page will always be a safe space for every person out there , no matter how misunderstood . i love each and every on…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1884062907862016090",
+        "created_at": "2025-01-28T02:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T03:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884062907862016090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1797089026111098880",
+              "start": 3,
+              "username": "severedwingz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884062907862016090",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884021164986802517",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @severedwingz: this page will always be a safe space for every person out there , no matter how misunderstood . i love each and every on…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797089026111098880",
+        "conversation_id": "1884021164986802517",
+        "created_at": "2025-01-27T23:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T00:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884021164986802517"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1884021164986802517",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "this page will always be a safe space for every person out there , no matter how misunderstood . i love each and every one of you, and i will never judge you.\n\n🙏BLESS🙏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/🏳️‍⚧️Non-Cisgender/🌈 Diversity & Inclusivity/🕊️Peace & Love/😔Sorry, I'm not good at chatting/Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 117,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "https://mikachan.us.kg/",
+                "start": 0,
+                "url": "https://t.co/yUfVtUE4yg"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄𝕄𝕖𝕠𝕨 #LunarNewYear🧧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1407,
+          "following_count": 858,
+          "like_count": 108289,
+          "listed_count": 3,
+          "media_count": 753,
+          "tweet_count": 3976
+        },
+        "url": "https://t.co/yUfVtUE4yg",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T02:13:14.000Z",
+        "description": "internet overdose\n\ni love my p-chan !! https://t.co/FlcgNKRIwU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zephyrs.straw.page",
+                "end": 62,
+                "expanded_url": "https://zephyrs.straw.page",
+                "start": 39,
+                "url": "https://t.co/FlcgNKRIwU"
+              }
+            ]
+          }
+        },
+        "id": "1797089026111098880",
+        "location": "#bpdtwt   ﾉ   #nsotwt ୨୧ ꒱",
+        "name": "𝜗𝜚 ame / kangel !",
+        "pinned_tweet_id": "1883989170860994633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881494408417411072/31CBYitW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2278,
+          "following_count": 2517,
+          "like_count": 22800,
+          "listed_count": 20,
+          "media_count": 825,
+          "tweet_count": 4749
+        },
+        "username": "severedwingz",
+        "verified": false
+      }
+    ]
+  }
+}

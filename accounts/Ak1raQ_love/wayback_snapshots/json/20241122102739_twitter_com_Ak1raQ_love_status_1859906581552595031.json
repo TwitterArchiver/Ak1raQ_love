@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1859906578520174592"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "1859906581552595031",
+    "created_at": "2024-11-22T10:27:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-22T11:27:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1859906581552595031"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 0,
+          "tag": "推友情況通報"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 41,
+          "id": "1735347961012338688",
+          "start": 25,
+          "username": "Theshehee133265"
+        },
+        {
+          "end": 68,
+          "id": "1787889314031955968",
+          "start": 55,
+          "username": "Beckysteve87"
+        },
+        {
+          "end": 99,
+          "id": "1741393579946188801",
+          "start": 88,
+          "username": "wsjgdykdsj"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yHljPhSASj",
+          "end": 131,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/1859906581552595031/photo/1",
+          "media_key": "3_1859906578520174592",
+          "start": 108,
+          "url": "https://t.co/yHljPhSASj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859906581552595031",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#推友情況通報\n🐜🐲杀疯了：\nTheshehee（@Theshehee133265）\nBecky steve（@Beckysteve87）\n星川いろは⛩️三代目（parody（@wsjgdykdsj）\n账号被冻结。 https://t.co/yHljPhSASj"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Theshehee133265].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Theshehee133265",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Theshehee133265"
+    },
+    {
+      "detail": "User has been suspended: [Beckysteve87].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Beckysteve87",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Beckysteve87"
+    },
+    {
+      "detail": "User has been suspended: [wsjgdykdsj].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "wsjgdykdsj",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "wsjgdykdsj"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 345,
+        "media_key": "3_1859906578520174592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gc-3LdAbcAALk2t.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859906578520174592"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "1859906581552595031",
+        "created_at": "2024-11-22T10:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T11:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859906581552595031"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "推友情況通報"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 41,
+              "id": "1735347961012338688",
+              "start": 25,
+              "username": "Theshehee133265"
+            },
+            {
+              "end": 68,
+              "id": "1787889314031955968",
+              "start": 55,
+              "username": "Beckysteve87"
+            },
+            {
+              "end": 99,
+              "id": "1741393579946188801",
+              "start": 88,
+              "username": "wsjgdykdsj"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yHljPhSASj",
+              "end": 131,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/1859906581552595031/photo/1",
+              "media_key": "3_1859906578520174592",
+              "start": 108,
+              "url": "https://t.co/yHljPhSASj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859906581552595031",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#推友情況通報\n🐜🐲杀疯了：\nTheshehee（@Theshehee133265）\nBecky steve（@Beckysteve87）\n星川いろは⛩️三代目（parody（@wsjgdykdsj）\n账号被冻结。 https://t.co/yHljPhSASj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "A sweet soul\n阿棄的性別就是阿棄\n可爱即是正义\n社交软件重度依赖😣\n随缘回fo\n精神状态时好时坏，所以你能看到两个不同的我\n喜欢和推友们在一起，有你们在就不会孤独\n视奸你们的东西https://t.co/pMLFhL8CF1\n分身@mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 121,
+                "username": "mkc_Cute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg/fdap",
+                "end": 118,
+                "expanded_url": "https://mikachan.us.kg/fdap",
+                "start": 95,
+                "url": "https://t.co/pMLFhL8CF1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "http://mikachan.us.kg",
+                "start": 0,
+                "url": "https://t.co/lSEgpdslQn"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "是阿棄喵🥺♥️",
+        "pinned_tweet_id": "1850545437570470071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852745129033093120/bPab9bQm_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1201,
+          "following_count": 728,
+          "like_count": 90025,
+          "listed_count": 2,
+          "tweet_count": 3245
+        },
+        "url": "https://t.co/lSEgpdslQn",
+        "username": "Ak1raQ_love",
+        "verified": false
+      }
+    ]
+  }
+}

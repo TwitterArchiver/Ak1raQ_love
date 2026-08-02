@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1890302955699728887",
+    "created_at": "2025-02-14T07:31:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T08:31:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1890302955699728887"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NagiVictoria/s…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/NagiVictoria/status/1890297208584696224",
+          "start": 6,
+          "url": "https://t.co/qP7Lbtv97T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890302955699728887",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890297208584696224",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "双取还挂😓 https://t.co/qP7Lbtv97T"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1890302955699728887",
+        "created_at": "2025-02-14T07:31:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T08:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890302955699728887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NagiVictoria/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/NagiVictoria/status/1890297208584696224",
+              "start": 6,
+              "url": "https://t.co/qP7Lbtv97T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890302955699728887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890297208584696224",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "双取还挂😓 https://t.co/qP7Lbtv97T"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890297204612423680"
+          ]
+        },
+        "author_id": "1794154221194932224",
+        "conversation_id": "1890297208584696224",
+        "created_at": "2025-02-14T07:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T08:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890297208584696224"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "推友情況通報"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1663066129923981312",
+              "start": 12,
+              "username": "Ak1raQ_love"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dLke1fdUwh",
+              "end": 55,
+              "expanded_url": "https://x.com/NagiVictoria/status/1890297208584696224/photo/1",
+              "media_key": "3_1890297204612423680",
+              "start": 32,
+              "url": "https://t.co/dLke1fdUwh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890297208584696224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#推友情況通報\n阿棄喵（@Ak1raQ_love ）双取了我。 https://t.co/dLke1fdUwh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/😶‍🌫️Introvert/Highlights➡️Original meme/🌏ZH,EN/🌈Love & Peace/😔Not good at chatting/🔄Interact to gain my follow-back/🤫Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 141,
+                "username": "mkc_Cute"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵😺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1606,
+          "following_count": 976,
+          "like_count": 118187,
+          "listed_count": 4,
+          "media_count": 866,
+          "tweet_count": 4551
+        },
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-24T23:51:25.000Z",
+        "description": "银趴大王冲晕了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/xPejExTBHF"
+              }
+            ]
+          }
+        },
+        "id": "1794154221194932224",
+        "location": "机厅厕所隔间",
+        "name": "Nagi 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️🤤",
+        "pinned_tweet_id": "1885877612117106704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882689504978350080/iCWHUndQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3468,
+          "following_count": 813,
+          "like_count": 13790,
+          "listed_count": 5,
+          "media_count": 1629,
+          "tweet_count": 12767
+        },
+        "url": "https://t.co/xPejExTBHF",
+        "username": "NagiVictoria",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2069406855881998364",
+    "created_at": "2026-06-23T13:13:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T14:13:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069408512166470021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1816123872087007235",
+          "start": 0,
+          "username": "jim71351321670"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069408512166470021",
+    "in_reply_to_user_id": "1816123872087007235",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069407090230354282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jim71351321670 不用看起来，真的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2069406855881998364",
+        "created_at": "2026-06-23T13:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T14:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069408512166470021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1816123872087007235",
+              "start": 0,
+              "username": "jim71351321670"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069408512166470021",
+        "in_reply_to_user_id": "1816123872087007235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069407090230354282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jim71351321670 不用看起来，真的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816123872087007235",
+        "conversation_id": "2069406855881998364",
+        "created_at": "2026-06-23T13:07:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T14:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069407090230354282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2069407090230354282",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069406855881998364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak1raQ_love 看起來很好吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "08年Transfem🍥🏳️‍⚧️/断糖/炸柜/infp/泛性恋/家长不管党？/hrt 25.9.5/无证/留长发中/IT&AI/贴贴/互fo喵/闺蜜@qiuylove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "qiuylove"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://mikachan.dpdns.org/",
+                "start": 0,
+                "url": "https://t.co/IMLmPxFeyX"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Hokkien 閩南",
+        "name": "弃羽酱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318,
+          "following_count": 999,
+          "like_count": 191989,
+          "listed_count": 3,
+          "media_count": 851,
+          "tweet_count": 7223
+        },
+        "url": "https://t.co/IMLmPxFeyX",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T14:51:17.000Z",
+        "description": "Chinese/mnber/English/Japanese\n  平壤江東郡現任執事【2025-2028】\n生日：6.21",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "taiwan.gov.tw",
+                "end": 23,
+                "expanded_url": "https://www.taiwan.gov.tw/",
+                "start": 0,
+                "url": "https://t.co/k4uEtD9c9b"
+              }
+            ]
+          }
+        },
+        "id": "1816123872087007235",
+        "location": "Kaohsiung, Taiwan",
+        "name": "冉冉面（s版），🇭🇰🇹🇼",
+        "pinned_tweet_id": "2039728461015838818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968738138823737344/_2fdpg7j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 751,
+          "following_count": 650,
+          "like_count": 16444,
+          "listed_count": 4,
+          "media_count": 495,
+          "tweet_count": 3229
+        },
+        "url": "https://t.co/k4uEtD9c9b",
+        "username": "jim71351321670",
+        "verified": true
+      }
+    ]
+  }
+}

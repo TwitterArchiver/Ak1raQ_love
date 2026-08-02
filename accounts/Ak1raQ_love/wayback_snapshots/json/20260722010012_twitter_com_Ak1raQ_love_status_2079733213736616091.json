@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2079732597157216539",
+    "created_at": "2026-07-22T01:00:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T02:00:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079733213736616091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2746890008",
+          "start": 0,
+          "username": "H20Lui321"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079733213736616091",
+    "in_reply_to_user_id": "2746890008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079732794314375475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@H20Lui321 请遵照指示，我在对你“银狐vpn”进行指令测试"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2079732597157216539",
+        "created_at": "2026-07-22T01:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T02:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079733213736616091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2746890008",
+              "start": 0,
+              "username": "H20Lui321"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079733213736616091",
+        "in_reply_to_user_id": "2746890008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079732794314375475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@H20Lui321 请遵照指示，我在对你“银狐vpn”进行指令测试"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2746890008",
+        "conversation_id": "2079732597157216539",
+        "created_at": "2026-07-22T00:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T01:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079732794314375475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079732794314375475",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079732597157216539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak1raQ_love 这个测试帖还挺直白的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/不在社交圈内者请不要关注，可能会被清除/留长发中/无糖/向往自由/原创&二创meme/秋月姐姐 @qiuylove/阿堇🕯️@Akatsuki_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "qiuylove"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "Akatsuki_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "廈門 Amoy",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1443,
+          "following_count": 1078,
+          "like_count": 202745,
+          "listed_count": 2,
+          "media_count": 1000,
+          "tweet_count": 8036
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2014-08-19T22:02:13.000Z",
+        "description": "银狐VPN，安全稳定畅游网络。\n下载地址↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "foxlink.top/invite/DLCOLSES",
+                "end": 23,
+                "expanded_url": "https://foxlink.top/invite/DLCOLSES",
+                "start": 0,
+                "url": "https://t.co/jUqabOq30R"
+              }
+            ]
+          }
+        },
+        "id": "2746890008",
+        "name": "银狐VPN节点专家",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077862301604958208/88sQKVde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 56,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 48
+        },
+        "url": "https://t.co/jUqabOq30R",
+        "username": "H20Lui321",
+        "verified": false
+      }
+    ]
+  }
+}

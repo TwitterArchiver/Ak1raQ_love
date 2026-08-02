@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2006762904201416767",
+    "created_at": "2026-01-02T04:33:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T05:33:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006946864701354056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1952257824664485888",
+          "start": 0,
+          "username": "LibailuOne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006946864701354056",
+    "in_reply_to_user_id": "1952257824664485888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006762904201416767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LibailuOne 摸摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2006762904201416767",
+        "created_at": "2026-01-02T04:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T05:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006946864701354056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1952257824664485888",
+              "start": 0,
+              "username": "LibailuOne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006946864701354056",
+        "in_reply_to_user_id": "1952257824664485888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006762904201416767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LibailuOne 摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952257824664485888",
+        "conversation_id": "2006762904201416767",
+        "created_at": "2026-01-01T16:22:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T17:22:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006762904201416767"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006762904201416767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跨年的前一天，也是炸柜了。算是成为2025年最晚炸柜的了，同样的也是在2026年最早尝试离家出走的。最后还是被抓了回来，成功的被打了一顿，精神上面几乎崩掉了。有关于制作凝胶的材料以及一些药几乎全被扔了，还被父亲当成神经病（明明我才是这个家里面最清醒的人）骂我是人妖。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "在模糊中辨认自己/可爱喵可爱喵/最棒的秋月姐姐w @qiuylove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "qiuylove"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "充满温柔与爱的世界",
+        "name": "🍥永不言弃🌸💫",
+        "pinned_tweet_id": "2002656150932824310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005058002446155780/6PTxaZkM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1360,
+          "following_count": 1000,
+          "like_count": 174685,
+          "listed_count": 3,
+          "media_count": 672,
+          "tweet_count": 6052
+        },
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-04T06:38:58.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf.wiki",
+                "end": 23,
+                "expanded_url": "http://mtf.wiki",
+                "start": 0,
+                "url": "https://t.co/ybSVcXZqmQ"
+              }
+            ]
+          }
+        },
+        "id": "1952257824664485888",
+        "location": "亚神瑞亚尼赛亚（Asenruia Nisaa）",
+        "name": "Libailu🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2006762904201416767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961437963768008704/HjAWynxG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 290,
+          "like_count": 5665,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 598
+        },
+        "url": "https://t.co/ybSVcXZqmQ",
+        "username": "LibailuOne",
+        "verified": false
+      }
+    ]
+  }
+}

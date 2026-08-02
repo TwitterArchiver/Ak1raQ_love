@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1868639210342851030",
+    "created_at": "2024-12-16T14:07:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-16T15:07:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868659143671947294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1467175651954200577",
+          "start": 0,
+          "username": "kjkluk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868659143671947294",
+    "in_reply_to_user_id": "1467175651954200577",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868639210342851030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kjkluk 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1868639210342851030",
+        "created_at": "2024-12-16T14:07:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T15:07:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868659143671947294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1467175651954200577",
+              "start": 0,
+              "username": "kjkluk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868659143671947294",
+        "in_reply_to_user_id": "1467175651954200577",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868639210342851030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kjkluk 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467175651954200577",
+        "conversation_id": "1868639210342851030",
+        "created_at": "2024-12-16T12:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T13:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868639210342851030"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1868639210342851030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 213,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我这命这么惨我也没办法了\n感觉只有似了解脱能少受点苦了呜呜呜呜呜呜呜呜呜呜\n赶紧来个谁把我弄似让我解脱吧。\n唉。实在受不了。现在耗着没死只是在折磨自己。我这么楠一辈子只会恶心自己一辈子。已经没有别的出路了，环境过于恶劣，只能死了。。。\n物竞天择 适者生存\n我这种适应不了的就只能死了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "A sweet soul🥺♥️ AkiraQ's gender is just itself 可愛即正義！ 互fo主义者 精神狀態時好時壞，所以你能看到不同的我 喜歡和你們在一起，就不會孤單了呢 部分日常会发往Bluesky !注意，互fo≠同意对方立场! 分身@mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 131,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "https://mikachan.us.kg/",
+                "start": 0,
+                "url": "https://t.co/yUfVtUE4yg"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵 𝓐𝓴𝓲𝓻𝓪𝓠",
+        "pinned_tweet_id": "1862810670238154974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865724365129805824/2wK-6ZpG_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1260,
+          "following_count": 776,
+          "like_count": 96462,
+          "listed_count": 3,
+          "media_count": 658,
+          "tweet_count": 3448
+        },
+        "url": "https://t.co/yUfVtUE4yg",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-04T16:55:23.000Z",
+        "description": "高性能狐物器之替身。设计寿命大概至2025.1",
+        "id": "1467175651954200577",
+        "location": "Japan",
+        "name": "綾猫「あやね」🏳️‍⚧️",
+        "pinned_tweet_id": "1862488162809126927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867441335307055105/Tbp9gOdz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1648,
+          "following_count": 1884,
+          "like_count": 151672,
+          "listed_count": 7,
+          "media_count": 325,
+          "tweet_count": 6432
+        },
+        "username": "kjkluk",
+        "verified": false
+      }
+    ]
+  }
+}

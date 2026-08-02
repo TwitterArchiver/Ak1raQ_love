@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1873020639885549703",
+    "created_at": "2024-12-28T15:00:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-28T16:00:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873021127259566348"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1873021127259566348",
+    "in_reply_to_user_id": "1663066129923981312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873020639885549703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我服务器上啥都没了啊啊啊啊啊啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1873020639885549703",
+        "created_at": "2024-12-28T15:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T16:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873021127259566348"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1873021127259566348",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873020639885549703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我服务器上啥都没了啊啊啊啊啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873020311740006406"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "1873020639885549703",
+        "created_at": "2024-12-28T14:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T15:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873020639885549703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NyvrSlCUlt",
+              "end": 105,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/1873020639885549703/photo/1",
+              "media_key": "3_1873020311740006406",
+              "start": 82,
+              "url": "https://t.co/NyvrSlCUlt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873020639885549703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我刚才干了什么？！\n本来看到当前目录下有一个叫做~的目录，然后我就要删掉嘛，然后直接rm -rf ~回车一气呵成。。。\n后知后觉，不对！我把自己家给抄了啊啊啊啊啊 https://t.co/NyvrSlCUlt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "A sweet soul🥺♥️/🏳️‍⚧️Non-Cis/🌏G11N/Cuter is better!/Mutual-followist/Mood swings, but you all make me less lonely!/⚠️Following≠Agreeing⚠️/Private:@mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 146,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtfxyn.news",
+                "end": 23,
+                "expanded_url": "https://mtfxyn.news",
+                "start": 0,
+                "url": "https://t.co/0auRNqe1RP"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄𝕄𝕖𝕠𝕨 #NewYear🎆",
+        "pinned_tweet_id": "1871929681479627262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865724365129805824/2wK-6ZpG_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1267,
+          "following_count": 789,
+          "like_count": 99315,
+          "listed_count": 3,
+          "media_count": 683,
+          "tweet_count": 3556
+        },
+        "url": "https://t.co/0auRNqe1RP",
+        "username": "Ak1raQ_love",
+        "verified": false
+      }
+    ]
+  }
+}

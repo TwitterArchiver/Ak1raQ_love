@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1886228927645127021",
+    "created_at": "2025-02-03T01:43:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T02:43:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886228927645127021"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 17,
+          "tag": "推友情況通報"
+        },
+        {
+          "end": 35,
+          "start": 25,
+          "tag": "Suspended"
+        },
+        {
+          "end": 39,
+          "start": 36,
+          "tag": "冻结"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1663066129923981312",
+          "start": 3,
+          "username": "Ak1raQ_love"
+        },
+        {
+          "end": 125,
+          "id": "1683441735144439808",
+          "start": 112,
+          "username": "TheSolipsism"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886228927645127021",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886207520915755152",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ak1raQ_love: #推友情況通報 #Suspended #冻结\nCheck Time: 2025-02-03 08:13:12 CST\nDisplay name: 翎.𝟙𝕞𝕞∅ℝ𝕥𝕒𝕃🍥\nUsername: @TheSolipsism\nUserid: 16834…"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [TheSolipsism].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "TheSolipsism",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "TheSolipsism"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1886228927645127021",
+        "created_at": "2025-02-03T01:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T02:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886228927645127021"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 17,
+              "tag": "推友情況通報"
+            },
+            {
+              "end": 35,
+              "start": 25,
+              "tag": "Suspended"
+            },
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "冻结"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1663066129923981312",
+              "start": 3,
+              "username": "Ak1raQ_love"
+            },
+            {
+              "end": 125,
+              "id": "1683441735144439808",
+              "start": 112,
+              "username": "TheSolipsism"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886228927645127021",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886207520915755152",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ak1raQ_love: #推友情況通報 #Suspended #冻结\nCheck Time: 2025-02-03 08:13:12 CST\nDisplay name: 翎.𝟙𝕞𝕞∅ℝ𝕥𝕒𝕃🍥\nUsername: @TheSolipsism\nUserid: 16834…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886207517870747648"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "1886207520915755152",
+        "created_at": "2025-02-03T00:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T01:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886207520915755152"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "推友情況通報"
+            },
+            {
+              "end": 18,
+              "start": 8,
+              "tag": "Suspended"
+            },
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "冻结"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 108,
+              "id": "1683441735144439808",
+              "start": 95,
+              "username": "TheSolipsism"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IMkRqsWyWx",
+              "end": 160,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/1886207520915755152/photo/1",
+              "media_key": "3_1886207517870747648",
+              "start": 137,
+              "url": "https://t.co/IMkRqsWyWx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886207520915755152",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#推友情況通報 #Suspended #冻结\nCheck Time: 2025-02-03 08:13:12 CST\nDisplay name: 翎.𝟙𝕞𝕞∅ℝ𝕥𝕒𝕃🍥\nUsername: @TheSolipsism\nUserid: 1683441735144439808 https://t.co/IMkRqsWyWx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/🌏ZH,EN/🏳️‍⚧️Genderfree/🌈 Diversity & Inclusivity/🕊️Love & Peace/😔Sorry, I'm not good at chatting/Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 121,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "https://mikachan.us.kg/",
+                "start": 0,
+                "url": "https://t.co/yUfVtUE4yg"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵 #ʟᴜɴᴀʀɴᴇᴡʏᴇᴀʀ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1464,
+          "following_count": 894,
+          "like_count": 112176,
+          "listed_count": 4,
+          "media_count": 800,
+          "tweet_count": 4225
+        },
+        "url": "https://t.co/yUfVtUE4yg",
+        "username": "Ak1raQ_love",
+        "verified": false
+      }
+    ]
+  }
+}

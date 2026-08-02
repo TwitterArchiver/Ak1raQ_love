@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1886041264619159552"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "1885950893306372321",
+    "created_at": "2025-02-02T13:17:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T14:17:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886041292062540248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1680508885394927616",
+          "start": 0,
+          "username": "04177_realname"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9izhsHLIrU",
+          "end": 39,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/1886041292062540248/video/1",
+          "media_key": "7_1886041264619159552",
+          "start": 16,
+          "url": "https://t.co/9izhsHLIrU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886041292062540248",
+    "in_reply_to_user_id": "1680508885394927616",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886039561362637151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@04177_realname https://t.co/9izhsHLIrU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9175,
+        "height": 1278,
+        "media_key": "7_1886041264619159552",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1886041264619159552/pu/img/Krftlfs75sedirfB.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1886041264619159552/pu/vid/avc1/320x702/u8uxiFW39eMMYunn.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1886041264619159552/pu/vid/avc1/480x1054/Tyq00Noh_w8pDFsq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1886041264619159552/pu/vid/avc1/582x1278/f7GhDa-NQz5OCG6C.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1886041264619159552/pu/pl/UlAtOxCfPmP3JFw4.m3u8?tag=12"
+          }
+        ],
+        "width": 582
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1886041264619159552"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "1885950893306372321",
+        "created_at": "2025-02-02T13:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T14:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886041292062540248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1680508885394927616",
+              "start": 0,
+              "username": "04177_realname"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9izhsHLIrU",
+              "end": 39,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/1886041292062540248/video/1",
+              "media_key": "7_1886041264619159552",
+              "start": 16,
+              "url": "https://t.co/9izhsHLIrU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886041292062540248",
+        "in_reply_to_user_id": "1680508885394927616",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886039561362637151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@04177_realname https://t.co/9izhsHLIrU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680508885394927616",
+        "conversation_id": "1885950893306372321",
+        "created_at": "2025-02-02T13:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T14:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886039561362637151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886039561362637151",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886037203740196872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak1raQ_love 在哪里🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/🌏ZH,EN/🏳️‍⚧️Genderfree/🌈 Diversity & Inclusivity/🕊️Love & Peace/😔Sorry, I'm not good at chatting/Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 121,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "https://mikachan.us.kg/",
+                "start": 0,
+                "url": "https://t.co/yUfVtUE4yg"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵 #ʟᴜɴᴀʀɴᴇᴡʏᴇᴀʀ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1464,
+          "following_count": 893,
+          "like_count": 111924,
+          "listed_count": 4,
+          "media_count": 799,
+          "tweet_count": 4204
+        },
+        "url": "https://t.co/yUfVtUE4yg",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T09:25:35.000Z",
+        "description": "学习，工作和休息",
+        "id": "1680508885394927616",
+        "name": "真名🏳️‍⚧️",
+        "pinned_tweet_id": "1864147494676123745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816188111770247168/Ze_RvMX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9514,
+          "following_count": 6192,
+          "like_count": 60188,
+          "listed_count": 28,
+          "media_count": 1874,
+          "tweet_count": 16016
+        },
+        "username": "04177_realname",
+        "verified": false
+      }
+    ]
+  }
+}

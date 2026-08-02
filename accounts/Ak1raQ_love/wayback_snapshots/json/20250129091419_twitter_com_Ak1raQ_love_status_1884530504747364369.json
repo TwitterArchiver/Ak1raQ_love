@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1884530504747364369",
+    "created_at": "2025-01-29T09:14:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T10:14:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884530504747364369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1352594576054382599",
+          "start": 3,
+          "username": "LilyTheFox8"
+        }
+      ],
+      "urls": [
+        {
+          "description": "#lifetales #life #announcement #mentalhealth #vlog just a short update video to myself and whats going on! uwuTwitch Channel: https://www.twitch.tv/littleli...",
+          "display_url": "youtube.com/watch?v=85UBhP…",
+          "end": 40,
+          "expanded_url": "https://www.youtube.com/watch?v=85UBhPz2xdk",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/1884391803937304576/us5YazBq?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1884391803937304576/us5YazBq?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 17,
+          "status": 200,
+          "title": "Hey, Yes I am alive!",
+          "unwound_url": "https://www.youtube.com/watch?v=85UBhPz2xdk",
+          "url": "https://t.co/CK8cWp91Ca"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884530504747364369",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884391803626926280",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LilyTheFox8: https://t.co/CK8cWp91Ca"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1884530504747364369",
+        "created_at": "2025-01-29T09:14:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T10:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884530504747364369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1352594576054382599",
+              "start": 3,
+              "username": "LilyTheFox8"
+            }
+          ],
+          "urls": [
+            {
+              "description": "#lifetales #life #announcement #mentalhealth #vlog just a short update video to myself and whats going on! uwuTwitch Channel: https://www.twitch.tv/littleli...",
+              "display_url": "youtube.com/watch?v=85UBhP…",
+              "end": 40,
+              "expanded_url": "https://www.youtube.com/watch?v=85UBhPz2xdk",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1884391803937304576/us5YazBq?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1884391803937304576/us5YazBq?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Hey, Yes I am alive!",
+              "unwound_url": "https://www.youtube.com/watch?v=85UBhPz2xdk",
+              "url": "https://t.co/CK8cWp91Ca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884530504747364369",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884391803626926280",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LilyTheFox8: https://t.co/CK8cWp91Ca"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1352594576054382599",
+        "conversation_id": "1884391803626926280",
+        "created_at": "2025-01-29T00:03:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T01:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884391803626926280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "#lifetales #life #announcement #mentalhealth #vlog just a short update video to myself and whats going on! uwuTwitch Channel: https://www.twitch.tv/littleli...",
+              "display_url": "youtube.com/watch?v=85UBhP…",
+              "end": 23,
+              "expanded_url": "https://www.youtube.com/watch?v=85UBhPz2xdk",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1884391803937304576/us5YazBq?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1884391803937304576/us5YazBq?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Hey, Yes I am alive!",
+              "unwound_url": "https://www.youtube.com/watch?v=85UBhPz2xdk",
+              "url": "https://t.co/CK8cWp91Ca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884391803626926280",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CK8cWp91Ca"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/🏳️‍⚧️Non-Cisgender/🌈 Diversity & Inclusivity/🕊️Peace & Love/😔Sorry, I'm not good at chatting/Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 117,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "https://mikachan.us.kg/",
+                "start": 0,
+                "url": "https://t.co/yUfVtUE4yg"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄𝕄𝕖𝕠𝕨 #LunarNewYear🧧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 870,
+          "like_count": 109470,
+          "listed_count": 3,
+          "media_count": 759,
+          "tweet_count": 4039
+        },
+        "url": "https://t.co/yUfVtUE4yg",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-22T12:32:18.000Z",
+        "description": "Welcome fellow Friend!\nIm Lilli a Fox Girl from 🇩🇪 Germany :3\ni creat varied content on Youtube check out my channel!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/LilliOffiziell",
+                "end": 23,
+                "expanded_url": "https://twitter.com/LilliOffiziell",
+                "start": 0,
+                "url": "https://t.co/liiMYpg98x"
+              }
+            ]
+          }
+        },
+        "id": "1352594576054382599",
+        "location": "Germany",
+        "name": "Lilli die Füchsin 莉莉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1675617110993641473/nuwMkDel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 79,
+          "like_count": 11918,
+          "listed_count": 1,
+          "media_count": 1724,
+          "tweet_count": 6392
+        },
+        "url": "https://t.co/liiMYpg98x",
+        "username": "LilyTheFox8",
+        "verified": false
+      }
+    ]
+  }
+}

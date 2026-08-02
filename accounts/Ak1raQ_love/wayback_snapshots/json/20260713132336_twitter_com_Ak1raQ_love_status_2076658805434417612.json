@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076658803081379841"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2076658805434417612",
+    "created_at": "2026-07-13T13:23:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T14:23:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076658805434417612"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ufZYbzlRr9",
+          "end": 36,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2076658805434417612/photo/1",
+          "media_key": "3_2076658803081379841",
+          "start": 13,
+          "url": "https://t.co/ufZYbzlRr9"
+        },
+        {
+          "display_url": "x.com/tatanakots/sta…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/tatanakots/status/2076653784550474192",
+          "start": 37,
+          "url": "https://t.co/lxjZJnLQnv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076658805434417612",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076653784550474192",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "药娘世家be like: https://t.co/ufZYbzlRr9 https://t.co/lxjZJnLQnv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 658,
+        "media_key": "3_2076658803081379841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHGLcVagAEM3ih.jpg",
+        "width": 466
+      },
+      {
+        "height": 1916,
+        "media_key": "3_2076653769925009408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHBmeXbIAALTvk.jpg",
+        "width": 848
+      },
+      {
+        "height": 2735,
+        "media_key": "3_2076653769925005312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHBmeXbEAA4MGG.jpg",
+        "width": 848
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076658803081379841"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2076658805434417612",
+        "created_at": "2026-07-13T13:23:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T14:23:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076658805434417612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ufZYbzlRr9",
+              "end": 36,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2076658805434417612/photo/1",
+              "media_key": "3_2076658803081379841",
+              "start": 13,
+              "url": "https://t.co/ufZYbzlRr9"
+            },
+            {
+              "display_url": "x.com/tatanakots/sta…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/tatanakots/status/2076653784550474192",
+              "start": 37,
+              "url": "https://t.co/lxjZJnLQnv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076658805434417612",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076653784550474192",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "药娘世家be like: https://t.co/ufZYbzlRr9 https://t.co/lxjZJnLQnv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076653769925009408",
+            "3_2076653769925005312"
+          ]
+        },
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076653784550474192",
+        "created_at": "2026-07-13T13:03:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T14:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076653784550474192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vSQABIETqF",
+              "end": 43,
+              "expanded_url": "https://x.com/tatanakots/status/2076653784550474192/photo/1",
+              "media_key": "3_2076653769925009408",
+              "start": 20,
+              "url": "https://t.co/vSQABIETqF"
+            },
+            {
+              "display_url": "pic.x.com/vSQABIETqF",
+              "end": 43,
+              "expanded_url": "https://x.com/tatanakots/status/2076653784550474192/photo/1",
+              "media_key": "3_2076653769925005312",
+              "start": 20,
+              "url": "https://t.co/vSQABIETqF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076653784550474192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 7,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "什么叫父亲跟药娘出柜说自己在吃雌二醇？ https://t.co/vSQABIETqF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/留长发中/无糖/向往自由/原创&二创meme/秋月姐姐 @qiuylove/阿堇🕯️@Akatsuki_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "qiuylove"
+              },
+              {
+                "end": 60,
+                "start": 47,
+                "username": "Akatsuki_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "廈門 Amoy",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1403,
+          "following_count": 1046,
+          "like_count": 199575,
+          "listed_count": 3,
+          "media_count": 947,
+          "tweet_count": 7767
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub\n逃生舱 @tatanakool",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "tatanakool"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlWBbN"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたねこ🐱",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3974,
+          "following_count": 470,
+          "like_count": 32644,
+          "listed_count": 7,
+          "media_count": 1839,
+          "tweet_count": 14305
+        },
+        "url": "https://t.co/p7LtZlWBbN",
+        "username": "tatanakots",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1887119881231073470",
+    "created_at": "2025-02-07T02:03:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T03:03:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887683697987756342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1239915471945838593",
+          "start": 0,
+          "username": "wtxycCO"
+        },
+        {
+          "end": 23,
+          "id": "1887206534268039168",
+          "start": 9,
+          "username": "GotouSugi_Kh1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887683697987756342",
+    "in_reply_to_user_id": "1239915471945838593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887435006123122749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wtxycCO @GotouSugi_Kh1 zyn套别人皮瞎骂的，不用管"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1887119881231073470",
+        "created_at": "2025-02-07T02:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T03:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887683697987756342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1239915471945838593",
+              "start": 0,
+              "username": "wtxycCO"
+            },
+            {
+              "end": 23,
+              "id": "1887206534268039168",
+              "start": 9,
+              "username": "GotouSugi_Kh1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887683697987756342",
+        "in_reply_to_user_id": "1239915471945838593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887435006123122749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wtxycCO @GotouSugi_Kh1 zyn套别人皮瞎骂的，不用管"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1239915471945838593",
+        "conversation_id": "1887119881231073470",
+        "created_at": "2025-02-06T09:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T10:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887435006123122749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1887206534268039168",
+              "start": 0,
+              "username": "GotouSugi_Kh1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887435006123122749",
+        "in_reply_to_user_id": "1887206534268039168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887434528026698158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GotouSugi_Kh1 请问怎么了呀(●'◡'●)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/😶‍🌫️Online-only introvert/🌏ZH,EN/🌈Inclusivity/🕊️Love & Peace/😔Not good at chatting/🔄Interact to gain my follow-back/🤫Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 141,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "https://mikachan.us.kg/",
+                "start": 0,
+                "url": "https://t.co/yUfVtUE4yg"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵😺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1558,
+          "following_count": 934,
+          "like_count": 114682,
+          "listed_count": 4,
+          "media_count": 831,
+          "tweet_count": 4388
+        },
+        "url": "https://t.co/yUfVtUE4yg",
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-17T14:04:30.000Z",
+        "description": "喵喵 是不太健康的小药娘喵 重重重重庆大学在读 会记录很多生活小感受 就当是个人日记好啦 （推特抱抱王(づ′▽`)づ",
+        "id": "1239915471945838593",
+        "location": "多瑙联邦",
+        "name": "Cld🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876923727348428800/Oim2ub4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 179,
+          "like_count": 899,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 226
+        },
+        "username": "wtxycCO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-05T18:28:20.000Z",
+        "description": "09/初三/原神/崩鐵/納西妲流螢厨/虫豸/五学/遠視壬/精神高棉人🇰🇭/可愛的 @Raiden_1927 @Frost_SZH @Mualani_Ch @linjiyewei @miku_suki393939 @CharmingFurina/@CharmingFirefly",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 41,
+                "username": "Raiden_1927"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "Frost_SZH"
+              },
+              {
+                "end": 76,
+                "start": 65,
+                "username": "Mualani_Ch"
+              },
+              {
+                "end": 88,
+                "start": 77,
+                "username": "linjiyewei"
+              },
+              {
+                "end": 105,
+                "start": 89,
+                "username": "miku_suki393939"
+              },
+              {
+                "end": 121,
+                "start": 106,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 138,
+                "start": 122,
+                "username": "CharmingFirefly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "genshin.hoyoverse.com/m/ja",
+                "end": 23,
+                "expanded_url": "https://genshin.hoyoverse.com/m/ja",
+                "start": 0,
+                "url": "https://t.co/Ud5JM09hff"
+              }
+            ]
+          }
+        },
+        "id": "1887206534268039168",
+        "location": "青瓦台，大韓民國🇰🇷",
+        "name": "⛩️🇰🇵後藤 스기🇰🇭🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887206714845405184/rT79biJf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 32,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 23
+        },
+        "url": "https://t.co/Ud5JM09hff",
+        "username": "GotouSugi_Kh1",
+        "verified": false
+      }
+    ]
+  }
+}

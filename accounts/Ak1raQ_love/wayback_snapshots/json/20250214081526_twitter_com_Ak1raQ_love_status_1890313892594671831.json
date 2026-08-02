@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1890191208661581824"
+      ],
+      "media_source_tweet_id": [
+        "1890191222381461728"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "1890313892594671831",
+    "created_at": "2025-02-14T08:15:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T09:15:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890313892594671831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "774146616",
+          "start": 3,
+          "username": "NazgoTeriyaki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/V6V5kWLynY",
+          "end": 42,
+          "expanded_url": "https://x.com/NazgoTeriyaki/status/1890191222381461728/photo/1",
+          "media_key": "3_1890191208661581824",
+          "start": 19,
+          "url": "https://t.co/V6V5kWLynY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890313892594671831",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 147
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890191222381461728",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NazgoTeriyaki: https://t.co/V6V5kWLynY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1890191208661581824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjtO473XAAA4VSi.jpg",
+        "width": 1968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890191208661581824"
+          ],
+          "media_source_tweet_id": [
+            "1890191222381461728"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "1890313892594671831",
+        "created_at": "2025-02-14T08:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T09:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890313892594671831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "774146616",
+              "start": 3,
+              "username": "NazgoTeriyaki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V6V5kWLynY",
+              "end": 42,
+              "expanded_url": "https://x.com/NazgoTeriyaki/status/1890191222381461728/photo/1",
+              "media_key": "3_1890191208661581824",
+              "start": 19,
+              "url": "https://t.co/V6V5kWLynY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890313892594671831",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 147
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890191222381461728",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NazgoTeriyaki: https://t.co/V6V5kWLynY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890191208661581824"
+          ]
+        },
+        "author_id": "774146616",
+        "conversation_id": "1890191222381461728",
+        "created_at": "2025-02-14T00:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T01:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890191222381461728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V6V5kWLynY",
+              "end": 23,
+              "expanded_url": "https://x.com/NazgoTeriyaki/status/1890191222381461728/photo/1",
+              "media_key": "3_1890191208661581824",
+              "start": 0,
+              "url": "https://t.co/V6V5kWLynY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890191222381461728",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 95,
+          "impression_count": 12936,
+          "like_count": 998,
+          "quote_count": 19,
+          "reply_count": 9,
+          "retweet_count": 147
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/V6V5kWLynY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/😶‍🌫️Introvert/Highlights➡️Original meme/🌏ZH,EN/🌈Love & Peace/😔Not good at chatting/🔄Interact to gain my follow-back/🤫Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 141,
+                "username": "mkc_Cute"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵😺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1607,
+          "following_count": 978,
+          "like_count": 118272,
+          "listed_count": 4,
+          "media_count": 866,
+          "tweet_count": 4553
+        },
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2012-08-22T17:39:55.000Z",
+        "description": "30 years old, Keion Fan for 10 years total, Mio is the cutest,slice of life enjoyer. https://t.co/02eSREEb9L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/nazgo_teriyaki",
+                "end": 108,
+                "expanded_url": "http://linktr.ee/nazgo_teriyaki",
+                "start": 85,
+                "url": "https://t.co/02eSREEb9L"
+              }
+            ]
+          }
+        },
+        "id": "774146616",
+        "location": "Germany ",
+        "name": "Julian",
+        "pinned_tweet_id": "1746283875788014071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1527812301776117762/zwaVDaFm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9602,
+          "following_count": 357,
+          "like_count": 144858,
+          "listed_count": 33,
+          "media_count": 32517,
+          "tweet_count": 65458
+        },
+        "username": "NazgoTeriyaki",
+        "verified": false
+      }
+    ]
+  }
+}

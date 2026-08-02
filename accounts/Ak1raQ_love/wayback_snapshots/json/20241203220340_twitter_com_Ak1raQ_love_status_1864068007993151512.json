@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1863970994626658304"
+      ],
+      "media_source_tweet_id": [
+        "1863970997550137761"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "1864068007993151512",
+    "created_at": "2024-12-03T22:03:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-03T23:03:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864068007993151512"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 17,
+          "tag": "中推讣告栏"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1317477880314486785",
+          "start": 3,
+          "username": "Arishia_404"
+        },
+        {
+          "end": 41,
+          "id": "1429829081684537345",
+          "start": 27,
+          "username": "Rabbubble550W"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xyxIoCogz1",
+          "end": 65,
+          "expanded_url": "https://x.com/Arishia_404/status/1863970997550137761/photo/1",
+          "media_key": "3_1863970994626658304",
+          "start": 42,
+          "url": "https://t.co/xyxIoCogz1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864068007993151512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863970997550137761",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Arishia_404: #中推讣告栏 冻结\n@Rabbubble550W https://t.co/xyxIoCogz1"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Rabbubble550W].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Rabbubble550W",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Rabbubble550W"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1696,
+        "media_key": "3_1863970994626658304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gd4nvm5agAA1a7f.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863970994626658304"
+          ],
+          "media_source_tweet_id": [
+            "1863970997550137761"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "1864068007993151512",
+        "created_at": "2024-12-03T22:03:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T23:03:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864068007993151512"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 17,
+              "tag": "中推讣告栏"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1317477880314486785",
+              "start": 3,
+              "username": "Arishia_404"
+            },
+            {
+              "end": 41,
+              "id": "1429829081684537345",
+              "start": 27,
+              "username": "Rabbubble550W"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xyxIoCogz1",
+              "end": 65,
+              "expanded_url": "https://x.com/Arishia_404/status/1863970997550137761/photo/1",
+              "media_key": "3_1863970994626658304",
+              "start": 42,
+              "url": "https://t.co/xyxIoCogz1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864068007993151512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863970997550137761",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Arishia_404: #中推讣告栏 冻结\n@Rabbubble550W https://t.co/xyxIoCogz1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863970994626658304"
+          ]
+        },
+        "author_id": "1317477880314486785",
+        "conversation_id": "1863970997550137761",
+        "created_at": "2024-12-03T15:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T16:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863970997550137761"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "中推讣告栏"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1429829081684537345",
+              "start": 10,
+              "username": "Rabbubble550W"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xyxIoCogz1",
+              "end": 48,
+              "expanded_url": "https://x.com/Arishia_404/status/1863970997550137761/photo/1",
+              "media_key": "3_1863970994626658304",
+              "start": 25,
+              "url": "https://t.co/xyxIoCogz1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863970997550137761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2128,
+          "like_count": 34,
+          "quote_count": 6,
+          "reply_count": 24,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "#中推讣告栏 冻结\n@Rabbubble550W https://t.co/xyxIoCogz1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "A sweet soul\n阿棄的性別就是阿棄\n可爱即是正义\n社交软件重度依赖😣\n随缘回fo\n精神状态时好时坏，所以你能看到两个不同的我\n喜欢和推友们在一起，有你们在就不会孤独\n❗来访者请注意，互fo不代表同意对方立场，取fo我请双取，谢谢！\n分身@mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 123,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "https://mikachan.us.kg/",
+                "start": 0,
+                "url": "https://t.co/yUfVtUE4yg"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "是阿棄喵🥺♥️",
+        "pinned_tweet_id": "1862810670238154974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852745129033093120/bPab9bQm_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1210,
+          "following_count": 739,
+          "like_count": 92423,
+          "listed_count": 2,
+          "media_count": 640,
+          "tweet_count": 3317
+        },
+        "url": "https://t.co/yUfVtUE4yg",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-17T14:49:48.000Z",
+        "description": "猫箱性别 请叫我花火｜音乐家|摄影师‖电子信息进厂预备役，🏳️‍🌈🏳️‍⚧️友好|简体中文🇨🇳 繁體中文🇭🇰🇲🇴🇹🇼 日本語🇯🇵 English🌏️缺爱的笨蛋@Hikari_Ciallo @Allknowbody 我的另一形态@foreignerofmoon 关注点赞转发不代表认同",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 79,
+                "username": "Hikari_Ciallo"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "Allknowbody"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "foreignerofmoon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.katayo.wiki",
+                "end": 23,
+                "expanded_url": "https://blog.katayo.wiki",
+                "start": 0,
+                "url": "https://t.co/ObLGrpVtyM"
+              }
+            ]
+          }
+        },
+        "id": "1317477880314486785",
+        "location": "DX3906星系黑域",
+        "name": "🌸Citrus de Elysia🌸",
+        "pinned_tweet_id": "1857114443169374377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842375524985024512/LtI_Pdpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 1249,
+          "like_count": 8275,
+          "listed_count": 3,
+          "media_count": 207,
+          "tweet_count": 2350
+        },
+        "url": "https://t.co/ObLGrpVtyM",
+        "username": "Arishia_404",
+        "verified": false
+      }
+    ]
+  }
+}

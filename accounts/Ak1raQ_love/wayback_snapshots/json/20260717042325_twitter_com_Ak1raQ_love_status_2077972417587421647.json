@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077923849610661888"
+      ],
+      "media_source_tweet_id": [
+        "2077958971973877942"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2077972417587421647",
+    "created_at": "2026-07-17T04:23:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T05:23:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077972417587421647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1663066129923981312",
+          "start": 3,
+          "username": "Ak1raQ_love"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9GRnC3f1Gm",
+          "end": 45,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2077958971973877942/photo/1",
+          "media_key": "3_2077923849610661888",
+          "start": 22,
+          "url": "https://t.co/9GRnC3f1Gm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077972417587421647",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077958971973877942",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ak1raQ_love: 正常xp https://t.co/9GRnC3f1Gm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2077923849610661888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZEu15bEAAj01c.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077923849610661888"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2077958971973877942",
+        "created_at": "2026-07-17T03:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T04:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077958971973877942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9GRnC3f1Gm",
+              "end": 28,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2077958971973877942/photo/1",
+              "media_key": "3_2077923849610661888",
+              "start": 5,
+              "url": "https://t.co/9GRnC3f1Gm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077958971973877942",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "正常xp https://t.co/9GRnC3f1Gm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077923849610661888"
+          ],
+          "media_source_tweet_id": [
+            "2077958971973877942"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2077972417587421647",
+        "created_at": "2026-07-17T04:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T05:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077972417587421647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1663066129923981312",
+              "start": 3,
+              "username": "Ak1raQ_love"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9GRnC3f1Gm",
+              "end": 45,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2077958971973877942/photo/1",
+              "media_key": "3_2077923849610661888",
+              "start": 22,
+              "url": "https://t.co/9GRnC3f1Gm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077972417587421647",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077958971973877942",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ak1raQ_love: 正常xp https://t.co/9GRnC3f1Gm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/留长发中/无糖/向往自由/原创&二创meme/秋月姐姐 @qiuylove/阿堇🕯️@Akatsuki_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "qiuylove"
+              },
+              {
+                "end": 60,
+                "start": 47,
+                "username": "Akatsuki_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1394,
+          "following_count": 1053,
+          "like_count": 200491,
+          "listed_count": 2,
+          "media_count": 966,
+          "tweet_count": 7853
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": true
+      }
+    ]
+  }
+}

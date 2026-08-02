@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1886040142156288000"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1886027146734522627",
+    "created_at": "2025-02-02T13:13:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T14:13:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886040157243281722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1158382980076716032",
+          "start": 0,
+          "username": "kokodayo5150"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aKpwDokVCm",
+          "end": 41,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/1886040157243281722/photo/1",
+          "media_key": "3_1886040142156288000",
+          "start": 18,
+          "url": "https://t.co/aKpwDokVCm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886040157243281722",
+    "in_reply_to_user_id": "1663066129923981312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886039398216765660",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kokodayo5150 加了喵 https://t.co/aKpwDokVCm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1071,
+        "media_key": "3_1886040142156288000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiyPhEFaUAAzWV3.jpg",
+        "width": 1739
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886040142156288000"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1886027146734522627",
+        "created_at": "2025-02-02T13:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T14:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886040157243281722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1158382980076716032",
+              "start": 0,
+              "username": "kokodayo5150"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aKpwDokVCm",
+              "end": 41,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/1886040157243281722/photo/1",
+              "media_key": "3_1886040142156288000",
+              "start": 18,
+              "url": "https://t.co/aKpwDokVCm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886040157243281722",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886039398216765660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kokodayo5150 加了喵 https://t.co/aKpwDokVCm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1886027146734522627",
+        "created_at": "2025-02-02T13:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T14:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886039398216765660"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "恭喜",
+              "probability": 0.5398,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1158382980076716032",
+              "start": 0,
+              "username": "kokodayo5150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886039398216765660",
+        "in_reply_to_user_id": "1158382980076716032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886027146734522627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kokodayo5150 恭喜！\n（我也有玩亚服👀）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/🌏ZH,EN/🏳️‍⚧️Genderfree/🌈 Diversity & Inclusivity/🕊️Love & Peace/😔Sorry, I'm not good at chatting/Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 121,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "https://mikachan.us.kg/",
+                "start": 0,
+                "url": "https://t.co/yUfVtUE4yg"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵 #ʟᴜɴᴀʀɴᴇᴡʏᴇᴀʀ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1464,
+          "following_count": 893,
+          "like_count": 111924,
+          "listed_count": 4,
+          "media_count": 798,
+          "tweet_count": 4203
+        },
+        "url": "https://t.co/yUfVtUE4yg",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-05T14:23:18.000Z",
+        "description": "萌新kiger，常驻深圳，喜欢面基，欢迎私信互fo。前世@rabbubble550w，牢字辈一分子，找回推油中。最最最最喜欢对咱最好的人 @vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 28,
+                "username": "rabbubble550w"
+              },
+              {
+                "end": 77,
+                "start": 69,
+                "username": "vu_yoyo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pocaro…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/pocarosa2381.xiaoyaoniang.com",
+                "start": 0,
+                "url": "https://t.co/OOjFFU1Fqk"
+              }
+            ]
+          }
+        },
+        "id": "1158382980076716032",
+        "location": "Hong Kong",
+        "name": "斯卡蒂蒂蒂",
+        "pinned_tweet_id": "1878179547637772367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864159275305848832/ZKfXUpTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1036,
+          "following_count": 2647,
+          "like_count": 5402,
+          "listed_count": 3,
+          "media_count": 604,
+          "tweet_count": 6574
+        },
+        "url": "https://t.co/OOjFFU1Fqk",
+        "username": "kokodayo5150",
+        "verified": false
+      }
+    ]
+  }
+}

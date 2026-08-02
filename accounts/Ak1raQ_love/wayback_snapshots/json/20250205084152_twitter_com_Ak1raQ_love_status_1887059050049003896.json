@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1887029325566026079",
+    "created_at": "2025-02-05T08:41:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T09:41:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887059050049003896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1752528596718211072",
+          "start": 0,
+          "username": "GotouSugi_Kh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887059050049003896",
+    "in_reply_to_user_id": "1752528596718211072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887029325566026079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GotouSugi_Kh 我也是，每次看到插座都感觉在看着我笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1887029325566026079",
+        "created_at": "2025-02-05T08:41:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T09:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887059050049003896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1752528596718211072",
+              "start": 0,
+              "username": "GotouSugi_Kh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887059050049003896",
+        "in_reply_to_user_id": "1752528596718211072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887029325566026079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GotouSugi_Kh 我也是，每次看到插座都感觉在看着我笑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887029320339873798"
+          ]
+        },
+        "author_id": "1752528596718211072",
+        "conversation_id": "1887029325566026079",
+        "created_at": "2025-02-05T06:43:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T07:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887029325566026079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cwj1gIJM8H",
+              "end": 39,
+              "expanded_url": "https://x.com/GotouSugi_Kh/status/1887029325566026079/photo/1",
+              "media_key": "3_1887029320339873798",
+              "start": 16,
+              "url": "https://t.co/Cwj1gIJM8H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887029325566026079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只有我一個人認為這像一個人臉嗎 https://t.co/Cwj1gIJM8H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/🌏ZH,EN/🏳️‍⚧️/🌈 Diversity & Inclusivity/🕊️Love & Peace/😔Not good at chatting/🔄Interact to gain my follow-back/🤫Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "https://mikachan.us.kg/",
+                "start": 0,
+                "url": "https://t.co/yUfVtUE4yg"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵😺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1490,
+          "following_count": 903,
+          "like_count": 113581,
+          "listed_count": 4,
+          "media_count": 818,
+          "tweet_count": 4314
+        },
+        "url": "https://t.co/yUfVtUE4yg",
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-31T03:06:13.000Z",
+        "description": "09/初三/原神/崩鐵/納西妲流螢厨/虫豸/五学/遠視壬/精神高棉人🇰🇭/可愛的 @Raiden_1927 @Frost_SZH @Mualani_Ch @linjiyewei @miku_suki393939 @CharmingFurina/@CharmingFirefly",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 41,
+                "username": "Raiden_1927"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "Frost_SZH"
+              },
+              {
+                "end": 76,
+                "start": 65,
+                "username": "Mualani_Ch"
+              },
+              {
+                "end": 88,
+                "start": 77,
+                "username": "linjiyewei"
+              },
+              {
+                "end": 105,
+                "start": 89,
+                "username": "miku_suki393939"
+              },
+              {
+                "end": 121,
+                "start": 106,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 138,
+                "start": 122,
+                "username": "CharmingFirefly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "genshin.hoyoverse.com/ja",
+                "end": 23,
+                "expanded_url": "http://genshin.hoyoverse.com/ja",
+                "start": 0,
+                "url": "https://t.co/av7zqoJec9"
+              }
+            ]
+          }
+        },
+        "id": "1752528596718211072",
+        "location": "青瓦台，大韓民國🇰🇷",
+        "name": "⛩️🇰🇵後藤 스기🇰🇭🌸",
+        "pinned_tweet_id": "1867934348114354377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845095597038239745/93vRoCpH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 1696,
+          "like_count": 22635,
+          "listed_count": 4,
+          "media_count": 806,
+          "tweet_count": 11580
+        },
+        "url": "https://t.co/av7zqoJec9",
+        "username": "GotouSugi_Kh",
+        "verified": false
+      }
+    ]
+  }
+}

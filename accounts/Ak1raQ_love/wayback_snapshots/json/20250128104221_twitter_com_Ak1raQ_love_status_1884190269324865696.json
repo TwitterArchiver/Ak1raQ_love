@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1884187246989042076",
+    "created_at": "2025-01-28T10:42:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T11:42:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884190269324865696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1691407304233721856",
+          "start": 0,
+          "username": "newat0203"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884190269324865696",
+    "in_reply_to_user_id": "1691407304233721856",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884187246989042076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@newat0203 The Chinese government's restriction on speech."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1884187246989042076",
+        "created_at": "2025-01-28T10:42:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T11:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884190269324865696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1691407304233721856",
+              "start": 0,
+              "username": "newat0203"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884190269324865696",
+        "in_reply_to_user_id": "1691407304233721856",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884187246989042076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@newat0203 The Chinese government's restriction on speech."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884187243516166144"
+          ]
+        },
+        "author_id": "1691407304233721856",
+        "conversation_id": "1884187246989042076",
+        "created_at": "2025-01-28T10:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T11:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884187246989042076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cTkrV1EZT9",
+              "end": 36,
+              "expanded_url": "https://x.com/newat0203/status/1884187246989042076/photo/1",
+              "media_key": "3_1884187243516166144",
+              "start": 13,
+              "url": "https://t.co/cTkrV1EZT9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884187246989042076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "聊天的条件似乎多种多样。 https://t.co/cTkrV1EZT9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/🏳️‍⚧️Non-Cisgender/🌈 Diversity & Inclusivity/🕊️Peace & Love/😔Sorry, I'm not good at chatting/Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 117,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "https://mikachan.us.kg/",
+                "start": 0,
+                "url": "https://t.co/yUfVtUE4yg"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄𝕄𝕖𝕠𝕨 #LunarNewYear🧧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1407,
+          "following_count": 856,
+          "like_count": 108537,
+          "listed_count": 3,
+          "media_count": 755,
+          "tweet_count": 3995
+        },
+        "url": "https://t.co/yUfVtUE4yg",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-15T11:12:37.000Z",
+        "description": "14歳中2男",
+        "id": "1691407304233721856",
+        "location": "日本 ",
+        "name": "こいぬだよあれ！",
+        "pinned_tweet_id": "1884096291703312428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883180258150768640/eO2y-DnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2956,
+          "following_count": 3005,
+          "like_count": 18058,
+          "listed_count": 7,
+          "media_count": 1269,
+          "tweet_count": 6823
+        },
+        "username": "newat0203",
+        "verified": false
+      }
+    ]
+  }
+}

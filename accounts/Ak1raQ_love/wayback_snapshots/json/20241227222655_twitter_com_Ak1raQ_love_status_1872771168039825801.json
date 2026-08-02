@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1872771168039825801",
+    "created_at": "2024-12-27T22:26:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-27T23:26:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872771168039825801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1560129932524544000",
+          "start": 3,
+          "username": "xijiu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872771168039825801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872633567999897823",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xijiu_: “我抓不住这世界的任何一寸，就像这世界也同样抓不住我。\n“我无牵无挂，我绝对自由”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1872771168039825801",
+        "created_at": "2024-12-27T22:26:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T23:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872771168039825801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1560129932524544000",
+              "start": 3,
+              "username": "xijiu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872771168039825801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872633567999897823",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xijiu_: “我抓不住这世界的任何一寸，就像这世界也同样抓不住我。\n“我无牵无挂，我绝对自由”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560129932524544000",
+        "conversation_id": "1872633567999897823",
+        "created_at": "2024-12-27T13:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T14:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872633567999897823"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1872633567999897823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 241,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "“我抓不住这世界的任何一寸，就像这世界也同样抓不住我。\n“我无牵无挂，我绝对自由”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "A sweet soul🥺♥️/🏳️‍⚧️Non-Cis/🌏G11N/Cuter is better!/Mutual-followist/Mood swings, but you all make me less lonely!/⚠️Following≠Agreeing⚠️/Private:@mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 146,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtfxyn.news",
+                "end": 23,
+                "expanded_url": "https://mtfxyn.news",
+                "start": 0,
+                "url": "https://t.co/0auRNqe1RP"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄𝕄𝕖𝕠𝕨 #NewYear🎆",
+        "pinned_tweet_id": "1871929681479627262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865724365129805824/2wK-6ZpG_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1267,
+          "following_count": 787,
+          "like_count": 98937,
+          "listed_count": 3,
+          "media_count": 678,
+          "tweet_count": 3530
+        },
+        "url": "https://t.co/0auRNqe1RP",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-18T05:02:26.000Z",
+        "description": "🏳️‍⚧️|有爱人|不约不圆不od不割手",
+        "id": "1560129932524544000",
+        "location": "中国 山东省",
+        "name": "希玖.",
+        "pinned_tweet_id": "1858024741422117307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799273016024846336/s8YOvPfF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2796,
+          "following_count": 802,
+          "like_count": 106723,
+          "listed_count": 1,
+          "media_count": 374,
+          "tweet_count": 5703
+        },
+        "username": "xijiu_",
+        "verified": false
+      }
+    ]
+  }
+}

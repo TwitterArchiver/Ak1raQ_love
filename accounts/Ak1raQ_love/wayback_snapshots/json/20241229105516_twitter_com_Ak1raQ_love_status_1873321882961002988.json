@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1873020639885549703",
+    "created_at": "2024-12-29T10:55:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T11:55:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873321882961002988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1549858924987240449",
+          "start": 0,
+          "username": "WUWANG31057401"
+        },
+        {
+          "end": 27,
+          "id": "756779273155858432",
+          "start": 16,
+          "username": "ScarletKc_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873321882961002988",
+    "in_reply_to_user_id": "1549858924987240449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873320636321579323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WUWANG31057401 @ScarletKc_ 嗯嗯好建议，之后会注意的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1873020639885549703",
+        "created_at": "2024-12-29T10:55:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T11:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873321882961002988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1549858924987240449",
+              "start": 0,
+              "username": "WUWANG31057401"
+            },
+            {
+              "end": 27,
+              "id": "756779273155858432",
+              "start": 16,
+              "username": "ScarletKc_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873321882961002988",
+        "in_reply_to_user_id": "1549858924987240449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873320636321579323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WUWANG31057401 @ScarletKc_ 嗯嗯好建议，之后会注意的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1549858924987240449",
+        "conversation_id": "1873020639885549703",
+        "created_at": "2024-12-29T10:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T11:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873320636321579323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "756779273155858432",
+              "start": 0,
+              "username": "ScarletKc_"
+            },
+            {
+              "end": 24,
+              "id": "1663066129923981312",
+              "start": 12,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873320636321579323",
+        "in_reply_to_user_id": "1549858924987240449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873319486650286574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ScarletKc_ @Ak1raQ_love 还有用rm之前先用ls，在确定要删之后（不知道确定这步骤会不会出错），然后按HOME、两下→，把ls改成rm。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "A sweet soul🥺♥️/🏳️‍⚧️Non-Cis/🌏G11N/lang=zh;en/Cuter is better!/Mood swings, but you all make me less lonely!/⚠️Following≠Agreeing⚠️/Private:@mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 140,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtfxyn.news",
+                "end": 23,
+                "expanded_url": "https://mtfxyn.news",
+                "start": 0,
+                "url": "https://t.co/0auRNqezHn"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄𝕄𝕖𝕠𝕨 #NewYear🎆",
+        "pinned_tweet_id": "1871929681479627262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1279,
+          "following_count": 794,
+          "like_count": 99787,
+          "listed_count": 3,
+          "media_count": 689,
+          "tweet_count": 3582
+        },
+        "url": "https://t.co/0auRNqezHn",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-20T20:50:21.000Z",
+        "description": "",
+        "id": "1549858924987240449",
+        "name": "李子#西咸四（在太阳的淡黄色和参宿七的蓝白色中偏向于蓝白色的星星）",
+        "pinned_tweet_id": "1635624152454565888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1565325839582973952/naQyHD4a_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 587,
+          "like_count": 17919,
+          "listed_count": 0,
+          "media_count": 1565,
+          "tweet_count": 15233
+        },
+        "username": "WUWANG31057401",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-23T09:13:33.000Z",
+        "description": "关注了你",
+        "id": "756779273155858432",
+        "location": "🏳️‍⚧️",
+        "name": "詩音",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872461591347867648/iqHPGTW8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1354,
+          "following_count": 580,
+          "like_count": 24882,
+          "listed_count": 2,
+          "media_count": 45,
+          "tweet_count": 2629
+        },
+        "username": "ScarletKc_",
+        "verified": false
+      }
+    ]
+  }
+}

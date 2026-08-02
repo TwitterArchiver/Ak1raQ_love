@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1850548572183556413",
+    "created_at": "2024-10-27T14:49:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-27T15:49:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850550277373575363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1456869803663130626",
+          "start": 0,
+          "username": "Local_QL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1850550277373575363",
+    "in_reply_to_user_id": "1456869803663130626",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850548572183556413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Local_QL 同样\n我1 to public是可以什么都说毫无障碍的\n但要我1 to 1地聊天我就不行，即使有在让自己提升这方面的技能\n如果是公开发布的话别人看到是不会觉得你在为了他而说的，可是私聊不一样，你说出的每一句话都100%指向对方，所以会感到交流有顾虑，这是我的推测可能原因"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1850548572183556413",
+        "created_at": "2024-10-27T14:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-27T15:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850550277373575363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1456869803663130626",
+              "start": 0,
+              "username": "Local_QL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850550277373575363",
+        "in_reply_to_user_id": "1456869803663130626",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850548572183556413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Local_QL 同样\n我1 to public是可以什么都说毫无障碍的\n但要我1 to 1地聊天我就不行，即使有在让自己提升这方面的技能\n如果是公开发布的话别人看到是不会觉得你在为了他而说的，可是私聊不一样，你说出的每一句话都100%指向对方，所以会感到交流有顾虑，这是我的推测可能原因"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1456869803663130626",
+        "conversation_id": "1850548572183556413",
+        "created_at": "2024-10-27T14:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-27T15:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1850548572183556413"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1850548572183556413",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "望周知：\n我不回你消息或者看样子很敷衍是因为我不知道该和你说什么😭\n推和群里聊得很多是因为不是1对1聊天我可以疯狂碎碎念，但私聊技能真的是lv.0呜呜😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "阿棄的性別就是阿棄，不需要任何定義🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "http://mikachan.us.kg",
+                "start": 0,
+                "url": "https://t.co/lSEgpdslQn"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "是阿棄喵🥺♥️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850504211580252160/c76jm2FP_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1151,
+          "following_count": 695,
+          "like_count": 83364,
+          "listed_count": 2,
+          "tweet_count": 3046
+        },
+        "url": "https://t.co/lSEgpdslQn",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-06T06:23:42.000Z",
+        "description": "你好这里是秦洛！ | MTX🏳️‍⚧️ | 让世界变得更热闹吧☀️ | 欢迎互fo，鉴证推不回🕊️",
+        "id": "1456869803663130626",
+        "location": "阿瓦隆",
+        "name": "一般路过秦洛",
+        "pinned_tweet_id": "1846112284265107777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841839062191386624/lz-h7Rve_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1161,
+          "following_count": 1130,
+          "like_count": 41439,
+          "listed_count": 0,
+          "tweet_count": 11792
+        },
+        "username": "Local_QL",
+        "verified": true
+      }
+    ]
+  }
+}

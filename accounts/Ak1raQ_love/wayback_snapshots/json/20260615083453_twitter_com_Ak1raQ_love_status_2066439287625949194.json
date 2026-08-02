@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2066413772936499473",
+    "created_at": "2026-06-15T08:34:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T09:34:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066439287625949194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "908312740455907330",
+          "start": 0,
+          "username": "qiuylove"
+        },
+        {
+          "end": 20,
+          "id": "1684572167860801536",
+          "start": 10,
+          "username": "kukmoon97"
+        },
+        {
+          "end": 36,
+          "id": "1713404007845380097",
+          "start": 21,
+          "username": "ILikeHappy_uwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066439287625949194",
+    "in_reply_to_user_id": "908312740455907330",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066432742167020001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiuylove @kukmoon97 @ILikeHappy_uwu 是的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2066432742167020001].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2066432742167020001",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2066432742167020001"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2066413772936499473",
+        "created_at": "2026-06-15T08:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T09:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066439287625949194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "908312740455907330",
+              "start": 0,
+              "username": "qiuylove"
+            },
+            {
+              "end": 20,
+              "id": "1684572167860801536",
+              "start": 10,
+              "username": "kukmoon97"
+            },
+            {
+              "end": 36,
+              "id": "1713404007845380097",
+              "start": 21,
+              "username": "ILikeHappy_uwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066439287625949194",
+        "in_reply_to_user_id": "908312740455907330",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066432742167020001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiuylove @kukmoon97 @ILikeHappy_uwu 是的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Utopia, Texas, United States",
+              "geo": {
+                "coordinates": [
+                  -99.52699,
+                  29.61523
+                ],
+                "type": "Point"
+              },
+              "locality": "Utopia",
+              "region": "Texas",
+              "sub_region": "Uvalde County"
+            }
+          ]
+        },
+        "description": "永不言弃💫 / 爱、温情、勇气、美好 / 没有吃糖 / 秋月姐姐 @qiuylove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "qiuylove"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://mikachan.dpdns.org/",
+                "start": 0,
+                "url": "https://t.co/3Yo0IgyCS7"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Utopia",
+        "name": "💫🌸𝗔𝗸𝗶𝗿𝗮𝗺𝗲𝗻𝗮𝗶🍥🍰",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050925033426669568/m2nDg9MR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1306,
+          "following_count": 995,
+          "like_count": 189380,
+          "listed_count": 3,
+          "media_count": 830,
+          "tweet_count": 7014
+        },
+        "url": "https://t.co/3Yo0IgyCS7",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-14T12:53:27.000Z",
+        "description": "🕯️ 纯情女高？！/⚠️单取大概率回block⚠️/🥵涩涩or技术推/🥺出厂16年的人类小女孩喵/退役CChOer/INFP/les/sub/免费私信树洞 /✈️https://t.co/BFK1NVA58J / 阿弃主人@Ak1raQ_love (这个不是对象喵对象是顺女) / 有对象❤️勿扰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 111,
+                "username": "Ak1raQ_love"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xyn8964",
+                "end": 104,
+                "expanded_url": "https://t.me/xyn8964",
+                "start": 81,
+                "url": "https://t.co/BFK1NVA58J"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dmit.io/aff.php?aff=16…",
+                "end": 23,
+                "expanded_url": "https://www.dmit.io/aff.php?aff=16563",
+                "start": 0,
+                "url": "https://t.co/paxAwGcI8h"
+              }
+            ]
+          }
+        },
+        "id": "908312740455907330",
+        "location": "Seattle, WA",
+        "name": "小秋月🎀🕯️",
+        "pinned_tweet_id": "2024703264550498423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940249656916664320/-CxMK7qJ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 855,
+          "like_count": 72504,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 3745
+        },
+        "url": "https://t.co/paxAwGcI8h",
+        "username": "qiuylove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-27T14:32:20.000Z",
+        "description": "🌸 生活在斩杀线之下｜前 #伪娘｜现 #跨性别 女 🌸 Live under kill line ｜ Fmr #crossdresser #CD｜Curr #MtF #transgender #TS 🌸 殺戮ラインの下で生きる｜元 #女装子｜今や #ニューハーフ 🌸",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 13,
+                "tag": "伪娘"
+              },
+              {
+                "end": 23,
+                "start": 19,
+                "tag": "跨性别"
+              },
+              {
+                "end": 68,
+                "start": 55,
+                "tag": "crossdresser"
+              },
+              {
+                "end": 72,
+                "start": 69,
+                "tag": "CD"
+              },
+              {
+                "end": 82,
+                "start": 78,
+                "tag": "MtF"
+              },
+              {
+                "end": 95,
+                "start": 83,
+                "tag": "transgender"
+              },
+              {
+                "end": 99,
+                "start": 96,
+                "tag": "TS"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "女装子"
+              },
+              {
+                "end": 131,
+                "start": 124,
+                "tag": "ニューハーフ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/kukmoon",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/kukmoon",
+                "start": 0,
+                "url": "https://t.co/RJj82hjUIU"
+              }
+            ]
+          }
+        },
+        "id": "1684572167860801536",
+        "location": "距离你 0.15 km",
+        "name": "神楽坂谷月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2065814622708642033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907686329288437760/qxwXzNcR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6021,
+          "following_count": 5549,
+          "like_count": 101182,
+          "listed_count": 5,
+          "media_count": 1926,
+          "tweet_count": 16587
+        },
+        "url": "https://t.co/RJj82hjUIU",
+        "username": "kukmoon97",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-15T03:58:55.000Z",
+        "description": "i like u | hrt 2024/10/1 | お姉ちゃん @123nhh_awa @zhi_cheng233 *仅包含活跃 | 精神状态不稳定",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 33,
+                "username": "123nhh_awa"
+              },
+              {
+                "end": 58,
+                "start": 45,
+                "username": "zhi_cheng233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Happy.gg",
+                "end": 23,
+                "expanded_url": "http://Happy.gg",
+                "start": 0,
+                "url": "https://t.co/0Idqjynmhc"
+              }
+            ]
+          }
+        },
+        "id": "1713404007845380097",
+        "location": "ur Heart",
+        "name": "Happy 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816744837640605696/GK2bmWa2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 1187,
+          "like_count": 2322,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 741
+        },
+        "url": "https://t.co/0Idqjynmhc",
+        "username": "ILikeHappy_uwu",
+        "verified": false
+      }
+    ]
+  }
+}

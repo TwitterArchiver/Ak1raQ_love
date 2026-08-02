@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2078283478546723105",
+    "created_at": "2026-07-18T01:30:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T02:30:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078291395379691768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1689704132242980870",
+          "start": 0,
+          "username": "LuochancyOWO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078291395379691768",
+    "in_reply_to_user_id": "1689704132242980870",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078283478546723105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LuochancyOWO 羡慕玩sm（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2078283478546723105",
+        "created_at": "2026-07-18T01:30:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T02:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078291395379691768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1689704132242980870",
+              "start": 0,
+              "username": "LuochancyOWO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078291395379691768",
+        "in_reply_to_user_id": "1689704132242980870",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078283478546723105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuochancyOWO 羡慕玩sm（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689704132242980870",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "2078283478546723105",
+        "created_at": "2026-07-18T00:59:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T01:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078283478546723105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/__fanqie__/sta…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/__fanqie__/status/2078047349675594123",
+              "start": 94,
+              "url": "https://t.co/HVsPN24nac"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2078283478546723105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078047349675594123",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是的是的\n我们厦门的确有一个地方叫SM广场\n官方名字有：\nSM新生活广场\nSM城市广场\n\n也是福建唯二有Apple Store的地方😭\n话说在SM广场玩SM会是一种什么新生活🤓👆（暴论） https://t.co/HVsPN24nac"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/留长发中/无糖/向往自由/原创&二创meme/秋月姐姐 @qiuylove/阿堇🕯️@Akatsuki_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "qiuylove"
+              },
+              {
+                "end": 60,
+                "start": 47,
+                "username": "Akatsuki_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "廈門 Amoy",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1400,
+          "following_count": 1053,
+          "like_count": 200803,
+          "listed_count": 2,
+          "media_count": 970,
+          "tweet_count": 7881
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-10T18:23:59.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "luochancy.com",
+                "end": 23,
+                "expanded_url": "http://www.luochancy.com",
+                "start": 0,
+                "url": "https://t.co/TekbKnSnGD"
+              }
+            ]
+          }
+        },
+        "id": "1689704132242980870",
+        "location": "一个没有人打扰的地方",
+        "name": "洛寒兮",
+        "pinned_tweet_id": "2033243890741133630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043304874708996096/X16O06E7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 1344,
+          "like_count": 3935,
+          "listed_count": 3,
+          "media_count": 877,
+          "tweet_count": 4640
+        },
+        "url": "https://t.co/TekbKnSnGD",
+        "username": "LuochancyOWO",
+        "verified": true
+      }
+    ]
+  }
+}

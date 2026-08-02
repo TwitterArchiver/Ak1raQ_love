@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079767699404832769",
+        "3_2079767699455197184",
+        "3_2079767699971076097",
+        "3_2079767699937546241"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2079767722188321035",
+    "created_at": "2026-07-22T03:17:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T04:17:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079767722188321035"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 5,
+          "start": 0,
+          "tag": "阿弃乱逛"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1ZT5Sv0hz2",
+          "end": 78,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2079767722188321035/photo/1",
+          "media_key": "3_2079767699404832769",
+          "start": 55,
+          "url": "https://t.co/1ZT5Sv0hz2"
+        },
+        {
+          "display_url": "pic.x.com/1ZT5Sv0hz2",
+          "end": 78,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2079767722188321035/photo/1",
+          "media_key": "3_2079767699455197184",
+          "start": 55,
+          "url": "https://t.co/1ZT5Sv0hz2"
+        },
+        {
+          "display_url": "pic.x.com/1ZT5Sv0hz2",
+          "end": 78,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2079767722188321035/photo/1",
+          "media_key": "3_2079767699971076097",
+          "start": 55,
+          "url": "https://t.co/1ZT5Sv0hz2"
+        },
+        {
+          "display_url": "pic.x.com/1ZT5Sv0hz2",
+          "end": 78,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2079767722188321035/photo/1",
+          "media_key": "3_2079767699937546241",
+          "start": 55,
+          "url": "https://t.co/1ZT5Sv0hz2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079767722188321035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#阿弃乱逛 苏州中心广场 第一回合\n本来想去试玩一下舞萌的但为什么不管什么时候来都有人啊😭\n还有圣地巡礼（？ https://t.co/1ZT5Sv0hz2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2079767699404832769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNzRtBpbQAEuE8d.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079767699455197184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNzRtB1bwAA8SnR.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2079767699971076097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNzRtDwbcAE1duJ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 964,
+        "media_key": "3_2079767699937546241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNzRtDob0AE4HRB.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079767699404832769",
+            "3_2079767699455197184",
+            "3_2079767699971076097",
+            "3_2079767699937546241"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079767722188321035",
+        "created_at": "2026-07-22T03:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T04:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079767722188321035"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "阿弃乱逛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ZT5Sv0hz2",
+              "end": 78,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2079767722188321035/photo/1",
+              "media_key": "3_2079767699404832769",
+              "start": 55,
+              "url": "https://t.co/1ZT5Sv0hz2"
+            },
+            {
+              "display_url": "pic.x.com/1ZT5Sv0hz2",
+              "end": 78,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2079767722188321035/photo/1",
+              "media_key": "3_2079767699455197184",
+              "start": 55,
+              "url": "https://t.co/1ZT5Sv0hz2"
+            },
+            {
+              "display_url": "pic.x.com/1ZT5Sv0hz2",
+              "end": 78,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2079767722188321035/photo/1",
+              "media_key": "3_2079767699971076097",
+              "start": 55,
+              "url": "https://t.co/1ZT5Sv0hz2"
+            },
+            {
+              "display_url": "pic.x.com/1ZT5Sv0hz2",
+              "end": 78,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2079767722188321035/photo/1",
+              "media_key": "3_2079767699937546241",
+              "start": 55,
+              "url": "https://t.co/1ZT5Sv0hz2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079767722188321035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#阿弃乱逛 苏州中心广场 第一回合\n本来想去试玩一下舞萌的但为什么不管什么时候来都有人啊😭\n还有圣地巡礼（？ https://t.co/1ZT5Sv0hz2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/不在社交圈内者请不要关注，可能会被清除/留长发中/无糖/向往自由/原创&二创meme/秋月姐姐 @qiuylove/阿堇🕯️@Akatsuki_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "qiuylove"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "Akatsuki_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "廈門 Amoy",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1446,
+          "following_count": 1080,
+          "like_count": 202810,
+          "listed_count": 2,
+          "media_count": 1002,
+          "tweet_count": 8046
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1867344183012601860"
+      ],
+      "media_source_tweet_id": [
+        "1867344185814397239"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1867443662491464138",
+    "created_at": "2024-12-13T05:37:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-13T06:37:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867443662491464138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1698164071219007488",
+          "start": 3,
+          "username": "CTFSCF"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vxd0CVzzde",
+          "end": 42,
+          "expanded_url": "https://x.com/CTFSCF/status/1867344185814397239/photo/1",
+          "media_key": "3_1867344183012601860",
+          "start": 19,
+          "url": "https://t.co/vxd0CVzzde"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867443662491464138",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867344185814397239",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CTFSCF: 🕯️🕯️🕯️ https://t.co/vxd0CVzzde"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1748,
+        "media_key": "3_1867344183012601860",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeojpA3bsAQvrUz.jpg",
+        "width": 1181
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867344183012601860"
+          ],
+          "media_source_tweet_id": [
+            "1867344185814397239"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1867443662491464138",
+        "created_at": "2024-12-13T05:37:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T06:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867443662491464138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1698164071219007488",
+              "start": 3,
+              "username": "CTFSCF"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vxd0CVzzde",
+              "end": 42,
+              "expanded_url": "https://x.com/CTFSCF/status/1867344185814397239/photo/1",
+              "media_key": "3_1867344183012601860",
+              "start": 19,
+              "url": "https://t.co/vxd0CVzzde"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867443662491464138",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867344185814397239",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CTFSCF: 🕯️🕯️🕯️ https://t.co/vxd0CVzzde"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867344183012601860"
+          ]
+        },
+        "author_id": "1698164071219007488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1867344185814397239",
+        "created_at": "2024-12-12T23:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T00:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867344185814397239"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vxd0CVzzde",
+              "end": 30,
+              "expanded_url": "https://x.com/CTFSCF/status/1867344185814397239/photo/1",
+              "media_key": "3_1867344183012601860",
+              "start": 7,
+              "url": "https://t.co/vxd0CVzzde"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867344185814397239",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6607,
+          "like_count": 194,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "🕯️🕯️🕯️ https://t.co/vxd0CVzzde"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "A sweet soul🥺♥️\nAkiraQ's gender is just itself\n可愛即正義！\nMutual-Followist\n精神狀態時好時壞，所以你能看到不同的我\n喜歡和你們在一起，就不會孤單了呢\n部分日常会发往Bluesky\n!注意，互fo≠同意对方立场!\n分身@mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 141,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "https://mikachan.us.kg/",
+                "start": 0,
+                "url": "https://t.co/yUfVtUE4yg"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵 𝓐𝓴𝓲𝓻𝓪𝓠",
+        "pinned_tweet_id": "1862810670238154974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865724365129805824/2wK-6ZpG_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1242,
+          "following_count": 772,
+          "like_count": 95582,
+          "listed_count": 3,
+          "media_count": 652,
+          "tweet_count": 3410
+        },
+        "url": "https://t.co/yUfVtUE4yg",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-03T02:40:51.000Z",
+        "description": "@421S_4分厂\n\n中文推特圈第一家国营制图厂（厂代号t_105）/\n以提高绘图技术为主，生产梗图为辅(第十三个五年计划第二周）\n推文朝鲜内容来源：https://t.co/gqlJvC2a0i\n朝鲜内容标签#朝鲜新闻#朝鲜画作#朝鲜宣传画译中#朝鲜宣传画#朝鲜邮票",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 7,
+                "start": 0,
+                "username": "421S_4"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "dprkportal.kp",
+                "end": 98,
+                "expanded_url": "http://www.dprkportal.kp/",
+                "start": 75,
+                "url": "https://t.co/gqlJvC2a0i"
+              }
+            ]
+          }
+        },
+        "id": "1698164071219007488",
+        "location": "中华人民共和国🇨🇳",
+        "name": "中推第一国营制图厂🚩",
+        "pinned_tweet_id": "1867344185814397239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867340250051436544/73btgeFR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7124,
+          "following_count": 672,
+          "like_count": 28066,
+          "listed_count": 35,
+          "media_count": 5118,
+          "tweet_count": 10472
+        },
+        "username": "CTFSCF",
+        "verified": false
+      }
+    ]
+  }
+}

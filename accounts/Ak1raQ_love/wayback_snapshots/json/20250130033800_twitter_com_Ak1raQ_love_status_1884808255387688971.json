@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1884808255387688971",
+    "created_at": "2025-01-30T03:38:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T04:38:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1884808255387688971"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hotcat9269_/st…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/hotcat9269_/status/1884632919731573040",
+          "start": 15,
+          "url": "https://t.co/RdOrFv5hhJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884808255387688971",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884632919731573040",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不只線下社恐，線上也社恐😖 https://t.co/RdOrFv5hhJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1884808255387688971",
+        "created_at": "2025-01-30T03:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T04:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884808255387688971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hotcat9269_/st…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/hotcat9269_/status/1884632919731573040",
+              "start": 15,
+              "url": "https://t.co/RdOrFv5hhJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884808255387688971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884632919731573040",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不只線下社恐，線上也社恐😖 https://t.co/RdOrFv5hhJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864921094005940224",
+        "conversation_id": "1884632919731573040",
+        "created_at": "2025-01-29T16:01:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T17:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884632919731573040"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1884632919731573040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 158,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不只線下社恐，線上也社恐😖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/🌏ZH,EN/🏳️‍⚧️Transgnder Liberation/🌈 Diversity & Inclusivity/🕊️Love & Peace/😔Sorry, I'm not good at chatting/Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 132,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "https://mikachan.us.kg/",
+                "start": 0,
+                "url": "https://t.co/yUfVtUE4yg"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵 #ʟᴜɴᴀʀɴᴇᴡʏᴇᴀʀ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1433,
+          "following_count": 876,
+          "like_count": 109826,
+          "listed_count": 3,
+          "media_count": 764,
+          "tweet_count": 4072
+        },
+        "url": "https://t.co/yUfVtUE4yg",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-06T06:33:47.000Z",
+        "description": "2代目帳號，前世：@hotcat9269_2（840fo的號被封了）曾經的互fo快回來吧😭，除了粉蛆和機器人號都會回fo滴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "hotcat9269_2"
+              }
+            ]
+          }
+        },
+        "id": "1864921094005940224",
+        "location": "距離你-3cm",
+        "name": "番原萌香💜（不稱職的二次元）🌸✨⛩️𝕄𝕠𝕖𝕜𝕒",
+        "pinned_tweet_id": "1880596437421236332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880597669586030592/1NWFlf26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 492,
+          "like_count": 2172,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 424
+        },
+        "username": "hotcat9269_",
+        "verified": false
+      }
+    ]
+  }
+}

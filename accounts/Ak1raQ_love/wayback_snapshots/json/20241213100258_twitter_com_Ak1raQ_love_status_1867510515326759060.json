@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1867483536636490150",
+    "created_at": "2024-12-13T10:02:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-13T11:02:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867510515326759060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1680834021377593344",
+          "start": 0,
+          "username": "baizhou_kawaii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867510515326759060",
+    "in_reply_to_user_id": "1680834021377593344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867483536636490150",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baizhou_kawaii 试过了，你推特不是这个密码）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1867483536636490150].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1867483536636490150",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1867483536636490150"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1867483536636490150",
+        "created_at": "2024-12-13T10:02:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T11:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867510515326759060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1680834021377593344",
+              "start": 0,
+              "username": "baizhou_kawaii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867510515326759060",
+        "in_reply_to_user_id": "1680834021377593344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867483536636490150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baizhou_kawaii 试过了，你推特不是这个密码）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "A sweet soul🥺♥️\nAkiraQ's gender is just itself\n可愛即正義！\nMutual-Followist\n精神狀態時好時壞，所以你能看到不同的我\n喜歡和你們在一起，就不會孤單了呢\n部分日常会发往Bluesky\n!注意，互fo≠同意对方立场!\n分身@mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 141,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "https://mikachan.us.kg/",
+                "start": 0,
+                "url": "https://t.co/yUfVtUE4yg"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵 𝓐𝓴𝓲𝓻𝓪𝓠",
+        "pinned_tweet_id": "1862810670238154974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865724365129805824/2wK-6ZpG_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1242,
+          "following_count": 772,
+          "like_count": 95597,
+          "listed_count": 3,
+          "media_count": 652,
+          "tweet_count": 3411
+        },
+        "url": "https://t.co/yUfVtUE4yg",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T06:57:26.000Z",
+        "description": "这里是白粥|怎么称呼都可以哦\n|ヨルシカ|牡丹は散っても花だ 夏が去っても追慕は\n|很重要的人🥰\n@Sus1e_Glitter\n@susiethegamer\n@kagurazakaSusie\n@KeihinTohoku_JR\n@Tokyu_Toyok0\n@kyoto_kar4suma\n@JR_yamanoteE235",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 49,
+                "username": "Sus1e_Glitter"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "susiethegamer"
+              },
+              {
+                "end": 95,
+                "start": 79,
+                "username": "kagurazakaSusie"
+              },
+              {
+                "end": 112,
+                "start": 96,
+                "username": "KeihinTohoku_JR"
+              },
+              {
+                "end": 126,
+                "start": 113,
+                "username": "Tokyu_Toyok0"
+              },
+              {
+                "end": 142,
+                "start": 127,
+                "username": "kyoto_kar4suma"
+              },
+              {
+                "end": 159,
+                "start": 143,
+                "username": "JR_yamanoteE235"
+              }
+            ]
+          }
+        },
+        "id": "1680834021377593344",
+        "location": "Hsinchu City, Taiwan",
+        "name": "🍥坂下白粥🕊️🫲🌛🫲✌🦌",
+        "pinned_tweet_id": "1865673360228938229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864989788589428737/ZJhH8lZW_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1514,
+          "following_count": 897,
+          "like_count": 48286,
+          "listed_count": 6,
+          "media_count": 3148,
+          "tweet_count": 17515
+        },
+        "username": "baizhou_kawaii",
+        "verified": false
+      }
+    ]
+  }
+}

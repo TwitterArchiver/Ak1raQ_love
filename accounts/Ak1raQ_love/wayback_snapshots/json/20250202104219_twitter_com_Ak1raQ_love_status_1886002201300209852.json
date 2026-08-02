@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1885999687708110949",
+    "created_at": "2025-02-02T10:42:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T11:42:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886002201300209852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1827938552673386496",
+          "start": 0,
+          "username": "Linler_sa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886002201300209852",
+    "in_reply_to_user_id": "1827938552673386496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885999687708110949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Linler_sa 这个什么原理"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1885999687708110949",
+        "created_at": "2025-02-02T10:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T11:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886002201300209852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1827938552673386496",
+              "start": 0,
+              "username": "Linler_sa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886002201300209852",
+        "in_reply_to_user_id": "1827938552673386496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885999687708110949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Linler_sa 这个什么原理"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885999659996401664"
+          ]
+        },
+        "author_id": "1827938552673386496",
+        "conversation_id": "1885999687708110949",
+        "created_at": "2025-02-02T10:32:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T11:32:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885999687708110949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eHiQ7tQ3qR",
+              "end": 56,
+              "expanded_url": "https://x.com/Linler_sa/status/1885999687708110949/photo/1",
+              "media_key": "3_1885999659996401664",
+              "start": 33,
+              "url": "https://t.co/eHiQ7tQ3qR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885999687708110949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽，小侄女玩具，无须充电，一键清屏，有压感，十块钱，😨😨😨😨😨 https://t.co/eHiQ7tQ3qR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/🌏ZH,EN/🏳️‍⚧️Genderfree/🌈 Diversity & Inclusivity/🕊️Love & Peace/😔Sorry, I'm not good at chatting/Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 121,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "https://mikachan.us.kg/",
+                "start": 0,
+                "url": "https://t.co/yUfVtUE4yg"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵 #ʟᴜɴᴀʀɴᴇᴡʏᴇᴀʀ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1463,
+          "following_count": 893,
+          "like_count": 111718,
+          "listed_count": 4,
+          "media_count": 795,
+          "tweet_count": 4188
+        },
+        "url": "https://t.co/yUfVtUE4yg",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T05:18:15.000Z",
+        "description": "嘿嘿\n04.12.1/大龄mtf😭 同类互fo！/定位安徽巢湖（现处芜湖）/随缘旅行中（回归中），欢迎同类线下找我贴贴！/音游b/神椿箱推（主情、透）/百合！里百合！/24小时陪伴版，无论怎样都会陪伴着的大姐姐！",
+        "id": "1827938552673386496",
+        "name": "淋纱🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827941954279075840/zY2JnwY-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 174,
+          "like_count": 545,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 460
+        },
+        "username": "Linler_sa",
+        "verified": false
+      }
+    ]
+  }
+}

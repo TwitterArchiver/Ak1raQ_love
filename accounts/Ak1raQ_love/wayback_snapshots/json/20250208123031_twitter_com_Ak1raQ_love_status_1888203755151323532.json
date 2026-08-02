@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1888203751468736512"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "1888146650855854320",
+    "created_at": "2025-02-08T12:30:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-08T13:30:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888203755151323532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1573663582994444289",
+          "start": 0,
+          "username": "guojiazongshuji"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ujwbafmb4D",
+          "end": 79,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/1888203755151323532/photo/1",
+          "media_key": "3_1888203751468736512",
+          "start": 56,
+          "url": "https://t.co/ujwbafmb4D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888203755151323532",
+    "in_reply_to_user_id": "1573663582994444289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888146650855854320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guojiazongshuji 你说的对，但是QQ邮箱登录提醒的时候会附上你的ID\n（这个账号我已经注销了） https://t.co/ujwbafmb4D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2254,
+        "media_key": "3_1888203751468736512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjQ_Ts3aoAAFyZt.jpg",
+        "width": 1008
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888203751468736512"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "1888146650855854320",
+        "created_at": "2025-02-08T12:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T13:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888203755151323532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1573663582994444289",
+              "start": 0,
+              "username": "guojiazongshuji"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ujwbafmb4D",
+              "end": 79,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/1888203755151323532/photo/1",
+              "media_key": "3_1888203751468736512",
+              "start": 56,
+              "url": "https://t.co/ujwbafmb4D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888203755151323532",
+        "in_reply_to_user_id": "1573663582994444289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888146650855854320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guojiazongshuji 你说的对，但是QQ邮箱登录提醒的时候会附上你的ID\n（这个账号我已经注销了） https://t.co/ujwbafmb4D"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1573663582994444289",
+        "conversation_id": "1888146650855854320",
+        "created_at": "2025-02-08T08:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T09:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888146650855854320"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1888146650855854320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 395,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实，你用+86和QQ邮箱注册推特也没什么大问题，推特服务器在境外，它也没有发生过大规模数据泄露，之前泄露过但数据并没有泛滥，一般人拿不到\n\n警爷也只是知道你注册了这些东西，但并不能一下子准确定位到你的账号"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/😶‍🌫️Online-only introvert/🌏ZH,EN/🌈Inclusivity/🕊️Love & Peace/😔Not good at chatting/🔄Interact to gain my follow-back/🤫Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 141,
+                "username": "mkc_Cute"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵😺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1572,
+          "following_count": 947,
+          "like_count": 115644,
+          "listed_count": 4,
+          "media_count": 840,
+          "tweet_count": 4425
+        },
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-24T13:20:19.000Z",
+        "description": "互联网考古专家 / 习厨TV / 备用小号@Ilikexijinping",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 21,
+                "username": "Ilikexijinping"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "h5.cctvnews.cctv.com/szdh2023/index…",
+                "end": 23,
+                "expanded_url": "https://h5.cctvnews.cctv.com/szdh2023/index.html",
+                "start": 0,
+                "url": "https://t.co/X75VIaIJ9Z"
+              }
+            ]
+          }
+        },
+        "id": "1573663582994444289",
+        "location": "你为什么认为位置这种功能是真的？",
+        "name": "苏苏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886419378591399936/AA5Epfm__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9568,
+          "following_count": 560,
+          "like_count": 56018,
+          "listed_count": 21,
+          "media_count": 269,
+          "tweet_count": 873
+        },
+        "url": "https://t.co/X75VIaIJ9Z",
+        "username": "guojiazongshuji",
+        "verified": false
+      }
+    ]
+  }
+}

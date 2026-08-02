@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1885461917185261568"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "1885396632721907989",
+    "created_at": "2025-01-31T22:55:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T23:55:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885461953340195009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1797089026111098880",
+          "start": 0,
+          "username": "severedwingz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VQWvDbBSj3",
+          "end": 43,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/1885461953340195009/photo/1",
+          "media_key": "3_1885461917185261568",
+          "start": 20,
+          "url": "https://t.co/VQWvDbBSj3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885461953340195009",
+    "in_reply_to_user_id": "1797089026111098880",
+    "lang": "it",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885396632721907989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@severedwingz None. https://t.co/VQWvDbBSj3"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1885396632721907989].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1885396632721907989",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1885396632721907989"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1377,
+        "media_key": "3_1885461917185261568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiqBn8NawAAEBPO.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885461917185261568"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "1885396632721907989",
+        "created_at": "2025-01-31T22:55:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T23:55:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885461953340195009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1797089026111098880",
+              "start": 0,
+              "username": "severedwingz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VQWvDbBSj3",
+              "end": 43,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/1885461953340195009/photo/1",
+              "media_key": "3_1885461917185261568",
+              "start": 20,
+              "url": "https://t.co/VQWvDbBSj3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885461953340195009",
+        "in_reply_to_user_id": "1797089026111098880",
+        "lang": "it",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885396632721907989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@severedwingz None. https://t.co/VQWvDbBSj3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/🌏ZH,EN/🏳️‍⚧️Genderfree/🌈 Diversity & Inclusivity/🕊️Love & Peace/😔Sorry, I'm not good at chatting/Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 121,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "https://mikachan.us.kg/",
+                "start": 0,
+                "url": "https://t.co/yUfVtUE4yg"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵 #ʟᴜɴᴀʀɴᴇᴡʏᴇᴀʀ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1452,
+          "following_count": 883,
+          "like_count": 110777,
+          "listed_count": 0,
+          "media_count": 783,
+          "tweet_count": 4140
+        },
+        "url": "https://t.co/yUfVtUE4yg",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T02:13:14.000Z",
+        "description": "https://t.co/FlcgNKRIwU\nINTERNET YAMERO !!\n𓎢𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟\nilmgf ౨౿      she / her\nhttps://t.co/YM6UdNV74x\n𓎢𓎟𓎟𓎟𓎢𓎟𓎟𓎟𓎢𓎟𓎟𓎟𓎢",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zephyrs.straw.page",
+                "end": 23,
+                "expanded_url": "https://zephyrs.straw.page",
+                "start": 0,
+                "url": "https://t.co/FlcgNKRIwU"
+              },
+              {
+                "display_url": "ko-fi.com/angelznote",
+                "end": 103,
+                "expanded_url": "https://ko-fi.com/angelznote",
+                "start": 80,
+                "url": "https://t.co/YM6UdNV74x"
+              }
+            ]
+          }
+        },
+        "id": "1797089026111098880",
+        "location": "#bpdtwt   ﾉ   #nsotwt ୨୧ ꒱",
+        "name": "𝜗𝜚 ame / kangel ! | comms: 0/2 |",
+        "pinned_tweet_id": "1885069576276447453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881494408417411072/31CBYitW_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2429,
+          "following_count": 2685,
+          "like_count": 23926,
+          "listed_count": 23,
+          "media_count": 907,
+          "tweet_count": 5059
+        },
+        "username": "severedwingz",
+        "verified": false
+      }
+    ]
+  }
+}

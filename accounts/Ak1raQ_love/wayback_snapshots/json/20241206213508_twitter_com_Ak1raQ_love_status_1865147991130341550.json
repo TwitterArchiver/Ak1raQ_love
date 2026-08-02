@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1865147991130341550",
+    "created_at": "2024-12-06T21:35:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-06T22:35:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865147991130341550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1817584080437014528",
+          "start": 3,
+          "username": "N552AA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865147991130341550",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865074344101322795",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @N552AA: 30分钟后被送医 还活着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1865147991130341550",
+        "created_at": "2024-12-06T21:35:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T22:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865147991130341550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1817584080437014528",
+              "start": 3,
+              "username": "N552AA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865147991130341550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865074344101322795",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @N552AA: 30分钟后被送医 还活着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817584080437014528",
+        "conversation_id": "1865074344101322795",
+        "created_at": "2024-12-06T16:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T17:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865074344101322795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/N552AA/status/…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/N552AA/status/1865016988369850785",
+              "start": 13,
+              "url": "https://t.co/ABxQSYIrjo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865074344101322795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2735,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865016988369850785",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "30分钟后被送医 还活着 https://t.co/ABxQSYIrjo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "A sweet soul\n阿棄的性別就是阿棄\n可爱即是正义\n社交软件重度依赖😣\n随缘回fo（🏳️‍⚧️看到就回）\n精神状态时好时坏，所以你能看到两个不同的我\n喜欢和推友们在一起，有你们在就不会孤独\n❗请注意，互fo≠同意对方立场；取fo我请双取，谢谢！\n分身@mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 129,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "https://mikachan.us.kg/",
+                "start": 0,
+                "url": "https://t.co/yUfVtUE4yg"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "是阿棄喵🥺♥️",
+        "pinned_tweet_id": "1862810670238154974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852745129033093120/bPab9bQm_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1230,
+          "following_count": 760,
+          "like_count": 93327,
+          "listed_count": 2,
+          "media_count": 640,
+          "tweet_count": 3340
+        },
+        "url": "https://t.co/yUfVtUE4yg",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T15:33:18.000Z",
+        "description": "09/MTX/ENTP-T/个人blog制作中/pronoun:she|her/pre-IB高一生/reHRT:2024/11/15/坐标上海QQ:234559943/发电小号: @N732FE /抱抱最最可爱的姐姐: @yizhikapaiqaq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 90,
+                "username": "N732FE"
+              },
+              {
+                "end": 124,
+                "start": 110,
+                "username": "yizhikapaiqaq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "n552aa.github.io",
+                "end": 23,
+                "expanded_url": "http://n552aa.github.io",
+                "start": 0,
+                "url": "https://t.co/zkiZZtLj51"
+              }
+            ]
+          }
+        },
+        "id": "1817584080437014528",
+        "location": "距离你0.1μm",
+        "name": "N552AA🏳️‍⚧️",
+        "pinned_tweet_id": "1853743463873065449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861222486119211008/acVum9Tu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 745,
+          "like_count": 1781,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 715
+        },
+        "url": "https://t.co/zkiZZtLj51",
+        "username": "N552AA",
+        "verified": false
+      }
+    ]
+  }
+}

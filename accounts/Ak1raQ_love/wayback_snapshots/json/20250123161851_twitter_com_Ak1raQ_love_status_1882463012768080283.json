@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1882332546882847092",
+    "created_at": "2025-01-23T16:18:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-23T17:18:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882463012768080283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1589203507852152832",
+          "start": 0,
+          "username": "JianLv117"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882463012768080283",
+    "in_reply_to_user_id": "1589203507852152832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882332546882847092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JianLv117 奴性教育"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1882332546882847092",
+        "created_at": "2025-01-23T16:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T17:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882463012768080283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1589203507852152832",
+              "start": 0,
+              "username": "JianLv117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882463012768080283",
+        "in_reply_to_user_id": "1589203507852152832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882332546882847092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JianLv117 奴性教育"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882332539651833857",
+            "3_1882332539257585665"
+          ]
+        },
+        "author_id": "1589203507852152832",
+        "conversation_id": "1882332546882847092",
+        "created_at": "2025-01-23T07:40:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T08:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882332546882847092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UIvVIMEvIz",
+              "end": 29,
+              "expanded_url": "https://x.com/JianLv117/status/1882332546882847092/photo/1",
+              "media_key": "3_1882332539651833857",
+              "start": 6,
+              "url": "https://t.co/UIvVIMEvIz"
+            },
+            {
+              "display_url": "pic.x.com/UIvVIMEvIz",
+              "end": 29,
+              "expanded_url": "https://x.com/JianLv117/status/1882332546882847092/photo/1",
+              "media_key": "3_1882332539257585665",
+              "start": 6,
+              "url": "https://t.co/UIvVIMEvIz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882332546882847092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2905,
+          "like_count": 61,
+          "quote_count": 1,
+          "reply_count": 45,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如何评价？ https://t.co/UIvVIMEvIz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/🏳️‍⚧️Non-Cisgender/🌈 Diversity & Inclusivity/😘Peace & Love/⚠️Following≠Agreeing/😔Sorry, I'm not good at chatting/Private: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 140,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "https://mikachan.us.kg/",
+                "start": 0,
+                "url": "https://t.co/yUfVtUE4yg"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄𝕄𝕖𝕠𝕨 #LunarNewYear🧧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1390,
+          "following_count": 846,
+          "like_count": 106065,
+          "listed_count": 3,
+          "media_count": 740,
+          "tweet_count": 3877
+        },
+        "url": "https://t.co/yUfVtUE4yg",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-06T10:30:25.000Z",
+        "description": "一个奇怪的人，人物志评分创始人 INTJ\n二次元 热爱于与大家讨论政史 汴京❌\n 🇺🇸🇩🇪🇫🇷🇦🇺🇬🇧🇮🇹🇪🇸🇯🇵\n可互关(私信)\n逃生舱：@lyngxu3  \n搭档：@KawawaDiana8964\n死党: @HANABIRIKAJIANG\n伙伴：@RealColidora3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 70,
+                "username": "lyngxu3"
+              },
+              {
+                "end": 100,
+                "start": 84,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 121,
+                "start": 105,
+                "username": "HANABIRIKAJIANG"
+              },
+              {
+                "end": 139,
+                "start": 125,
+                "username": "RealColidora3"
+              }
+            ]
+          }
+        },
+        "id": "1589203507852152832",
+        "location": "新西兰（回复1和转推多为广告哈❛˓◞˂̵✧）",
+        "name": "简律",
+        "pinned_tweet_id": "1882332546882847092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873689474133274624/7nI7UtsB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12559,
+          "following_count": 826,
+          "like_count": 45269,
+          "listed_count": 52,
+          "media_count": 2072,
+          "tweet_count": 5490
+        },
+        "username": "JianLv117",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1884241052724523513",
+    "created_at": "2025-01-28T15:10:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T16:10:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884257763498549414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1586779015574327296",
+          "start": 0,
+          "username": "Cya_Ninnensuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884257763498549414",
+    "in_reply_to_user_id": "1586779015574327296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884241052724523513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cya_Ninnensuki 头像还有什么朝气不朝气理想不理想的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1884241052724523513",
+        "created_at": "2025-01-28T15:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T16:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884257763498549414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1586779015574327296",
+              "start": 0,
+              "username": "Cya_Ninnensuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884257763498549414",
+        "in_reply_to_user_id": "1586779015574327296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884241052724523513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cya_Ninnensuki 头像还有什么朝气不朝气理想不理想的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884241049536847873"
+          ]
+        },
+        "author_id": "1586779015574327296",
+        "conversation_id": "1884241052724523513",
+        "created_at": "2025-01-28T14:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T15:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884241052724523513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ge9pij9uam",
+              "end": 35,
+              "expanded_url": "https://x.com/Cya_Ninnensuki/status/1884241052724523513/photo/1",
+              "media_key": "3_1884241049536847873",
+              "start": 12,
+              "url": "https://t.co/Ge9pij9uam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884241052724523513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我爸锐评我的地雷系头像 https://t.co/Ge9pij9uam"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/🏳️‍⚧️Non-Cisgender/🌈 Diversity & Inclusivity/🕊️Peace & Love/😔Sorry, I'm not good at chatting/Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 117,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "https://mikachan.us.kg/",
+                "start": 0,
+                "url": "https://t.co/yUfVtUE4yg"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄𝕄𝕖𝕠𝕨 #LunarNewYear🧧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1409,
+          "following_count": 857,
+          "like_count": 108711,
+          "listed_count": 4,
+          "media_count": 756,
+          "tweet_count": 4010
+        },
+        "url": "https://t.co/yUfVtUE4yg",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-30T17:56:28.000Z",
+        "description": "只是茶酱而已・169㎝ 50㎏・OCD・ADHD可能・喜欢JK制服/lolita/地雷系・一直是果然多\n由于平台不好用，正考虑娱乐内容迁出本账号",
+        "id": "1586779015574327296",
+        "name": "鹿野外的茶酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883835396360187904/N7fC-rUy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 299,
+          "like_count": 9983,
+          "listed_count": 3,
+          "media_count": 281,
+          "tweet_count": 8747
+        },
+        "username": "Cya_Ninnensuki",
+        "verified": false
+      }
+    ]
+  }
+}

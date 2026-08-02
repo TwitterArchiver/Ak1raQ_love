@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2082446174028787766",
+    "created_at": "2026-07-29T12:40:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T13:40:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082446174028787766"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Clapton_Free/s…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/Clapton_Free/status/2081991537425363210",
+          "start": 9,
+          "url": "https://t.co/AvIFBpYeBZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082446174028787766",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081991537425363210",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "咋又刷到厦门地铁 https://t.co/AvIFBpYeBZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081991510468546560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOS4P3bbUAA8hfV.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081991510447517696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOS4P3WacAAD6gx.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2082446174028787766",
+        "created_at": "2026-07-29T12:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T13:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082446174028787766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Clapton_Free/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/Clapton_Free/status/2081991537425363210",
+              "start": 9,
+              "url": "https://t.co/AvIFBpYeBZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082446174028787766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081991537425363210",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "咋又刷到厦门地铁 https://t.co/AvIFBpYeBZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081991510468546560",
+            "3_2081991510447517696"
+          ]
+        },
+        "author_id": "389469452",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081991537425363210",
+        "created_at": "2026-07-28T06:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T07:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081991537425363210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8EjHnlsnCa",
+              "end": 69,
+              "expanded_url": "https://x.com/Clapton_Free/status/2081991537425363210/photo/1",
+              "media_key": "3_2081991510468546560",
+              "start": 46,
+              "url": "https://t.co/8EjHnlsnCa"
+            },
+            {
+              "display_url": "pic.x.com/8EjHnlsnCa",
+              "end": 69,
+              "expanded_url": "https://x.com/Clapton_Free/status/2081991537425363210/photo/1",
+              "media_key": "3_2081991510447517696",
+              "start": 46,
+              "url": "https://t.co/8EjHnlsnCa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081991537425363210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 54842,
+          "like_count": 169,
+          "quote_count": 4,
+          "reply_count": 154,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "中国的地铁都有简洁，干净的吊顶，锃亮的大理石地板。\n\n为什么日本的是破铁皮和脏兮兮的地面？ https://t.co/8EjHnlsnCa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/non-mtf/无糖/向往自由/欢迎推u面基/#蓝v互关/原创meme/顺直女 @zhwevea/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 34,
+                "tag": "蓝v互关"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 59,
+                "start": 51,
+                "username": "zhwevea"
+              },
+              {
+                "end": 77,
+                "start": 63,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": " 苏州/厦门",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8997,
+          "following_count": 1176,
+          "like_count": 206068,
+          "listed_count": 6,
+          "media_count": 1050,
+          "tweet_count": 8270
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2011-10-12T13:41:33.000Z",
+        "description": "年少轻狂，口无遮拦。\n纯血日黑。\n欢迎投稿，欢迎互关。\n商务可私信。",
+        "id": "389469452",
+        "location": "Japan",
+        "name": "Genpo Liu",
+        "pinned_tweet_id": "2024310878833954915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1702864096419590144/mM6AN-s0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5404,
+          "following_count": 405,
+          "like_count": 4107,
+          "listed_count": 28,
+          "media_count": 515,
+          "tweet_count": 7265
+        },
+        "url": "",
+        "username": "Clapton_Free",
+        "verified": true
+      }
+    ]
+  }
+}

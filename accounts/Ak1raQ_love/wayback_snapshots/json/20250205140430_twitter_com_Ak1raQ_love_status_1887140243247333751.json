@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1887140236226150401"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "1887079336391725445",
+    "created_at": "2025-02-05T14:04:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T15:04:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887140243247333751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1825140324731424768",
+          "start": 0,
+          "username": "squirrelGUW"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YAkKNFlymi",
+          "end": 36,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/1887140243247333751/photo/1",
+          "media_key": "3_1887140236226150401",
+          "start": 13,
+          "url": "https://t.co/YAkKNFlymi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887140243247333751",
+    "in_reply_to_user_id": "1663066129923981312",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887139594413772847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@squirrelGUW https://t.co/YAkKNFlymi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2376,
+        "media_key": "3_1887140236226150401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjB4C92bQAEUA_0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887140236226150401"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "1887079336391725445",
+        "created_at": "2025-02-05T14:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T15:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887140243247333751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1825140324731424768",
+              "start": 0,
+              "username": "squirrelGUW"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YAkKNFlymi",
+              "end": 36,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/1887140243247333751/photo/1",
+              "media_key": "3_1887140236226150401",
+              "start": 13,
+              "url": "https://t.co/YAkKNFlymi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887140243247333751",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887139594413772847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@squirrelGUW https://t.co/YAkKNFlymi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1887079336391725445",
+        "created_at": "2025-02-05T14:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T15:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887139594413772847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1825140324731424768",
+              "start": 0,
+              "username": "squirrelGUW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887139594413772847",
+        "in_reply_to_user_id": "1825140324731424768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887139348153536618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@squirrelGUW 不支持，微信走FCM就行了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/🌏ZH,EN/🏳️‍⚧️/🌈 Diversity & Inclusivity/🕊️Love & Peace/😔Not good at chatting/🔄Interact to gain my follow-back/🤫Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "https://mikachan.us.kg/",
+                "start": 0,
+                "url": "https://t.co/yUfVtUE4yg"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵😺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1512,
+          "following_count": 914,
+          "like_count": 113844,
+          "listed_count": 4,
+          "media_count": 827,
+          "tweet_count": 4344
+        },
+        "url": "https://t.co/yUfVtUE4yg",
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-18T11:59:05.000Z",
+        "description": "请和我交朋友!  喜欢galgame和美食 欢迎互fo 可爱的小白 @shiroko2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 34,
+                "username": "shiroko2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twpf.jp/squirrelGUW",
+                "end": 23,
+                "expanded_url": "https://twpf.jp/squirrelGUW",
+                "start": 0,
+                "url": "https://t.co/LQPRsA6RnN"
+              }
+            ]
+          }
+        },
+        "id": "1825140324731424768",
+        "location": "Hong Kong",
+        "name": "松鼠Sayori",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830673691191250944/PRXG4qko_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 305,
+          "like_count": 469,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 644
+        },
+        "url": "https://t.co/LQPRsA6RnN",
+        "username": "squirrelGUW",
+        "verified": false
+      }
+    ]
+  }
+}

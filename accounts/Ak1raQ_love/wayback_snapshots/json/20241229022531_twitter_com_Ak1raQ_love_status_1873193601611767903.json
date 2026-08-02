@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1873181006955696128"
+      ],
+      "media_source_tweet_id": [
+        "1873181013893103940"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1873193601611767903",
+    "created_at": "2024-12-29T02:25:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T03:25:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873193601611767903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1867009091878653953",
+          "start": 3,
+          "username": "sakurafk520"
+        },
+        {
+          "end": 38,
+          "id": "1697987636231860224",
+          "start": 25,
+          "username": "sakurafk1314"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/b2s4XCGwuh",
+          "end": 79,
+          "expanded_url": "https://x.com/sakurafk520/status/1873181013893103940/photo/1",
+          "media_key": "3_1873181006955696128",
+          "start": 56,
+          "url": "https://t.co/b2s4XCGwuh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873193601611767903",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873181013893103940",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sakurafk520: 中推讣告栏，【 @sakurafk1314 】芙卡账号疑似被恶意注销或者封号 https://t.co/b2s4XCGwuh"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [sakurafk1314].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "sakurafk1314",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "sakurafk1314"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1873181006955696128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gf7gM4eaUAALdsT.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873181006955696128"
+          ],
+          "media_source_tweet_id": [
+            "1873181013893103940"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1873193601611767903",
+        "created_at": "2024-12-29T02:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T03:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873193601611767903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1867009091878653953",
+              "start": 3,
+              "username": "sakurafk520"
+            },
+            {
+              "end": 38,
+              "id": "1697987636231860224",
+              "start": 25,
+              "username": "sakurafk1314"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b2s4XCGwuh",
+              "end": 79,
+              "expanded_url": "https://x.com/sakurafk520/status/1873181013893103940/photo/1",
+              "media_key": "3_1873181006955696128",
+              "start": 56,
+              "url": "https://t.co/b2s4XCGwuh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873193601611767903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873181013893103940",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sakurafk520: 中推讣告栏，【 @sakurafk1314 】芙卡账号疑似被恶意注销或者封号 https://t.co/b2s4XCGwuh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873181006955696128"
+          ]
+        },
+        "author_id": "1867009091878653953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1873181013893103940",
+        "created_at": "2024-12-29T01:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T02:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873181013893103940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1697987636231860224",
+              "start": 8,
+              "username": "sakurafk1314"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b2s4XCGwuh",
+              "end": 62,
+              "expanded_url": "https://x.com/sakurafk520/status/1873181013893103940/photo/1",
+              "media_key": "3_1873181006955696128",
+              "start": 39,
+              "url": "https://t.co/b2s4XCGwuh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873181013893103940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 171,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "中推讣告栏，【 @sakurafk1314 】芙卡账号疑似被恶意注销或者封号 https://t.co/b2s4XCGwuh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "A sweet soul🥺♥️/🏳️‍⚧️Non-Cis/🌏G11N/Cuter is better!/Mutual-followist/Mood swings, but you all make me less lonely!/⚠️Following≠Agreeing⚠️/Private:@mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 146,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtfxyn.news",
+                "end": 23,
+                "expanded_url": "https://mtfxyn.news",
+                "start": 0,
+                "url": "https://t.co/0auRNqe1RP"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄𝕄𝕖𝕠𝕨 #NewYear🎆",
+        "pinned_tweet_id": "1871929681479627262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865724365129805824/2wK-6ZpG_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1269,
+          "following_count": 789,
+          "like_count": 99481,
+          "listed_count": 3,
+          "media_count": 684,
+          "tweet_count": 3565
+        },
+        "url": "https://t.co/0auRNqe1RP",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-12T00:50:36.000Z",
+        "description": "2009.6.2/身高158/xyn喜欢和同类贴贴~/全国可飞接线下/🚪52/持证含糖/孤独即是自由/被夸 了会超级开心~/生理性别男的! ! ! /宿命论者/雌小鬼+正太萝莉属性~最好的姐姐@wanyingbaobao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 96,
+                "username": "wanyingbaobao"
+              }
+            ]
+          }
+        },
+        "id": "1867009091878653953",
+        "name": "芙卡🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873180358675709957/rIm4rrOJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 39,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "username": "sakurafk520",
+        "verified": false
+      }
+    ]
+  }
+}

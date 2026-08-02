@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1884598031041106290",
+    "created_at": "2025-01-29T13:42:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T14:42:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884598031041106290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1688385343580680192",
+          "start": 3,
+          "username": "heiwawomamore"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884598031041106290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884557557618110923",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @heiwawomamore: 很不喜歡女裝男裝的說法，衣物不應該賦予性別"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1884598031041106290",
+        "created_at": "2025-01-29T13:42:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T14:42:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884598031041106290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1688385343580680192",
+              "start": 3,
+              "username": "heiwawomamore"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884598031041106290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884557557618110923",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @heiwawomamore: 很不喜歡女裝男裝的說法，衣物不應該賦予性別"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688385343580680192",
+        "conversation_id": "1884557557618110923",
+        "created_at": "2025-01-29T11:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T12:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884557557618110923"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1884557557618110923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 198,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "很不喜歡女裝男裝的說法，衣物不應該賦予性別"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/🏳️‍⚧️Non-Cisgender/🌈 Diversity & Inclusivity/🕊️Peace & Love/😔Sorry, I'm not good at chatting/Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 117,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "https://mikachan.us.kg/",
+                "start": 0,
+                "url": "https://t.co/yUfVtUE4yg"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵 #ʟᴜɴᴀʀɴᴇᴡʏᴇᴀʀ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1431,
+          "following_count": 869,
+          "like_count": 109655,
+          "listed_count": 3,
+          "media_count": 759,
+          "tweet_count": 4050
+        },
+        "url": "https://t.co/yUfVtUE4yg",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:03:51.000Z",
+        "description": "末里せい(清)です MtX\n泛左进步b成分杂 和平反战 非顺直健全群体平权即捍卫人权 鸠图伊勒主义\n活一天是一天\n願大家平安顺遂幸福\n愿善的人性理性感性终将引领拥有祂的人走向平和柔善的一个又一个地上天国\n我爱@manakaao68！！！！！！！！！！\n永远！！！！！！！！！！！\n最好的姐姐@ATRIyatuoliQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "manakaao68"
+              },
+              {
+                "end": 160,
+                "start": 145,
+                "username": "ATRIyatuoliQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1688385343580680192",
+        "location": "Singin' In The Rain",
+        "name": "小小の木ノ幡みら(是 平和を守れ 哟)🐳⭐️🌴🍥🍉🍔",
+        "pinned_tweet_id": "1884179333113339926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876888618486362112/4cEzMJ8D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 1437,
+          "like_count": 63559,
+          "listed_count": 5,
+          "media_count": 466,
+          "tweet_count": 30043
+        },
+        "username": "heiwawomamore",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1854531698396156288",
+    "created_at": "2024-11-07T14:29:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-07T15:29:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1854531698396156288"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lizi4202/statu…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/lizi4202/status/1854509593180934212",
+          "start": 21,
+          "url": "https://t.co/KhNdRNR9iM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854531698396156288",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854509593180934212",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们都是咋认识我的？从去年11月份到现在 https://t.co/KhNdRNR9iM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1854531698396156288",
+        "created_at": "2024-11-07T14:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T15:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854531698396156288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lizi4202/statu…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/lizi4202/status/1854509593180934212",
+              "start": 21,
+              "url": "https://t.co/KhNdRNR9iM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854531698396156288",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854509593180934212",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们都是咋认识我的？从去年11月份到现在 https://t.co/KhNdRNR9iM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750804799031824384",
+        "conversation_id": "1854509593180934212",
+        "created_at": "2024-11-07T13:01:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T14:01:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854509593180934212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rorochan_99012…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/rorochan_990126/status/1854453832065122779",
+              "start": 20,
+              "url": "https://t.co/4u6t2KfJso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854509593180934212",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854453832065122779",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们都是咋认识我的？从今年1月份到现在 https://t.co/4u6t2KfJso"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "A sweet soul\n阿棄的性別就是阿棄\n喜欢可爱的事物\n在上高二，好累好痛苦😣\n精神状态时好时坏，所以你能看到两个不同的我\n喜欢和推友们在一起，有你们在就不会孤独\n分身@mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 87,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "http://mikachan.us.kg",
+                "start": 0,
+                "url": "https://t.co/lSEgpdslQn"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "是阿棄喵🥺♥️",
+        "pinned_tweet_id": "1850545437570470071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852745129033093120/bPab9bQm_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1141,
+          "following_count": 698,
+          "like_count": 85541,
+          "listed_count": 2,
+          "tweet_count": 3097
+        },
+        "url": "https://t.co/lSEgpdslQn",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T08:56:14.000Z",
+        "description": "改变世界的行动回溯性创造了解释世界的主体和条件｜大概率回fo｜bluesky:https://t.co/v1Ja81Qje7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "mygo-avemujica.bsky.social",
+                "end": 62,
+                "expanded_url": "http://mygo-avemujica.bsky.social",
+                "start": 39,
+                "url": "https://t.co/v1Ja81Qje7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ys.mihoyo.com",
+                "end": 23,
+                "expanded_url": "http://ys.mihoyo.com",
+                "start": 0,
+                "url": "https://t.co/PHunJq3mbx"
+              }
+            ]
+          }
+        },
+        "id": "1750804799031824384",
+        "name": "漓梓（go一辈子版）",
+        "pinned_tweet_id": "1839688260588810619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853026964250169344/45i5Ikxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 771,
+          "like_count": 6719,
+          "listed_count": 3,
+          "tweet_count": 2214
+        },
+        "url": "https://t.co/PHunJq3mbx",
+        "username": "lizi4202",
+        "verified": false
+      }
+    ]
+  }
+}

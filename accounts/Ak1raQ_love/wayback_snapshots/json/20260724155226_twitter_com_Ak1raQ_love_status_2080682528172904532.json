@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080682506140237824"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2080682528172904532",
+    "created_at": "2026-07-24T15:52:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T16:52:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080682528172904532"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/66hp1CxbO6",
+          "end": 27,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2080682528172904532/photo/1",
+          "media_key": "3_2080682506140237824",
+          "start": 4,
+          "url": "https://t.co/66hp1CxbO6"
+        },
+        {
+          "display_url": "x.com/Ak1raQ_love/st…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/Ak1raQ_love/status/2080677735639474616",
+          "start": 28,
+          "url": "https://t.co/rXfHXW06UD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080682528172904532",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080677735639474616",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吃夜宵 https://t.co/66hp1CxbO6 https://t.co/rXfHXW06UD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2080682506140237824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOARtyTbwAAKkPl.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080677722142187520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOANXUhaoAAh5ka.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080682506140237824"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2080682528172904532",
+        "created_at": "2026-07-24T15:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T16:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080682528172904532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/66hp1CxbO6",
+              "end": 27,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2080682528172904532/photo/1",
+              "media_key": "3_2080682506140237824",
+              "start": 4,
+              "url": "https://t.co/66hp1CxbO6"
+            },
+            {
+              "display_url": "x.com/Ak1raQ_love/st…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/Ak1raQ_love/status/2080677735639474616",
+              "start": 28,
+              "url": "https://t.co/rXfHXW06UD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080682528172904532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080677735639474616",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吃夜宵 https://t.co/66hp1CxbO6 https://t.co/rXfHXW06UD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080677722142187520"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2080677735639474616",
+        "created_at": "2026-07-24T15:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T16:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080677735639474616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tv6czHTjAY",
+              "end": 44,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2080677735639474616/photo/1",
+              "media_key": "3_2080677722142187520",
+              "start": 21,
+              "url": "https://t.co/tv6czHTjAY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080677735639474616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 232,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟zw坐火车，要凌晨十二点半到苏州站🥺🥺 https://t.co/tv6czHTjAY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/留长发中/无糖/向往自由/原创&二创meme/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 31,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9295,
+          "following_count": 1109,
+          "like_count": 203508,
+          "listed_count": 8,
+          "media_count": 1024,
+          "tweet_count": 8117
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": true
+      }
+    ]
+  }
+}

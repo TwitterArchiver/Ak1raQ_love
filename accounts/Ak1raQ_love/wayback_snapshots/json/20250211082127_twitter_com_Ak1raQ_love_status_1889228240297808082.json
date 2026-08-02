@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1889228223176962048"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "1889228240297808082",
+    "created_at": "2025-02-11T08:21:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T09:21:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1889228240297808082"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wesyX4kOm0",
+          "end": 39,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/1889228240297808082/photo/1",
+          "media_key": "3_1889228223176962048",
+          "start": 16,
+          "url": "https://t.co/wesyX4kOm0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889228240297808082",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "X Pro 体验日理万机的感觉 https://t.co/wesyX4kOm0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1377,
+        "media_key": "3_1889228223176962048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjfjDzYa8AASGGU.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889228223176962048"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "1889228240297808082",
+        "created_at": "2025-02-11T08:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T09:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889228240297808082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wesyX4kOm0",
+              "end": 39,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/1889228240297808082/photo/1",
+              "media_key": "3_1889228223176962048",
+              "start": 16,
+              "url": "https://t.co/wesyX4kOm0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889228240297808082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "X Pro 体验日理万机的感觉 https://t.co/wesyX4kOm0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/😶‍🌫️Online-only introvert/🌏ZH,EN/🌈Inclusivity/🕊️Love & Peace/😔Not good at chatting/🔄Interact to gain my follow-back/🤫Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 141,
+                "username": "mkc_Cute"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵😺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1574,
+          "following_count": 947,
+          "like_count": 115896,
+          "listed_count": 5,
+          "media_count": 851,
+          "tweet_count": 4461
+        },
+        "username": "Ak1raQ_love",
+        "verified": true
+      }
+    ]
+  }
+}

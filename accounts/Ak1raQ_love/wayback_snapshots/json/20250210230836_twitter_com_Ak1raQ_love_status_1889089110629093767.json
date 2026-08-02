@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1889089017075146752"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "1889089110629093767",
+    "created_at": "2025-02-10T23:08:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T00:08:14.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1889089020556386432",
+      "1889089110629093767"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 0,
+          "tag": "推友情況通報"
+        },
+        {
+          "end": 14,
+          "start": 8,
+          "tag": "中推讣告栏"
+        },
+        {
+          "end": 18,
+          "start": 15,
+          "tag": "冻结"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 79,
+          "id": "1818325332233269248",
+          "start": 65,
+          "username": "Alexe_Antonov"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QWJWXrTwlW",
+          "end": 110,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/1889089110629093767/photo/1",
+          "media_key": "3_1889089017075146752",
+          "start": 87,
+          "url": "https://t.co/QWJWXrTwlW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889089110629093767",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#推友情況通報 #中推讣告栏 #冻结\nCheck Time: 2025-02-11 07:05:10 CST\n阿列克谢·安东诺夫\n@Alexe_Antonov\n账号被冻结。 https://t.co/QWJWXrTwlW"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Alexe_Antonov].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Alexe_Antonov",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Alexe_Antonov"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1206,
+        "media_key": "3_1889089017075146752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gjdkc8PbIAAcurN.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889089017075146752"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "1889089020556386432",
+        "created_at": "2025-02-10T23:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T00:08:14.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889089020556386432",
+          "1889089110629093767"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "推友情況通報"
+            },
+            {
+              "end": 14,
+              "start": 8,
+              "tag": "中推讣告栏"
+            },
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "冻结"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 43,
+              "id": "1818325332233269248",
+              "start": 29,
+              "username": "Alexe_Antonov"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D9RwkyP1G1",
+              "end": 74,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/1889089020556386432/photo/1",
+              "media_key": "3_1889089017075146752",
+              "start": 51,
+              "url": "https://t.co/D9RwkyP1G1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889089020556386432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#推友情況通報 #中推讣告栏 #冻结\n阿列克谢·安东诺夫\n@Alexe_Antonov\n账号被冻结。 https://t.co/D9RwkyP1G1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889089017075146752"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "1889089110629093767",
+        "created_at": "2025-02-10T23:08:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T00:08:14.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889089020556386432",
+          "1889089110629093767"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "推友情況通報"
+            },
+            {
+              "end": 14,
+              "start": 8,
+              "tag": "中推讣告栏"
+            },
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "冻结"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 79,
+              "id": "1818325332233269248",
+              "start": 65,
+              "username": "Alexe_Antonov"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QWJWXrTwlW",
+              "end": 110,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/1889089110629093767/photo/1",
+              "media_key": "3_1889089017075146752",
+              "start": 87,
+              "url": "https://t.co/QWJWXrTwlW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889089110629093767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#推友情況通報 #中推讣告栏 #冻结\nCheck Time: 2025-02-11 07:05:10 CST\n阿列克谢·安东诺夫\n@Alexe_Antonov\n账号被冻结。 https://t.co/QWJWXrTwlW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/😶‍🌫️Online-only introvert/🌏ZH,EN/🌈Inclusivity/🕊️Love & Peace/😔Not good at chatting/🔄Interact to gain my follow-back/🤫Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 141,
+                "username": "mkc_Cute"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵😺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1567,
+          "following_count": 945,
+          "like_count": 115722,
+          "listed_count": 5,
+          "media_count": 848,
+          "tweet_count": 4457
+        },
+        "username": "Ak1raQ_love",
+        "verified": true
+      }
+    ]
+  }
+}

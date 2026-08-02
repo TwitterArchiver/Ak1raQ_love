@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1890179845767983116",
+    "created_at": "2025-02-13T23:55:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T00:55:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890188095682932934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1613864465195503616",
+          "start": 0,
+          "username": "filer0040"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890188095682932934",
+    "in_reply_to_user_id": "1613864465195503616",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890179845767983116",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@filer0040 YOU ABSOLUTELY COULD!!\nBelieve yourself!!!♥️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1890179845767983116",
+        "created_at": "2025-02-13T23:55:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T00:55:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890188095682932934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1613864465195503616",
+              "start": 0,
+              "username": "filer0040"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890188095682932934",
+        "in_reply_to_user_id": "1613864465195503616",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890179845767983116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@filer0040 YOU ABSOLUTELY COULD!!\nBelieve yourself!!!♥️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1613864465195503616",
+        "conversation_id": "1890179845767983116",
+        "created_at": "2025-02-13T23:22:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T00:22:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890179845767983116"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1890179845767983116",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 545,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "I CAN NEVER BE GOOD AT ANYTHING\nI CAN NEVER BE GOOD AT ANYTHING\nI CAN NEVER BE GOOD AT ANYTHING\nI CAN NEVER BE GOOD AT ANYTHING\nI CAN NEVER BE GOOD AT ANYTHING\nI CAN NEVER BE GOOD AT ANYTHING\nI CAN NEVER BE GOOD AT ANYTHING\nI CAN NEVER BE GOOD AT ANYTHING"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/😶‍🌫️Introvert/Highlights➡️Original meme/🌏ZH,EN/🌈Love & Peace/😔Not good at chatting/🔄Interact to gain my follow-back/🤫Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 141,
+                "username": "mkc_Cute"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵😺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1605,
+          "following_count": 973,
+          "like_count": 117909,
+          "listed_count": 4,
+          "media_count": 863,
+          "tweet_count": 4541
+        },
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-13T11:44:17.000Z",
+        "description": "I CAN NEVER BE GOOD AT ANYTHING I CAN NEVER BE GOOD AT ANYTHING I CAN NEVER BE GOOD AT ANYTHING I CAN NEVER BE GOOD AT ANYTHING I CAN NEVER BE GOOD AT ANYTHING",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "leiri0040.straw.page",
+                "end": 23,
+                "expanded_url": "https://leiri0040.straw.page",
+                "start": 0,
+                "url": "https://t.co/O4OfKiMUIi"
+              }
+            ]
+          }
+        },
+        "id": "1613864465195503616",
+        "location": "ICAN NEVER BE GOOD AT ANYTHING",
+        "name": "I CAN NEVER BE GOOD AT ANYTHING",
+        "pinned_tweet_id": "1876769665994650039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890182964023369728/4tLevxVW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3937,
+          "following_count": 1372,
+          "like_count": 34258,
+          "listed_count": 67,
+          "media_count": 3934,
+          "tweet_count": 12742
+        },
+        "url": "https://t.co/O4OfKiMUIi",
+        "username": "filer0040",
+        "verified": false
+      }
+    ]
+  }
+}

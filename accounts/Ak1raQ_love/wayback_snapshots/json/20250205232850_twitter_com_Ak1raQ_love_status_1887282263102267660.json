@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1887197109004476630",
+    "created_at": "2025-02-05T23:28:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T00:28:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887282263102267660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1690570637499154432",
+          "start": 0,
+          "username": "saonanaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887282263102267660",
+    "in_reply_to_user_id": "1690570637499154432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887197109004476630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saonanaa 我发过两次梗图\n一次9000likes，一次1000likes\n可以说确实能体会到那种通知刷爆的虚荣心，但其实我知道那些like不是对我的而是对那张梗图的，所以感觉这样获得“我的关注度很高”是一种错觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1887197109004476630",
+        "created_at": "2025-02-05T23:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T00:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887282263102267660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1690570637499154432",
+              "start": 0,
+              "username": "saonanaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887282263102267660",
+        "in_reply_to_user_id": "1690570637499154432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887197109004476630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saonanaa 我发过两次梗图\n一次9000likes，一次1000likes\n可以说确实能体会到那种通知刷爆的虚荣心，但其实我知道那些like不是对我的而是对那张梗图的，所以感觉这样获得“我的关注度很高”是一种错觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690570637499154432",
+        "conversation_id": "1887197109004476630",
+        "created_at": "2025-02-05T17:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T18:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887197109004476630"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1887197109004476630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我敢说\n目前中推圈由至少50%的梗图构成\n发梗图？这确实能让观众哈哈大笑，引得不亦乐乎，又顺带收播流量。很多人都这么想，这样发梗号也就多，梗图自然也就泛滥。\n我认为，一个社区应该是多元的，我不喜欢此类劣币驱逐良币的情况，哪怕他确实是个极佳的流量密码。所以说，我不喜欢梗图bot，准确的说是不喜欢每个人都当上梗图bot来分一杯羹，I don’t like."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我敢说\n目前中推圈由至少50%的梗图构成\n发梗图？这确实能让观众哈哈大笑，引得不亦乐乎，又顺带收播流量。很多人都这么想，这样发梗号也就多，梗图自然也就泛滥。…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/🌏ZH,EN/🏳️‍⚧️/🌈 Diversity & Inclusivity/🕊️Love & Peace/😔Not good at chatting/🔄Interact to gain my follow-back/🤫Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "https://mikachan.us.kg/",
+                "start": 0,
+                "url": "https://t.co/yUfVtUE4yg"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵😺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1539,
+          "following_count": 925,
+          "like_count": 114051,
+          "listed_count": 4,
+          "media_count": 827,
+          "tweet_count": 4358
+        },
+        "url": "https://t.co/yUfVtUE4yg",
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "aàáâäǎãåāăąsher",
+        "id": "1690570637499154432",
+        "location": "叙利亚悍匪指挥中心",
+        "name": "Zhi Wei",
+        "pinned_tweet_id": "1887169211807732215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852229368443211776/tn6UFkHm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2122,
+          "following_count": 186,
+          "like_count": 10047,
+          "listed_count": 12,
+          "media_count": 585,
+          "tweet_count": 5540
+        },
+        "username": "saonanaa",
+        "verified": false
+      }
+    ]
+  }
+}

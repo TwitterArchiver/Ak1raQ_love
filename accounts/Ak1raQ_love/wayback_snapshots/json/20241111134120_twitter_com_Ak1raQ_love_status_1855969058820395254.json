@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1855969056085663744"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "1855969058820395254",
+    "created_at": "2024-11-11T13:41:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-11T14:41:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1855969058820395254"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 0,
+          "tag": "推友情況通報"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 67,
+          "id": "1816907110841802752",
+          "start": 56,
+          "username": "Ienvy19511"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yAjITd5xRd",
+          "end": 99,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/1855969058820395254/photo/1",
+          "media_key": "3_1855969056085663744",
+          "start": 76,
+          "url": "https://t.co/yAjITd5xRd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855969058820395254",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#推友情況通報\n🕒Time: 2024-11-11 21:03:56 CST\nAzure Ether🍀⚜️🦋🍄（@Ienvy19511）注销了账号😥。 https://t.co/yAjITd5xRd"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [Ienvy19511].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Ienvy19511",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Ienvy19511"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1855969056085663744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcG6Be4aYAAa_Bw.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1855969056085663744"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "1855969058820395254",
+        "created_at": "2024-11-11T13:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T14:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855969058820395254"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "推友情況通報"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 67,
+              "id": "1816907110841802752",
+              "start": 56,
+              "username": "Ienvy19511"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yAjITd5xRd",
+              "end": 99,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/1855969058820395254/photo/1",
+              "media_key": "3_1855969056085663744",
+              "start": 76,
+              "url": "https://t.co/yAjITd5xRd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855969058820395254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#推友情況通報\n🕒Time: 2024-11-11 21:03:56 CST\nAzure Ether🍀⚜️🦋🍄（@Ienvy19511）注销了账号😥。 https://t.co/yAjITd5xRd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "A sweet soul\n阿棄的性別就是阿棄\n喜欢可爱的事物\n在上高二，好累好痛苦😣\n精神状态时好时坏，所以你能看到两个不同的我\n喜欢和推友们在一起，有你们在就不会孤独\n全自动follower监视https://t.co/pMLFhL8CF1\n分身@mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 124,
+                "username": "mkc_Cute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg/fdap",
+                "end": 121,
+                "expanded_url": "https://mikachan.us.kg/fdap",
+                "start": 98,
+                "url": "https://t.co/pMLFhL8CF1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "http://mikachan.us.kg",
+                "start": 0,
+                "url": "https://t.co/lSEgpdslQn"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "是阿棄喵🥺♥️",
+        "pinned_tweet_id": "1850545437570470071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852745129033093120/bPab9bQm_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1157,
+          "following_count": 703,
+          "like_count": 86989,
+          "listed_count": 2,
+          "tweet_count": 3138
+        },
+        "url": "https://t.co/lSEgpdslQn",
+        "username": "Ak1raQ_love",
+        "verified": false
+      }
+    ]
+  }
+}

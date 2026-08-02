@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1855532469522493641",
+    "created_at": "2024-11-10T09:59:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-10T10:59:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855550719006556412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1553557029121576960",
+          "start": 0,
+          "username": "kuukichan0327"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855550719006556412",
+    "in_reply_to_user_id": "1553557029121576960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855532469522493641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuukichan0327 能互fo吗🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1855532469522493641",
+        "created_at": "2024-11-10T09:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T10:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855550719006556412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1553557029121576960",
+              "start": 0,
+              "username": "kuukichan0327"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855550719006556412",
+        "in_reply_to_user_id": "1553557029121576960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855532469522493641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukichan0327 能互fo吗🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1855529806978588672"
+          ]
+        },
+        "author_id": "1553557029121576960",
+        "conversation_id": "1855532469522493641",
+        "created_at": "2024-11-10T08:46:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T09:46:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855532469522493641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p09Uv901QV",
+              "end": 54,
+              "expanded_url": "https://x.com/kuukichan0327/status/1855532469522493641/photo/1",
+              "media_key": "3_1855529806978588672",
+              "start": 31,
+              "url": "https://t.co/p09Uv901QV"
+            },
+            {
+              "display_url": "x.com/kuukichan0327/…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/kuukichan0327/status/1855308984498147775",
+              "start": 55,
+              "url": "https://t.co/smZZr3YzYZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855532469522493641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 454,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855308984498147775",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "才不到一天就100了\n我好像不小心掌握了流量密码\n感谢推有焖 https://t.co/p09Uv901QV https://t.co/smZZr3YzYZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "A sweet soul\n阿棄的性別就是阿棄\n喜欢可爱的事物\n在上高二，好累好痛苦😣\n精神状态时好时坏，所以你能看到两个不同的我\n喜欢和推友们在一起，有你们在就不会孤独\n分身@mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 87,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "http://mikachan.us.kg",
+                "start": 0,
+                "url": "https://t.co/lSEgpdslQn"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "是阿棄喵🥺♥️",
+        "pinned_tweet_id": "1850545437570470071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852745129033093120/bPab9bQm_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1147,
+          "following_count": 701,
+          "like_count": 86694,
+          "listed_count": 2,
+          "tweet_count": 3131
+        },
+        "url": "https://t.co/lSEgpdslQn",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-31T01:44:21.000Z",
+        "description": "09 | INPF | mtf | 日文N2 | 在香港学音乐制作 会作编曲 | 算是半个交通迷 | 喜欢Vocaloid和井盖 | 欢迎推友们来玩猜猜我是哪里人",
+        "id": "1553557029121576960",
+        "name": "空気醬🏳‍⚧🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853497382199304193/raQjHJtL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 132,
+          "like_count": 744,
+          "listed_count": 0,
+          "tweet_count": 187
+        },
+        "username": "kuukichan0327",
+        "verified": false
+      }
+    ]
+  }
+}

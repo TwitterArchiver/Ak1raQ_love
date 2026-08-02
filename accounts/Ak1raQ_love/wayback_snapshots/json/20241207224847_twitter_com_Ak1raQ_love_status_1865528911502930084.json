@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1865483004329529628",
+    "created_at": "2024-12-07T22:48:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-07T23:48:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865528911502930084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1766858890636120064",
+          "start": 0,
+          "username": "Nuominiang75884"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865528911502930084",
+    "in_reply_to_user_id": "1766858890636120064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865483004329529628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nuominiang75884 在内圈好诶贴贴🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1865483004329529628",
+        "created_at": "2024-12-07T22:48:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T23:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865528911502930084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1766858890636120064",
+              "start": 0,
+              "username": "Nuominiang75884"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865528911502930084",
+        "in_reply_to_user_id": "1766858890636120064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865483004329529628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nuominiang75884 在内圈好诶贴贴🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865482999782948864"
+          ]
+        },
+        "author_id": "1766858890636120064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1865483004329529628",
+        "created_at": "2024-12-07T19:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T20:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865483004329529628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinityweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/GN5sNnjylQ"
+            },
+            {
+              "display_url": "pic.x.com/Ri5YVtn8YW",
+              "end": 64,
+              "expanded_url": "https://x.com/Nuominiang75884/status/1865483004329529628/photo/1",
+              "media_key": "3_1865482999782948864",
+              "start": 41,
+              "url": "https://t.co/Ri5YVtn8YW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865483004329529628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/GN5sNnjylQ https://t.co/Ri5YVtn8YW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "A sweet soul🥺♥️\nAkiraQ's gender is just itself\n可愛即正義！\nSocial media overdoser;\nMutual-Followist\n精神狀態時好時壞，所以你能看到不同的我\n喜歡和你們在一起，就不會孤單了呢\n!注意，互fo≠同意对方立场!\n分身@mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 150,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "https://mikachan.us.kg/",
+                "start": 0,
+                "url": "https://t.co/yUfVtUE4yg"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵 𝓐𝓴𝓲𝓻𝓪𝓠",
+        "pinned_tweet_id": "1862810670238154974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852745129033093120/bPab9bQm_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1236,
+          "following_count": 764,
+          "like_count": 93813,
+          "listed_count": 3,
+          "media_count": 642,
+          "tweet_count": 3358
+        },
+        "url": "https://t.co/yUfVtUE4yg",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "🏳️‍⚧️/INFP-T /道教徒/摄影/ADHD/妈妈🏳️‍⚧️❤️@shensheng657867❤️/一生的亲人❤️@Kietter387803/妹妹&姐姐@Aether19511\n/最最最喜欢的姐姐@_sharkee1024\n/好闺蜜@Im_Grapefruit27",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 35,
+                "username": "shensheng657867"
+              },
+              {
+                "end": 75,
+                "start": 61,
+                "username": "Kietter387803"
+              },
+              {
+                "end": 93,
+                "start": 81,
+                "username": "Aether19511"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "_sharkee1024"
+              },
+              {
+                "end": 137,
+                "start": 121,
+                "username": "Im_Grapefruit27"
+              }
+            ]
+          }
+        },
+        "id": "1766858890636120064",
+        "location": "美国 洛杉矶 Echo Park Ave大街2236号",
+        "name": "糯米娘QwQ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1849735047584100397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822939028444098560/Rl5lFpxL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2498,
+          "following_count": 604,
+          "like_count": 8752,
+          "listed_count": 3,
+          "media_count": 154,
+          "tweet_count": 1509
+        },
+        "username": "Nuominiang75884",
+        "verified": false
+      }
+    ]
+  }
+}

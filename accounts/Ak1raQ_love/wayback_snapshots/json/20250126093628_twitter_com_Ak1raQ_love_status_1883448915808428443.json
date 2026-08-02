@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1883448915808428443",
+    "created_at": "2025-01-26T09:36:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T10:36:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1883448915808428443"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ak1raQ_love/st…",
+          "end": 79,
+          "expanded_url": "https://twitter.com/Ak1raQ_love/status/1883448516124778779",
+          "start": 56,
+          "url": "https://t.co/Sfdjv8PJcP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883448915808428443",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883448516124778779",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "而且如果要把账号给别人的就不用给密码了，直接发一个delegate invention就能上，还能保证账号安全 https://t.co/Sfdjv8PJcP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1883448915808428443",
+        "created_at": "2025-01-26T09:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T10:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883448915808428443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ak1raQ_love/st…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/Ak1raQ_love/status/1883448516124778779",
+              "start": 56,
+              "url": "https://t.co/Sfdjv8PJcP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883448915808428443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883448516124778779",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "而且如果要把账号给别人的就不用给密码了，直接发一个delegate invention就能上，还能保证账号安全 https://t.co/Sfdjv8PJcP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883448086351290368",
+            "3_1883448314810806272"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "1883448516124778779",
+        "created_at": "2025-01-26T09:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T10:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883448516124778779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hAUuzvLZLX",
+              "end": 73,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/1883448516124778779/photo/1",
+              "media_key": "3_1883448086351290368",
+              "start": 50,
+              "url": "https://t.co/hAUuzvLZLX"
+            },
+            {
+              "display_url": "pic.x.com/hAUuzvLZLX",
+              "end": 73,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/1883448516124778779/photo/1",
+              "media_key": "3_1883448314810806272",
+              "start": 50,
+              "url": "https://t.co/hAUuzvLZLX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883448516124778779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推友们我发现一个很实用的功能：delegate\n这个功能可以让你登上一个大号就同时登上你的所有小号 https://t.co/hAUuzvLZLX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/🏳️‍⚧️Non-Cisgender/🌈 Diversity & Inclusivity/🕊️Peace & Love/⚠️Following≠Agreeing/😔Sorry, I'm not good at chatting/Private: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 141,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "https://mikachan.us.kg/",
+                "start": 0,
+                "url": "https://t.co/yUfVtUE4yg"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄𝕄𝕖𝕠𝕨 #LunarNewYear🧧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1394,
+          "following_count": 847,
+          "like_count": 107182,
+          "listed_count": 3,
+          "media_count": 750,
+          "tweet_count": 3928
+        },
+        "url": "https://t.co/yUfVtUE4yg",
+        "username": "Ak1raQ_love",
+        "verified": false
+      }
+    ]
+  }
+}
