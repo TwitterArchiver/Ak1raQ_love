@@ -1,7 +1,7 @@
 {
   "name": "🩷Akiramenai💫",
   "username": "@Ak1raQ_love",
-  "bio": "弃羽酱💫/🩵🩷🤍🩷🩵/不是mtf/hrt 26.7.31/向往自由/欢迎推u面基/#蓝v互关/原创meme/顺直女 @zhwevea/日常 @Akirameru_QAQ",
+  "bio": "弃羽酱💫/🩵🩷🤍🩷🩵/不是mtf/hrt 26.7.31/向往自由/#推友情況通報/#蓝v互关/原创meme/顺直女 @zhwevea/日常 @Akirameru_QAQ",
   "location": " 苏州/厦门",
   "link": "https://mihari.cyou/",
   "avatar": "avatar/avatar.jpg",
@@ -10,20 +10,25 @@
   "bio_entities": {
     "hashtags": [
       {
-        "end": 46,
-        "start": 41,
+        "end": 41,
+        "start": 34,
+        "tag": "推友情況通報"
+      },
+      {
+        "end": 47,
+        "start": 42,
         "tag": "蓝v互关"
       }
     ],
     "mentions": [
       {
-        "end": 66,
-        "start": 58,
+        "end": 67,
+        "start": 59,
         "username": "zhwevea"
       },
       {
-        "end": 84,
-        "start": 70,
+        "end": 85,
+        "start": 71,
         "username": "Akirameru_QAQ"
       }
     ]
