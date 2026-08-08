@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084977461645942784"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2084977464716238924",
+    "created_at": "2026-08-05T12:18:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T13:18:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084977464716238924"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 0,
+          "tag": "推友情況通報"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zlv0fWSsDp",
+          "end": 68,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2084977464716238924/photo/1",
+          "media_key": "3_2084977461645942784",
+          "start": 45,
+          "url": "https://t.co/zlv0fWSsDp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084977464716238924",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#推友情況通報 账号被冻结\n格蕾格蕾修？/夏目安安安～☆🍥🏳️‍⚧️\nGriseoQAQ https://t.co/zlv0fWSsDp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2155,
+        "media_key": "3_2084977461645942784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO9T9GYaIAA0JVH.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084977461645942784"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2084977464716238924",
+        "created_at": "2026-08-05T12:18:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T13:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084977464716238924"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "推友情況通報"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zlv0fWSsDp",
+              "end": 68,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2084977464716238924/photo/1",
+              "media_key": "3_2084977461645942784",
+              "start": 45,
+              "url": "https://t.co/zlv0fWSsDp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084977464716238924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#推友情況通報 账号被冻结\n格蕾格蕾修？/夏目安安安～☆🍥🏳️‍⚧️\nGriseoQAQ https://t.co/zlv0fWSsDp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/不是mtf/hrt 26.7.31/向往自由/欢迎推u面基/#蓝v互关/原创meme/顺直女 @zhwevea/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 46,
+                "start": 41,
+                "tag": "蓝v互关"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "zhwevea"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh3PSn"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": " 苏州/厦门",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8868,
+          "following_count": 1223,
+          "like_count": 209435,
+          "listed_count": 6,
+          "media_count": 1094,
+          "tweet_count": 8475
+        },
+        "url": "https://t.co/ENDNzh3PSn",
+        "username": "Ak1raQ_love",
+        "verified": true
+      }
+    ]
+  }
+}

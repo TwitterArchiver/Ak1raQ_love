@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085258892255399936"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2085259350659289434",
+    "created_at": "2026-08-06T06:59:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T07:57:17.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085258895166247015",
+      "2085259350659289434"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ycHaRf3po9",
+          "end": 75,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2085259350659289434/photo/1",
+          "media_key": "3_2085258892255399936",
+          "start": 52,
+          "url": "https://t.co/ycHaRf3po9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085259350659289434",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Codex真好用，借助它两小时干了之前几天干不成的东西\n图为给Autonitor加上可视化Sync界面 https://t.co/ycHaRf3po9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085258892255399936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPBT6hGbkAAkvXt.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085258892255399936"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2085258895166247015",
+        "created_at": "2026-08-06T06:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T07:57:17.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085258895166247015",
+          "2085259350659289434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SB2dDazMTb",
+              "end": 51,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2085258895166247015/photo/1",
+              "media_key": "3_2085258892255399936",
+              "start": 28,
+              "url": "https://t.co/SB2dDazMTb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085258895166247015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Codex真好用，借助它两小时干了之前几天干不成的东西 https://t.co/SB2dDazMTb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085258892255399936"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2085259350659289434",
+        "created_at": "2026-08-06T06:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T07:57:17.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085258895166247015",
+          "2085259350659289434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ycHaRf3po9",
+              "end": 75,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2085259350659289434/photo/1",
+              "media_key": "3_2085258892255399936",
+              "start": 52,
+              "url": "https://t.co/ycHaRf3po9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085259350659289434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Codex真好用，借助它两小时干了之前几天干不成的东西\n图为给Autonitor加上可视化Sync界面 https://t.co/ycHaRf3po9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/不是mtf/hrt 26.7.31/向往自由/#推友情況通報/#蓝v互关/原创meme/顺直女 @zhwevea/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "推友情況通報"
+              },
+              {
+                "end": 47,
+                "start": 42,
+                "tag": "蓝v互关"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 67,
+                "start": 59,
+                "username": "zhwevea"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh3PSn"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": " 苏州/厦门",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8861,
+          "following_count": 1228,
+          "like_count": 209957,
+          "listed_count": 6,
+          "media_count": 1100,
+          "tweet_count": 8495
+        },
+        "url": "https://t.co/ENDNzh3PSn",
+        "username": "Ak1raQ_love",
+        "verified": true
+      }
+    ]
+  }
+}

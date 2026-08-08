@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085213293640290304"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2085213296236634424",
+    "created_at": "2026-08-06T03:56:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T04:56:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085213296236634424"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PH3NjYgnfa",
+          "end": 37,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2085213296236634424/photo/1",
+          "media_key": "3_2085213293640290304",
+          "start": 14,
+          "url": "https://t.co/PH3NjYgnfa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085213296236634424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我也可以给社群附注投票了（ https://t.co/PH3NjYgnfa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085213293640290304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPAqcVBaEAA0bI5.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085213293640290304"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2085213296236634424",
+        "created_at": "2026-08-06T03:56:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T04:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085213296236634424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PH3NjYgnfa",
+              "end": 37,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2085213296236634424/photo/1",
+              "media_key": "3_2085213293640290304",
+              "start": 14,
+              "url": "https://t.co/PH3NjYgnfa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085213296236634424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也可以给社群附注投票了（ https://t.co/PH3NjYgnfa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/不是mtf/hrt 26.7.31/向往自由/#推友情況通報/#蓝v互关/原创meme/顺直女 @zhwevea/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "推友情況通報"
+              },
+              {
+                "end": 47,
+                "start": 42,
+                "tag": "蓝v互关"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 67,
+                "start": 59,
+                "username": "zhwevea"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh3PSn"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": " 苏州/厦门",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8864,
+          "following_count": 1228,
+          "like_count": 209878,
+          "listed_count": 6,
+          "media_count": 1097,
+          "tweet_count": 8488
+        },
+        "url": "https://t.co/ENDNzh3PSn",
+        "username": "Ak1raQ_love",
+        "verified": true
+      }
+    ]
+  }
+}

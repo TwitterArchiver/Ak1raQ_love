@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2085354046110748754",
+    "created_at": "2026-08-06T13:15:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T14:15:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085354046110748754"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ye_and_yae/sta…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/ye_and_yae/status/2085273348322607133",
+          "start": 20,
+          "url": "https://t.co/FNMeLNeZ15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085354046110748754",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085273348322607133",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在这个自杀敏感的社群开这种玩笑就是冒犯 https://t.co/FNMeLNeZ15"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2085354046110748754",
+        "created_at": "2026-08-06T13:15:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T14:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085354046110748754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ye_and_yae/sta…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/ye_and_yae/status/2085273348322607133",
+              "start": 20,
+              "url": "https://t.co/FNMeLNeZ15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085354046110748754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085273348322607133",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在这个自杀敏感的社群开这种玩笑就是冒犯 https://t.co/FNMeLNeZ15"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813768883540725760",
+        "conversation_id": "2085273348322607133",
+        "created_at": "2026-08-06T07:54:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T08:54:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085273348322607133"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085273348322607133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 647,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "说自己o了很多去世然后账号由新号主继承但是新号主是本人的这类帖子，真的很让人伤心，我觉得这不是一个有意思的玩笑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/不是mtf/hrt 26.7.31/向往自由/#推友情況通報/#蓝v互关/原创meme/顺直女 @zhwevea/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "推友情況通報"
+              },
+              {
+                "end": 47,
+                "start": 42,
+                "tag": "蓝v互关"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 67,
+                "start": 59,
+                "username": "zhwevea"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh3PSn"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": " 苏州/厦门",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8857,
+          "following_count": 1229,
+          "like_count": 210150,
+          "listed_count": 6,
+          "media_count": 1103,
+          "tweet_count": 8506
+        },
+        "url": "https://t.co/ENDNzh3PSn",
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-18T02:54:44.000Z",
+        "description": "我是爱晔哦 \n09/01/26 炸柜26/06/09 有时含糖 喜欢航天 二次元 技术至上主义 喜欢画画 学日语\n最最最好的朋友@guoxiufeng5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 64,
+                "username": "guoxiufeng5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/VckYvvu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/VckYvvu",
+                "start": 0,
+                "url": "https://t.co/hiPltpfKRo"
+              }
+            ]
+          }
+        },
+        "id": "1813768883540725760",
+        "location": "距你11.4km",
+        "name": "🍥爱晔🚀",
+        "pinned_tweet_id": "2082073672802767121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079860342965067776/HglcXlhL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1329,
+          "following_count": 1179,
+          "like_count": 9620,
+          "listed_count": 4,
+          "media_count": 445,
+          "tweet_count": 4351
+        },
+        "url": "https://t.co/hiPltpfKRo",
+        "username": "ye_and_yae",
+        "verified": false
+      }
+    ]
+  }
+}

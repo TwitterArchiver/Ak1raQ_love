@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2084242782215135443",
+    "created_at": "2026-08-04T04:23:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T05:23:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084495536619667628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1608817124704923648",
+          "start": 0,
+          "username": "Hyperbubuemia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084495536619667628",
+    "in_reply_to_user_id": "1608817124704923648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084491057845412169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hyperbubuemia 有些是之前有计划好了的，有些是看到我贴贴图来找我的（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2084242782215135443",
+        "created_at": "2026-08-04T04:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T05:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084495536619667628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1608817124704923648",
+              "start": 0,
+              "username": "Hyperbubuemia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084495536619667628",
+        "in_reply_to_user_id": "1608817124704923648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084491057845412169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hyperbubuemia 有些是之前有计划好了的，有些是看到我贴贴图来找我的（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608817124704923648",
+        "conversation_id": "2084242782215135443",
+        "created_at": "2026-08-04T04:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T05:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084491057845412169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            },
+            {
+              "end": 25,
+              "id": "1806849464386416640",
+              "start": 13,
+              "username": "tangeorange"
+            },
+            {
+              "end": 35,
+              "id": "1884536290005368832",
+              "start": 26,
+              "username": "FGfr_218"
+            },
+            {
+              "end": 48,
+              "id": "1934603085994950657",
+              "start": 36,
+              "username": "tenchsulive"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084491057845412169",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084242782215135443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak1raQ_love @tangeorange @FGfr_218 @tenchsulive 你怎么做到一直能找到这么多人的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/不是mtf/hrt 26.7.31/向往自由/欢迎推u面基/#蓝v互关/原创meme/顺直女 @zhwevea/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 46,
+                "start": 41,
+                "tag": "蓝v互关"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "zhwevea"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh3PSn"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": " 苏州/厦门",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8881,
+          "following_count": 1213,
+          "like_count": 208616,
+          "listed_count": 6,
+          "media_count": 1085,
+          "tweet_count": 8425
+        },
+        "url": "https://t.co/ENDNzh3PSn",
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-30T13:28:18.000Z",
+        "description": "🐹🤍🏳️‍⚧️🍥",
+        "id": "1608817124704923648",
+        "location": "Hamilton 厦门",
+        "name": "布",
+        "pinned_tweet_id": "1753991720667083028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070640516044148736/NyR_id8i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1059,
+          "following_count": 836,
+          "like_count": 12993,
+          "listed_count": 3,
+          "media_count": 404,
+          "tweet_count": 7295
+        },
+        "url": "",
+        "username": "Hyperbubuemia",
+        "verified": false
+      }
+    ]
+  }
+}

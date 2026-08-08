@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083806087682420737"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2083803893281255578",
+    "created_at": "2026-08-02T06:44:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T07:44:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083806090152882384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1573704119516176384",
+          "start": 0,
+          "username": "SnozakiSakura"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OaHKfUjfpa",
+          "end": 63,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2083806090152882384/photo/1",
+          "media_key": "3_2083806087682420737",
+          "start": 40,
+          "url": "https://t.co/OaHKfUjfpa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083806090152882384",
+    "in_reply_to_user_id": "1573704119516176384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083803893281255578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SnozakiSakura 学生认证，一分钱不花就能搞到，不知道现在还行不行 https://t.co/OaHKfUjfpa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083806087682420737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOsqmKUbcAEx6sz.jpg",
+        "width": 931
+      },
+      {
+        "height": 1396,
+        "media_key": "3_2083803886931099648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOsomD4bQAA02er.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1682,
+        "media_key": "3_2083803886893387776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOsomDvb0AAVJpv.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083806087682420737"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2083803893281255578",
+        "created_at": "2026-08-02T06:44:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T07:44:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083806090152882384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1573704119516176384",
+              "start": 0,
+              "username": "SnozakiSakura"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OaHKfUjfpa",
+              "end": 63,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2083806090152882384/photo/1",
+              "media_key": "3_2083806087682420737",
+              "start": 40,
+              "url": "https://t.co/OaHKfUjfpa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083806090152882384",
+        "in_reply_to_user_id": "1573704119516176384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083803893281255578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnozakiSakura 学生认证，一分钱不花就能搞到，不知道现在还行不行 https://t.co/OaHKfUjfpa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083803886931099648",
+            "3_2083803886893387776"
+          ]
+        },
+        "author_id": "1573704119516176384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083803893281255578",
+        "created_at": "2026-08-02T06:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T07:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083803893281255578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rSoYW2nRTT",
+              "end": 69,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2083803893281255578/photo/1",
+              "media_key": "3_2083803886931099648",
+              "start": 46,
+              "url": "https://t.co/rSoYW2nRTT"
+            },
+            {
+              "display_url": "pic.x.com/rSoYW2nRTT",
+              "end": 69,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2083803893281255578/photo/1",
+              "media_key": "3_2083803886893387776",
+              "start": 46,
+              "url": "https://t.co/rSoYW2nRTT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083803893281255578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无人在意的角落，有人说说gemini的能力怎么样吗？\n\n闲鱼上那么便宜的会员，是什么渠道啊 https://t.co/rSoYW2nRTT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/不是mtf/hrt 26.7.31/向往自由/欢迎推u面基/#蓝v互关/原创meme/顺直女 @zhwevea/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 46,
+                "start": 41,
+                "tag": "蓝v互关"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "zhwevea"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh3PSn"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": " 苏州/厦门",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8909,
+          "following_count": 1207,
+          "like_count": 207974,
+          "listed_count": 6,
+          "media_count": 1077,
+          "tweet_count": 8394
+        },
+        "url": "https://t.co/ENDNzh3PSn",
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-24T16:01:21.000Z",
+        "description": "私は地雷系女の子です～🌸 | She/Her | 分享段子和有趣的故事 ｜好看的自拍照都在“亮点”里🍧｜Living today with the hope that tomorrow will be a little better🩷💙",
+        "id": "1573704119516176384",
+        "location": "魔女岛",
+        "name": "草莓泡芙🍀",
+        "pinned_tweet_id": "2076297327455981834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070709599590920192/O5wJU2Nl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96776,
+          "following_count": 2346,
+          "like_count": 7543,
+          "listed_count": 202,
+          "media_count": 578,
+          "tweet_count": 3984
+        },
+        "url": "",
+        "username": "SnozakiSakura",
+        "verified": true
+      }
+    ]
+  }
+}

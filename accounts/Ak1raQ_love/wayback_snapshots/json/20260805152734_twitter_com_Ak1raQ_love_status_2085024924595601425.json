@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2084998997358367161",
+    "created_at": "2026-08-05T15:27:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T16:27:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085024924595601425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1647229461769891842",
+          "start": 0,
+          "username": "DrilL019"
+        },
+        {
+          "end": 24,
+          "id": "1749597659902713856",
+          "start": 10,
+          "username": "bytelee_trade"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085024924595601425",
+    "in_reply_to_user_id": "1647229461769891842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085015767561687384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DrilL019 @bytelee_trade 就是蓝v互关导致的社交圈内有人关注"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2084998997358367161",
+        "created_at": "2026-08-05T15:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T16:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085024924595601425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1647229461769891842",
+              "start": 0,
+              "username": "DrilL019"
+            },
+            {
+              "end": 24,
+              "id": "1749597659902713856",
+              "start": 10,
+              "username": "bytelee_trade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085024924595601425",
+        "in_reply_to_user_id": "1647229461769891842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085015767561687384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrilL019 @bytelee_trade 就是蓝v互关导致的社交圈内有人关注"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647229461769891842",
+        "conversation_id": "2084998997358367161",
+        "created_at": "2026-08-05T14:51:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T15:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085015767561687384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1749597659902713856",
+              "start": 0,
+              "username": "bytelee_trade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085015767561687384",
+        "in_reply_to_user_id": "1749597659902713856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085003060791902477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bytelee_trade 社交圈回复都防不住你的话就请你服从送客"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/不是mtf/hrt 26.7.31/向往自由/#推友情況通報/#蓝v互关/原创meme/顺直女 @zhwevea/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "推友情況通報"
+              },
+              {
+                "end": 47,
+                "start": 42,
+                "tag": "蓝v互关"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 67,
+                "start": 59,
+                "username": "zhwevea"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh3PSn"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": " 苏州/厦门",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8862,
+          "following_count": 1227,
+          "like_count": 209605,
+          "listed_count": 6,
+          "media_count": 1095,
+          "tweet_count": 8482
+        },
+        "url": "https://t.co/ENDNzh3PSn",
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-15T13:25:23.000Z",
+        "description": "小号@Noakatsuki1314\n爱人@qiyuncwno",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "Noakatsuki1314"
+              },
+              {
+                "end": 30,
+                "start": 20,
+                "username": "qiyuncwno"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/drill019",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/drill019",
+                "start": 0,
+                "url": "https://t.co/2G0EsDCv8q"
+              }
+            ]
+          }
+        },
+        "id": "1647229461769891842",
+        "location": "请给我钱🥺⬇️",
+        "name": "DrilL019",
+        "pinned_tweet_id": "2073444820048392561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011804418208063488/uOZ4kFzh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 1427,
+          "like_count": 25353,
+          "listed_count": 1,
+          "media_count": 1090,
+          "tweet_count": 7161
+        },
+        "url": "https://t.co/2G0EsDCv8q",
+        "username": "DrilL019",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-23T00:59:28.000Z",
+        "description": "AI frontier, tools I test, and where I put capital — direction, logic & risk, not calls. Signal over noise. Personal view, not financial advice.",
+        "id": "1749597659902713856",
+        "name": "ByteLee · AI Investing",
+        "pinned_tweet_id": "2082958640252899351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067425510221889536/koDGQGTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2464,
+          "following_count": 5975,
+          "like_count": 801,
+          "listed_count": 3,
+          "media_count": 88,
+          "tweet_count": 4779
+        },
+        "url": "",
+        "username": "bytelee_trade",
+        "verified": true
+      }
+    ]
+  }
+}

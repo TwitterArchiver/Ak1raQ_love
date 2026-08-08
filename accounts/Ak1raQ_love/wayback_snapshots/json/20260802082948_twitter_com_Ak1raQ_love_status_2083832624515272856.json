@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2083832624515272856",
+    "created_at": "2026-08-02T08:29:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T09:29:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083832624515272856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1739391734491086848",
+          "start": 3,
+          "username": "IXXA00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083832624515272856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083711520517820768",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IXXA00: 正确的，只要把性别轴线首尾封闭起来，你甚至可以在上面打舞萌。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2083832624515272856",
+        "created_at": "2026-08-02T08:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T09:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083832624515272856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1739391734491086848",
+              "start": 3,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083832624515272856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083711520517820768",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IXXA00: 正确的，只要把性别轴线首尾封闭起来，你甚至可以在上面打舞萌。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2083711520517820768",
+        "created_at": "2026-08-02T00:28:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T01:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083711520517820768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2083647905731105114",
+              "start": 31,
+              "url": "https://t.co/Jxvi9jziHb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083711520517820768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2058,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083647905731105114",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "正确的，只要把性别轴线首尾封闭起来，你甚至可以在上面打舞萌。 https://t.co/Jxvi9jziHb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/不是mtf/hrt 26.7.31/向往自由/欢迎推u面基/#蓝v互关/原创meme/顺直女 @zhwevea/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 46,
+                "start": 41,
+                "tag": "蓝v互关"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "zhwevea"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh3PSn"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": " 苏州/厦门",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8910,
+          "following_count": 1206,
+          "like_count": 207993,
+          "listed_count": 6,
+          "media_count": 1077,
+          "tweet_count": 8395
+        },
+        "url": "https://t.co/ENDNzh3PSn",
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "小学4年级/心里有人。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2082283531112415687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083109036665532416/nwU6ndS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7527,
+          "following_count": 4530,
+          "like_count": 43716,
+          "listed_count": 17,
+          "media_count": 3213,
+          "tweet_count": 43315
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      }
+    ]
+  }
+}

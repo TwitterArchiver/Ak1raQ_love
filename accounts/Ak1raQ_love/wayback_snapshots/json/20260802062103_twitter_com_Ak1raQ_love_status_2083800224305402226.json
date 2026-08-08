@@ -1,0 +1,129 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2083800224305402226",
+    "created_at": "2026-08-02T06:21:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T07:21:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083800224305402226"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083800224305402226",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁还记得五月份的时候说要用XChat替代社群的消息，结果后来呢，后来也没有下线社群功能，那个XChat的替代我看也差不多烂尾了\n现在X可能自己都忘记他们把因为准备下线把新建社群功能关掉了，所以直到现在你都没办法新创建社群，然后也没有下线，然后XChat该咋样还是咋样的一个莫名其妙的状态"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2083800224305402226",
+        "created_at": "2026-08-02T06:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T07:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083800224305402226"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083800224305402226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁还记得五月份的时候说要用XChat替代社群的消息，结果后来呢，后来也没有下线社群功能，那个XChat的替代我看也差不多烂尾了\n现在X可能自己都忘记他们把因为准备下线把新建社群功能关掉了，所以直到现在你都没办法新创建社群，然后也没有下线，然后XChat该咋样还是咋样的一个莫名其妙的状态"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/不是mtf/hrt 26.7.31/向往自由/欢迎推u面基/#蓝v互关/原创meme/顺直女 @zhwevea/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 46,
+                "start": 41,
+                "tag": "蓝v互关"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "zhwevea"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh3PSn"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": " 苏州/厦门",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8909,
+          "following_count": 1207,
+          "like_count": 207942,
+          "listed_count": 6,
+          "media_count": 1076,
+          "tweet_count": 8393
+        },
+        "url": "https://t.co/ENDNzh3PSn",
+        "username": "Ak1raQ_love",
+        "verified": true
+      }
+    ]
+  }
+}

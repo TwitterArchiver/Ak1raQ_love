@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084935272815640577"
+      ],
+      "media_source_tweet_id": [
+        "2084936196925649046"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2084940391288393814",
+    "created_at": "2026-08-05T09:51:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T10:51:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084940391288393814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1663066129923981312",
+          "start": 3,
+          "username": "Ak1raQ_love"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PwdscyPmdN",
+          "end": 47,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2084936196925649046/photo/1",
+          "media_key": "3_2084935272815640577",
+          "start": 24,
+          "url": "https://t.co/PwdscyPmdN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084940391288393814",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084936196925649046",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ak1raQ_love: 杂鱼杂鱼 ~ https://t.co/PwdscyPmdN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1485,
+        "media_key": "3_2084935272815640577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO8tlYvbwAEkzme.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084935272815640577"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2084936196925649046",
+        "created_at": "2026-08-05T09:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T10:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084936196925649046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PwdscyPmdN",
+              "end": 30,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2084936196925649046/photo/1",
+              "media_key": "3_2084935272815640577",
+              "start": 7,
+              "url": "https://t.co/PwdscyPmdN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084936196925649046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "杂鱼杂鱼 ~ https://t.co/PwdscyPmdN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084935272815640577"
+          ],
+          "media_source_tweet_id": [
+            "2084936196925649046"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2084940391288393814",
+        "created_at": "2026-08-05T09:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T10:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084940391288393814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1663066129923981312",
+              "start": 3,
+              "username": "Ak1raQ_love"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PwdscyPmdN",
+              "end": 47,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2084936196925649046/photo/1",
+              "media_key": "3_2084935272815640577",
+              "start": 24,
+              "url": "https://t.co/PwdscyPmdN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084940391288393814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084936196925649046",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ak1raQ_love: 杂鱼杂鱼 ~ https://t.co/PwdscyPmdN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/不是mtf/hrt 26.7.31/向往自由/欢迎推u面基/#蓝v互关/原创meme/顺直女 @zhwevea/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 46,
+                "start": 41,
+                "tag": "蓝v互关"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "zhwevea"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh3PSn"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": " 苏州/厦门",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8872,
+          "following_count": 1221,
+          "like_count": 209335,
+          "listed_count": 6,
+          "media_count": 1093,
+          "tweet_count": 8470
+        },
+        "url": "https://t.co/ENDNzh3PSn",
+        "username": "Ak1raQ_love",
+        "verified": true
+      }
+    ]
+  }
+}

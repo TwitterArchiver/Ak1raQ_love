@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2085024128952881370",
+    "created_at": "2026-08-05T15:24:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T16:24:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085024128952881370"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zs1341110279/s…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/zs1341110279/status/2084942859703382067",
+          "start": 38,
+          "url": "https://t.co/G2eRe2pIuL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085024128952881370",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084942859703382067",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "什么叫双相的精力，这就等同于在说「你怎么不把感冒和发烧的精力用在学习上！」 https://t.co/G2eRe2pIuL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 296,
+        "media_key": "3_2084942854150123520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO80erabcAA0YJC.jpg",
+        "width": 760
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2085024128952881370",
+        "created_at": "2026-08-05T15:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T16:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085024128952881370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zs1341110279/s…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/zs1341110279/status/2084942859703382067",
+              "start": 38,
+              "url": "https://t.co/G2eRe2pIuL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085024128952881370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084942859703382067",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什么叫双相的精力，这就等同于在说「你怎么不把感冒和发烧的精力用在学习上！」 https://t.co/G2eRe2pIuL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084942854150123520"
+          ]
+        },
+        "author_id": "1899289095794479104",
+        "conversation_id": "2084942859703382067",
+        "created_at": "2026-08-05T10:01:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T11:01:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084942859703382067"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 79,
+              "start": 75,
+              "tag": "mtf"
+            },
+            {
+              "end": 84,
+              "start": 80,
+              "tag": "xyn"
+            },
+            {
+              "end": 89,
+              "start": 85,
+              "tag": "跨性别"
+            },
+            {
+              "end": 94,
+              "start": 90,
+              "tag": "小药娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OqJVgOK6YH",
+              "end": 118,
+              "expanded_url": "https://x.com/zs1341110279/status/2084942859703382067/photo/1",
+              "media_key": "3_2084942854150123520",
+              "start": 95,
+              "url": "https://t.co/OqJVgOK6YH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084942859703382067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 893,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我和我妈打电话给她看我的诊断书：\n你要是把你双相和跨性别的精力用在学习上多好啊！\n还有就是，我病历有一句有写我有mtf对象，我妈转移话题能力挺强的（\n#mtf #xyn #跨性别 #小药娘 https://t.co/OqJVgOK6YH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/不是mtf/hrt 26.7.31/向往自由/#推友情況通報/#蓝v互关/原创meme/顺直女 @zhwevea/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "推友情況通報"
+              },
+              {
+                "end": 47,
+                "start": 42,
+                "tag": "蓝v互关"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 67,
+                "start": 59,
+                "username": "zhwevea"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh3PSn"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": " 苏州/厦门",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8862,
+          "following_count": 1227,
+          "like_count": 209597,
+          "listed_count": 6,
+          "media_count": 1095,
+          "tweet_count": 8481
+        },
+        "url": "https://t.co/ENDNzh3PSn",
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-11T02:39:52.000Z",
+        "description": "含糖了！妹妹头xyn 2010/5/21 性别是（女孩子）（友跨友彩虹友顺直友一切不要对我说不好的话就可以），是一只芝士，平常会分享日常什么的。无雷无门槛聊得来就加。是mtf🍥 最爱的老婆：@feng_2955",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 95,
+                "username": "feng_2955"
+              }
+            ]
+          }
+        },
+        "id": "1899289095794479104",
+        "name": "ZS🧀cheese🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2084015448820257149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899687029455417344/I_R2yYvi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 142,
+          "like_count": 159,
+          "listed_count": 2,
+          "media_count": 184,
+          "tweet_count": 970
+        },
+        "url": "",
+        "username": "zs1341110279",
+        "verified": false
+      }
+    ]
+  }
+}

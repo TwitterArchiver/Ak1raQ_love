@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2084663315830358244",
+    "created_at": "2026-08-04T15:30:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T16:30:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084663315830358244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1663066129923981312",
+          "start": 3,
+          "username": "Ak1raQ_love"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084663315830358244",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084651557765951910",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @Ak1raQ_love: 刚引用的这段是复制的，那写个真实发生的\n快两个月前被家里面发现\n\n「刚刚我在你包里面翻到了很多女孩子用的那种发夹，还有什么雌激素什么药，你这些东西是哪来的，你怎么会有这种东西，你真的吓到我们了」\n\n最后我说是学校里面有人送我的这还能搪塞过去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2084663315830358244",
+        "created_at": "2026-08-04T15:30:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T16:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084663315830358244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1663066129923981312",
+              "start": 3,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084663315830358244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084651557765951910",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @Ak1raQ_love: 刚引用的这段是复制的，那写个真实发生的\n快两个月前被家里面发现\n\n「刚刚我在你包里面翻到了很多女孩子用的那种发夹，还有什么雌激素什么药，你这些东西是哪来的，你怎么会有这种东西，你真的吓到我们了」\n\n最后我说是学校里面有人送我的这还能搪塞过去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2084651557765951910",
+        "created_at": "2026-08-04T14:43:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T15:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084651557765951910"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ak1raQ_love/st…",
+              "end": 144,
+              "expanded_url": "https://twitter.com/Ak1raQ_love/status/2084624861654360403",
+              "start": 121,
+              "url": "https://t.co/psd11ZA0Fz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084651557765951910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 314,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084624861654360403",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "刚引用的这段是复制的，那写个真实发生的\n快两个月前被家里面发现\n\n「刚刚我在你包里面翻到了很多女孩子用的那种发夹，还有什么雌激素什么药，你这些东西是哪来的，你怎么会有这种东西，你真的吓到我们了」\n\n最后我说是学校里面有人送我的这还能搪塞过去 https://t.co/psd11ZA0Fz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/不是mtf/hrt 26.7.31/向往自由/欢迎推u面基/#蓝v互关/原创meme/顺直女 @zhwevea/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 46,
+                "start": 41,
+                "tag": "蓝v互关"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "zhwevea"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh3PSn"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": " 苏州/厦门",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8871,
+          "following_count": 1215,
+          "like_count": 208920,
+          "listed_count": 6,
+          "media_count": 1088,
+          "tweet_count": 8441
+        },
+        "url": "https://t.co/ENDNzh3PSn",
+        "username": "Ak1raQ_love",
+        "verified": true
+      }
+    ]
+  }
+}

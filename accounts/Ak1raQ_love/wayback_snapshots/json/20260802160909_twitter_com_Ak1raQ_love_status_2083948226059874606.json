@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2083948226059874606",
+    "created_at": "2026-08-02T16:09:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T17:09:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083948226059874606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2083830950740574208",
+          "start": 3,
+          "username": "xiaoheng22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083948226059874606",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083853426765828546",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaoheng22: 你好呀，这是小恒的第一篇帖子！\n我在尝试使用 非对称路由/流量反射 技术访问X，如果你能看到这条动态，说明底层的路由测试基本成功了。但由于注册时使用了代理隧道，因此地区标签可能还是美国，估计需要一段时间才能同步过来。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2083948226059874606",
+        "created_at": "2026-08-02T16:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T17:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083948226059874606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2083830950740574208",
+              "start": 3,
+              "username": "xiaoheng22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083948226059874606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083853426765828546",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaoheng22: 你好呀，这是小恒的第一篇帖子！\n我在尝试使用 非对称路由/流量反射 技术访问X，如果你能看到这条动态，说明底层的路由测试基本成功了。但由于注册时使用了代理隧道，因此地区标签可能还是美国，估计需要一段时间才能同步过来。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083830950740574208",
+        "conversation_id": "2083853426765828546",
+        "created_at": "2026-08-02T09:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T10:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083853426765828546"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083853426765828546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 893,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你好呀，这是小恒的第一篇帖子！\n我在尝试使用 非对称路由/流量反射 技术访问X，如果你能看到这条动态，说明底层的路由测试基本成功了。但由于注册时使用了代理隧道，因此地区标签可能还是美国，估计需要一段时间才能同步过来。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/不是mtf/hrt 26.7.31/向往自由/欢迎推u面基/#蓝v互关/原创meme/顺直女 @zhwevea/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 46,
+                "start": 41,
+                "tag": "蓝v互关"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "zhwevea"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh3PSn"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": " 苏州/厦门",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8910,
+          "following_count": 1206,
+          "like_count": 208210,
+          "listed_count": 6,
+          "media_count": 1079,
+          "tweet_count": 8405
+        },
+        "url": "https://t.co/ENDNzh3PSn",
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2026-08-02T08:24:58.000Z",
+        "description": "可爱猫卷 @lumigj02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "lumigj02"
+              }
+            ]
+          }
+        },
+        "id": "2083830950740574208",
+        "name": "小恒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083832125229543425/g44T8GYT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "xiaoheng22",
+        "verified": false
+      }
+    ]
+  }
+}
