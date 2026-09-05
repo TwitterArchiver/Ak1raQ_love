@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2079839423785758720"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2079839455410835818",
+    "created_at": "2026-07-22T08:02:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T09:02:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079839455410835818"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RnhWe2ZuFl",
+          "end": 31,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2079839455410835818/video/1",
+          "media_key": "7_2079839423785758720",
+          "start": 8,
+          "url": "https://t.co/RnhWe2ZuFl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079839455410835818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "通知刷的我好爽 https://t.co/RnhWe2ZuFl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17105,
+        "height": 1278,
+        "media_key": "7_2079839423785758720",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2079839423785758720/pu/img/Z7MylKmdnz5NZlEM.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2079839423785758720/pu/vid/avc1/320x702/wWOtFSSM22Tx9Lsl.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2079839423785758720/pu/vid/avc1/480x1054/czBqTo0qkCoxKUYC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2079839423785758720/pu/vid/avc1/582x1278/TjhFRCCWA8ryY_gp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2079839423785758720/pu/pl/sxyUS_7kcjtBzjsB.m3u8"
+          }
+        ],
+        "width": 582
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2079839423785758720"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2079839455410835818",
+        "created_at": "2026-07-22T08:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T09:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079839455410835818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RnhWe2ZuFl",
+              "end": 31,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2079839455410835818/video/1",
+              "media_key": "7_2079839423785758720",
+              "start": 8,
+              "url": "https://t.co/RnhWe2ZuFl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079839455410835818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "通知刷的我好爽 https://t.co/RnhWe2ZuFl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/不在社交圈内者请不要关注，可能会被清除/留长发中/无糖/向往自由/原创&二创meme/秋月姐姐 @qiuylove/阿堇🕯️@Akatsuki_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "qiuylove"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "Akatsuki_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "廈門 Amoy",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1560,
+          "following_count": 1081,
+          "like_count": 202939,
+          "listed_count": 2,
+          "media_count": 1004,
+          "tweet_count": 8057
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": true
+      }
+    ]
+  }
+}

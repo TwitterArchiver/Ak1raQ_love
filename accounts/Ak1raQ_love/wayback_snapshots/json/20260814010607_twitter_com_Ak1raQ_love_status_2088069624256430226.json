@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2088069624256430226",
+    "created_at": "2026-08-14T01:06:07.000Z",
+    "display_text_range": [
+      0,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T02:06:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088069624256430226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2087747116504666112",
+          "start": 3,
+          "username": "theqingqiuback"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088069624256430226",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087796569685057763",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @theqingqiuback: 今天8.13日，各位都要有好心情哦，呜呜呜，清秋那个号被封了，我好惨啊，如果号回不来就用秋月这个号了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2088069624256430226",
+        "created_at": "2026-08-14T01:06:07.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T02:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088069624256430226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2087747116504666112",
+              "start": 3,
+              "username": "theqingqiuback"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088069624256430226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087796569685057763",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @theqingqiuback: 今天8.13日，各位都要有好心情哦，呜呜呜，清秋那个号被封了，我好惨啊，如果号回不来就用秋月这个号了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2087747116504666112",
+        "conversation_id": "2087796569685057763",
+        "created_at": "2026-08-13T07:01:06.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T08:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087796569685057763"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087796569685057763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 331,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "今天8.13日，各位都要有好心情哦，呜呜呜，清秋那个号被封了，我好惨啊，如果号回不来就用秋月这个号了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/hrt 26.7.31/什么都不会/向往自由/#推友情況通報/原创meme/顺直女 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "zhwevea"
+              },
+              {
+                "end": 75,
+                "start": 66,
+                "username": "qiuylove"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "XMN",
+        "most_recent_tweet_id": "2088069624256430226",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8749,
+          "following_count": 1242,
+          "like_count": 214055,
+          "listed_count": 6,
+          "media_count": 1154,
+          "tweet_count": 8755
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-13T03:45:35.000Z",
+        "description": "2008.7.9|家长党|一转|MTF|知心伙伴|98天",
+        "id": "2087747116504666112",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087867415770329335",
+        "name": "秋月明我思",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087747508252585984/QPo-TSho_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 38,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "theqingqiuback",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

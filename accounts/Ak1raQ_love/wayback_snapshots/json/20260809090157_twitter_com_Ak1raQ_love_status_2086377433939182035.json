@@ -1,0 +1,454 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2086363711665590400",
+    "created_at": "2026-08-09T09:01:57.000Z",
+    "display_text_range": [
+      16,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T10:01:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086377433939182035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2050253104935997440",
+          "start": 0,
+          "username": "auspiceshirley"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Ak1raQ_love/st…",
+          "end": 51,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2066804698167030259",
+          "start": 28,
+          "url": "https://t.co/fkkhuagbMV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086377433939182035",
+    "in_reply_to_user_id": "2050253104935997440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066804698167030259",
+        "type": "quoted"
+      },
+      {
+        "id": "2086363711665590400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@auspiceshirley 你这个型号居然和我一样\nhttps://t.co/fkkhuagbMV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2066804694748631040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7D62KaEAAw5l7.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2238,
+        "media_key": "3_2086363643185082368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPRArfBWMAADO-c.jpg",
+        "width": 3945
+      },
+      {
+        "height": 1395,
+        "media_key": "3_2086363661686255616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPRAsj8XsAAU7rZ.jpg",
+        "width": 2456
+      },
+      {
+        "height": 1528,
+        "media_key": "3_2086363678324977664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPRAth7WcAAZu0h.jpg",
+        "width": 2559
+      },
+      {
+        "height": 2249,
+        "media_key": "3_2086363695425200128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPRAuhoXIAAegbk.jpg",
+        "width": 3944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2086363711665590400",
+        "created_at": "2026-08-09T09:01:57.000Z",
+        "display_text_range": [
+          16,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T10:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086377433939182035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2050253104935997440",
+              "start": 0,
+              "username": "auspiceshirley"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Ak1raQ_love/st…",
+              "end": 51,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2066804698167030259",
+              "start": 28,
+              "url": "https://t.co/fkkhuagbMV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086377433939182035",
+        "in_reply_to_user_id": "2050253104935997440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066804698167030259",
+            "type": "quoted"
+          },
+          {
+            "id": "2086363711665590400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@auspiceshirley 你这个型号居然和我一样\nhttps://t.co/fkkhuagbMV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066804694748631040"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2066804698167030259",
+        "created_at": "2026-06-16T08:46:54.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-06-16T09:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066804698167030259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lcDpXfUPiY",
+              "end": 35,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2066804698167030259/photo/1",
+              "media_key": "3_2066804694748631040",
+              "start": 12,
+              "url": "https://t.co/lcDpXfUPiY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066804698167030259",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2066804694748631040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 361,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷进OpenWrt了喵 https://t.co/lcDpXfUPiY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086363643185082368",
+            "3_2086363661686255616",
+            "3_2086363678324977664",
+            "3_2086363695425200128"
+          ]
+        },
+        "author_id": "2050253104935997440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2086363711665590400",
+        "created_at": "2026-08-09T08:07:26.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T09:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086363711665590400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OeKmbmPhJR",
+              "end": 40,
+              "expanded_url": "https://x.com/auspiceshirley/status/2086363711665590400/photo/1",
+              "media_key": "3_2086363643185082368",
+              "start": 17,
+              "url": "https://t.co/OeKmbmPhJR"
+            },
+            {
+              "display_url": "pic.x.com/OeKmbmPhJR",
+              "end": 40,
+              "expanded_url": "https://x.com/auspiceshirley/status/2086363711665590400/photo/1",
+              "media_key": "3_2086363661686255616",
+              "start": 17,
+              "url": "https://t.co/OeKmbmPhJR"
+            },
+            {
+              "display_url": "pic.x.com/OeKmbmPhJR",
+              "end": 40,
+              "expanded_url": "https://x.com/auspiceshirley/status/2086363711665590400/photo/1",
+              "media_key": "3_2086363678324977664",
+              "start": 17,
+              "url": "https://t.co/OeKmbmPhJR"
+            },
+            {
+              "display_url": "pic.x.com/OeKmbmPhJR",
+              "end": 40,
+              "expanded_url": "https://x.com/auspiceshirley/status/2086363711665590400/photo/1",
+              "media_key": "3_2086363695425200128",
+              "start": 17,
+              "url": "https://t.co/OeKmbmPhJR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086363711665590400",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086363643185082368"
+          },
+          {
+            "media_key": "3_2086363661686255616"
+          },
+          {
+            "media_key": "3_2086363678324977664"
+          },
+          {
+            "media_key": "3_2086363695425200128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "成了！OpenWrt 轻而易举喵 https://t.co/OeKmbmPhJR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/hrt 26.7.31/什么都不会/向往自由/#推友情況通報/原创meme/顺直女 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "zhwevea"
+              },
+              {
+                "end": 75,
+                "start": 66,
+                "username": "qiuylove"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh3PSn"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": " 苏州/厦门",
+        "most_recent_tweet_id": "2086377433939182035",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8794,
+          "following_count": 1236,
+          "like_count": 211530,
+          "listed_count": 6,
+          "media_count": 1119,
+          "tweet_count": 8592
+        },
+        "url": "https://t.co/ENDNzh3PSn",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-01T16:38:27.000Z",
+        "description": "ENG/中文 | Daily life & Technology &「魔法少女ノ魔女裁判」🍎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me.auspiceshirley.dev",
+                "end": 23,
+                "expanded_url": "https://me.auspiceshirley.dev",
+                "start": 0,
+                "url": "https://t.co/1qfE6dIPvx"
+              }
+            ]
+          }
+        },
+        "id": "2050253104935997440",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2086368407360806948",
+        "name": "Shirley Auspice",
+        "pinned_tweet_id": "2065781030783472110",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2050253104935997440/1780333609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050253824372412417/h-oCtpG6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1119,
+          "following_count": 604,
+          "like_count": 2270,
+          "listed_count": 3,
+          "media_count": 476,
+          "tweet_count": 3299
+        },
+        "url": "https://t.co/1qfE6dIPvx",
+        "username": "auspiceshirley",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

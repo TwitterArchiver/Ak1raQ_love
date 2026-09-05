@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092764646059175936",
+        "3_2092764658898010112"
+      ],
+      "media_source_tweet_id": [
+        "2092764675796766757",
+        "2092764675796766757"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2092775094808674740",
+    "created_at": "2026-08-27T00:43:59.000Z",
+    "display_text_range": [
+      0,
+      81
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T01:43:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092775094808674740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1303335410609790976",
+          "start": 3,
+          "username": "Rococo90933671"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/I1G6bLGrpg",
+          "end": 81,
+          "expanded_url": "https://x.com/Rococo90933671/status/2092764675796766757/photo/1",
+          "media_key": "3_2092764646059175936",
+          "start": 58,
+          "url": "https://t.co/I1G6bLGrpg"
+        },
+        {
+          "display_url": "pic.x.com/I1G6bLGrpg",
+          "end": 81,
+          "expanded_url": "https://x.com/Rococo90933671/status/2092764675796766757/photo/1",
+          "media_key": "3_2092764658898010112",
+          "start": 58,
+          "url": "https://t.co/I1G6bLGrpg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092775094808674740",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092764646059175936"
+      },
+      {
+        "media_key": "3_2092764658898010112"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092764675796766757",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rococo90933671: 近日，一网友发现张雪峰官号删除了他在底下的评论并发了野爹证，好似中元节显灵 https://t.co/I1G6bLGrpg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2341,
+        "media_key": "3_2092764646059175936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQr-W47acAAl3Be.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2796,
+        "media_key": "3_2092764658898010112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQr-XowbgAAJcQh.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092764646059175936",
+            "3_2092764658898010112"
+          ],
+          "media_source_tweet_id": [
+            "2092764675796766757",
+            "2092764675796766757"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2092775094808674740",
+        "created_at": "2026-08-27T00:43:59.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T01:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092775094808674740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1303335410609790976",
+              "start": 3,
+              "username": "Rococo90933671"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I1G6bLGrpg",
+              "end": 81,
+              "expanded_url": "https://x.com/Rococo90933671/status/2092764675796766757/photo/1",
+              "media_key": "3_2092764646059175936",
+              "start": 58,
+              "url": "https://t.co/I1G6bLGrpg"
+            },
+            {
+              "display_url": "pic.x.com/I1G6bLGrpg",
+              "end": 81,
+              "expanded_url": "https://x.com/Rococo90933671/status/2092764675796766757/photo/1",
+              "media_key": "3_2092764658898010112",
+              "start": 58,
+              "url": "https://t.co/I1G6bLGrpg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092775094808674740",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092764646059175936"
+          },
+          {
+            "media_key": "3_2092764658898010112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092764675796766757",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rococo90933671: 近日，一网友发现张雪峰官号删除了他在底下的评论并发了野爹证，好似中元节显灵 https://t.co/I1G6bLGrpg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092764646059175936",
+            "3_2092764658898010112"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2092764675796766757",
+        "created_at": "2026-08-27T00:02:35.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T01:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092764675796766757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I1G6bLGrpg",
+              "end": 61,
+              "expanded_url": "https://x.com/Rococo90933671/status/2092764675796766757/photo/1",
+              "media_key": "3_2092764646059175936",
+              "start": 38,
+              "url": "https://t.co/I1G6bLGrpg"
+            },
+            {
+              "display_url": "pic.x.com/I1G6bLGrpg",
+              "end": 61,
+              "expanded_url": "https://x.com/Rococo90933671/status/2092764675796766757/photo/1",
+              "media_key": "3_2092764658898010112",
+              "start": 38,
+              "url": "https://t.co/I1G6bLGrpg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092764675796766757",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092764646059175936"
+          },
+          {
+            "media_key": "3_2092764658898010112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 224,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "近日，一网友发现张雪峰官号删除了他在底下的评论并发了野爹证，好似中元节显灵 https://t.co/I1G6bLGrpg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/hrt 26.7.31/什么都不会/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 62,
+                "start": 54,
+                "username": "zhwevea"
+              },
+              {
+                "end": 76,
+                "start": 67,
+                "username": "qiuylove"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "鹭岛",
+        "most_recent_tweet_id": "2092775094808674740",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2092116629694058989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8835,
+          "following_count": 1283,
+          "like_count": 220304,
+          "listed_count": 6,
+          "media_count": 1255,
+          "tweet_count": 9210
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "is_identity_verified": false,
+        "location": "IP属地：大狐京师文华殿",
+        "most_recent_tweet_id": "2092769754536956388",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "2084662210375344389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303335410609790976/1756193334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13962,
+          "following_count": 3271,
+          "like_count": 49379,
+          "listed_count": 40,
+          "media_count": 5233,
+          "tweet_count": 26128
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093921591034028032"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2093886382821482791",
+    "created_at": "2026-08-30T04:39:45.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T05:39:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093921594423091414"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CXVIXZSC2U",
+          "end": 27,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2093921594423091414/photo/1",
+          "media_key": "3_2093921591034028032",
+          "start": 4,
+          "url": "https://t.co/CXVIXZSC2U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093921594423091414",
+    "in_reply_to_user_id": "1663066129923981312",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093921591034028032"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093886382821482791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "原图（ https://t.co/CXVIXZSC2U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2093921591034028032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ8al80aoAASvyf.jpg",
+        "width": 2048
+      },
+      {
+        "height": 860,
+        "media_key": "3_2093886380367917056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ76ka3bsAAE-Bo.jpg",
+        "width": 883
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093921591034028032"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2093886382821482791",
+        "created_at": "2026-08-30T04:39:45.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T05:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093921594423091414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CXVIXZSC2U",
+              "end": 27,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2093921594423091414/photo/1",
+              "media_key": "3_2093921591034028032",
+              "start": 4,
+              "url": "https://t.co/CXVIXZSC2U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093921594423091414",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093921591034028032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093886382821482791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原图（ https://t.co/CXVIXZSC2U"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093886380367917056"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2093886382821482791",
+        "created_at": "2026-08-30T02:19:50.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T03:19:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093886382821482791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iPZHls5QsR",
+              "end": 38,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2093886382821482791/photo/1",
+              "media_key": "3_2093886380367917056",
+              "start": 15,
+              "url": "https://t.co/iPZHls5QsR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093886382821482791",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093886380367917056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 751,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "奶隆圈正在逼近，谁能活到吃鸡 https://t.co/iPZHls5QsR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/什么都不会/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 16,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "zhwevea"
+              },
+              {
+                "end": 58,
+                "start": 49,
+                "username": "qiuylove"
+              },
+              {
+                "end": 76,
+                "start": 62,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "鹭岛",
+        "most_recent_tweet_id": "2093921594423091414",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2092116629694058989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8839,
+          "following_count": 1285,
+          "like_count": 222389,
+          "listed_count": 6,
+          "media_count": 1276,
+          "tweet_count": 9313
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

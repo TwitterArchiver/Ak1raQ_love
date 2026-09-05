@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2093844518948987360",
+    "created_at": "2026-08-29T23:33:29.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T00:33:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093844518948987360"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SnozakiSakura/…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/SnozakiSakura/status/2093716288413777947",
+          "start": 47,
+          "url": "https://t.co/rbNVLOCc29"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093844518948987360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093716288413777947",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我爸说我出去不管去哪个地方都要报备，而且说从那个地方去一个新的地方也要和他讲😓反正我都编的😓 https://t.co/rbNVLOCc29"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 948,
+        "media_key": "3_2093716282130735104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ5f3ZjaoAA6FMZ.jpg",
+        "width": 1082
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2093844518948987360",
+        "created_at": "2026-08-29T23:33:29.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T00:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093844518948987360"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SnozakiSakura/…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/SnozakiSakura/status/2093716288413777947",
+              "start": 47,
+              "url": "https://t.co/rbNVLOCc29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093844518948987360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093716288413777947",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我爸说我出去不管去哪个地方都要报备，而且说从那个地方去一个新的地方也要和他讲😓反正我都编的😓 https://t.co/rbNVLOCc29"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093716282130735104"
+          ]
+        },
+        "author_id": "1573704119516176384",
+        "conversation_id": "2093716288413777947",
+        "created_at": "2026-08-29T15:03:57.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T16:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093716288413777947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5ZvvlN8UIS",
+              "end": 42,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2093716288413777947/photo/1",
+              "media_key": "3_2093716282130735104",
+              "start": 19,
+              "url": "https://t.co/5ZvvlN8UIS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093716288413777947",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093716282130735104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1577,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么总有父母喜欢对孩子这么强控制欲 https://t.co/5ZvvlN8UIS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/什么都不会/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 16,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "zhwevea"
+              },
+              {
+                "end": 58,
+                "start": 49,
+                "username": "qiuylove"
+              },
+              {
+                "end": 76,
+                "start": 62,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "鹭岛",
+        "most_recent_tweet_id": "2093844518948987360",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2092116629694058989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8836,
+          "following_count": 1284,
+          "like_count": 222148,
+          "listed_count": 6,
+          "media_count": 1274,
+          "tweet_count": 9309
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-24T16:01:21.000Z",
+        "description": "私は地雷系女の子です～🌸 | She/Her | 分享段子和有趣的故事 ｜好看的自拍照都在“亮点”里🍧｜Living today with the hope that tomorrow will be a little better🩷💙",
+        "id": "1573704119516176384",
+        "is_identity_verified": true,
+        "location": "魔女岛",
+        "most_recent_tweet_id": "2093774052980892087",
+        "name": "草莓泡芙🍀",
+        "pinned_tweet_id": "2076297327455981834",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1573704119516176384/1664107354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070709599590920192/O5wJU2Nl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99491,
+          "following_count": 2803,
+          "like_count": 8712,
+          "listed_count": 205,
+          "media_count": 1340,
+          "tweet_count": 5672
+        },
+        "url": "",
+        "username": "SnozakiSakura",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

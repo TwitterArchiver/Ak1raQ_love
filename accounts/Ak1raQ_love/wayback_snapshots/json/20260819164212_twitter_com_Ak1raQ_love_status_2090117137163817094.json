@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2090062935523750192",
+    "created_at": "2026-08-19T16:42:12.000Z",
+    "display_text_range": [
+      21,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T17:42:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090117137163817094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1725524194937708544",
+          "start": 0,
+          "username": "miniumigame5"
+        },
+        {
+          "end": 20,
+          "id": "1937025891789639681",
+          "start": 14,
+          "username": "em4dm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090117137163817094",
+    "in_reply_to_user_id": "1725524194937708544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090116473993965669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miniumigame5 @em4dm これは私のオリジナル作品ではありません。転載したものです。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2090062935523750192",
+        "created_at": "2026-08-19T16:42:12.000Z",
+        "display_text_range": [
+          21,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T17:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090117137163817094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1725524194937708544",
+              "start": 0,
+              "username": "miniumigame5"
+            },
+            {
+              "end": 20,
+              "id": "1937025891789639681",
+              "start": 14,
+              "username": "em4dm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090117137163817094",
+        "in_reply_to_user_id": "1725524194937708544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090116473993965669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miniumigame5 @em4dm これは私のオリジナル作品ではありません。転載したものです。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1725524194937708544",
+        "conversation_id": "2090062935523750192",
+        "created_at": "2026-08-19T16:39:34.000Z",
+        "display_text_range": [
+          7,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T17:39:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090116473993965669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1937025891789639681",
+              "start": 0,
+              "username": "em4dm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/ak1raq_love/st…",
+              "end": 30,
+              "expanded_url": "https://x.com/ak1raq_love/status/2079778460965486676",
+              "start": 7,
+              "url": "https://t.co/VnTyLigE4L"
+            },
+            {
+              "display_url": "x.com/ak1raq_love/st…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/ak1raq_love/status/2079778460965486676",
+              "start": 31,
+              "url": "https://t.co/10f5AOZWUC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090116473993965669",
+        "in_reply_to_user_id": "1937025891789639681",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079778460965486676",
+            "type": "quoted"
+          },
+          {
+            "id": "2090062935523750192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@em4dm https://t.co/VnTyLigE4L https://t.co/10f5AOZWUC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/hrt 26.7.31/什么都不会/向往自由/#推友情況通報/原创meme/顺直女 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "zhwevea"
+              },
+              {
+                "end": 75,
+                "start": 66,
+                "username": "qiuylove"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "XMN/Amoy",
+        "most_recent_tweet_id": "2090117137163817094",
+        "name": "🩷Akiramenai💫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8776,
+          "following_count": 1254,
+          "like_count": 216241,
+          "listed_count": 6,
+          "media_count": 1206,
+          "tweet_count": 8971
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-17T14:40:17.000Z",
+        "description": "♂￤タメ〇¦浪人生です¦MW ダメージランキング最高3位￤ #絵師さんと繋がりたい¦ #絵垢 ¦ 原神.ブルアカ￤WL8￤AR90 ￤UID：863404112 アイコンを描いてくれた絵師さん: @tablesando_gnsn¦ @miniumigame2 ←凍結しました。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 30,
+                "tag": "絵師さんと繋がりたい"
+              },
+              {
+                "end": 46,
+                "start": 43,
+                "tag": "絵垢"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 114,
+                "start": 98,
+                "username": "tablesando_gnsn"
+              },
+              {
+                "end": 129,
+                "start": 116,
+                "username": "miniumigame2"
+              }
+            ]
+          }
+        },
+        "id": "1725524194937708544",
+        "is_identity_verified": false,
+        "location": "ジ・アース",
+        "most_recent_tweet_id": "2090116473993965669",
+        "name": "ミニウミガメ- ̗̀✌︎ ·͜· ︎︎✌︎︎︎ ̖́-",
+        "pinned_tweet_id": "1725719583297008075",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1725524194937708544/1700302489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804871878097661952/qp-36WNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 1199,
+          "like_count": 21345,
+          "listed_count": 1,
+          "media_count": 897,
+          "tweet_count": 9371
+        },
+        "url": "",
+        "username": "miniumigame5",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-23T05:52:20.000Z",
+        "description": "大学生だにゃん🐈　限定サブ→@jxpjas",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 14,
+                "username": "jxpjas"
+              }
+            ]
+          }
+        },
+        "id": "1937025891789639681",
+        "is_identity_verified": false,
+        "location": "合言葉＝【えま最強】",
+        "most_recent_tweet_id": "2090076047006220298",
+        "name": "えま",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1937025891789639681/1750658246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937026952205844480/nvRCKva9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5969,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 2,
+          "media_count": 5,
+          "tweet_count": 80
+        },
+        "url": "",
+        "username": "em4dm",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

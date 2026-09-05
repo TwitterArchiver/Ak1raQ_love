@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2090444342712545789",
+    "created_at": "2026-08-20T14:51:44.000Z",
+    "display_text_range": [
+      10,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T15:51:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090451724700197092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1855077087092391937",
+          "start": 0,
+          "username": "Tulubutu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090451724700197092",
+    "in_reply_to_user_id": "1855077087092391937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090444342712545789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tulubutu 福建只有部分地区是，反正厦门没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2090444342712545789",
+        "created_at": "2026-08-20T14:51:44.000Z",
+        "display_text_range": [
+          10,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T15:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090451724700197092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1855077087092391937",
+              "start": 0,
+              "username": "Tulubutu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090451724700197092",
+        "in_reply_to_user_id": "1855077087092391937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090444342712545789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tulubutu 福建只有部分地区是，反正厦门没有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855077087092391937",
+        "conversation_id": "2090444342712545789",
+        "created_at": "2026-08-20T14:22:24.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T15:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090444342712545789"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090444342712545789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来福建是高墙地区\n真害怕某一天GFW搞IP白名单，那就完了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/hrt 26.7.31/什么都不会/向往自由/#推友情況通報/原创meme/顺直女 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "zhwevea"
+              },
+              {
+                "end": 75,
+                "start": 66,
+                "username": "qiuylove"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "XMN/Amoy",
+        "most_recent_tweet_id": "2090451724700197092",
+        "name": "🩷Akiramenai💫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8820,
+          "following_count": 1258,
+          "like_count": 216684,
+          "listed_count": 6,
+          "media_count": 1210,
+          "tweet_count": 8992
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-09T02:37:10.000Z",
+        "description": "🇨🇳｜17y｜♂｜furry(无装)｜是个很颠的人\n搞钱搞钱搞钱！｜不抽烟 不喝酒 不割手 不OD｜Phigros(rks16不到的菜)｜咖啡重度依赖｜对IT有些兴趣｜不鉴证｜币圈新韭\n这是我的号 我想发啥发啥\n欢迎互fo 欢迎私信（TG优先）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/tulubutu",
+                "end": 23,
+                "expanded_url": "http://telegram.me/tulubutu",
+                "start": 0,
+                "url": "https://t.co/yZ1z35gntP"
+              }
+            ]
+          }
+        },
+        "id": "1855077087092391937",
+        "is_identity_verified": false,
+        "location": "Fuzhou",
+        "most_recent_tweet_id": "2090444342712545789",
+        "name": "秃驴不秃",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088571123239985152/dOwsARWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 378,
+          "like_count": 469,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 146
+        },
+        "url": "https://t.co/yZ1z35gntP",
+        "username": "Tulubutu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

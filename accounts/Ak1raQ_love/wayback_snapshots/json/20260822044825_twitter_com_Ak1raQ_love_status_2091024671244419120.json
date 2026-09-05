@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090994058915381248"
+      ],
+      "media_source_tweet_id": [
+        "2090994065202688096"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2091024671244419120",
+    "created_at": "2026-08-22T04:48:25.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T05:48:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091024671244419120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1573704119516176384",
+          "start": 3,
+          "username": "SnozakiSakura"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SQZHq9M2ON",
+          "end": 49,
+          "expanded_url": "https://x.com/SnozakiSakura/status/2090994065202688096/photo/1",
+          "media_key": "3_2090994058915381248",
+          "start": 26,
+          "url": "https://t.co/SQZHq9M2ON"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091024671244419120",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090994058915381248"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090994065202688096",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SnozakiSakura: 推友们爱吃的 https://t.co/SQZHq9M2ON"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 868,
+        "media_key": "3_2090994058915381248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQS0BJ0agAA19rx.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090994058915381248"
+          ],
+          "media_source_tweet_id": [
+            "2090994065202688096"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2091024671244419120",
+        "created_at": "2026-08-22T04:48:25.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T05:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091024671244419120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1573704119516176384",
+              "start": 3,
+              "username": "SnozakiSakura"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SQZHq9M2ON",
+              "end": 49,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2090994065202688096/photo/1",
+              "media_key": "3_2090994058915381248",
+              "start": 26,
+              "url": "https://t.co/SQZHq9M2ON"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091024671244419120",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090994058915381248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090994065202688096",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SnozakiSakura: 推友们爱吃的 https://t.co/SQZHq9M2ON"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090994058915381248"
+          ]
+        },
+        "author_id": "1573704119516176384",
+        "conversation_id": "2090994065202688096",
+        "created_at": "2026-08-22T02:46:48.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T03:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090994065202688096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SQZHq9M2ON",
+              "end": 30,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2090994065202688096/photo/1",
+              "media_key": "3_2090994058915381248",
+              "start": 7,
+              "url": "https://t.co/SQZHq9M2ON"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090994065202688096",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090994058915381248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1024,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "推友们爱吃的 https://t.co/SQZHq9M2ON"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/hrt 26.7.31/什么都不会/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 62,
+                "start": 54,
+                "username": "zhwevea"
+              },
+              {
+                "end": 76,
+                "start": 67,
+                "username": "qiuylove"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "鹭岛",
+        "most_recent_tweet_id": "2091024671244419120",
+        "name": "🩷Akiramenai💫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8830,
+          "following_count": 1273,
+          "like_count": 217784,
+          "listed_count": 6,
+          "media_count": 1217,
+          "tweet_count": 9050
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-24T16:01:21.000Z",
+        "description": "私は地雷系女の子です～🌸 | She/Her | 分享段子和有趣的故事 ｜好看的自拍照都在“亮点”里🍧｜Living today with the hope that tomorrow will be a little better🩷💙",
+        "id": "1573704119516176384",
+        "is_identity_verified": true,
+        "location": "魔女岛",
+        "most_recent_tweet_id": "2091019298932478309",
+        "name": "草莓泡芙🍀",
+        "pinned_tweet_id": "2076297327455981834",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1573704119516176384/1664107354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070709599590920192/O5wJU2Nl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98417,
+          "following_count": 2713,
+          "like_count": 8318,
+          "listed_count": 204,
+          "media_count": 1093,
+          "tweet_count": 5155
+        },
+        "url": "",
+        "username": "SnozakiSakura",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

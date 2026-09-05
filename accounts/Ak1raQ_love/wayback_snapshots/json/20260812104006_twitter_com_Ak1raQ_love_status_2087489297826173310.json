@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087489294197985280"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2087489297826173310",
+    "created_at": "2026-08-12T10:40:06.000Z",
+    "display_text_range": [
+      0,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T11:40:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087489297826173310"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9BQSDSAEq2",
+          "end": 48,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2087489297826173310/photo/1",
+          "media_key": "3_2087489294197985280",
+          "start": 25,
+          "url": "https://t.co/9BQSDSAEq2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087489297826173310",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087489294197985280"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "刷这么长时间手机一看状态栏的4G标在R上面，完了 https://t.co/9BQSDSAEq2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 131,
+        "media_key": "3_2087489294197985280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhAc_0aEAAzp5g.jpg",
+        "width": 202
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087489294197985280"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2087489297826173310",
+        "created_at": "2026-08-12T10:40:06.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T11:40:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087489297826173310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9BQSDSAEq2",
+              "end": 48,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2087489297826173310/photo/1",
+              "media_key": "3_2087489294197985280",
+              "start": 25,
+              "url": "https://t.co/9BQSDSAEq2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087489297826173310",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087489294197985280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "刷这么长时间手机一看状态栏的4G标在R上面，完了 https://t.co/9BQSDSAEq2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/hrt 26.7.31/什么都不会/向往自由/#推友情況通報/原创meme/顺直女 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "zhwevea"
+              },
+              {
+                "end": 75,
+                "start": 66,
+                "username": "qiuylove"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh3PSn"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "XMN",
+        "most_recent_tweet_id": "2087489297826173310",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8757,
+          "following_count": 1238,
+          "like_count": 213341,
+          "listed_count": 6,
+          "media_count": 1139,
+          "tweet_count": 8681
+        },
+        "url": "https://t.co/ENDNzh3PSn",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

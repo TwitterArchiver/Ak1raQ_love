@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2092504028504825945",
+    "created_at": "2026-08-26T11:05:25.000Z",
+    "display_text_range": [
+      15,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T12:05:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092569096781259168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2019305812381077504",
+          "start": 0,
+          "username": "Mini_Sweetyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092569096781259168",
+    "in_reply_to_user_id": "2019305812381077504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092565381923905573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mini_Sweetyyy 啊这。你号卡bug了fo不上，注销一下再恢复"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2092504028504825945",
+        "created_at": "2026-08-26T11:05:25.000Z",
+        "display_text_range": [
+          15,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T12:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092569096781259168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2019305812381077504",
+              "start": 0,
+              "username": "Mini_Sweetyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092569096781259168",
+        "in_reply_to_user_id": "2019305812381077504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092565381923905573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mini_Sweetyyy 啊这。你号卡bug了fo不上，注销一下再恢复"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019305812381077504",
+        "conversation_id": "2092504028504825945",
+        "created_at": "2026-08-26T10:50:39.000Z",
+        "display_text_range": [
+          13,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T11:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092565381923905573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092565381923905573",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092504028504825945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak1raQ_love 俺就被莫名奇妙封了一段，好难哦😪"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/hrt 26.7.31/什么都不会/向往自由/准大一/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 38,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "zhwevea"
+              },
+              {
+                "end": 80,
+                "start": 71,
+                "username": "qiuylove"
+              },
+              {
+                "end": 98,
+                "start": 84,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "鹭岛",
+        "most_recent_tweet_id": "2092569096781259168",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2092116629694058989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8848,
+          "following_count": 1283,
+          "like_count": 220056,
+          "listed_count": 6,
+          "media_count": 1248,
+          "tweet_count": 9190
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-05T07:03:30.000Z",
+        "description": "我不道啊，只是个爱碎碎念的小女孩✨",
+        "id": "2019305812381077504",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092566210370277733",
+        "name": "软糯小小甜",
+        "pinned_tweet_id": "2076263475605811645",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2019305812381077504/1780636730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062766062291345408/azeNwubU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 0,
+          "like_count": 148,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 202
+        },
+        "url": "",
+        "username": "Mini_Sweetyyy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

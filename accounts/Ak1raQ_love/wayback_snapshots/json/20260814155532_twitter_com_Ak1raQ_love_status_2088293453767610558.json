@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088293450852540416"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2088280125058248985",
+    "created_at": "2026-08-14T15:55:32.000Z",
+    "display_text_range": [
+      9,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T16:55:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088293453767610558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1705551597265190912",
+          "start": 0,
+          "username": "QQ195ZZH"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U3ghn7oG2h",
+          "end": 33,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2088293453767610558/photo/1",
+          "media_key": "3_2088293450852540416",
+          "start": 10,
+          "url": "https://t.co/U3ghn7oG2h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088293453767610558",
+    "in_reply_to_user_id": "1663066129923981312",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2088293450852540416"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088293412113986040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QQ195ZZH https://t.co/U3ghn7oG2h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088293450852540416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPsb1EzXIAApjui.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088293409182142464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPsbypkXUAA0IZJ.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088293450852540416"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2088280125058248985",
+        "created_at": "2026-08-14T15:55:32.000Z",
+        "display_text_range": [
+          9,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T16:55:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088293453767610558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1705551597265190912",
+              "start": 0,
+              "username": "QQ195ZZH"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U3ghn7oG2h",
+              "end": 33,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2088293453767610558/photo/1",
+              "media_key": "3_2088293450852540416",
+              "start": 10,
+              "url": "https://t.co/U3ghn7oG2h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088293453767610558",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2088293450852540416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088293412113986040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QQ195ZZH https://t.co/U3ghn7oG2h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088293409182142464"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2088280125058248985",
+        "created_at": "2026-08-14T15:55:22.000Z",
+        "display_text_range": [
+          9,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T16:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088293412113986040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1705551597265190912",
+              "start": 0,
+              "username": "QQ195ZZH"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x77McKAtEr",
+              "end": 33,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2088293412113986040/photo/1",
+              "media_key": "3_2088293409182142464",
+              "start": 10,
+              "url": "https://t.co/x77McKAtEr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088293412113986040",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2088293409182142464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088293221839278438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QQ195ZZH https://t.co/x77McKAtEr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/hrt 26.7.31/什么都不会/向往自由/#推友情況通報/原创meme/顺直女 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "zhwevea"
+              },
+              {
+                "end": 75,
+                "start": 66,
+                "username": "qiuylove"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "XMN",
+        "most_recent_tweet_id": "2088293453767610558",
+        "name": "🩷Akiramenai💫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8746,
+          "following_count": 1245,
+          "like_count": 214279,
+          "listed_count": 6,
+          "media_count": 1163,
+          "tweet_count": 8808
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-23T11:56:16.000Z",
+        "description": "轻度抑郁+0 10年11.18出厂，来自广东揭阳（无证含糖🍥）",
+        "id": "1705551597265190912",
+        "is_identity_verified": false,
+        "location": "海南省海口市",
+        "most_recent_tweet_id": "2088281177467809973",
+        "name": "淼淼雨",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1705551597265190912/1784210440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077755239118389248/2zLmU8Xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 315,
+          "like_count": 508,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 160
+        },
+        "url": "",
+        "username": "QQ195ZZH",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

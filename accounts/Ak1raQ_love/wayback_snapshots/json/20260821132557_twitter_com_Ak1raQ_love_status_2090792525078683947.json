@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090792521802948608"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2090719270938578960",
+    "created_at": "2026-08-21T13:25:57.000Z",
+    "display_text_range": [
+      16,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T14:25:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090792525078683947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2050253104935997440",
+          "start": 0,
+          "username": "auspiceshirley"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j5RX95mHd0",
+          "end": 66,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2090792525078683947/photo/1",
+          "media_key": "3_2090792521802948608",
+          "start": 43,
+          "url": "https://t.co/j5RX95mHd0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090792525078683947",
+    "in_reply_to_user_id": "2050253104935997440",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090792521802948608"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090719270938578960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@auspiceshirley 用可以改feature flags的客户端就能改回去 https://t.co/j5RX95mHd0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090792521802948608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQP8uJkboAA2-bu.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090792521802948608"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2090719270938578960",
+        "created_at": "2026-08-21T13:25:57.000Z",
+        "display_text_range": [
+          16,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T14:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090792525078683947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2050253104935997440",
+              "start": 0,
+              "username": "auspiceshirley"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j5RX95mHd0",
+              "end": 66,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2090792525078683947/photo/1",
+              "media_key": "3_2090792521802948608",
+              "start": 43,
+              "url": "https://t.co/j5RX95mHd0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090792525078683947",
+        "in_reply_to_user_id": "2050253104935997440",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090792521802948608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090719270938578960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@auspiceshirley 用可以改feature flags的客户端就能改回去 https://t.co/j5RX95mHd0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050253104935997440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2090719270938578960",
+        "created_at": "2026-08-21T08:34:52.000Z",
+        "display_text_range": [
+          0,
+          103
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T09:34:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090719270938578960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/auspiceshirley…",
+              "end": 127,
+              "expanded_url": "https://twitter.com/auspiceshirley/status/2090409430433051002",
+              "start": 104,
+              "url": "https://t.co/P8OJ0kDeQ7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090719270938578960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "关于这个翻译按钮有时候从 Grok 回退到 Google 的现象，想要复现，目前来看，只能看运气——偶尔会看到一些老旧的帖子不兼容新的 Grok 翻译，或者有的时候网络什么的抽风了，把一些旧的东西加载出来了\n\n我搜索了一下相关的东西，试了一些据说能复现的方法，比如在链接后面加语言参数，再用无痕模式打开什么的，都无法再复现\n\n下次再看到这个我一定要截图——我目前只能找到一个 2026年5月3日 发布的一个带有截图的帖子，帖子 ID 是 2050638229414527163\n\n不过有一说一，Grok 的翻译，尤其是中日韩语系，确实挺糟糕的。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 277,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090409430433051002",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关于这个翻译按钮有时候从 Grok 回退到 Google 的现象，想要复现，目前来看，只能看运气——偶尔会看到一些老旧的帖子不兼容新的 Grok 翻译，或者有的时候网络什么的抽风了，把一些旧的东西加载出来了 https://t.co/P8OJ0kDeQ7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/hrt 26.7.31/什么都不会/向往自由/#推友情況通報/原创meme/顺直女 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "zhwevea"
+              },
+              {
+                "end": 75,
+                "start": 66,
+                "username": "qiuylove"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "鹭岛",
+        "most_recent_tweet_id": "2090792525078683947",
+        "name": "🩷Akiramenai💫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8821,
+          "following_count": 1263,
+          "like_count": 217192,
+          "listed_count": 6,
+          "media_count": 1212,
+          "tweet_count": 9023
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-01T16:38:27.000Z",
+        "description": "ENG/中文 | Daily life & Technology &「魔法少女ノ魔女裁判」🍎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me.auspiceshirley.dev",
+                "end": 23,
+                "expanded_url": "https://me.auspiceshirley.dev",
+                "start": 0,
+                "url": "https://t.co/1qfE6dIhFZ"
+              }
+            ]
+          }
+        },
+        "id": "2050253104935997440",
+        "is_identity_verified": false,
+        "location": "Worldwide",
+        "most_recent_tweet_id": "2090788811131559960",
+        "name": "Shirley Auspice",
+        "pinned_tweet_id": "2089161232670392427",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2050253104935997440/1780333609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050253824372412417/h-oCtpG6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1172,
+          "following_count": 620,
+          "like_count": 2451,
+          "listed_count": 1,
+          "media_count": 572,
+          "tweet_count": 3792
+        },
+        "url": "https://t.co/1qfE6dIhFZ",
+        "username": "auspiceshirley",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

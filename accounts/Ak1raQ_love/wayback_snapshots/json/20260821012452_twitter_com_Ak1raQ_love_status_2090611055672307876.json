@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2090610955470401536"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2090611055672307876",
+    "created_at": "2026-08-21T01:24:52.000Z",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T02:24:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090611055672307876"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xs7qdIBNaY",
+          "end": 40,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2090611055672307876/video/1",
+          "media_key": "13_2090610955470401536",
+          "start": 17,
+          "url": "https://t.co/xs7qdIBNaY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090611055672307876",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2090610955470401536"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个系统的应用动画好像有点bug https://t.co/xs7qdIBNaY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12260,
+        "height": 1600,
+        "media_key": "13_2090610955470401536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090610955470401536/img/H3AKKZHHycsm4HnS.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090610955470401536/vid/avc1/2560x1600/ILDi4SPUiCkLM4cb.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090610955470401536/vid/avc1/1728x1080/MyRRH5OIAdk-kVkQ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090610955470401536/vid/avc1/1152x720/gVhzSL86hemx9nxi.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090610955470401536/vid/avc1/576x360/kkOTRNlk3rucNSZV.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090610955470401536/vid/avc1/432x270/Gp0gP7XIf_qRGQFx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090610955470401536/pl/QSVagBHh45Xe68M8.m3u8"
+          }
+        ],
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090610955470401536"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2090611055672307876",
+        "created_at": "2026-08-21T01:24:52.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T02:24:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090611055672307876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xs7qdIBNaY",
+              "end": 40,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2090611055672307876/video/1",
+              "media_key": "13_2090610955470401536",
+              "start": 17,
+              "url": "https://t.co/xs7qdIBNaY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090611055672307876",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2090610955470401536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个系统的应用动画好像有点bug https://t.co/xs7qdIBNaY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/hrt 26.7.31/什么都不会/向往自由/#推友情況通報/原创meme/顺直女 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "zhwevea"
+              },
+              {
+                "end": 75,
+                "start": 66,
+                "username": "qiuylove"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "鹭岛",
+        "most_recent_tweet_id": "2090611055672307876",
+        "name": "🩷Akiramenai💫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8816,
+          "following_count": 1260,
+          "like_count": 216913,
+          "listed_count": 6,
+          "media_count": 1212,
+          "tweet_count": 9001
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

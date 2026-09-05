@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2092616365094109343",
+    "created_at": "2026-08-26T14:34:25.000Z",
+    "display_text_range": [
+      13,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T15:34:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092621692866801741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2092529827584868352",
+          "start": 0,
+          "username": "Bolichara_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092621692866801741",
+    "in_reply_to_user_id": "2092529827584868352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092616365094109343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bolichara_1 你开新号不能用同一个设备同一个节点这样，不然一样对待啊....."
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2092616365094109343].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2092616365094109343",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2092616365094109343"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2092616365094109343",
+        "created_at": "2026-08-26T14:34:25.000Z",
+        "display_text_range": [
+          13,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T15:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092621692866801741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2092529827584868352",
+              "start": 0,
+              "username": "Bolichara_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092621692866801741",
+        "in_reply_to_user_id": "2092529827584868352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092616365094109343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bolichara_1 你开新号不能用同一个设备同一个节点这样，不然一样对待啊....."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/hrt 26.7.31/什么都不会/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 62,
+                "start": 54,
+                "username": "zhwevea"
+              },
+              {
+                "end": 76,
+                "start": 67,
+                "username": "qiuylove"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "鹭岛",
+        "most_recent_tweet_id": "2092621692866801741",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2092116629694058989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8842,
+          "following_count": 1285,
+          "like_count": 220246,
+          "listed_count": 6,
+          "media_count": 1253,
+          "tweet_count": 9204
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-26T08:37:23.000Z",
+        "description": "重要的事情说在最前面！果粉可加但是别互相贴脸（\n我号鬼ban了。搞个小号\n🏳️‍⚧️友跨（？）我有钱了我一定去hrt等我\n请来和我互fo。。求你们了跟我互动\n我人很好哟来和我交朋友哟😉\n@luoxuenya 哎呀我去这个好姐姐萌萌滴。\n@ruoruoruoMing 她不告诉我让我写什么。所以我不写了\n快来匿名提问！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 93,
+                "username": "luoxuenya"
+              },
+              {
+                "end": 132,
+                "start": 118,
+                "username": "ruoruoruoMing"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bolichara0",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bolichara0",
+                "start": 0,
+                "url": "https://t.co/eWmYUUWN8z"
+              }
+            ]
+          }
+        },
+        "id": "2092529827584868352",
+        "is_identity_verified": false,
+        "location": "msk你全家飞光光咯",
+        "most_recent_tweet_id": "2092616365094109343",
+        "name": "事猹不是猹🇨🇳🏳️‍🌈🏳️‍⚧️｜防鬼ban的小小号———",
+        "pinned_tweet_id": "2092534767321563628",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092529827584868352/1787733910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092531999609393153/DwNuOwGM_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 90,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 27
+        },
+        "url": "https://t.co/eWmYUUWN8z",
+        "username": "Bolichara_1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

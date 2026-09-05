@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2089504624978141308",
+    "created_at": "2026-08-19T01:22:17.000Z",
+    "display_text_range": [
+      13,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T02:22:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089885630952345826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2013776155166539776",
+          "start": 0,
+          "username": "l3010045822"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089885630952345826",
+    "in_reply_to_user_id": "2013776155166539776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089504624978141308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@l3010045822 数据还没出来，一般要次日上午十点多"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2510,
+        "media_key": "3_2089504610415427584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP9pX1xaQAA5M1e.jpg",
+        "width": 1156
+      },
+      {
+        "height": 2510,
+        "media_key": "3_2089504617801699328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP9pYRSb0AALSC1.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2089504624978141308",
+        "created_at": "2026-08-19T01:22:17.000Z",
+        "display_text_range": [
+          13,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T02:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089885630952345826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2013776155166539776",
+              "start": 0,
+              "username": "l3010045822"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089885630952345826",
+        "in_reply_to_user_id": "2013776155166539776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089504624978141308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l3010045822 数据还没出来，一般要次日上午十点多"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089504610415427584",
+            "3_2089504617801699328"
+          ]
+        },
+        "author_id": "2013776155166539776",
+        "conversation_id": "2089504624978141308",
+        "created_at": "2026-08-18T00:08:18.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T01:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089504624978141308"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PtV27KrgBF",
+              "end": 69,
+              "expanded_url": "https://x.com/l3010045822/status/2089504624978141308/photo/1",
+              "media_key": "3_2089504610415427584",
+              "start": 46,
+              "url": "https://t.co/PtV27KrgBF"
+            },
+            {
+              "display_url": "pic.x.com/PtV27KrgBF",
+              "end": 69,
+              "expanded_url": "https://x.com/l3010045822/status/2089504624978141308/photo/1",
+              "media_key": "3_2089504617801699328",
+              "start": 46,
+              "url": "https://t.co/PtV27KrgBF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089504624978141308",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089504610415427584"
+          },
+          {
+            "media_key": "3_2089504617801699328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 211,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？x你的推流机制疑似有点极端了\n什么叫多了22w观看量，但是零个蓝勾用户观看啊\n真没救了啊 https://t.co/PtV27KrgBF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/hrt 26.7.31/什么都不会/向往自由/#推友情況通報/原创meme/顺直女 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "zhwevea"
+              },
+              {
+                "end": 75,
+                "start": 66,
+                "username": "qiuylove"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "XMN/Amoy",
+        "most_recent_tweet_id": "2089885630952345826",
+        "name": "🩷Akiramenai💫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8745,
+          "following_count": 1256,
+          "like_count": 215888,
+          "listed_count": 6,
+          "media_count": 1191,
+          "tweet_count": 8934
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-21T00:51:27.000Z",
+        "description": "生产日期：2004.5丨小证含糖丨 HRT since2026.1.17｜半个家长党｜不od不割手｜中度性瘾（？）｜坐标河北｜亮点会放一些亲身实践，后期可能会更新自拍｜欢迎同类互fo（没看见的话私我私我喵）｜",
+        "id": "2013776155166539776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089648245588828616",
+        "name": "琪露诺🍥",
+        "pinned_tweet_id": "2060153159570641397",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2013776155166539776/1768957645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013776536395227136/JifqNwkN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1327,
+          "following_count": 563,
+          "like_count": 2499,
+          "listed_count": 4,
+          "media_count": 1318,
+          "tweet_count": 2234
+        },
+        "url": "",
+        "username": "l3010045822",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

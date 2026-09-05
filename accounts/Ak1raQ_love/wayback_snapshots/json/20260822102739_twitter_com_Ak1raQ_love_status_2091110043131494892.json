@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2091109134506606626",
+    "created_at": "2026-08-22T10:27:39.000Z",
+    "display_text_range": [
+      14,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T11:27:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091110043131494892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1813188041793761280",
+          "start": 0,
+          "username": "lightboat111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091110043131494892",
+    "in_reply_to_user_id": "1813188041793761280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091109134506606626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lightboat111 那就留下来（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2091109134506606626",
+        "created_at": "2026-08-22T10:27:39.000Z",
+        "display_text_range": [
+          14,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T11:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091110043131494892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813188041793761280",
+              "start": 0,
+              "username": "lightboat111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091110043131494892",
+        "in_reply_to_user_id": "1813188041793761280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091109134506606626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lightboat111 那就留下来（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813188041793761280",
+        "conversation_id": "2091109134506606626",
+        "created_at": "2026-08-22T10:24:03.000Z",
+        "display_text_range": [
+          0,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T11:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091109134506606626"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091109134506606626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我已经阴暗到看见推友简介里说“常驻某某地”都会羡慕的程度了。因为学校所在的城市太发达了，只有上学的时候才会在，而原生城市太封建了，我确信自己一定不会回去。完全不知道毕业之后会在哪里，没有一个常驻的地点的话，真的感觉没办法发展社交😶"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/hrt 26.7.31/什么都不会/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 62,
+                "start": 54,
+                "username": "zhwevea"
+              },
+              {
+                "end": 76,
+                "start": 67,
+                "username": "qiuylove"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "鹭岛",
+        "most_recent_tweet_id": "2091110043131494892",
+        "name": "🩷Akiramenai💫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8840,
+          "following_count": 1275,
+          "like_count": 217979,
+          "listed_count": 6,
+          "media_count": 1217,
+          "tweet_count": 9064
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-16T12:25:01.000Z",
+        "description": "05/177/60，infp/天秤/🍥2025.10.5/喜欢涩涩、文学、网文、音乐/王者、洛克王国页游和手游、鸣潮、音游。\n一个尝试@lightship111\n跟风一个匿名信箱https://t.co/4cfDhoA5GZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "lightship111"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/lightboat111",
+                "end": 112,
+                "expanded_url": "https://ngl.link/lightboat111",
+                "start": 89,
+                "url": "https://t.co/4cfDhoA5GZ"
+              }
+            ]
+          }
+        },
+        "id": "1813188041793761280",
+        "is_identity_verified": false,
+        "location": "月亮之上",
+        "most_recent_tweet_id": "2091109134506606626",
+        "name": "轻舟🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1994693420875493416",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931226453334712320/c0pIs-rI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 1080,
+          "like_count": 1584,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 1010
+        },
+        "url": "",
+        "username": "lightboat111",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

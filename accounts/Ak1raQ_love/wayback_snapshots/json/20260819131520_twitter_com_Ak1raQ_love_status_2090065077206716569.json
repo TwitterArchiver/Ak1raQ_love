@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2089997662540157152",
+    "created_at": "2026-08-19T13:15:20.000Z",
+    "display_text_range": [
+      11,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T14:15:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090065077206716569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1852686868846092288",
+          "start": 0,
+          "username": "TL_Xingyi"
+        }
+      ],
+      "urls": [
+        {
+          "description": "A FOSS Twitter follower analysis app that outperforms paid alternatives. - MtFloveU/autonitor",
+          "display_url": "github.com/MtFloveU/auton…",
+          "end": 34,
+          "expanded_url": "https://github.com/MtFloveU/autonitor",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2090007501123272704/qu3Xky58?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2090007501123272704/qu3Xky58?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 11,
+          "status": 200,
+          "title": "GitHub - MtFloveU/autonitor: A FOSS Twitter follower analysis app that outperforms paid alternatives.",
+          "unwound_url": "https://github.com/MtFloveU/autonitor",
+          "url": "https://t.co/RJC1EMjyfp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090065077206716569",
+    "in_reply_to_user_id": "1852686868846092288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090015010206728257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@TL_Xingyi https://t.co/RJC1EMjyfp\n（现在还没正式发出..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2089997662540157152",
+        "created_at": "2026-08-19T13:15:20.000Z",
+        "display_text_range": [
+          11,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T14:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090065077206716569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1852686868846092288",
+              "start": 0,
+              "username": "TL_Xingyi"
+            }
+          ],
+          "urls": [
+            {
+              "description": "A FOSS Twitter follower analysis app that outperforms paid alternatives. - MtFloveU/autonitor",
+              "display_url": "github.com/MtFloveU/auton…",
+              "end": 34,
+              "expanded_url": "https://github.com/MtFloveU/autonitor",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2090007501123272704/qu3Xky58?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2090007501123272704/qu3Xky58?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 11,
+              "status": 200,
+              "title": "GitHub - MtFloveU/autonitor: A FOSS Twitter follower analysis app that outperforms paid alternatives.",
+              "unwound_url": "https://github.com/MtFloveU/autonitor",
+              "url": "https://t.co/RJC1EMjyfp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090065077206716569",
+        "in_reply_to_user_id": "1852686868846092288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090015010206728257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@TL_Xingyi https://t.co/RJC1EMjyfp\n（现在还没正式发出..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852686868846092288",
+        "conversation_id": "2089997662540157152",
+        "created_at": "2026-08-19T09:56:23.000Z",
+        "display_text_range": [
+          13,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T10:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090015010206728257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090015010206728257",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 379,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089997662540157152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Ak1raQ_love 弱弱地问一下这是什么客户端"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/hrt 26.7.31/什么都不会/向往自由/#推友情況通報/原创meme/顺直女 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "zhwevea"
+              },
+              {
+                "end": 75,
+                "start": 66,
+                "username": "qiuylove"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "XMN/Amoy",
+        "most_recent_tweet_id": "2090065077206716569",
+        "name": "🩷Akiramenai💫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8764,
+          "following_count": 1250,
+          "like_count": 216182,
+          "listed_count": 6,
+          "media_count": 1206,
+          "tweet_count": 8969
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-02T12:25:58.000Z",
+        "description": "5:30the car missin'  HRT：2025.12.9 无证💕\n马列毛主义/从马列角度支持LGBT无产化/偏新左？/现代毛派/反修正主义/反资反帝/脱产学生学习理论克服小资性。重度抑郁/中度焦虑。 友跨🏳️‍⚧️同类互fo喵。互fo都会回的喵😺如果你不知道自己为什么被ban，参见置顶简介\n欢迎蓝V互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xqzxmarxismclub.com",
+                "end": 23,
+                "expanded_url": "http://xqzxmarxismclub.com",
+                "start": 0,
+                "url": "https://t.co/slB5soWybu"
+              }
+            ]
+          }
+        },
+        "id": "1852686868846092288",
+        "is_identity_verified": true,
+        "location": "Roermond, Nederland",
+        "most_recent_tweet_id": "2090026463437414570",
+        "name": "Physic530🏳️‍⚧️🍥☭",
+        "pinned_tweet_id": "2076410044397314185",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852686868846092288/1778247523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021662006047338496/LzTR6pRS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 572,
+          "like_count": 8820,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 1331
+        },
+        "url": "https://t.co/slB5soWybu",
+        "username": "TL_Xingyi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

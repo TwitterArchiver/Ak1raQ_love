@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2094232556887753095",
+    "created_at": "2026-08-31T01:15:25.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T02:15:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094232556887753095"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ak1raQ_love/st…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/Ak1raQ_love/status/2094220317204070457",
+          "start": 42,
+          "url": "https://t.co/RtR0hYlI9d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094232556887753095",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094220317204070457",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "这个机制有意思，貌似chat和X账号是有一定独立的，谁能借我个被封的账号我研究研究 https://t.co/RtR0hYlI9d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1385,
+        "media_key": "3_2094220314649776128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRAqR9AbUAAVX6y.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2094232556887753095",
+        "created_at": "2026-08-31T01:15:25.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T02:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094232556887753095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ak1raQ_love/st…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/Ak1raQ_love/status/2094220317204070457",
+              "start": 42,
+              "url": "https://t.co/RtR0hYlI9d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094232556887753095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094220317204070457",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "这个机制有意思，貌似chat和X账号是有一定独立的，谁能借我个被封的账号我研究研究 https://t.co/RtR0hYlI9d"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094220314649776128"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2094220317204070457",
+        "created_at": "2026-08-31T00:26:47.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T01:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094220317204070457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KV86L1ibnH",
+              "end": 43,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2094220317204070457/photo/1",
+              "media_key": "3_2094220314649776128",
+              "start": 20,
+              "url": "https://t.co/KV86L1ibnH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094220317204070457",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094220314649776128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 231,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "666这个XChat能给被封号的人私信 https://t.co/KV86L1ibnH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/什么都不会/向往自由/banner是黄厝海滩/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 28,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 56,
+                "start": 48,
+                "username": "zhwevea"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "username": "qiuylove"
+              },
+              {
+                "end": 88,
+                "start": 74,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "鹭岛",
+        "most_recent_tweet_id": "2094232556887753095",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2092116629694058989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8835,
+          "following_count": 1284,
+          "like_count": 222914,
+          "listed_count": 6,
+          "media_count": 1281,
+          "tweet_count": 9343
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

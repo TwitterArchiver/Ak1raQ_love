@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088985264765186049"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2088982840839229864",
+    "created_at": "2026-08-16T13:44:33.000Z",
+    "display_text_range": [
+      0,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T14:44:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088985267734737056"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vt5qgO9ggx",
+          "end": 59,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2088985267734737056/photo/1",
+          "media_key": "3_2088985264765186049",
+          "start": 36,
+          "url": "https://t.co/vt5qgO9ggx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088985267734737056",
+    "in_reply_to_user_id": "1663066129923981312",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088985264765186049"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088982983839764642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "按住电源键和音量下就重启进系统了，问题在于没退出9008，吓死我了wc https://t.co/vt5qgO9ggx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088985264765186049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2RB8dasAEVL7H.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2088982980941463552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2O9AjaQAA9o9y.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088985264765186049"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088982840839229864",
+        "created_at": "2026-08-16T13:44:33.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T14:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088985267734737056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vt5qgO9ggx",
+              "end": 59,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2088985267734737056/photo/1",
+              "media_key": "3_2088985264765186049",
+              "start": 36,
+              "url": "https://t.co/vt5qgO9ggx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088985267734737056",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088985264765186049"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088982983839764642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "按住电源键和音量下就重启进系统了，问题在于没退出9008，吓死我了wc https://t.co/vt5qgO9ggx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088982980941463552"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088982840839229864",
+        "created_at": "2026-08-16T13:35:29.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T14:35:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088982983839764642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yYuHKEy3Y9",
+              "end": 36,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2088982983839764642/photo/1",
+              "media_key": "3_2088982980941463552",
+              "start": 13,
+              "url": "https://t.co/yYuHKEy3Y9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088982983839764642",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2088982980941463552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088982840839229864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Unrecognized https://t.co/yYuHKEy3Y9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/hrt 26.7.31/什么都不会/向往自由/#推友情況通報/原创meme/顺直女 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "zhwevea"
+              },
+              {
+                "end": 75,
+                "start": 66,
+                "username": "qiuylove"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "XMN/Amoy",
+        "most_recent_tweet_id": "2088985267734737056",
+        "name": "🩷Akiramenai💫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8767,
+          "following_count": 1251,
+          "like_count": 214820,
+          "listed_count": 6,
+          "media_count": 1173,
+          "tweet_count": 8862
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

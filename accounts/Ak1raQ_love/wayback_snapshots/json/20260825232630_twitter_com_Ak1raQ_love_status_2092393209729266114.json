@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2092320641257292077",
+    "created_at": "2026-08-25T23:26:30.000Z",
+    "display_text_range": [
+      10,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T00:26:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092393209729266114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2072368610673324032",
+          "start": 0,
+          "username": "ayyyyano"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092393209729266114",
+    "in_reply_to_user_id": "2072368610673324032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092320641257292077",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ayyyyano 微信半天吧，但我支付宝被拒了😭"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2092320641257292077].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2092320641257292077",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2092320641257292077"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2092320641257292077",
+        "created_at": "2026-08-25T23:26:30.000Z",
+        "display_text_range": [
+          10,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T00:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092393209729266114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2072368610673324032",
+              "start": 0,
+              "username": "ayyyyano"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092393209729266114",
+        "in_reply_to_user_id": "2072368610673324032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092320641257292077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayyyyano 微信半天吧，但我支付宝被拒了😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/hrt 26.7.31/什么都不会/向往自由/准大一/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 38,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "zhwevea"
+              },
+              {
+                "end": 80,
+                "start": 71,
+                "username": "qiuylove"
+              },
+              {
+                "end": 98,
+                "start": 84,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "鹭岛",
+        "most_recent_tweet_id": "2092393209729266114",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2092116629694058989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8851,
+          "following_count": 1280,
+          "like_count": 219688,
+          "listed_count": 6,
+          "media_count": 1243,
+          "tweet_count": 9171
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-01T17:17:25.000Z",
+        "description": "「幸せ」ってなんだか不思議。\n明日のこと、好きになれる。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/ayyyyano",
+                "end": 23,
+                "expanded_url": "https://github.com/ayyyyano",
+                "start": 0,
+                "url": "https://t.co/8vzZlC12p2"
+              }
+            ]
+          }
+        },
+        "id": "2072368610673324032",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2072706636339372269",
+        "name": "Irony🌸",
+        "pinned_tweet_id": "2083202847769006282",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2072368610673324032/1786851528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083263947172667392/-_BuzTe4_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 17,
+          "like_count": 1718,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 225
+        },
+        "url": "https://t.co/8vzZlC12p2",
+        "username": "ayyyyano",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

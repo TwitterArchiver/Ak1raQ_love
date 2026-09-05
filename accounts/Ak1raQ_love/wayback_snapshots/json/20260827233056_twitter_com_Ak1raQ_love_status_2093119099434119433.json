@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2093044013427548418",
+    "created_at": "2026-08-27T23:30:56.000Z",
+    "display_text_range": [
+      12,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T00:30:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093119099434119433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1393065220323647494",
+          "start": 0,
+          "username": "dangshuang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093119099434119433",
+    "in_reply_to_user_id": "1393065220323647494",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093044013427548418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dangshuang 这是哪家的esim"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2852,
+        "media_key": "3_2093044006842458112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQv8b08a4AAXqru.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2093044013427548418",
+        "created_at": "2026-08-27T23:30:56.000Z",
+        "display_text_range": [
+          12,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T00:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093119099434119433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1393065220323647494",
+              "start": 0,
+              "username": "dangshuang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093119099434119433",
+        "in_reply_to_user_id": "1393065220323647494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093044013427548418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dangshuang 这是哪家的esim"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093044006842458112"
+          ]
+        },
+        "author_id": "1393065220323647494",
+        "conversation_id": "2093044013427548418",
+        "created_at": "2026-08-27T18:32:34.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T19:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093044013427548418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iO3MlfsiZ8",
+              "end": 28,
+              "expanded_url": "https://x.com/dangshuang/status/2093044013427548418/photo/1",
+              "media_key": "3_2093044006842458112",
+              "start": 5,
+              "url": "https://t.co/iO3MlfsiZ8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093044013427548418",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093044006842458112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 206,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "套餐的神 https://t.co/iO3MlfsiZ8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/hrt 26.7.31/什么都不会/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 62,
+                "start": 54,
+                "username": "zhwevea"
+              },
+              {
+                "end": 76,
+                "start": 67,
+                "username": "qiuylove"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "鹭岛",
+        "most_recent_tweet_id": "2093119099434119433",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2092116629694058989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8834,
+          "following_count": 1281,
+          "like_count": 220886,
+          "listed_count": 6,
+          "media_count": 1261,
+          "tweet_count": 9233
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-14T04:46:55.000Z",
+        "description": "Life is so wonderful…/只精通4g63和2jz其他发动机别问我我不知道",
+        "id": "1393065220323647494",
+        "is_identity_verified": false,
+        "location": "Kuala Lumpur",
+        "most_recent_tweet_id": "2093046880620187822",
+        "name": "霜",
+        "pinned_tweet_id": "1864318595834237066",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1393065220323647494/1661589176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053918733442420736/VsXftETk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1499,
+          "following_count": 607,
+          "like_count": 7791,
+          "listed_count": 6,
+          "media_count": 821,
+          "tweet_count": 6794
+        },
+        "url": "",
+        "username": "dangshuang",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

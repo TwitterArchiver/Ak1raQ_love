@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2087871337339703724",
+    "created_at": "2026-08-14T04:26:44.000Z",
+    "display_text_range": [
+      8,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T05:26:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088120112138055689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1575956145159622656",
+          "start": 0,
+          "username": "IctyeP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088120112138055689",
+    "in_reply_to_user_id": "1575956145159622656",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088057799922393592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@IctyeP 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2087871337339703724",
+        "created_at": "2026-08-14T04:26:44.000Z",
+        "display_text_range": [
+          8,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T05:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088120112138055689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1575956145159622656",
+              "start": 0,
+              "username": "IctyeP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088120112138055689",
+        "in_reply_to_user_id": "1575956145159622656",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088057799922393592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@IctyeP 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1575956145159622656",
+        "conversation_id": "2087871337339703724",
+        "created_at": "2026-08-14T00:19:08.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T01:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088057799922393592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088057799922393592",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087871337339703724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Ak1raQ_love 蹭蹭~~~"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/hrt 26.7.31/什么都不会/向往自由/#推友情況通報/原创meme/顺直女 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "zhwevea"
+              },
+              {
+                "end": 75,
+                "start": 66,
+                "username": "qiuylove"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "XMN",
+        "most_recent_tweet_id": "2088120112138055689",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8752,
+          "following_count": 1244,
+          "like_count": 214149,
+          "listed_count": 6,
+          "media_count": 1155,
+          "tweet_count": 8765
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2022-09-30T21:10:17.000Z",
+        "description": "VTuber者雅好音律之戏善东方及街机射游也属工作室曰@IctyeOffice/@icnotye蓝空社号https://t.co/juZrLFU9au禁转载也眩度千分者又号@th_firest_cute也自称楚天寻萧又曰@IctyeP禁言以脚本驱之时有不足率若误禁诉于ictyedaily@gmail.com也",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "IctyeOffice"
+              },
+              {
+                "end": 48,
+                "start": 40,
+                "username": "icnotye"
+              },
+              {
+                "end": 101,
+                "start": 86,
+                "username": "th_firest_cute"
+              },
+              {
+                "end": 117,
+                "start": 110,
+                "username": "IctyeP"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ictyep.bsky.social",
+                "end": 75,
+                "expanded_url": "http://ictyep.bsky.social",
+                "start": 52,
+                "url": "https://t.co/juZrLFU9au"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "northgreen.github.io",
+                "end": 23,
+                "expanded_url": "http://northgreen.github.io/",
+                "start": 0,
+                "url": "https://t.co/CluStjstAr"
+              }
+            ]
+          }
+        },
+        "id": "1575956145159622656",
+        "is_identity_verified": false,
+        "location": "Gensokyo",
+        "most_recent_tweet_id": "2088111844141773256",
+        "name": "楚天寻萧~123❤️🌕（Ictye）",
+        "pinned_tweet_id": "2061790397979070868",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1575956145159622656/1756314873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051625461655162880/Wv5oVRV-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1164,
+          "following_count": 635,
+          "like_count": 30220,
+          "listed_count": 8,
+          "media_count": 2097,
+          "tweet_count": 16050
+        },
+        "url": "https://t.co/CluStjstAr",
+        "username": "IctyeP",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

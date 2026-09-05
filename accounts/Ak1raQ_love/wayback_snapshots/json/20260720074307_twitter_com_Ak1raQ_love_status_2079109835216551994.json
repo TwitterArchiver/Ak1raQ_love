@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2079051249551622162",
+    "created_at": "2026-07-20T07:43:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T08:43:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079109835216551994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1444347089308184581",
+          "start": 0,
+          "username": "HellKillerEX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079109835216551994",
+    "in_reply_to_user_id": "1444347089308184581",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079108507765526927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HellKillerEX 有点损耗但能接受，下载速度130Mbps"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2079051249551622162",
+        "created_at": "2026-07-20T07:43:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T08:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079109835216551994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1444347089308184581",
+              "start": 0,
+              "username": "HellKillerEX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079109835216551994",
+        "in_reply_to_user_id": "1444347089308184581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079108507765526927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HellKillerEX 有点损耗但能接受，下载速度130Mbps"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1444347089308184581",
+        "conversation_id": "2079051249551622162",
+        "created_at": "2026-07-20T07:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T08:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079108507765526927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079108507765526927",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079051249551622162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak1raQ_love 這個透明代理在手機上能跑滿速度嗎❓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/留长发中/无糖/向往自由/原创&二创meme/秋月姐姐 @qiuylove/阿堇🕯️@Akatsuki_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "qiuylove"
+              },
+              {
+                "end": 60,
+                "start": 47,
+                "username": "Akatsuki_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "廈門 Amoy",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 1066,
+          "like_count": 201735,
+          "listed_count": 2,
+          "media_count": 986,
+          "tweet_count": 7963
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-02T17:02:52.000Z",
+        "description": "♂️です|⚧️🏳️‍⚧️ friendly|昔からの激推し:🍀@shino_nome22|他最推し:🐇🎀@rin_risu2/🐤@kc_2_cos/🌸@n_mikitani/⋈@hiiragi_yuka530/🍫💪@Chocolat_cos0/🌸🌸@angelia_lapin/🍑@tmmt_san",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 31,
+                "username": "shino_nome22"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "rin_risu2"
+              },
+              {
+                "end": 73,
+                "start": 64,
+                "username": "kc_2_cos"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "n_mikitani"
+              },
+              {
+                "end": 104,
+                "start": 88,
+                "username": "hiiragi_yuka530"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Chocolat_cos0"
+              },
+              {
+                "end": 138,
+                "start": 124,
+                "username": "angelia_lapin"
+              },
+              {
+                "end": 149,
+                "start": 140,
+                "username": "tmmt_san"
+              }
+            ]
+          }
+        },
+        "id": "1444347089308184581",
+        "name": "ℝ𝕖𝕥𝕣𝕚𝕓𝕦𝕥𝕚𝕠𝕟(Elder Luminescence)♂️🩷🍀🐇",
+        "pinned_tweet_id": "2063168393101079007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007387585484832768/divYTE2X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1652,
+          "following_count": 7499,
+          "like_count": 21438,
+          "listed_count": 5,
+          "media_count": 1305,
+          "tweet_count": 25768
+        },
+        "url": "",
+        "username": "HellKillerEX",
+        "verified": false
+      }
+    ]
+  }
+}

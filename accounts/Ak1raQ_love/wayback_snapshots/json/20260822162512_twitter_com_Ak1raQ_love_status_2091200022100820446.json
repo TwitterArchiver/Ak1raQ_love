@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2091178444365386154",
+    "created_at": "2026-08-22T16:25:12.000Z",
+    "display_text_range": [
+      16,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T17:25:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091200022100820446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2090003775838932992",
+          "start": 0,
+          "username": "hjynya"
+        },
+        {
+          "end": 15,
+          "id": "2091177433240416256",
+          "start": 8,
+          "username": "Lfynya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091200022100820446",
+    "in_reply_to_user_id": "2090003775838932992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091178444365386154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hjynya @Lfynya 回我fo🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2091178444365386154",
+        "created_at": "2026-08-22T16:25:12.000Z",
+        "display_text_range": [
+          16,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T17:25:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091200022100820446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2090003775838932992",
+              "start": 0,
+              "username": "hjynya"
+            },
+            {
+              "end": 15,
+              "id": "2091177433240416256",
+              "start": 8,
+              "username": "Lfynya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091200022100820446",
+        "in_reply_to_user_id": "2090003775838932992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091178444365386154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hjynya @Lfynya 回我fo🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090003775838932992",
+        "conversation_id": "2091178444365386154",
+        "created_at": "2026-08-22T14:59:28.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T15:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091178444365386154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2091177433240416256",
+              "start": 7,
+              "username": "Lfynya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091178444365386154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新建了一个账号@lfynya 这个号用美国原生ip注册的，被封禁的概率应该是最低的…吧？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/hrt 26.7.31/什么都不会/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 62,
+                "start": 54,
+                "username": "zhwevea"
+              },
+              {
+                "end": 76,
+                "start": 67,
+                "username": "qiuylove"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "鹭岛",
+        "most_recent_tweet_id": "2091200022100820446",
+        "name": "🩷Akiramenai💫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8840,
+          "following_count": 1276,
+          "like_count": 218090,
+          "listed_count": 6,
+          "media_count": 1218,
+          "tweet_count": 9072
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T09:13:39.000Z",
+        "description": "ffy 本人，寻回 fo 中😭\n｜友跨｜CN人｜\n我永远喜欢着大家😭\n二号机@lyyynya\n三号机@lfynya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 38,
+                "username": "lyyynya"
+              },
+              {
+                "end": 57,
+                "start": 50,
+                "username": "lfynya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ffynya",
+                "end": 23,
+                "expanded_url": "https://t.me/ffynya",
+                "start": 0,
+                "url": "https://t.co/J9Xj8iUafb"
+              }
+            ]
+          }
+        },
+        "id": "2090003775838932992",
+        "is_identity_verified": false,
+        "location": "earth",
+        "most_recent_tweet_id": "2091195236244770880",
+        "name": "🫨哈基 y 喵🫨",
+        "pinned_tweet_id": "2090093267136524607",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090003775838932992/1787131289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090464316407627776/Lkv5qQIa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 28,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 40
+        },
+        "url": "https://t.co/J9Xj8iUafb",
+        "username": "hjynya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-22T14:56:07.000Z",
+        "description": "｜友跨｜二次元｜游戏｜\n我喜欢你们所有人🥺🥺\n第一账户@ffynya被锁\n分享我觉得有意思的东西",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 27,
+                "username": "ffynya"
+              }
+            ]
+          }
+        },
+        "id": "2091177433240416256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091189624177868900",
+        "name": "Lfy喵",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2091177433240416256/1787412760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091177716032937984/cTzWVkC6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 14,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "Lfynya",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

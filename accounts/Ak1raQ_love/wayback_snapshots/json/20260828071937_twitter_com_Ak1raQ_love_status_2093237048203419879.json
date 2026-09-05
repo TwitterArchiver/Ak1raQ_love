@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093237044080463872",
+        "3_2093237042599841792"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2093237048203419879",
+    "created_at": "2026-08-28T07:19:37.000Z",
+    "display_text_range": [
+      0,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T08:19:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093237048203419879"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 0,
+          "tag": "推友情況通報"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/orHRR0xPJn",
+          "end": 89,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2093237048203419879/photo/1",
+          "media_key": "3_2093237044080463872",
+          "start": 66,
+          "url": "https://t.co/orHRR0xPJn"
+        },
+        {
+          "display_url": "pic.x.com/orHRR0xPJn",
+          "end": 89,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2093237048203419879/photo/1",
+          "media_key": "3_2093237042599841792",
+          "start": 66,
+          "url": "https://t.co/orHRR0xPJn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093237048203419879",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2093237044080463872"
+      },
+      {
+        "media_key": "3_2093237042599841792"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "#推友情況通報 账号被冻结\n小星紡ーこほしつむ\nkohoshitsumu\n------\n语汐汐喵🍥\nYuXi520LingLing https://t.co/orHRR0xPJn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2093237044080463872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQysAEsa0AAkYsL.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2093237042599841792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQyr__LaUAAqDZ2.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093237044080463872",
+            "3_2093237042599841792"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2093237048203419879",
+        "created_at": "2026-08-28T07:19:37.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T08:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093237048203419879"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "推友情況通報"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/orHRR0xPJn",
+              "end": 89,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2093237048203419879/photo/1",
+              "media_key": "3_2093237044080463872",
+              "start": 66,
+              "url": "https://t.co/orHRR0xPJn"
+            },
+            {
+              "display_url": "pic.x.com/orHRR0xPJn",
+              "end": 89,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2093237048203419879/photo/1",
+              "media_key": "3_2093237042599841792",
+              "start": 66,
+              "url": "https://t.co/orHRR0xPJn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093237048203419879",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093237044080463872"
+          },
+          {
+            "media_key": "3_2093237042599841792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "#推友情況通報 账号被冻结\n小星紡ーこほしつむ\nkohoshitsumu\n------\n语汐汐喵🍥\nYuXi520LingLing https://t.co/orHRR0xPJn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/什么都不会/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 16,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "zhwevea"
+              },
+              {
+                "end": 58,
+                "start": 49,
+                "username": "qiuylove"
+              },
+              {
+                "end": 76,
+                "start": 62,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "鹭岛",
+        "most_recent_tweet_id": "2093237048203419879",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2092116629694058989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8835,
+          "following_count": 1282,
+          "like_count": 221156,
+          "listed_count": 6,
+          "media_count": 1267,
+          "tweet_count": 9248
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

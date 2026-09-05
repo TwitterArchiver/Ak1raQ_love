@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2088119524361142467",
+    "created_at": "2026-08-14T04:58:38.000Z",
+    "display_text_range": [
+      14,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T05:58:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088128138567880992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1928705633135767600",
+          "start": 0,
+          "username": "Transgender_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088128138567880992",
+    "in_reply_to_user_id": "1928705633135767600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088119524361142467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Transgender_ 100%诈骗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2088119507751763968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPp9oQQbgAAUpH-.jpg",
+        "width": 1832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2088119524361142467",
+        "created_at": "2026-08-14T04:58:38.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T05:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088128138567880992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1928705633135767600",
+              "start": 0,
+              "username": "Transgender_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088128138567880992",
+        "in_reply_to_user_id": "1928705633135767600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088119524361142467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Transgender_ 100%诈骗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088119507751763968"
+          ]
+        },
+        "author_id": "1928705633135767600",
+        "conversation_id": "2088119524361142467",
+        "created_at": "2026-08-14T04:24:24.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T05:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088119524361142467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J3J0wtO7lI",
+              "end": 33,
+              "expanded_url": "https://x.com/Transgender_/status/2088119524361142467/photo/1",
+              "media_key": "3_2088119507751763968",
+              "start": 10,
+              "url": "https://t.co/J3J0wtO7lI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088119524361142467",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088119507751763968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个是不是诈骗的🤨 https://t.co/J3J0wtO7lI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/hrt 26.7.31/什么都不会/向往自由/#推友情況通報/原创meme/顺直女 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "zhwevea"
+              },
+              {
+                "end": 75,
+                "start": 66,
+                "username": "qiuylove"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "XMN",
+        "most_recent_tweet_id": "2088128138567880992",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8757,
+          "following_count": 1244,
+          "like_count": 214169,
+          "listed_count": 6,
+          "media_count": 1156,
+          "tweet_count": 8770
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常 | \n|喜欢我的话点个关注嘛 😋 求求你啦~\n|@prisetwinkle | http://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "prisetwinkle"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 155,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 133,
+                "url": "http://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/prisetwinkle",
+                "end": 23,
+                "expanded_url": "http://telegram.me/prisetwinkle",
+                "start": 0,
+                "url": "https://t.co/RUElufwCvi"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "is_identity_verified": true,
+        "location": "湖北潜江",
+        "most_recent_tweet_id": "2088122002183983294",
+        "name": "芸光酱PriseTwinkle 🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1928705633135767600/1785058674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071033750344060928/5PLEuKIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1847,
+          "following_count": 24,
+          "like_count": 2783,
+          "listed_count": 8,
+          "media_count": 259,
+          "tweet_count": 1155
+        },
+        "url": "https://t.co/RUElufwCvi",
+        "username": "Transgender_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

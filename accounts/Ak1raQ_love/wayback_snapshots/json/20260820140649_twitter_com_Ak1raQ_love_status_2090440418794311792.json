@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2090078501944922590",
+    "created_at": "2026-08-20T14:06:49.000Z",
+    "display_text_range": [
+      13,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T15:06:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090440418794311792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2053155981266407424",
+          "start": 0,
+          "username": "ang_zhe2288"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090440418794311792",
+    "in_reply_to_user_id": "2053155981266407424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090078501944922590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ang_zhe2288 如果在外地上大学的话其实可以不用在意家里面同不同意的啦，不同意不接受就偷偷出嘛，都是自己的事情呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2090078501944922590",
+        "created_at": "2026-08-20T14:06:49.000Z",
+        "display_text_range": [
+          13,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T15:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090440418794311792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2053155981266407424",
+              "start": 0,
+              "username": "ang_zhe2288"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090440418794311792",
+        "in_reply_to_user_id": "2053155981266407424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090078501944922590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ang_zhe2288 如果在外地上大学的话其实可以不用在意家里面同不同意的啦，不同意不接受就偷偷出嘛，都是自己的事情呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053155981266407424",
+        "conversation_id": "2090078501944922590",
+        "created_at": "2026-08-19T14:08:41.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T15:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090078501944922590"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090078501944922590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1202,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天哭了一天，更家长说想出cos，根本不同意，说学习重要，你上大学就是为了学习的，哭了睡睡醒接着哭，宁可接受我是同性恋（他们还认为我是男的）也不接受我出女装"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/hrt 26.7.31/什么都不会/向往自由/#推友情況通報/原创meme/顺直女 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "zhwevea"
+              },
+              {
+                "end": 75,
+                "start": 66,
+                "username": "qiuylove"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "XMN/Amoy",
+        "most_recent_tweet_id": "2090440418794311792",
+        "name": "🩷Akiramenai💫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8821,
+          "following_count": 1257,
+          "like_count": 216620,
+          "listed_count": 6,
+          "media_count": 1210,
+          "tweet_count": 8989
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-09T16:52:06.000Z",
+        "description": "07年 大一 187/73  友跨 深柜 无证含糖26/5/4 四爱受 双相 住校  纯M恋痛 羡慕一切 把推当朋友圈发，不要嫌我烦谢谢喵 在外地上学。",
+        "id": "2053155981266407424",
+        "is_identity_verified": false,
+        "location": "类固醇星球",
+        "most_recent_tweet_id": "2090431117908431061",
+        "name": "䣼了不好吃",
+        "pinned_tweet_id": "2074457464624595182",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053155981266407424/1780766233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088223858092642304/SNrkHaDy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 688,
+          "like_count": 506,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 279
+        },
+        "url": "",
+        "username": "ang_zhe2288",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

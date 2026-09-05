@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2089363321334161883",
+    "created_at": "2026-08-17T14:46:48.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T15:46:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089363321334161883"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DriftVPN/statu…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/DriftVPN/status/2088975427184275728",
+          "start": 6,
+          "url": "https://t.co/127rycpZMh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089363321334161883",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088975427184275728",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？这啥玩意 https://t.co/127rycpZMh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2089363321334161883",
+        "created_at": "2026-08-17T14:46:48.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T15:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089363321334161883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DriftVPN/statu…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/DriftVPN/status/2088975427184275728",
+              "start": 6,
+              "url": "https://t.co/127rycpZMh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089363321334161883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088975427184275728",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？这啥玩意 https://t.co/127rycpZMh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "767144354",
+        "conversation_id": "2088975427184275728",
+        "created_at": "2026-08-16T13:05:27.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T14:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088975427184275728"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088975427184275728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 325225,
+          "like_count": 109,
+          "quote_count": 5,
+          "reply_count": 27,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有的线路，尝一口就知道不一样。\n\n别说，这个味……网速真不错。🐂"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/hrt 26.7.31/什么都不会/向往自由/#推友情況通報/原创meme/顺直女 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "zhwevea"
+              },
+              {
+                "end": 75,
+                "start": 66,
+                "username": "qiuylove"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "XMN/Amoy",
+        "most_recent_tweet_id": "2089363321334161883",
+        "name": "🩷Akiramenai💫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8759,
+          "following_count": 1250,
+          "like_count": 215126,
+          "listed_count": 6,
+          "media_count": 1180,
+          "tweet_count": 8890
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-08-19T07:47:55.000Z",
+        "description": "UK-based VPN built for privacy, speed & freedom. Bypass censorship. Stay anonymous. Browse without limits.\ncontact us : https://t.co/E7eTysSbG9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/DriftVPN_UK",
+                "end": 143,
+                "expanded_url": "https://telegram.me/DriftVPN_UK",
+                "start": 120,
+                "url": "https://t.co/E7eTysSbG9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "driftvpn.uk",
+                "end": 23,
+                "expanded_url": "https://driftvpn.uk/",
+                "start": 0,
+                "url": "https://t.co/DHofVsv0E9"
+              }
+            ]
+          }
+        },
+        "id": "767144354",
+        "is_identity_verified": false,
+        "location": "London",
+        "most_recent_tweet_id": "2089362744042557650",
+        "name": "DriftVPN",
+        "pinned_tweet_id": "2088656902502666509",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/767144354/1776668362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953483351987281920/F5IrYbhH_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109707,
+          "following_count": 3,
+          "like_count": 81,
+          "listed_count": 662,
+          "media_count": 8206,
+          "tweet_count": 45132
+        },
+        "url": "https://t.co/DHofVsv0E9",
+        "username": "DriftVPN",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

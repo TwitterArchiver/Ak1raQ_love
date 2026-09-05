@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088215507904196608"
+      ],
+      "media_source_tweet_id": [
+        "2088215510827557025"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2088237972604768558",
+    "created_at": "2026-08-14T12:15:04.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T13:15:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088237972604768558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1663066129923981312",
+          "start": 3,
+          "username": "Ak1raQ_love"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WtSt1qairA",
+          "end": 66,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2088215510827557025/photo/1",
+          "media_key": "3_2088215507904196608",
+          "start": 43,
+          "url": "https://t.co/WtSt1qairA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088237972604768558",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088215507904196608"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088215510827557025",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ak1raQ_love: 汐眠tg变成最近上线了，但是似乎什么也没看.... https://t.co/WtSt1qairA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1134,
+        "media_key": "3_2088215507904196608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrU8MsXcAAHaFx.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088215507904196608"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2088215510827557025",
+        "created_at": "2026-08-14T10:45:49.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T11:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088215510827557025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WtSt1qairA",
+              "end": 49,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2088215510827557025/photo/1",
+              "media_key": "3_2088215507904196608",
+              "start": 26,
+              "url": "https://t.co/WtSt1qairA"
+            },
+            {
+              "display_url": "x.com/Ak1raQ_love/st…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/Ak1raQ_love/status/2087494318558773675",
+              "start": 50,
+              "url": "https://t.co/EwcxjuwtYy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088215510827557025",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088215507904196608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 309,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087494318558773675",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "汐眠tg变成最近上线了，但是似乎什么也没看.... https://t.co/WtSt1qairA https://t.co/EwcxjuwtYy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088215507904196608"
+          ],
+          "media_source_tweet_id": [
+            "2088215510827557025"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2088237972604768558",
+        "created_at": "2026-08-14T12:15:04.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T13:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088237972604768558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1663066129923981312",
+              "start": 3,
+              "username": "Ak1raQ_love"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WtSt1qairA",
+              "end": 66,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2088215510827557025/photo/1",
+              "media_key": "3_2088215507904196608",
+              "start": 43,
+              "url": "https://t.co/WtSt1qairA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088237972604768558",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088215507904196608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088215510827557025",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ak1raQ_love: 汐眠tg变成最近上线了，但是似乎什么也没看.... https://t.co/WtSt1qairA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/hrt 26.7.31/什么都不会/向往自由/#推友情況通報/原创meme/顺直女 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "zhwevea"
+              },
+              {
+                "end": 75,
+                "start": 66,
+                "username": "qiuylove"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "XMN",
+        "most_recent_tweet_id": "2088237972604768558",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8749,
+          "following_count": 1245,
+          "like_count": 214331,
+          "listed_count": 6,
+          "media_count": 1160,
+          "tweet_count": 8795
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

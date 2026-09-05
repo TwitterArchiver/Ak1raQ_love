@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2087871337339703724",
+    "created_at": "2026-08-14T04:25:50.000Z",
+    "display_text_range": [
+      17,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T05:25:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088119885624660054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1144647115030708224",
+          "start": 0,
+          "username": "nekotanko_shiro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088119885624660054",
+    "in_reply_to_user_id": "1144647115030708224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087934737189089388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@nekotanko_shiro 贴贴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2087871337339703724",
+        "created_at": "2026-08-14T04:25:50.000Z",
+        "display_text_range": [
+          17,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T05:25:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088119885624660054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1144647115030708224",
+              "start": 0,
+              "username": "nekotanko_shiro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088119885624660054",
+        "in_reply_to_user_id": "1144647115030708224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087934737189089388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@nekotanko_shiro 贴贴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1144647115030708224",
+        "conversation_id": "2087871337339703724",
+        "created_at": "2026-08-13T16:10:07.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T17:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087934737189089388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087934737189089388",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087871337339703724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Ak1raQ_love 貼貼喵🐱"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/hrt 26.7.31/什么都不会/向往自由/#推友情況通報/原创meme/顺直女 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "zhwevea"
+              },
+              {
+                "end": 75,
+                "start": 66,
+                "username": "qiuylove"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "XMN",
+        "most_recent_tweet_id": "2088119885624660054",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8752,
+          "following_count": 1244,
+          "like_count": 214148,
+          "listed_count": 6,
+          "media_count": 1155,
+          "tweet_count": 8763
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-06-28T16:41:53.000Z",
+        "description": "飴を喰うねこ/正在吃糖的一隻貓🍥🏳️‍⚧️\n2026/06/05 アンドロカー/安德卡 06/12 プロギノバ/補佳樂\n台灣華語/台語/日本語N1\n98碼農大貓 風景/星景/交通攝影\n可以叫我小白 白醬",
+        "id": "1144647115030708224",
+        "is_identity_verified": false,
+        "location": "そらの果て",
+        "most_recent_tweet_id": "2087973258465603604",
+        "name": "ねこたん-白🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1144647115030708224/1785685617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083124833509052416/38zTT0fA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 655,
+          "like_count": 6753,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 418
+        },
+        "url": "",
+        "username": "nekotanko_shiro",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

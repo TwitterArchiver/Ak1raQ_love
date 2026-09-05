@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090798131546066944",
+        "3_2090798131252441088"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2090476418576908571",
+    "created_at": "2026-08-21T13:48:15.000Z",
+    "display_text_range": [
+      30,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T14:48:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090798135048274015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1640917359493005313",
+          "start": 0,
+          "username": "shizukululu0721"
+        },
+        {
+          "end": 29,
+          "id": "2076897141830844416",
+          "start": 17,
+          "username": "GunandJason"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mWiG8UHp5r",
+          "end": 58,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2090798135048274015/photo/1",
+          "media_key": "3_2090798131546066944",
+          "start": 35,
+          "url": "https://t.co/mWiG8UHp5r"
+        },
+        {
+          "display_url": "pic.x.com/mWiG8UHp5r",
+          "end": 58,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2090798135048274015/photo/1",
+          "media_key": "3_2090798131252441088",
+          "start": 35,
+          "url": "https://t.co/mWiG8UHp5r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090798135048274015",
+    "in_reply_to_user_id": "1640917359493005313",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2090798131546066944"
+      },
+      {
+        "media_key": "3_2090798131252441088"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090758059564077174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shizukululu0721 @GunandJason 毁了喵😭 https://t.co/mWiG8UHp5r"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2090758059564077174].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2090758059564077174",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2090758059564077174"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090798131546066944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQQB0rfakAAj4en.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2090798131252441088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQQB0qZaMAAcdLc.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090798131546066944",
+            "3_2090798131252441088"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2090476418576908571",
+        "created_at": "2026-08-21T13:48:15.000Z",
+        "display_text_range": [
+          30,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T14:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090798135048274015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1640917359493005313",
+              "start": 0,
+              "username": "shizukululu0721"
+            },
+            {
+              "end": 29,
+              "id": "2076897141830844416",
+              "start": 17,
+              "username": "GunandJason"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mWiG8UHp5r",
+              "end": 58,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2090798135048274015/photo/1",
+              "media_key": "3_2090798131546066944",
+              "start": 35,
+              "url": "https://t.co/mWiG8UHp5r"
+            },
+            {
+              "display_url": "pic.x.com/mWiG8UHp5r",
+              "end": 58,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2090798135048274015/photo/1",
+              "media_key": "3_2090798131252441088",
+              "start": 35,
+              "url": "https://t.co/mWiG8UHp5r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090798135048274015",
+        "in_reply_to_user_id": "1640917359493005313",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090798131546066944"
+          },
+          {
+            "media_key": "3_2090798131252441088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090758059564077174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shizukululu0721 @GunandJason 毁了喵😭 https://t.co/mWiG8UHp5r"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/hrt 26.7.31/什么都不会/向往自由/#推友情況通報/原创meme/顺直女 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "zhwevea"
+              },
+              {
+                "end": 75,
+                "start": 66,
+                "username": "qiuylove"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "鹭岛",
+        "most_recent_tweet_id": "2090798135048274015",
+        "name": "🩷Akiramenai💫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8821,
+          "following_count": 1262,
+          "like_count": 217229,
+          "listed_count": 6,
+          "media_count": 1213,
+          "tweet_count": 9026
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-29T03:22:47.000Z",
+        "description": "ACG、交通迷、玩机｜xnn？｜友跨｜碎碎念✨｜贴贴喵～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Lulushizukuuu",
+                "end": 23,
+                "expanded_url": "https://t.me/Lulushizukuuu",
+                "start": 0,
+                "url": "https://t.co/SiaYlt7VQX"
+              }
+            ]
+          }
+        },
+        "id": "1640917359493005313",
+        "is_identity_verified": false,
+        "location": "SZV",
+        "most_recent_tweet_id": "2090029189869298078",
+        "name": "雨下るる",
+        "pinned_tweet_id": "2081594819928002664",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1640917359493005313/1770278755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089256914173779969/LJrgpZEu_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 1529,
+          "like_count": 2923,
+          "listed_count": 0,
+          "media_count": 215,
+          "tweet_count": 1792
+        },
+        "url": "https://t.co/SiaYlt7VQX",
+        "username": "shizukululu0721",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T05:11:45.000Z",
+        "description": "Release Date：02/14/2011\nenfp 不💊🔪 涉 z\n| mc原版 | 摄影  | 没啥空一直| 拼音不好 | 同类会互 fo | 中度拖延 | 地下党 |练声ing|目前环境下为GF？ | 认同 mtf |害怕精卫所以深柜 | 圆脸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/gunand…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/gunandjason.bsky.social",
+                "start": 0,
+                "url": "https://t.co/a3iAtHSMew"
+              }
+            ]
+          }
+        },
+        "id": "2076897141830844416",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090779894456160767",
+        "name": "高氯锂LiClO₄",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076897141830844416/1787163180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085374964547665920/JEGkFew8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 344,
+          "like_count": 1208,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 374
+        },
+        "url": "https://t.co/a3iAtHSMew",
+        "username": "GunandJason",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092556473108971520"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2092556475755532539",
+    "created_at": "2026-08-26T10:15:16.000Z",
+    "display_text_range": [
+      0,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T11:15:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092556475755532539"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bivlGXaaZV",
+          "end": 49,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2092556475755532539/photo/1",
+          "media_key": "3_2092556473108971520",
+          "start": 26,
+          "url": "https://t.co/bivlGXaaZV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092556475755532539",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092556473108971520"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想注册Starryblu，但我没办护照...... https://t.co/bivlGXaaZV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092556473108971520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpBBoQawAAJzmH.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092556473108971520"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2092556475755532539",
+        "created_at": "2026-08-26T10:15:16.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T11:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092556475755532539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bivlGXaaZV",
+              "end": 49,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2092556475755532539/photo/1",
+              "media_key": "3_2092556473108971520",
+              "start": 26,
+              "url": "https://t.co/bivlGXaaZV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092556475755532539",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092556473108971520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想注册Starryblu，但我没办护照...... https://t.co/bivlGXaaZV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/hrt 26.7.31/什么都不会/向往自由/准大一/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 38,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "zhwevea"
+              },
+              {
+                "end": 80,
+                "start": 71,
+                "username": "qiuylove"
+              },
+              {
+                "end": 98,
+                "start": 84,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "鹭岛",
+        "most_recent_tweet_id": "2092556475755532539",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2092116629694058989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8847,
+          "following_count": 1282,
+          "like_count": 220053,
+          "listed_count": 6,
+          "media_count": 1248,
+          "tweet_count": 9187
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

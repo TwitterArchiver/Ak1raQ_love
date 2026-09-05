@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2091893502548562354",
+    "created_at": "2026-08-24T14:55:17.000Z",
+    "display_text_range": [
+      16,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T15:55:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091902169943507379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1841306675674075136",
+          "start": 0,
+          "username": "suishoucrystal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091902169943507379",
+    "in_reply_to_user_id": "1841306675674075136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091893502548562354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suishoucrystal 这不路径穿越吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 632,
+        "media_key": "3_2091890262067097600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQfjHCubsAAvSk8.jpg",
+        "width": 1278
+      },
+      {
+        "height": 475,
+        "media_key": "3_2091892775239479296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQflZVBa8AAfJPd.png",
+        "width": 848
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2091893502548562354",
+        "created_at": "2026-08-24T14:55:17.000Z",
+        "display_text_range": [
+          16,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T15:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091902169943507379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1841306675674075136",
+              "start": 0,
+              "username": "suishoucrystal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091902169943507379",
+        "in_reply_to_user_id": "1841306675674075136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091893502548562354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suishoucrystal 这不路径穿越吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091890262067097600",
+            "3_2091892775239479296"
+          ]
+        },
+        "author_id": "1841306675674075136",
+        "conversation_id": "2091893502548562354",
+        "created_at": "2026-08-24T14:20:51.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T15:20:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091893502548562354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dsja6ESoXK",
+              "end": 170,
+              "expanded_url": "https://x.com/suishoucrystal/status/2091893502548562354/photo/1",
+              "media_key": "3_2091890262067097600",
+              "start": 147,
+              "url": "https://t.co/dsja6ESoXK"
+            },
+            {
+              "display_url": "pic.x.com/dsja6ESoXK",
+              "end": 170,
+              "expanded_url": "https://x.com/suishoucrystal/status/2091893502548562354/photo/1",
+              "media_key": "3_2091892775239479296",
+              "start": 147,
+              "url": "https://t.co/dsja6ESoXK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091893502548562354",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091890262067097600"
+          },
+          {
+            "media_key": "3_2091892775239479296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "bili.com/video/",
+                "end": 194,
+                "expanded_url": "http://bili.com/video/",
+                "start": 171,
+                "url": "https://t.co/9JuqpRSw2H"
+              }
+            ]
+          },
+          "text": "B站现在出现了一种很高明的骗人点《Never gonna give you up》（瑞克摇）链接的方法。\n\n传统骗术是把视频链接伪装成语音评论（B站压根没这玩意）或视频的时间跳转（太容易被识破）。\n\n现在的骗术是把链接伪装成和当前视频相关的视频跳转链接，实际上点进去会跳转到瑞克摇。方法是发送\nht（删掉）tps://www.bili（删掉）https://t.co/9JuqpRSw2H你想显示的标题的bv号/../你想跳转的视频bv号。\n注意该手段只能骗移动端的用户，网页端不行捏🤫"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "B站现在出现了一种很高明的骗人点《Never gonna give you up》（瑞克摇）链接的方法。\n\n传统骗术是把视频链接伪装成语音评论（B站压根没这玩意）或视频的时间跳转（太容易被识破）。\n\n现在的骗术是把链接伪装成和当前视频相关的视频跳转链接，实际上点进去会跳转到瑞克摇。方法是发送 https://t.co/dsja6ESoXK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/hrt 26.7.31/什么都不会/向往自由/准大一/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 38,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "zhwevea"
+              },
+              {
+                "end": 80,
+                "start": 71,
+                "username": "qiuylove"
+              },
+              {
+                "end": 98,
+                "start": 84,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "鹭岛",
+        "most_recent_tweet_id": "2091902169943507379",
+        "name": "🩷Akiramenai💫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8847,
+          "following_count": 1282,
+          "like_count": 219299,
+          "listed_count": 6,
+          "media_count": 1231,
+          "tweet_count": 9134
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-02T02:38:35.000Z",
+        "description": "（Premium plus用户）日本語学科 ，底层受剥削家庭。閩台混雜，友跨，系统政治学🌗独立时评人🌗人嫌狗厌理中客🌗百度孙笑川吧/PS吧/中国人口吧🥇黄牌",
+        "id": "1841306675674075136",
+        "is_identity_verified": false,
+        "location": "金門縣",
+        "most_recent_tweet_id": "2091893502548562354",
+        "name": "水晶クリスタル",
+        "pinned_tweet_id": "2091033032195190882",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1841306675674075136/1777195435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031032589721767938/0nMI0xGj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1997,
+          "following_count": 1630,
+          "like_count": 4731,
+          "listed_count": 5,
+          "media_count": 852,
+          "tweet_count": 6423
+        },
+        "url": "",
+        "username": "suishoucrystal",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

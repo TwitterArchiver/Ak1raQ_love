@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092205132201267201",
+        "3_2092205131815354369"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2092205134646480922",
+    "created_at": "2026-08-25T10:59:10.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T11:59:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092205134646480922"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "buy.stripe.com/8x28wQf1Uapf8d…",
+          "end": 40,
+          "expanded_url": "https://buy.stripe.com/8x28wQf1Uapf8d44GC0Jq00",
+          "start": 17,
+          "unwound_url": "https://buy.stripe.com/8x28wQf1Uapf8d44GC0Jq00",
+          "url": "https://t.co/FOB8Z8bazg"
+        },
+        {
+          "display_url": "pic.x.com/fvJdw4aicb",
+          "end": 64,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2092205134646480922/photo/1",
+          "media_key": "3_2092205132201267201",
+          "start": 41,
+          "url": "https://t.co/fvJdw4aicb"
+        },
+        {
+          "display_url": "pic.x.com/fvJdw4aicb",
+          "end": 64,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2092205134646480922/photo/1",
+          "media_key": "3_2092205131815354369",
+          "start": 41,
+          "url": "https://t.co/fvJdw4aicb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092205134646480922",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092205132201267201"
+      },
+      {
+        "media_key": "3_2092205131815354369"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "现在可以用微信支付给窝钱钱了喵🥺\nhttps://t.co/FOB8Z8bazg https://t.co/fvJdw4aicb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 947,
+        "media_key": "3_2092205132201267201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQkBe5YbEAECtaW.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2092205131815354369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQkBe38agAE4PUO.jpg",
+        "width": 970
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092205132201267201",
+            "3_2092205131815354369"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2092205134646480922",
+        "created_at": "2026-08-25T10:59:10.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T11:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092205134646480922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "buy.stripe.com/8x28wQf1Uapf8d…",
+              "end": 40,
+              "expanded_url": "https://buy.stripe.com/8x28wQf1Uapf8d44GC0Jq00",
+              "start": 17,
+              "unwound_url": "https://buy.stripe.com/8x28wQf1Uapf8d44GC0Jq00",
+              "url": "https://t.co/FOB8Z8bazg"
+            },
+            {
+              "display_url": "pic.x.com/fvJdw4aicb",
+              "end": 64,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2092205134646480922/photo/1",
+              "media_key": "3_2092205132201267201",
+              "start": 41,
+              "url": "https://t.co/fvJdw4aicb"
+            },
+            {
+              "display_url": "pic.x.com/fvJdw4aicb",
+              "end": 64,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2092205134646480922/photo/1",
+              "media_key": "3_2092205131815354369",
+              "start": 41,
+              "url": "https://t.co/fvJdw4aicb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092205134646480922",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092205132201267201"
+          },
+          {
+            "media_key": "3_2092205131815354369"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "现在可以用微信支付给窝钱钱了喵🥺\nhttps://t.co/FOB8Z8bazg https://t.co/fvJdw4aicb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/hrt 26.7.31/什么都不会/向往自由/准大一/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 38,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "zhwevea"
+              },
+              {
+                "end": 80,
+                "start": 71,
+                "username": "qiuylove"
+              },
+              {
+                "end": 98,
+                "start": 84,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "鹭岛",
+        "most_recent_tweet_id": "2092205134646480922",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2092116629694058989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8850,
+          "following_count": 1281,
+          "like_count": 219448,
+          "listed_count": 6,
+          "media_count": 1240,
+          "tweet_count": 9159
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

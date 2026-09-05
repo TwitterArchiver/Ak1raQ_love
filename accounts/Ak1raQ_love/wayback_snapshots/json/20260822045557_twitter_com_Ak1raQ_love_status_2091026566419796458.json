@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2091026483653595136"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2091026566419796458",
+    "created_at": "2026-08-22T04:55:57.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T05:55:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091026566419796458"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yn9JzUjZj4",
+          "end": 55,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2091026566419796458/video/1",
+          "media_key": "7_2091026483653595136",
+          "start": 32,
+          "url": "https://t.co/Yn9JzUjZj4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091026566419796458",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "7_2091026483653595136"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "推特新UI怎么连横竖都搞不定，，点进视频的时候就直接变成竖屏的 https://t.co/Yn9JzUjZj4"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 38144,
+        "height": 720,
+        "media_key": "7_2091026483653595136",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2091026483653595136/pu/img/jBtCDZ9QAs8fZ9vu.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2091026483653595136/pu/vid/avc1/480x270/KovrnRKVdOFxfubA.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2091026483653595136/pu/vid/avc1/640x360/0V9QAPECh48K6qTy.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2091026483653595136/pu/vid/avc1/1280x720/VWiTTJK8Z4pz8ehU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2091026483653595136/pu/pl/vRNirileVA3o0Y-_.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2091026483653595136"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2091026566419796458",
+        "created_at": "2026-08-22T04:55:57.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T05:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091026566419796458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yn9JzUjZj4",
+              "end": 55,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2091026566419796458/video/1",
+              "media_key": "7_2091026483653595136",
+              "start": 32,
+              "url": "https://t.co/Yn9JzUjZj4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091026566419796458",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "7_2091026483653595136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "推特新UI怎么连横竖都搞不定，，点进视频的时候就直接变成竖屏的 https://t.co/Yn9JzUjZj4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/hrt 26.7.31/什么都不会/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 62,
+                "start": 54,
+                "username": "zhwevea"
+              },
+              {
+                "end": 76,
+                "start": 67,
+                "username": "qiuylove"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "鹭岛",
+        "most_recent_tweet_id": "2091026566419796458",
+        "name": "🩷Akiramenai💫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8831,
+          "following_count": 1273,
+          "like_count": 217786,
+          "listed_count": 6,
+          "media_count": 1218,
+          "tweet_count": 9051
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

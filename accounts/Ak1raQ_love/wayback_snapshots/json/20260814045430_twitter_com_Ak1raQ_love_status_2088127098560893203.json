@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088127095352229888"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2088115483916869738",
+    "created_at": "2026-08-14T04:54:30.000Z",
+    "display_text_range": [
+      7,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T05:54:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088127098560893203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1682303195832360960",
+          "start": 0,
+          "username": "ffynya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DMfGTB0Bh2",
+          "end": 31,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2088127098560893203/photo/1",
+          "media_key": "3_2088127095352229888",
+          "start": 8,
+          "url": "https://t.co/DMfGTB0Bh2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088127098560893203",
+    "in_reply_to_user_id": "1682303195832360960",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2088127095352229888"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088115483916869738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ffynya https://t.co/DMfGTB0Bh2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1005,
+        "media_key": "3_2088127095352229888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPqEh6RWgAAtys_.jpg",
+        "width": 1024
+      },
+      {
+        "height": 2206,
+        "media_key": "3_2088115471975653376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPp59V0bIAAlcYZ.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088127095352229888"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2088115483916869738",
+        "created_at": "2026-08-14T04:54:30.000Z",
+        "display_text_range": [
+          7,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T05:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088127098560893203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1682303195832360960",
+              "start": 0,
+              "username": "ffynya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DMfGTB0Bh2",
+              "end": 31,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2088127098560893203/photo/1",
+              "media_key": "3_2088127095352229888",
+              "start": 8,
+              "url": "https://t.co/DMfGTB0Bh2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088127098560893203",
+        "in_reply_to_user_id": "1682303195832360960",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2088127095352229888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088115483916869738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ffynya https://t.co/DMfGTB0Bh2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088115471975653376"
+          ]
+        },
+        "author_id": "1682303195832360960",
+        "conversation_id": "2088115483916869738",
+        "created_at": "2026-08-14T04:08:21.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T05:08:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088115483916869738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XcwW7aS0JH",
+              "end": 28,
+              "expanded_url": "https://x.com/ffynya/status/2088115483916869738/photo/1",
+              "media_key": "3_2088115471975653376",
+              "start": 5,
+              "url": "https://t.co/XcwW7aS0JH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088115483916869738",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088115471975653376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对的对的 https://t.co/XcwW7aS0JH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/hrt 26.7.31/什么都不会/向往自由/#推友情況通報/原创meme/顺直女 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "zhwevea"
+              },
+              {
+                "end": 75,
+                "start": 66,
+                "username": "qiuylove"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "XMN",
+        "most_recent_tweet_id": "2088127098560893203",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8757,
+          "following_count": 1244,
+          "like_count": 214164,
+          "listed_count": 6,
+          "media_count": 1156,
+          "tweet_count": 8769
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-21T08:15:33.000Z",
+        "description": "中国人🇨🇳｜CH/EN｜友跨｜游戏、二次元｜\n聊天：https://t.co/vy1vlfiftN｜\nsteam好友代码：1238560657｜\n不o不割心理正常，不鉴证，不参团｜互fo｜",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/ffynya",
+                "end": 49,
+                "expanded_url": "https://t.me/ffynya",
+                "start": 26,
+                "url": "https://t.co/vy1vlfiftN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ffynya",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ffynya",
+                "start": 0,
+                "url": "https://t.co/q5hd5vC18p"
+              }
+            ]
+          }
+        },
+        "id": "1682303195832360960",
+        "is_identity_verified": true,
+        "location": "-20cm",
+        "most_recent_tweet_id": "2088125697609146447",
+        "name": "🫥ffy喵🫥",
+        "pinned_tweet_id": "2085612453770182850",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1682303195832360960/1782040838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079042377906581504/glmoVp84_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2413,
+          "following_count": 1237,
+          "like_count": 2156,
+          "listed_count": 4,
+          "media_count": 869,
+          "tweet_count": 1873
+        },
+        "url": "https://t.co/q5hd5vC18p",
+        "username": "ffynya",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

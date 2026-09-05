@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087397418094764032"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2087397421576003898",
+    "created_at": "2026-08-12T04:35:01.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T05:35:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087397421576003898"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 0,
+          "tag": "推友情況通報"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SQcgmGJBiq",
+          "end": 74,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2087397421576003898/photo/1",
+          "media_key": "3_2087397418094764032",
+          "start": 51,
+          "url": "https://t.co/SQcgmGJBiq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087397421576003898",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087397418094764032"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#推友情況通報 账号被无征兆强制注销\n（为内部bug导致，实际相当于冻结）\n貓貓喵喵\naaarjkk https://t.co/SQcgmGJBiq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2092,
+        "media_key": "3_2087397418094764032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPfs5GqbIAApdrw.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087397418094764032"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2087397421576003898",
+        "created_at": "2026-08-12T04:35:01.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T05:35:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087397421576003898"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "推友情況通報"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SQcgmGJBiq",
+              "end": 74,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2087397421576003898/photo/1",
+              "media_key": "3_2087397418094764032",
+              "start": 51,
+              "url": "https://t.co/SQcgmGJBiq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087397421576003898",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087397418094764032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#推友情況通報 账号被无征兆强制注销\n（为内部bug导致，实际相当于冻结）\n貓貓喵喵\naaarjkk https://t.co/SQcgmGJBiq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/hrt 26.7.31/什么都不会/向往自由/#推友情況通報/原创meme/顺直女 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "zhwevea"
+              },
+              {
+                "end": 75,
+                "start": 66,
+                "username": "qiuylove"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh3PSn"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "XMN",
+        "most_recent_tweet_id": "2087397424851775903",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8765,
+          "following_count": 1236,
+          "like_count": 213173,
+          "listed_count": 6,
+          "media_count": 1136,
+          "tweet_count": 8667
+        },
+        "url": "https://t.co/ENDNzh3PSn",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

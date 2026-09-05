@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2088280125058248985",
+    "created_at": "2026-08-14T15:54:37.000Z",
+    "display_text_range": [
+      10,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T16:54:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088293221839278438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1705551597265190912",
+          "start": 0,
+          "username": "QQ195ZZH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088293221839278438",
+    "in_reply_to_user_id": "1705551597265190912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088280125058248985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QQ195ZZH 被shadowban了\n另外不要回我，不出所料的话我看不见你回复"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20670,
+        "height": 1280,
+        "media_key": "13_2088280013774913536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088280013774913536/img/paGSyINJtOCwS1rn.jpg",
+        "public_metrics": {
+          "view_count": 21
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088280013774913536/vid/avc1/320x568/M22tvpbaII-FPDU4.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088280013774913536/vid/avc1/480x852/g4KBQ4Hfp1o3XrOw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088280013774913536/vid/avc1/720x1280/P39YehVjU8JCJDdA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088280013774913536/pl/Hykrsdauf-2lUA23.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2088280125058248985",
+        "created_at": "2026-08-14T15:54:37.000Z",
+        "display_text_range": [
+          10,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T16:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088293221839278438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1705551597265190912",
+              "start": 0,
+              "username": "QQ195ZZH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088293221839278438",
+        "in_reply_to_user_id": "1705551597265190912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088280125058248985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QQ195ZZH 被shadowban了\n另外不要回我，不出所料的话我看不见你回复"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088280013774913536"
+          ]
+        },
+        "author_id": "1705551597265190912",
+        "conversation_id": "2088280125058248985",
+        "created_at": "2026-08-14T15:02:34.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T16:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088280125058248985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E97MOWVT7P",
+              "end": 49,
+              "expanded_url": "https://x.com/QQ195ZZH/status/2088280125058248985/video/1",
+              "media_key": "13_2088280013774913536",
+              "start": 26,
+              "url": "https://t.co/E97MOWVT7P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088280125058248985",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2088280013774913536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁能告诉我这是怎么回事？为什么我发帖别人看不到？😭 https://t.co/E97MOWVT7P"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/hrt 26.7.31/什么都不会/向往自由/#推友情況通報/原创meme/顺直女 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "zhwevea"
+              },
+              {
+                "end": 75,
+                "start": 66,
+                "username": "qiuylove"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "XMN",
+        "most_recent_tweet_id": "2088293221839278438",
+        "name": "🩷Akiramenai💫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8746,
+          "following_count": 1245,
+          "like_count": 214279,
+          "listed_count": 6,
+          "media_count": 1161,
+          "tweet_count": 8806
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-23T11:56:16.000Z",
+        "description": "轻度抑郁+0 10年11.18出厂，来自广东揭阳（无证含糖🍥）",
+        "id": "1705551597265190912",
+        "is_identity_verified": false,
+        "location": "海南省海口市",
+        "most_recent_tweet_id": "2088281177467809973",
+        "name": "淼淼雨",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1705551597265190912/1784210440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077755239118389248/2zLmU8Xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 315,
+          "like_count": 508,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 160
+        },
+        "url": "",
+        "username": "QQ195ZZH",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

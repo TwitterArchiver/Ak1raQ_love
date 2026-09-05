@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2090820061049336168",
+    "created_at": "2026-08-22T08:55:12.000Z",
+    "display_text_range": [
+      15,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T09:55:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091086777746657406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2085707237155053568",
+          "start": 0,
+          "username": "LingJiaXin520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091086777746657406",
+    "in_reply_to_user_id": "1663066129923981312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090820061049336168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@LingJiaXin520 凌嘉欣原号复活"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2090820061049336168",
+        "created_at": "2026-08-22T08:55:12.000Z",
+        "display_text_range": [
+          15,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T09:55:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091086777746657406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2085707237155053568",
+              "start": 0,
+              "username": "LingJiaXin520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091086777746657406",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090820061049336168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@LingJiaXin520 凌嘉欣原号复活"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2090820061049336168",
+        "created_at": "2026-08-21T15:15:22.000Z",
+        "display_text_range": [
+          0,
+          194
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T16:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090820061049336168"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "推友情況通報"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 77,
+              "id": "1917261838485708802",
+              "start": 67,
+              "username": "qiujiudev"
+            },
+            {
+              "end": 88,
+              "id": "2090793924382396416",
+              "start": 78,
+              "username": "devqiujiu"
+            },
+            {
+              "end": 106,
+              "id": "2060050991370891265",
+              "start": 93,
+              "username": "Shioochicqwq"
+            },
+            {
+              "end": 123,
+              "id": "2053360211948109826",
+              "start": 112,
+              "username": "axzameyzed"
+            },
+            {
+              "end": 136,
+              "id": "2090003775838932992",
+              "start": 129,
+              "username": "hjynya"
+            },
+            {
+              "end": 153,
+              "id": "2088610517720158208",
+              "start": 143,
+              "username": "LinQi_AWA"
+            },
+            {
+              "end": 174,
+              "id": "1922267012702871552",
+              "start": 165,
+              "username": "45_206io"
+            },
+            {
+              "end": 194,
+              "id": "2085707237155053568",
+              "start": 180,
+              "username": "LingJiaXin520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Ak1raQ_love/st…",
+              "end": 218,
+              "expanded_url": "https://twitter.com/Ak1raQ_love/status/2089997662540157152",
+              "start": 195,
+              "url": "https://t.co/gcbAZ74zJg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090820061049336168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2420,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089997662540157152",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "#推友情況通報\n1.现在除了格蕾修和波奇酱还没找到，其它推u都已经找回\n2.猪宝宝原号复活\n3.以下是其余推u的新账号或小号：\n秋玖 @qiujiudev @devqiujiu \n汐落 @Shioochicqwq \n翅膀喵 @axzameyzed\nffy喵 @hjynya\nLinQi @LinQi_AWA \n45.206MHz @45_206io \n凌嘉欣 @LingJiaXin520 https://t.co/gcbAZ74zJg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/hrt 26.7.31/什么都不会/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 62,
+                "start": 54,
+                "username": "zhwevea"
+              },
+              {
+                "end": 76,
+                "start": 67,
+                "username": "qiuylove"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "鹭岛",
+        "most_recent_tweet_id": "2091086777746657406",
+        "name": "🩷Akiramenai💫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8834,
+          "following_count": 1274,
+          "like_count": 217894,
+          "listed_count": 6,
+          "media_count": 1217,
+          "tweet_count": 9056
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-07T12:39:30.000Z",
+        "description": "指派个人账号",
+        "id": "2085707237155053568",
+        "is_identity_verified": true,
+        "location": "未来的未来",
+        "most_recent_tweet_id": "2091040093230305603",
+        "name": "陈嘉欣",
+        "pinned_tweet_id": "2085714787879559219",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085707237155053568/1786108371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085715736387850240/pnzKORNE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 15,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "LingJiaXin520",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

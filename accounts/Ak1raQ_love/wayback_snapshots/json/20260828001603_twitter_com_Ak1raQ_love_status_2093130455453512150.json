@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093130452370604032",
+        "3_2093130452337115136"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2093130455453512150",
+    "created_at": "2026-08-28T00:16:03.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T01:16:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093130455453512150"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LH8df8Qh4G",
+          "end": 62,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2093130455453512150/photo/1",
+          "media_key": "3_2093130452370604032",
+          "start": 39,
+          "url": "https://t.co/LH8df8Qh4G"
+        },
+        {
+          "display_url": "pic.x.com/LH8df8Qh4G",
+          "end": 62,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2093130455453512150/photo/1",
+          "media_key": "3_2093130452337115136",
+          "start": 39,
+          "url": "https://t.co/LH8df8Qh4G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093130455453512150",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093130452370604032"
+      },
+      {
+        "media_key": "3_2093130452337115136"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "已用海外手机号和伪造环境注册国际版Bilibili\n晶格应该不会追踪到我吧😦 https://t.co/LH8df8Qh4G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2093130452370604032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQxLDnoaQAAEJwP.jpg",
+        "width": 931
+      },
+      {
+        "height": 1296,
+        "media_key": "3_2093130452337115136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQxLDngbQAA-1wl.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093130452370604032",
+            "3_2093130452337115136"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2093130455453512150",
+        "created_at": "2026-08-28T00:16:03.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T01:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093130455453512150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LH8df8Qh4G",
+              "end": 62,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2093130455453512150/photo/1",
+              "media_key": "3_2093130452370604032",
+              "start": 39,
+              "url": "https://t.co/LH8df8Qh4G"
+            },
+            {
+              "display_url": "pic.x.com/LH8df8Qh4G",
+              "end": 62,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2093130455453512150/photo/1",
+              "media_key": "3_2093130452337115136",
+              "start": 39,
+              "url": "https://t.co/LH8df8Qh4G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093130455453512150",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093130452370604032"
+          },
+          {
+            "media_key": "3_2093130452337115136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "已用海外手机号和伪造环境注册国际版Bilibili\n晶格应该不会追踪到我吧😦 https://t.co/LH8df8Qh4G"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/hrt 26.7.31/什么都不会/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 62,
+                "start": 54,
+                "username": "zhwevea"
+              },
+              {
+                "end": 76,
+                "start": 67,
+                "username": "qiuylove"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "鹭岛",
+        "most_recent_tweet_id": "2093130455453512150",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2092116629694058989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8835,
+          "following_count": 1281,
+          "like_count": 220890,
+          "listed_count": 6,
+          "media_count": 1262,
+          "tweet_count": 9235
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

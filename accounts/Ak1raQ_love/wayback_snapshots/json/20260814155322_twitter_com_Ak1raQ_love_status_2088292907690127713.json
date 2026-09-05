@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088292373906247680"
+      ],
+      "media_source_tweet_id": [
+        "2088292377723118063"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2088292907690127713",
+    "created_at": "2026-08-14T15:53:22.000Z",
+    "display_text_range": [
+      0,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T16:53:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088292907690127713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1663066129923981312",
+          "start": 3,
+          "username": "Ak1raQ_love"
+        },
+        {
+          "end": 25,
+          "id": "1690570637499154432",
+          "start": 17,
+          "username": "zhwevea"
+        },
+        {
+          "end": 39,
+          "id": "1856699710981251072",
+          "start": 26,
+          "username": "Saki_LN_0509"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fQ67iGlK6k",
+          "end": 67,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2088292377723118063/photo/1",
+          "media_key": "3_2088292373906247680",
+          "start": 44,
+          "url": "https://t.co/fQ67iGlK6k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088292907690127713",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2088292373906247680"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088292377723118063",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ak1raQ_love: @zhwevea @Saki_LN_0509 可爱喵 https://t.co/fQ67iGlK6k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2014,
+        "media_key": "3_2088292373906247680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPsa2Y3W0AAfGTs.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088292373906247680"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2088246093574500606",
+        "created_at": "2026-08-14T15:51:16.000Z",
+        "display_text_range": [
+          23,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T16:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088292377723118063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1690570637499154432",
+              "start": 0,
+              "username": "zhwevea"
+            },
+            {
+              "end": 22,
+              "id": "1856699710981251072",
+              "start": 9,
+              "username": "Saki_LN_0509"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fQ67iGlK6k",
+              "end": 50,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2088292377723118063/photo/1",
+              "media_key": "3_2088292373906247680",
+              "start": 27,
+              "url": "https://t.co/fQ67iGlK6k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088292377723118063",
+        "in_reply_to_user_id": "1690570637499154432",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088292373906247680"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088289325972881523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhwevea @Saki_LN_0509 可爱喵 https://t.co/fQ67iGlK6k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088292373906247680"
+          ],
+          "media_source_tweet_id": [
+            "2088292377723118063"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2088292907690127713",
+        "created_at": "2026-08-14T15:53:22.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T16:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088292907690127713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1663066129923981312",
+              "start": 3,
+              "username": "Ak1raQ_love"
+            },
+            {
+              "end": 25,
+              "id": "1690570637499154432",
+              "start": 17,
+              "username": "zhwevea"
+            },
+            {
+              "end": 39,
+              "id": "1856699710981251072",
+              "start": 26,
+              "username": "Saki_LN_0509"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fQ67iGlK6k",
+              "end": 67,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2088292377723118063/photo/1",
+              "media_key": "3_2088292373906247680",
+              "start": 44,
+              "url": "https://t.co/fQ67iGlK6k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088292907690127713",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088292373906247680"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088292377723118063",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ak1raQ_love: @zhwevea @Saki_LN_0509 可爱喵 https://t.co/fQ67iGlK6k"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/hrt 26.7.31/什么都不会/向往自由/#推友情況通報/原创meme/顺直女 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "zhwevea"
+              },
+              {
+                "end": 75,
+                "start": 66,
+                "username": "qiuylove"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "XMN",
+        "most_recent_tweet_id": "2088292907690127713",
+        "name": "🩷Akiramenai💫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8746,
+          "following_count": 1245,
+          "like_count": 214278,
+          "listed_count": 6,
+          "media_count": 1161,
+          "tweet_count": 8805
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei 👋｜ 还可以叫我 Eliya ～｜精益求精｜想要看遍大千世界 ✈️｜想要成为技术大拿 📲💡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/zhweaa",
+                "end": 23,
+                "expanded_url": "https://github.com/zhweaa",
+                "start": 0,
+                "url": "https://t.co/Lsl0VyAvMl"
+              }
+            ]
+          }
+        },
+        "id": "1690570637499154432",
+        "is_identity_verified": false,
+        "location": "🌏🌐",
+        "most_recent_tweet_id": "2088292211322724425",
+        "name": "Zhi Wei 🥥🧊",
+        "pinned_tweet_id": "2045171291104403596",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690570637499154432/1769647058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061738719095476224/g1B5Ghy6_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7780,
+          "following_count": 432,
+          "like_count": 33539,
+          "listed_count": 25,
+          "media_count": 2762,
+          "tweet_count": 21307
+        },
+        "url": "https://t.co/Lsl0VyAvMl",
+        "username": "zhwevea",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-13T14:04:49.000Z",
+        "description": "Founder & Chair, @Palintropic · Lead, Project Starlight | Keep Thinking",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "Palintropic"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "25nightcord.com",
+                "end": 23,
+                "expanded_url": "https://25nightcord.com",
+                "start": 0,
+                "url": "https://t.co/VFkjqr6vMS"
+              }
+            ]
+          }
+        },
+        "id": "1856699710981251072",
+        "is_identity_verified": false,
+        "location": "上海 静安",
+        "most_recent_tweet_id": "2088285256189411686",
+        "name": "Lewis",
+        "pinned_tweet_id": "2082820174613532693",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1856699710981251072/1784283576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070897078994087936/AwtSEF8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 400,
+          "like_count": 2757,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 808
+        },
+        "url": "https://t.co/VFkjqr6vMS",
+        "username": "Saki_LN_0509",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

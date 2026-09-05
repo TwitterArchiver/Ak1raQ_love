@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092532872569847808"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2092532874943881375",
+    "created_at": "2026-08-26T08:41:29.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T09:41:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092532874943881375"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GZDLZt5nKd",
+          "end": 23,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2092532874943881375/photo/1",
+          "media_key": "3_2092532872569847808",
+          "start": 0,
+          "url": "https://t.co/GZDLZt5nKd"
+        },
+        {
+          "display_url": "x.com/Kuyosuki/statu…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/Kuyosuki/status/2091917442805358852",
+          "start": 24,
+          "url": "https://t.co/pLBRFkbCXh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092532874943881375",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2092532872569847808"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091917442805358852",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/GZDLZt5nKd https://t.co/pLBRFkbCXh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "3_2092532872569847808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQorj5ZagAATqn5.jpg",
+        "width": 640
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2091917322722398208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQf7uLha0AAYeqi.jpg",
+        "width": 1553
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092532872569847808"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092532874943881375",
+        "created_at": "2026-08-26T08:41:29.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T09:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092532874943881375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GZDLZt5nKd",
+              "end": 23,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2092532874943881375/photo/1",
+              "media_key": "3_2092532872569847808",
+              "start": 0,
+              "url": "https://t.co/GZDLZt5nKd"
+            },
+            {
+              "display_url": "x.com/Kuyosuki/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Kuyosuki/status/2091917442805358852",
+              "start": 24,
+              "url": "https://t.co/pLBRFkbCXh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092532874943881375",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2092532872569847808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091917442805358852",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/GZDLZt5nKd https://t.co/pLBRFkbCXh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091917322722398208"
+          ]
+        },
+        "author_id": "2028643922894041088",
+        "conversation_id": "2091917442805358852",
+        "created_at": "2026-08-24T15:55:58.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T16:47:25.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091915288745029855",
+          "2091917442805358852"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "叮咚鸡"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e3ruiq44DK",
+              "end": 38,
+              "expanded_url": "https://x.com/Kuyosuki/status/2091917442805358852/photo/1",
+              "media_key": "3_2091917322722398208",
+              "start": 15,
+              "url": "https://t.co/e3ruiq44DK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091917442805358852",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091917322722398208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 122,
+          "impression_count": 78272,
+          "like_count": 1501,
+          "quote_count": 2,
+          "reply_count": 61,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "#叮咚鸡\n经典回顾之就地隔离 https://t.co/e3ruiq44DK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/hrt 26.7.31/什么都不会/向往自由/准大一/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 38,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "zhwevea"
+              },
+              {
+                "end": 80,
+                "start": 71,
+                "username": "qiuylove"
+              },
+              {
+                "end": 98,
+                "start": 84,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "鹭岛",
+        "most_recent_tweet_id": "2092532874943881375",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2092116629694058989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8847,
+          "following_count": 1280,
+          "like_count": 219993,
+          "listed_count": 6,
+          "media_count": 1248,
+          "tweet_count": 9186
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-03T01:29:44.000Z",
+        "description": "想到什么说什么，你急了我就高兴",
+        "id": "2028643922894041088",
+        "is_identity_verified": false,
+        "location": "某個不知名的幻想鄉",
+        "most_recent_tweet_id": "2092531465783500936",
+        "name": "酷热米",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2028643922894041088/1783346325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082308521526456320/suuI0fiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 92,
+          "like_count": 1737,
+          "listed_count": 11,
+          "media_count": 178,
+          "tweet_count": 778
+        },
+        "url": "",
+        "username": "Kuyosuki",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
