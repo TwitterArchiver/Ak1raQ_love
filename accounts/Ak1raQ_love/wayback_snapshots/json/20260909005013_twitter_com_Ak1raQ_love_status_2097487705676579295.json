@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2097365968423199068",
+    "created_at": "2026-09-09T00:50:13.000Z",
+    "display_text_range": [
+      12,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T01:50:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097487705676579295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999719301176262658",
+          "start": 0,
+          "username": "snzkYuurei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097487705676579295",
+    "in_reply_to_user_id": "1999719301176262658",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097365968423199068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@snzkYuurei 中华电信应该是机房和家宽在一起才会这么便宜（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 790,
+        "media_key": "3_2097365660724838401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRtW9MObQAECmXY.png",
+        "width": 652
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2097365968423199068",
+        "created_at": "2026-09-09T00:50:13.000Z",
+        "display_text_range": [
+          12,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T01:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097487705676579295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999719301176262658",
+              "start": 0,
+              "username": "snzkYuurei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097487705676579295",
+        "in_reply_to_user_id": "1999719301176262658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097365968423199068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@snzkYuurei 中华电信应该是机房和家宽在一起才会这么便宜（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097365660724838401"
+          ]
+        },
+        "author_id": "1999719301176262658",
+        "conversation_id": "2097365968423199068",
+        "created_at": "2026-09-08T16:46:28.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T17:46:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097365968423199068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZUi9IYYCwG",
+              "end": 67,
+              "expanded_url": "https://x.com/snzkYuurei/status/2097365968423199068/photo/1",
+              "media_key": "3_2097365660724838401",
+              "start": 44,
+              "url": "https://t.co/ZUi9IYYCwG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097365968423199068",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097365660724838401"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 171,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "台湾家宽nat，300Mbps，800G流量，月付仅需2.4元。\n依旧性价比战神www https://t.co/ZUi9IYYCwG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/是大笨蛋😖/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 23,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "zhwevea"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "qiuylove"
+              },
+              {
+                "end": 83,
+                "start": 69,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tientsin",
+        "most_recent_tweet_id": "2097487705676579295",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2092116629694058989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8877,
+          "following_count": 1305,
+          "like_count": 225998,
+          "listed_count": 7,
+          "media_count": 1328,
+          "tweet_count": 9629
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-13T05:53:41.000Z",
+        "description": "何か喋りたい。何か話したい。何か書きたい。何か歌いたい。何か伝えたい。しかし僕の世界は、言葉も文字も旋律も忘れている。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "komari.yuurei.de",
+                "end": 23,
+                "expanded_url": "https://komari.yuurei.de",
+                "start": 0,
+                "url": "https://t.co/blR0T8PQI8"
+              }
+            ]
+          }
+        },
+        "id": "1999719301176262658",
+        "is_identity_verified": false,
+        "location": "Antipathy World",
+        "most_recent_tweet_id": "2097384942699442207",
+        "name": "篠崎 幽怜",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1999719301176262658/1765606652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999724697999855616/6ZjTK6m__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 108,
+          "like_count": 20551,
+          "listed_count": 0,
+          "media_count": 337,
+          "tweet_count": 1224
+        },
+        "url": "https://t.co/blR0T8PQI8",
+        "username": "snzkYuurei",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

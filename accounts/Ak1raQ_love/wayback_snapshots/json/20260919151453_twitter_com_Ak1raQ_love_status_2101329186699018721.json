@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2101318945118831100",
+    "created_at": "2026-09-19T15:14:53.000Z",
+    "display_text_range": [
+      17,
+      124
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T16:14:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101329186699018721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2094128030973403136",
+          "start": 0,
+          "username": "AmanomiyaSakuya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101329186699018721",
+    "in_reply_to_user_id": "2094128030973403136",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101318945118831100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmanomiyaSakuya Age-restricted adult content. This content may not be appropriate for people under 18 years old. Learn more"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2101318945118831100",
+        "created_at": "2026-09-19T15:14:53.000Z",
+        "display_text_range": [
+          17,
+          124
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T16:14:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101329186699018721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2094128030973403136",
+              "start": 0,
+              "username": "AmanomiyaSakuya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101329186699018721",
+        "in_reply_to_user_id": "2094128030973403136",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101318945118831100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmanomiyaSakuya Age-restricted adult content. This content may not be appropriate for people under 18 years old. Learn more"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094128030973403136",
+        "conversation_id": "2101318945118831100",
+        "created_at": "2026-09-19T14:34:11.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T15:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101318945118831100"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101318945118831100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来账号信息里是未成年会看不了某些帖子啊……我才知道😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/是大笨蛋😖/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/一号里推 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 23,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "zhwevea"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "qiuylove"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tianjin/Xiamen/Suzhou",
+        "most_recent_tweet_id": "2101329186699018721",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8839,
+          "following_count": 1311,
+          "like_count": 227909,
+          "listed_count": 7,
+          "media_count": 1358,
+          "tweet_count": 9916
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-30T18:20:43.000Z",
+        "description": "此前，你见过那只红色的兔子了吗？\n性别女🏳️‍⚧️ || 全性恋 || GAHT：7.10.2026🍥 || 体重63kg 身高178cm || 爱哭鬼🪻 || 性冷淡(?)🫧 || 神经衰弱🥀 || 尝试重新点燃自己心中的热情❤️‍🔥",
+        "id": "2094128030973403136",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2101321955991494831",
+        "name": "天ノ宮朔夜",
+        "pinned_tweet_id": "2096184015732822507",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099520351525056512/Y-ahOArE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 110,
+          "like_count": 902,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 276
+        },
+        "url": "",
+        "username": "AmanomiyaSakuya",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

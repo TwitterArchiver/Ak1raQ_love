@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2099349081718194366",
+    "created_at": "2026-09-14T14:52:25.000Z",
+    "display_text_range": [
+      16,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T15:52:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099511591737921675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1831363594556211200",
+          "start": 0,
+          "username": "JyushitiYizuka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099511591737921675",
+    "in_reply_to_user_id": "1831363594556211200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099349081718194366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JyushitiYizuka 人丑在哪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2099349081718194366",
+        "created_at": "2026-09-14T14:52:25.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T15:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099511591737921675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1831363594556211200",
+              "start": 0,
+              "username": "JyushitiYizuka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099511591737921675",
+        "in_reply_to_user_id": "1831363594556211200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099349081718194366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JyushitiYizuka 人丑在哪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831363594556211200",
+        "conversation_id": "2099349081718194366",
+        "created_at": "2026-09-14T04:06:39.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T05:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099349081718194366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SakurasakaRiko…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/SakurasakaRiko/status/2099140282600304983",
+              "start": 16,
+              "url": "https://t.co/JTS7l4OfS3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099349081718194366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2629,
+          "like_count": 29,
+          "quote_count": 6,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099140282600304983",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然我人长得丑，但我头像好看啊 https://t.co/JTS7l4OfS3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/是大笨蛋😖/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 23,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "zhwevea"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "qiuylove"
+              },
+              {
+                "end": 83,
+                "start": 69,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tianjin/Xiamen/Suzhou",
+        "most_recent_tweet_id": "2099511591737921675",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8868,
+          "following_count": 1308,
+          "like_count": 227008,
+          "listed_count": 7,
+          "media_count": 1347,
+          "tweet_count": 9802
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-04T16:08:23.000Z",
+        "description": "是花狮在读本科喵~ | 请...请买一台Surface吧！ | et omnia vanitas | アズサ推し！| 中文/English/日本語(下手)  |「止まない雨はなく、明けない夜はない。」| 小猫🐱@ThirteenYizuka | 逃生舱@NineteenYizuka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 105,
+                "username": "ThirteenYizuka"
+              },
+              {
+                "end": 141,
+                "start": 126,
+                "username": "NineteenYizuka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "17yizuka.com",
+                "end": 23,
+                "expanded_url": "https://17yizuka.com",
+                "start": 0,
+                "url": "https://t.co/mXypDJUnRm"
+              }
+            ]
+          }
+        },
+        "id": "1831363594556211200",
+        "is_identity_verified": false,
+        "location": "記錄の地平線",
+        "most_recent_tweet_id": "2099503108368044475",
+        "name": "JYUSHITI拾柒",
+        "pinned_tweet_id": "2046414126881366369",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1831363594556211200/1742492548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086042121308610560/C4onUYNu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3594,
+          "following_count": 1361,
+          "like_count": 46484,
+          "listed_count": 10,
+          "media_count": 1965,
+          "tweet_count": 29951
+        },
+        "url": "https://t.co/mXypDJUnRm",
+        "username": "JyushitiYizuka",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

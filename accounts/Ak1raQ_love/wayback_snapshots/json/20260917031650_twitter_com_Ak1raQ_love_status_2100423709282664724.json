@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2100271155152351691",
+    "created_at": "2026-09-17T03:16:50.000Z",
+    "display_text_range": [
+      23,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T04:16:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100423709282664724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1733692753899569152",
+          "start": 0,
+          "username": "AmiyaArk0106"
+        },
+        {
+          "end": 22,
+          "id": "1969670166423228416",
+          "start": 14,
+          "username": "h2o2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100423709282664724",
+    "in_reply_to_user_id": "1733692753899569152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100273506361774483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmiyaArk0106 @h2o2333 手机网页版就可以啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2100271155152351691",
+        "created_at": "2026-09-17T03:16:50.000Z",
+        "display_text_range": [
+          23,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T04:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100423709282664724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1733692753899569152",
+              "start": 0,
+              "username": "AmiyaArk0106"
+            },
+            {
+              "end": 22,
+              "id": "1969670166423228416",
+              "start": 14,
+              "username": "h2o2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100423709282664724",
+        "in_reply_to_user_id": "1733692753899569152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100273506361774483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmiyaArk0106 @h2o2333 手机网页版就可以啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733692753899569152",
+        "conversation_id": "2100271155152351691",
+        "created_at": "2026-09-16T17:19:59.000Z",
+        "display_text_range": [
+          9,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T18:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100273506361774483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1969670166423228416",
+              "start": 0,
+              "username": "h2o2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100273506361774483",
+        "in_reply_to_user_id": "1969670166423228416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100271155152351691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h2o2333 网页版可以，手机不行"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/是大笨蛋😖/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/一号里推 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 23,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "zhwevea"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "qiuylove"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tianjin/Xiamen/Suzhou",
+        "most_recent_tweet_id": "2100423709282664724",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8853,
+          "following_count": 1308,
+          "like_count": 227355,
+          "listed_count": 7,
+          "media_count": 1350,
+          "tweet_count": 9850
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-10T03:39:55.000Z",
+        "description": "“爱具体的人，不要爱抽象的人；\n  爱生活本身，胜于爱生活的意义”\n                                               ——陀思妥耶夫斯基\n点击给我发匿名消息喵↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amiyaark01061",
+                "end": 23,
+                "expanded_url": "https://ngl.link/amiyaark01061",
+                "start": 0,
+                "url": "https://t.co/Y5nxNE2lG9"
+              }
+            ]
+          }
+        },
+        "id": "1733692753899569152",
+        "is_identity_verified": false,
+        "location": "广州海珠广场",
+        "most_recent_tweet_id": "2100274623128699109",
+        "name": "社恐猫猫Ark🐱🏳️‍⚧️",
+        "pinned_tweet_id": "2094999110789251152",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1733692753899569152/1788339807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098109363168890880/i84-jJPK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 540,
+          "like_count": 9513,
+          "listed_count": 1,
+          "media_count": 220,
+          "tweet_count": 4027
+        },
+        "url": "https://t.co/Y5nxNE2lG9",
+        "username": "AmiyaArk0106",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-21T07:49:04.000Z",
+        "description": "Wish you were here   \n🚪10防骚扰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/h2o23332",
+                "end": 23,
+                "expanded_url": "https://ngl.link/h2o23332",
+                "start": 0,
+                "url": "https://t.co/NCmkS9Sf5a"
+              }
+            ]
+          }
+        },
+        "id": "1969670166423228416",
+        "is_identity_verified": false,
+        "location": "level 790",
+        "most_recent_tweet_id": "2100414178200797387",
+        "name": "一氧化二氢",
+        "pinned_tweet_id": "2085584792461132007",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094985055911473152/orOihCgu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1118,
+          "following_count": 1116,
+          "like_count": 3366,
+          "listed_count": 2,
+          "media_count": 118,
+          "tweet_count": 5369
+        },
+        "url": "https://t.co/NCmkS9Sf5a",
+        "username": "h2o2333",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

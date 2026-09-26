@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2095018224232570910",
+    "created_at": "2026-09-02T05:17:22.000Z",
+    "display_text_range": [
+      0,
+      86
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T06:17:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095018224232570910"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Com0loquieras/…",
+          "end": 110,
+          "expanded_url": "https://twitter.com/Com0loquieras/status/2094768989008519661",
+          "start": 87,
+          "url": "https://t.co/p5aLqE8LXL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095018224232570910",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094768989008519661",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的\n美国x3（ByteVirt，ColoCrossing，uzumaru）\n日本x2（evoxt，bagevm）\n中国大陆x1（阿里云）\n法国x1（alwaysdata） https://t.co/p5aLqE8LXL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2095018224232570910",
+        "created_at": "2026-09-02T05:17:22.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T06:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095018224232570910"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Com0loquieras/…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/Com0loquieras/status/2094768989008519661",
+              "start": 87,
+              "url": "https://t.co/p5aLqE8LXL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095018224232570910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094768989008519661",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的\n美国x3（ByteVirt，ColoCrossing，uzumaru）\n日本x2（evoxt，bagevm）\n中国大陆x1（阿里云）\n法国x1（alwaysdata） https://t.co/p5aLqE8LXL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048331424504463360",
+        "conversation_id": "2094758434977587259",
+        "created_at": "2026-09-01T12:47:00.000Z",
+        "display_text_range": [
+          9,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T13:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094768989008519661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2004153182684102656",
+              "start": 0,
+              "username": "esimuse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094768989008519661",
+        "in_reply_to_user_id": "2004153182684102656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3154,
+          "like_count": 6,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094758434977587259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@esimuse 我就\n日本×2\n美国×1\n中国×3\n白嫖的cf×1\n没了 你敢想吗别人节点都挂了的时候我稳如老狗 甚至服务器都是滚动发行版😋"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/什么都不会/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 29,
+                "start": 22,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "zhwevea"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "qiuylove"
+              },
+              {
+                "end": 82,
+                "start": 68,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "鹭岛",
+        "most_recent_tweet_id": "2095018224232570910",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2092116629694058989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8843,
+          "following_count": 1291,
+          "like_count": 224109,
+          "listed_count": 6,
+          "media_count": 1298,
+          "tweet_count": 9410
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-26T09:20:48.000Z",
+        "description": "Producción:2010/10/10 180cm/81kg\nHabilidades:Go,astro,pnpm,Linux,Vibe Código,internet,español CEFR A1\n性格特点：直球 拉美大手子 大男娘 梦到什么说什么 谈崩专家不善言辞 身体不好 性压抑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "867678.xyz",
+                "end": 23,
+                "expanded_url": "https://867678.xyz",
+                "start": 0,
+                "url": "https://t.co/S3HBBI7wbC"
+              }
+            ]
+          }
+        },
+        "id": "2048331424504463360",
+        "is_identity_verified": false,
+        "location": "Virreinato de Nueva España",
+        "most_recent_tweet_id": "2095017475889082693",
+        "name": "Gato🇪🇸🇲🇽🇨🇴🇵🇪🇦🇷🇨🇱",
+        "pinned_tweet_id": "2094311814276493360",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048331424504463360/1786365601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093952578551959552/Eh2f0V6i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 309,
+          "like_count": 14254,
+          "listed_count": 2,
+          "media_count": 207,
+          "tweet_count": 6352
+        },
+        "url": "https://t.co/S3HBBI7wbC",
+        "username": "Com0loquieras",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-25T11:33:08.000Z",
+        "description": "海外手机卡 | 住宅IP | 代理协议 | 自建节点\n整理自己用过的体验，好用的再分享\n交流群：https://t.co/PypTqptCLs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/esimuse",
+                "end": 71,
+                "expanded_url": "https://t.me/esimuse",
+                "start": 48,
+                "url": "https://t.co/PypTqptCLs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellaroam.com",
+                "end": 23,
+                "expanded_url": "https://stellaroam.com",
+                "start": 0,
+                "url": "https://t.co/Tbb3SCyMP8"
+              }
+            ]
+          }
+        },
+        "id": "2004153182684102656",
+        "is_identity_verified": true,
+        "location": "United Kingdom",
+        "most_recent_tweet_id": "2095017449003302915",
+        "name": "eSIMuse",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2004153182684102656/1786475875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062544179796856832/Mx6LRxAh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3836,
+          "following_count": 173,
+          "like_count": 723,
+          "listed_count": 7,
+          "media_count": 219,
+          "tweet_count": 2371
+        },
+        "url": "https://t.co/Tbb3SCyMP8",
+        "username": "esimuse",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

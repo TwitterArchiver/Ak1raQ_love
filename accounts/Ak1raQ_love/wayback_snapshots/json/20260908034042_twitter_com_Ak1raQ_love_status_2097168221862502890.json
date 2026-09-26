@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2096986696466432272",
+    "created_at": "2026-09-08T03:40:42.000Z",
+    "display_text_range": [
+      30,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T04:40:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097168221862502890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1754494415152766976",
+          "start": 0,
+          "username": "IchinichiNagi"
+        },
+        {
+          "end": 29,
+          "id": "2060587975982141440",
+          "start": 15,
+          "username": "Rinyuyuyuyuyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097168221862502890",
+    "in_reply_to_user_id": "1754494415152766976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097156066748534933",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IchinichiNagi @Rinyuyuyuyuyu 当时上高中没时间"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2096986696466432272",
+        "created_at": "2026-09-08T03:40:42.000Z",
+        "display_text_range": [
+          30,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T04:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097168221862502890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1754494415152766976",
+              "start": 0,
+              "username": "IchinichiNagi"
+            },
+            {
+              "end": 29,
+              "id": "2060587975982141440",
+              "start": 15,
+              "username": "Rinyuyuyuyuyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097168221862502890",
+        "in_reply_to_user_id": "1754494415152766976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097156066748534933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IchinichiNagi @Rinyuyuyuyuyu 当时上高中没时间"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754494415152766976",
+        "conversation_id": "2096986696466432272",
+        "created_at": "2026-09-08T02:52:24.000Z",
+        "display_text_range": [
+          28,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T03:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097156066748534933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            },
+            {
+              "end": 27,
+              "id": "2060587975982141440",
+              "start": 13,
+              "username": "Rinyuyuyuyuyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097156066748534933",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097113047781474620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak1raQ_love @Rinyuyuyuyuyu 当时你咋不来玩"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/什么都不会/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 23,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "zhwevea"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "qiuylove"
+              },
+              {
+                "end": 83,
+                "start": 69,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tientsin",
+        "most_recent_tweet_id": "2097168221862502890",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2092116629694058989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8872,
+          "following_count": 1304,
+          "like_count": 226350,
+          "listed_count": 7,
+          "media_count": 1323,
+          "tweet_count": 9609
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "对于Nagi来说\n他们是一日男友\n\n那对于他们来说\n我是不是一日Nagi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/jub…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/jubilee/",
+                "start": 0,
+                "url": "https://t.co/nRq8LhSw2y"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "is_identity_verified": false,
+        "location": "Stansted Airport",
+        "most_recent_tweet_id": "2097167697184493681",
+        "name": "这是一日Nagi吗？",
+        "pinned_tweet_id": "2094246384962863447",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1754494415152766976/1782808002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081044089487941632/4n6xQeCv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6187,
+          "following_count": 2358,
+          "like_count": 33463,
+          "listed_count": 10,
+          "media_count": 3115,
+          "tweet_count": 28905
+        },
+        "url": "https://t.co/nRq8LhSw2y",
+        "username": "IchinichiNagi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-30T05:04:36.000Z",
+        "description": "MtF/HRT：2025.1.28/无证含糖中/❤️@shuangxing0325",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 26,
+                "username": "shuangxing0325"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinyu003",
+                "end": 23,
+                "expanded_url": "https://t.me/Rinyu003",
+                "start": 0,
+                "url": "https://t.co/OnkEmm6EuT"
+              }
+            ]
+          }
+        },
+        "id": "2060587975982141440",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097052529972646005",
+        "name": "綾羽Rinyu",
+        "pinned_tweet_id": "2082070280583934326",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2060587975982141440/1780117635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060588589285847041/Dydhkr5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 152,
+          "like_count": 2219,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 458
+        },
+        "url": "https://t.co/OnkEmm6EuT",
+        "username": "Rinyuyuyuyuyu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

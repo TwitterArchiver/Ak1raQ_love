@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2096390409509556529",
+    "created_at": "2026-09-06T02:03:53.000Z",
+    "display_text_range": [
+      12,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T03:03:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096419082438623680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2090322811479027712",
+          "start": 0,
+          "username": "Irosasmeow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096419082438623680",
+    "in_reply_to_user_id": "2090322811479027712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096416896589672836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Irosasmeow 喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2096390409509556529",
+        "created_at": "2026-09-06T02:03:53.000Z",
+        "display_text_range": [
+          12,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T03:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096419082438623680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2090322811479027712",
+              "start": 0,
+              "username": "Irosasmeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096419082438623680",
+        "in_reply_to_user_id": "2090322811479027712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096416896589672836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Irosasmeow 喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090322811479027712",
+        "conversation_id": "2096390409509556529",
+        "created_at": "2026-09-06T01:55:12.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T02:55:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096416896589672836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096416896589672836",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096390409509556529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Ak1raQ_love 抱抱妳喵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/什么都不会/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 23,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "zhwevea"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "qiuylove"
+              },
+              {
+                "end": 83,
+                "start": 69,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tientsin",
+        "most_recent_tweet_id": "2096419082438623680",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2092116629694058989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8866,
+          "following_count": 1300,
+          "like_count": 225855,
+          "listed_count": 7,
+          "media_count": 1318,
+          "tweet_count": 9559
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T06:20:51.000Z",
+        "description": "老婆@Irosas_sub\n最好的闺蜜@Irosasmjau",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "Irosas_sub"
+              },
+              {
+                "end": 30,
+                "start": 19,
+                "username": "Irosasmjau"
+              }
+            ]
+          }
+        },
+        "id": "2090322811479027712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096416896589672836",
+        "name": "Irosas 4.0🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2094330390161105246",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090322811479027712/1788028974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093331604202762240/X-BCTe2S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 133,
+          "like_count": 346,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 183
+        },
+        "url": "",
+        "username": "Irosasmeow",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

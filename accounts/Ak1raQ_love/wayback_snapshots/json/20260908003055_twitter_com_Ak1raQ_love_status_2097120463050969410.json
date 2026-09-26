@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097120419027550208"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2097120463050969410",
+    "created_at": "2026-09-08T00:30:55.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T01:30:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097120463050969410"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lLcdfgWYe1",
+          "end": 47,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2097120463050969410/photo/1",
+          "media_key": "3_2097120419027550208",
+          "start": 24,
+          "url": "https://t.co/lLcdfgWYe1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097120463050969410",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097120419027550208"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "咱要在这一个月花掉这加起来18个G的漫游流量喵 https://t.co/lLcdfgWYe1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2097120419027550208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRp36PtbAAAsBBr.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097120419027550208"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2097120463050969410",
+        "created_at": "2026-09-08T00:30:55.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T01:30:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097120463050969410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lLcdfgWYe1",
+              "end": 47,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2097120463050969410/photo/1",
+              "media_key": "3_2097120419027550208",
+              "start": 24,
+              "url": "https://t.co/lLcdfgWYe1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097120463050969410",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097120419027550208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "咱要在这一个月花掉这加起来18个G的漫游流量喵 https://t.co/lLcdfgWYe1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/什么都不会/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 23,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "zhwevea"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "qiuylove"
+              },
+              {
+                "end": 83,
+                "start": 69,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tientsin",
+        "most_recent_tweet_id": "2097120463050969410",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2092116629694058989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8870,
+          "following_count": 1303,
+          "like_count": 226319,
+          "listed_count": 7,
+          "media_count": 1323,
+          "tweet_count": 9607
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2097974127860805913",
+    "created_at": "2026-09-11T10:30:26.000Z",
+    "display_text_range": [
+      13,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T11:30:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098358499780837875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2081579811395469312",
+          "start": 0,
+          "username": "badshark111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098358499780837875",
+    "in_reply_to_user_id": "2081579811395469312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097974127860805913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@badshark111 咪"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2097974127860805913].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2097974127860805913",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2097974127860805913"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2097974127860805913",
+        "created_at": "2026-09-11T10:30:26.000Z",
+        "display_text_range": [
+          13,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T11:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098358499780837875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2081579811395469312",
+              "start": 0,
+              "username": "badshark111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098358499780837875",
+        "in_reply_to_user_id": "2081579811395469312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097974127860805913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@badshark111 咪"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/是大笨蛋😖/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 23,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "zhwevea"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "qiuylove"
+              },
+              {
+                "end": 83,
+                "start": 69,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tientsin",
+        "most_recent_tweet_id": "2098358499780837875",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2097851786463998326",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8872,
+          "following_count": 1304,
+          "like_count": 226365,
+          "listed_count": 7,
+          "media_count": 1338,
+          "tweet_count": 9678
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-27T03:22:43.000Z",
+        "description": "警告⚠️！\n此账号包含大量负面情绪 如果会影响到你的心情 请勿fo\n善良人格@fengyanuuu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 38,
+                "username": "fengyanuuu"
+              }
+            ]
+          }
+        },
+        "id": "2081579811395469312",
+        "is_identity_verified": false,
+        "location": "坏坏",
+        "most_recent_tweet_id": "2086833001435222153",
+        "name": "一只可爱的梅尔菲🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2081579811395469312/1785123654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081585585622544384/0_vH01WI_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 12,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 49
+        },
+        "url": "",
+        "username": "badshark111",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

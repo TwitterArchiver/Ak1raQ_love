@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2095152364261171664",
+    "created_at": "2026-09-02T14:10:24.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T15:10:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095152364261171664"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ak1raQ_love/st…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/Ak1raQ_love/status/2095149495592079504",
+          "start": 38,
+          "url": "https://t.co/APNSqaPbB0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095152364261171664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095149495592079504",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "不是，东西怎么少了，烦死了，我那个发夹还有一大堆皮筋呢，我也不敢问，完蛋我 https://t.co/APNSqaPbB0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095149491745853440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRN3XLbaEAAheql.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2095152364261171664",
+        "created_at": "2026-09-02T14:10:24.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T15:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095152364261171664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ak1raQ_love/st…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/Ak1raQ_love/status/2095149495592079504",
+              "start": 38,
+              "url": "https://t.co/APNSqaPbB0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095152364261171664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095149495592079504",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "不是，东西怎么少了，烦死了，我那个发夹还有一大堆皮筋呢，我也不敢问，完蛋我 https://t.co/APNSqaPbB0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095149491745853440"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2095149495592079504",
+        "created_at": "2026-09-02T13:59:00.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T14:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095149495592079504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OrNFhgmI8c",
+              "end": 160,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2095149495592079504/photo/1",
+              "media_key": "3_2095149491745853440",
+              "start": 137,
+              "url": "https://t.co/OrNFhgmI8c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095149495592079504",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095149491745853440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "牛逼666，怎么又趁我洗澡的时候搞事情，又不经过我同意就乱动我包，里面我一堆自己的私密的东西问都不问一下就全部拿出来说给我整理，我三个包这个放最里面，我知道我里面有用完没扔的凝胶还有两盒螺内酯，要不是拿黑色袋子绑起来装着我差点一秒直接炸柜，要再来一次这次怎么说都圆不过去了 https://t.co/OrNFhgmI8c"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/什么都不会/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 29,
+                "start": 22,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "zhwevea"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "qiuylove"
+              },
+              {
+                "end": 82,
+                "start": 68,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "鹭岛",
+        "most_recent_tweet_id": "2095152364261171664",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2092116629694058989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8837,
+          "following_count": 1292,
+          "like_count": 224453,
+          "listed_count": 6,
+          "media_count": 1301,
+          "tweet_count": 9422
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2099797377427071105",
+    "created_at": "2026-09-15T12:26:27.000Z",
+    "display_text_range": [
+      13,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T13:26:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099837247055114374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "616537873",
+          "start": 0,
+          "username": "aaarjkkmiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099837247055114374",
+    "in_reply_to_user_id": "616537873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099797377427071105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaarjkkmiao 摸摸哦...很能理解那种感觉呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2099797377427071105",
+        "created_at": "2026-09-15T12:26:27.000Z",
+        "display_text_range": [
+          13,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T13:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099837247055114374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "616537873",
+              "start": 0,
+              "username": "aaarjkkmiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099837247055114374",
+        "in_reply_to_user_id": "616537873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099797377427071105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkkmiao 摸摸哦...很能理解那种感觉呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "616537873",
+        "conversation_id": "2099797377427071105",
+        "created_at": "2026-09-15T09:48:01.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T10:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099797377427071105"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099797377427071105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1076,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "变成寸头小药娘了喵呜呜"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/是大笨蛋😖/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/偏隐私内容 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 23,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "zhwevea"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "qiuylove"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tianjin/Xiamen/Suzhou",
+        "most_recent_tweet_id": "2099837247055114374",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8856,
+          "following_count": 1307,
+          "like_count": 227094,
+          "listed_count": 7,
+          "media_count": 1347,
+          "tweet_count": 9819
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-06-23T22:30:17.000Z",
+        "description": "大号@aaarjkk 1478Fo卡进后室寻回互Fo🩷\n活在幻想中☁️希望咱们每天都能开开心心的☺️☁️成绩倒数(?)☁️查成分互Follow(?)☁️172cm53kg巨人🍥8/31/2026小资历🎂10/14/2010天残党\n🏳️小号@a0brjkk(负面?🤔)\n🤍@a0brjkkmiao🤭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "aaarjkk"
+              },
+              {
+                "end": 127,
+                "start": 119,
+                "username": "a0brjkk"
+              },
+              {
+                "end": 147,
+                "start": 135,
+                "username": "a0brjkkmiao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shop.aaarjkk.top",
+                "end": 23,
+                "expanded_url": "https://shop.aaarjkk.top/",
+                "start": 0,
+                "url": "https://t.co/lIxlEX4uF5"
+              }
+            ]
+          }
+        },
+        "id": "616537873",
+        "is_identity_verified": true,
+        "location": "@aaarjkk (2025.8-2026.8) 永远怀念 ",
+        "most_recent_tweet_id": "2099836651581350337",
+        "name": "是貓貓喵🍥",
+        "pinned_tweet_id": "2098344560170807523",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/616537873/1786621805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087845591523168256/D8VdVCaf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 582,
+          "like_count": 36,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 706
+        },
+        "url": "https://t.co/lIxlEX4uF5",
+        "username": "aaarjkkmiao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

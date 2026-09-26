@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2094454218900082991",
+    "created_at": "2026-08-31T23:21:16.000Z",
+    "display_text_range": [
+      13,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T00:21:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094566219252973645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2055205435011936256",
+          "start": 0,
+          "username": "Amin1650752"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/kaho_114514/st…",
+          "end": 36,
+          "expanded_url": "https://x.com/kaho_114514/status/1878613884468379893",
+          "start": 13,
+          "url": "https://t.co/Lp2fsUcShk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094566219252973645",
+    "in_reply_to_user_id": "2055205435011936256",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878613884468379893",
+        "type": "quoted"
+      },
+      {
+        "id": "2094454218900082991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amin1650752 https://t.co/Lp2fsUcShk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 389856,
+        "height": 720,
+        "media_key": "13_1878613217888567296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1878613217888567296/img/Kfz5wI2w0cezeTE_.jpg",
+        "public_metrics": {
+          "view_count": 88451
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1878613217888567296/vid/avc1/480x270/N2BoZxnmmpJkfgpD.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1878613217888567296/vid/avc1/640x360/38ZFCVo70VIZaV2a.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1878613217888567296/vid/avc1/1280x720/151snjXzorV-6JJY.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1878613217888567296/pl/q72i9VBEPYXTh3gI.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2094454218900082991",
+        "created_at": "2026-08-31T23:21:16.000Z",
+        "display_text_range": [
+          13,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T00:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094566219252973645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2055205435011936256",
+              "start": 0,
+              "username": "Amin1650752"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/kaho_114514/st…",
+              "end": 36,
+              "expanded_url": "https://x.com/kaho_114514/status/1878613884468379893",
+              "start": 13,
+              "url": "https://t.co/Lp2fsUcShk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094566219252973645",
+        "in_reply_to_user_id": "2055205435011936256",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878613884468379893",
+            "type": "quoted"
+          },
+          {
+            "id": "2094454218900082991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amin1650752 https://t.co/Lp2fsUcShk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055205435011936256",
+        "conversation_id": "2094454218900082991",
+        "created_at": "2026-08-31T15:56:13.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T16:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094454218900082991"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094454218900082991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 332,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "奇怪…\n之前有日雌注射教程的现在却搜不到了…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1878613217888567296"
+          ]
+        },
+        "author_id": "1599546260402638848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1878613884468379893",
+        "created_at": "2025-01-13T01:23:47.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2025-01-13T02:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878613884468379893"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L7PApE9C2v",
+              "end": 89,
+              "expanded_url": "https://x.com/chika_ichii/status/1878613884468379893/video/1",
+              "media_key": "13_1878613217888567296",
+              "start": 66,
+              "url": "https://t.co/L7PApE9C2v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878613884468379893",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "description": "",
+            "media_key": "13_1878613217888567296",
+            "title": ""
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 573,
+          "impression_count": 193796,
+          "like_count": 1010,
+          "quote_count": 17,
+          "reply_count": 37,
+          "retweet_count": 116
+        },
+        "reply_settings": "everyone",
+        "text": "看到有好多xyn打日雌，却苦于自己不会扎针。咱特地录了一个教程，给大家演示一下最用的单人股外侧注射法和注意事项。还有额外tips！ https://t.co/L7PApE9C2v"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/什么都不会/向往自由/banner是黄厝海滩/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 28,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 56,
+                "start": 48,
+                "username": "zhwevea"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "username": "qiuylove"
+              },
+              {
+                "end": 88,
+                "start": 74,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "鹭岛",
+        "most_recent_tweet_id": "2094566219252973645",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2092116629694058989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8836,
+          "following_count": 1286,
+          "like_count": 223304,
+          "listed_count": 6,
+          "media_count": 1289,
+          "tweet_count": 9376
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T08:35:42.000Z",
+        "description": "姛/前世河野樱🍥/mtf/HRT 24.9.21/家暴党/同类互fo/不鉴证&不o不割/大概同人游戏女（？）/q2418203817（猫の箱）",
+        "id": "2055205435011936256",
+        "is_identity_verified": false,
+        "location": "RiNG",
+        "most_recent_tweet_id": "2094455728031576317",
+        "name": "-Amin🐱",
+        "pinned_tweet_id": "2087531868929622273",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055205435011936256/1781585938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085028285134864384/pg8rixLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 960,
+          "like_count": 13023,
+          "listed_count": 2,
+          "media_count": 35,
+          "tweet_count": 939
+        },
+        "url": "",
+        "username": "Amin1650752",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-04T23:28:52.000Z",
+        "description": "輝きの向こう側へ￤MTF",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kaho114514",
+                "end": 23,
+                "expanded_url": "https://lit.link/kaho114514",
+                "start": 0,
+                "url": "https://t.co/mH9zrfC6L9"
+              }
+            ]
+          }
+        },
+        "id": "1599546260402638848",
+        "is_identity_verified": true,
+        "location": "天国",
+        "most_recent_tweet_id": "2090976657452810678",
+        "name": "王 千夏",
+        "pinned_tweet_id": "1909420985151033651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1599546260402638848/1733399409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089987820614266880/kfXId3RR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 148,
+          "like_count": 287,
+          "listed_count": 6,
+          "media_count": 83,
+          "tweet_count": 396
+        },
+        "url": "https://t.co/mH9zrfC6L9",
+        "username": "kaho_114514",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

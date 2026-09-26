@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2095135938284585417",
+    "created_at": "2026-09-02T13:05:08.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T14:05:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095135938284585417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1663066129923981312",
+          "start": 3,
+          "username": "Ak1raQ_love"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095135938284585417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095122400249831535",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @Ak1raQ_love: 说自己顺直男的都是小药娘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2095135938284585417",
+        "created_at": "2026-09-02T13:05:08.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T14:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095135938284585417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1663066129923981312",
+              "start": 3,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095135938284585417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095122400249831535",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @Ak1raQ_love: 说自己顺直男的都是小药娘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2095122400249831535",
+        "created_at": "2026-09-02T12:11:20.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T13:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095122400249831535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhwevea/status…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/zhwevea/status/2095122096645140956",
+              "start": 13,
+              "url": "https://t.co/h3BoyCCW2f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095122400249831535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095122096645140956",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "说自己顺直男的都是小药娘 https://t.co/h3BoyCCW2f"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/什么都不会/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 29,
+                "start": 22,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "zhwevea"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "qiuylove"
+              },
+              {
+                "end": 82,
+                "start": 68,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "鹭岛",
+        "most_recent_tweet_id": "2095135938284585417",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2092116629694058989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8836,
+          "following_count": 1292,
+          "like_count": 224435,
+          "listed_count": 6,
+          "media_count": 1300,
+          "tweet_count": 9421
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

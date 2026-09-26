@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096024293654306816"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2096024296997236949",
+    "created_at": "2026-09-04T23:55:09.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T00:55:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096024296997236949"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GmFSXXLNkD",
+          "end": 53,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2096024296997236949/photo/1",
+          "media_key": "3_2096024293654306816",
+          "start": 30,
+          "url": "https://t.co/GmFSXXLNkD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096024296997236949",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096024293654306816"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "人生路漫漫，白鹭常相伴\n感谢您乘坐天合航空公司厦门航空航班 https://t.co/GmFSXXLNkD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096024293654306816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRaS_WfaoAA_Wkv.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096024293654306816"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2096024296997236949",
+        "created_at": "2026-09-04T23:55:09.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T00:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096024296997236949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GmFSXXLNkD",
+              "end": 53,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2096024296997236949/photo/1",
+              "media_key": "3_2096024293654306816",
+              "start": 30,
+              "url": "https://t.co/GmFSXXLNkD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096024296997236949",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096024293654306816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "人生路漫漫，白鹭常相伴\n感谢您乘坐天合航空公司厦门航空航班 https://t.co/GmFSXXLNkD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/什么都不会/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 23,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "zhwevea"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "qiuylove"
+              },
+              {
+                "end": 83,
+                "start": 69,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "XMN",
+        "most_recent_tweet_id": "2096024296997236949",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2092116629694058989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8854,
+          "following_count": 1298,
+          "like_count": 225750,
+          "listed_count": 7,
+          "media_count": 1315,
+          "tweet_count": 9532
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

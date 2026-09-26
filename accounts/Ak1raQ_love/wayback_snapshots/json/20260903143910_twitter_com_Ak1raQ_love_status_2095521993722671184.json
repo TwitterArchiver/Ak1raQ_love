@@ -1,0 +1,464 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095521988169310208"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2095516532814348645",
+    "created_at": "2026-09-03T14:39:10.000Z",
+    "display_text_range": [
+      12,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T15:39:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095521993722671184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1602320477347000325",
+          "start": 0,
+          "username": "landiantech"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WLQrixb4Mu",
+          "end": 36,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2095521993722671184/photo/1",
+          "media_key": "3_2095521988169310208",
+          "start": 13,
+          "url": "https://t.co/WLQrixb4Mu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095521993722671184",
+    "in_reply_to_user_id": "1602320477347000325",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2095521988169310208"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095516532814348645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@landiantech https://t.co/WLQrixb4Mu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095521988169310208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRTKJUvaIAABjjw.jpg",
+        "width": 931
+      },
+      {
+        "height": 1104,
+        "media_key": "3_2095516486991544321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRTFJHQbAAEokMw.jpg",
+        "width": 1970
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2095516486974816257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRTFJHMbwAEhgeo.jpg",
+        "width": 2228
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095521988169310208"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2095516532814348645",
+        "created_at": "2026-09-03T14:39:10.000Z",
+        "display_text_range": [
+          12,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T15:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095521993722671184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1602320477347000325",
+              "start": 0,
+              "username": "landiantech"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WLQrixb4Mu",
+              "end": 36,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2095521993722671184/photo/1",
+              "media_key": "3_2095521988169310208",
+              "start": 13,
+              "url": "https://t.co/WLQrixb4Mu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095521993722671184",
+        "in_reply_to_user_id": "1602320477347000325",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2095521988169310208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095516532814348645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@landiantech https://t.co/WLQrixb4Mu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095516486991544321",
+            "3_2095516486974816257"
+          ]
+        },
+        "author_id": "1602320477347000325",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "2095516532814348645",
+        "created_at": "2026-09-03T14:17:28.000Z",
+        "display_text_range": [
+          0,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T15:17:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095516532814348645"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "慢讯"
+            },
+            {
+              "end": 11,
+              "start": 4,
+              "tag": "Claude"
+            },
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "Grok"
+            },
+            {
+              "end": 118,
+              "start": 107,
+              "tag": "Claudedown"
+            },
+            {
+              "end": 128,
+              "start": 119,
+              "tag": "grokdown"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d0yXeIw2rk",
+              "end": 152,
+              "expanded_url": "https://x.com/landiantech/status/2095516532814348645/photo/1",
+              "media_key": "3_2095516486991544321",
+              "start": 129,
+              "url": "https://t.co/d0yXeIw2rk"
+            },
+            {
+              "display_url": "pic.x.com/d0yXeIw2rk",
+              "end": 152,
+              "expanded_url": "https://x.com/landiantech/status/2095516532814348645/photo/1",
+              "media_key": "3_2095516486974816257",
+              "start": 129,
+              "url": "https://t.co/d0yXeIw2rk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095516532814348645",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095516486991544321"
+          },
+          {
+            "media_key": "3_2095516486974816257"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 597,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#慢讯 #Claude 和 #Grok 同时出现访问问题。\n\nClaude 4.6/4.8/5/5.1系列错误率都在上升。\n\nGrok for Android存在异常。\n\ngrok api 服务在美东1区出现异常。#Claudedown #grokdown https://t.co/d0yXeIw2rk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/什么都不会/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 23,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "zhwevea"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "qiuylove"
+              },
+              {
+                "end": 83,
+                "start": 69,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "鹭岛",
+        "most_recent_tweet_id": "2095521993722671184",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2092116629694058989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8847,
+          "following_count": 1294,
+          "like_count": 225067,
+          "listed_count": 6,
+          "media_count": 1310,
+          "tweet_count": 9482
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-12T15:12:39.000Z",
+        "description": "独立科技网站 - 蓝点网 / 感谢关注 / AI / 重度 Codex & Claude Code 用户",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "landian.news",
+                "end": 23,
+                "expanded_url": "https://www.landian.news/",
+                "start": 0,
+                "url": "https://t.co/AQRoCx3e7F"
+              }
+            ]
+          }
+        },
+        "id": "1602320477347000325",
+        "is_identity_verified": false,
+        "location": "土卫六",
+        "most_recent_tweet_id": "2095520298183569848",
+        "name": "蓝点网",
+        "pinned_tweet_id": "2094679266130846179",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37549,
+          "following_count": 810,
+          "like_count": 6353,
+          "listed_count": 280,
+          "media_count": 6555,
+          "tweet_count": 17747
+        },
+        "url": "https://t.co/AQRoCx3e7F",
+        "username": "landiantech",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

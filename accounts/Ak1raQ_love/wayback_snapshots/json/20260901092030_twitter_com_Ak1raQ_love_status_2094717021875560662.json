@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094717018851463169",
+        "3_2094716957820157953"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2094717021875560662",
+    "created_at": "2026-09-01T09:20:30.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T10:20:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094717021875560662"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gXWn5OmOyx",
+          "end": 38,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2094717021875560662/photo/1",
+          "media_key": "3_2094717018851463169",
+          "start": 15,
+          "url": "https://t.co/gXWn5OmOyx"
+        },
+        {
+          "display_url": "pic.x.com/gXWn5OmOyx",
+          "end": 38,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2094717021875560662/photo/1",
+          "media_key": "3_2094716957820157953",
+          "start": 15,
+          "url": "https://t.co/gXWn5OmOyx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094717021875560662",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094717018851463169"
+      },
+      {
+        "media_key": "3_2094716957820157953"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "一个月三刀美国nat家宽耍起 https://t.co/gXWn5OmOyx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1355,
+        "media_key": "3_2094717018851463169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRHuB8WbUAEUmeE.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2094716957820157953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRHt-Y_bgAEglz1.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094717018851463169",
+            "3_2094716957820157953"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2094717021875560662",
+        "created_at": "2026-09-01T09:20:30.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T10:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094717021875560662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gXWn5OmOyx",
+              "end": 38,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2094717021875560662/photo/1",
+              "media_key": "3_2094717018851463169",
+              "start": 15,
+              "url": "https://t.co/gXWn5OmOyx"
+            },
+            {
+              "display_url": "pic.x.com/gXWn5OmOyx",
+              "end": 38,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2094717021875560662/photo/1",
+              "media_key": "3_2094716957820157953",
+              "start": 15,
+              "url": "https://t.co/gXWn5OmOyx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094717021875560662",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094717018851463169"
+          },
+          {
+            "media_key": "3_2094716957820157953"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "一个月三刀美国nat家宽耍起 https://t.co/gXWn5OmOyx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/什么都不会/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 29,
+                "start": 22,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "zhwevea"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "qiuylove"
+              },
+              {
+                "end": 82,
+                "start": 68,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "鹭岛",
+        "most_recent_tweet_id": "2094717021875560662",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2092116629694058989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8838,
+          "following_count": 1288,
+          "like_count": 223712,
+          "listed_count": 6,
+          "media_count": 1295,
+          "tweet_count": 9394
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

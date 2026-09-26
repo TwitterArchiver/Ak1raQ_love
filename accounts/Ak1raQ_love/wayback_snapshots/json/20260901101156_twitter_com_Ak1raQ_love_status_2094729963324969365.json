@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2094717021875560662",
+    "created_at": "2026-09-01T10:11:56.000Z",
+    "display_text_range": [
+      13,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T11:11:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094729963324969365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1897665192290656256",
+          "start": 0,
+          "username": "apiece_shio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094729963324969365",
+    "in_reply_to_user_id": "1897665192290656256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094723995576975450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@apiece_shio 没有，他这个网站支持wise支付"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2094717021875560662",
+        "created_at": "2026-09-01T10:11:56.000Z",
+        "display_text_range": [
+          13,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T11:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094729963324969365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1897665192290656256",
+              "start": 0,
+              "username": "apiece_shio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094729963324969365",
+        "in_reply_to_user_id": "1897665192290656256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094723995576975450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@apiece_shio 没有，他这个网站支持wise支付"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897665192290656256",
+        "conversation_id": "2094717021875560662",
+        "created_at": "2026-09-01T09:48:13.000Z",
+        "display_text_range": [
+          13,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T10:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094723995576975450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094723995576975450",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094717021875560662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Ak1raQ_love 666还能用 wise 付，你有卡😯"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/什么都不会/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 29,
+                "start": 22,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "zhwevea"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "qiuylove"
+              },
+              {
+                "end": 82,
+                "start": 68,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "鹭岛",
+        "most_recent_tweet_id": "2094729963324969365",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2092116629694058989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8838,
+          "following_count": 1288,
+          "like_count": 223715,
+          "listed_count": 6,
+          "media_count": 1295,
+          "tweet_count": 9394
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-06T15:07:51.000Z",
+        "description": "汐落 shio 的一抹切片。如果你不喜欢梗图的话，或许不必关注，毕竟只是一抹切片而已。日常号: @shioochicqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "shioochicqwq"
+              }
+            ]
+          }
+        },
+        "id": "1897665192290656256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094723995576975450",
+        "name": "汐落_shio",
+        "pinned_tweet_id": "2094375554774392994",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094372734826618880/tb9lrO74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 59,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 59
+        },
+        "url": "",
+        "username": "apiece_shio",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

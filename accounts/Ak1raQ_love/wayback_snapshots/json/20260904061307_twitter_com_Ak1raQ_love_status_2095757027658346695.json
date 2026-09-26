@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2095748530833109415",
+    "created_at": "2026-09-04T06:13:07.000Z",
+    "display_text_range": [
+      9,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T07:13:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095757027658346695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1690570637499154432",
+          "start": 0,
+          "username": "zhwevea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095757027658346695",
+    "in_reply_to_user_id": "1690570637499154432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095748530833109415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhwevea 美女嘻嘻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095748280403791873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRWX9RAakAEM1F_.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095748519118393344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRWYLKSaUAA9bp6.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2095748530833109415",
+        "created_at": "2026-09-04T06:13:07.000Z",
+        "display_text_range": [
+          9,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T07:13:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095757027658346695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1690570637499154432",
+              "start": 0,
+              "username": "zhwevea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095757027658346695",
+        "in_reply_to_user_id": "1690570637499154432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095748530833109415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhwevea 美女嘻嘻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095748280403791873",
+            "3_2095748519118393344"
+          ]
+        },
+        "author_id": "1690570637499154432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2095748530833109415",
+        "created_at": "2026-09-04T05:39:21.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T06:38:24.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095748290470105500",
+          "2095748530833109415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V1lz1lgp5T",
+              "end": 65,
+              "expanded_url": "https://x.com/zhwevea/status/2095748530833109415/photo/1",
+              "media_key": "3_2095748280403791873",
+              "start": 42,
+              "url": "https://t.co/V1lz1lgp5T"
+            },
+            {
+              "display_url": "pic.x.com/V1lz1lgp5T",
+              "end": 65,
+              "expanded_url": "https://x.com/zhwevea/status/2095748530833109415/photo/1",
+              "media_key": "3_2095748519118393344",
+              "start": 42,
+              "url": "https://t.co/V1lz1lgp5T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095748530833109415",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095748280403791873"
+          },
+          {
+            "media_key": "3_2095748519118393344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 295,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "居然久违的被叫美女了\n在一家说自己是23年老店的地方\n还发现了想喝但见得很少的饮料 https://t.co/V1lz1lgp5T"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/什么都不会/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 23,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "zhwevea"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "qiuylove"
+              },
+              {
+                "end": 83,
+                "start": 69,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "XMN🔜TSN",
+        "most_recent_tweet_id": "2095757027658346695",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2092116629694058989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8853,
+          "following_count": 1298,
+          "like_count": 225495,
+          "listed_count": 7,
+          "media_count": 1313,
+          "tweet_count": 9509
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei 👋｜精益求精｜想要看遍大千世界 ✈️｜想要成为技术大拿 📲💡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/zhweaa",
+                "end": 23,
+                "expanded_url": "https://github.com/zhweaa",
+                "start": 0,
+                "url": "https://t.co/Lsl0VyzXWN"
+              }
+            ]
+          }
+        },
+        "id": "1690570637499154432",
+        "is_identity_verified": false,
+        "location": "🌏🌐",
+        "most_recent_tweet_id": "2095753765735510500",
+        "name": "Zhi Wei 🥥🧊",
+        "pinned_tweet_id": "2091021352287535331",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690570637499154432/1769647058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061738719095476224/g1B5Ghy6_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7854,
+          "following_count": 431,
+          "like_count": 33588,
+          "listed_count": 25,
+          "media_count": 2835,
+          "tweet_count": 21721
+        },
+        "url": "https://t.co/Lsl0VyzXWN",
+        "username": "zhwevea",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

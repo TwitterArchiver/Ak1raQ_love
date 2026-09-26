@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2094405321364304328",
+    "created_at": "2026-08-31T13:11:45.000Z",
+    "display_text_range": [
+      14,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T14:11:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094412827352347005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1995146888249778177",
+          "start": 0,
+          "username": "Rin_Mashiro_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094412827352347005",
+    "in_reply_to_user_id": "1995146888249778177",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094411699361378787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rin_Mashiro_ 美国诶，想要喵🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 247,
+        "media_key": "3_2094411689911627776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRDYVdabsAAeVrY.jpg",
+        "width": 1243
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2094405321364304328",
+        "created_at": "2026-08-31T13:11:45.000Z",
+        "display_text_range": [
+          14,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T14:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094412827352347005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1995146888249778177",
+              "start": 0,
+              "username": "Rin_Mashiro_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094412827352347005",
+        "in_reply_to_user_id": "1995146888249778177",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094411699361378787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rin_Mashiro_ 美国诶，想要喵🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094411689911627776"
+          ]
+        },
+        "author_id": "1995146888249778177",
+        "conversation_id": "2094405321364304328",
+        "created_at": "2026-08-31T13:07:16.000Z",
+        "display_text_range": [
+          12,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T14:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094411699361378787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zu2H4UhrIB",
+              "end": 36,
+              "expanded_url": "https://x.com/Rin_Mashiro_/status/2094411699361378787/photo/1",
+              "media_key": "3_2094411689911627776",
+              "start": 13,
+              "url": "https://t.co/Zu2H4UhrIB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094411699361378787",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2094411689911627776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094410355447623812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak1raQ_love https://t.co/Zu2H4UhrIB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/什么都不会/向往自由/banner是黄厝海滩/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 28,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 56,
+                "start": 48,
+                "username": "zhwevea"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "username": "qiuylove"
+              },
+              {
+                "end": 88,
+                "start": 74,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "鹭岛",
+        "most_recent_tweet_id": "2094412827352347005",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2092116629694058989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8834,
+          "following_count": 1284,
+          "like_count": 223080,
+          "listed_count": 6,
+          "media_count": 1288,
+          "tweet_count": 9362
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-30T15:04:29.000Z",
+        "description": "VPS梦女｜处于HRT与非HRT叠加态｜J-POP｜AI｜ACGN｜JP（N2） EN CN｜SillyTavern二开及插件开发者\n个人博客:https://t.co/PVGkqcilif\n匿名提问:https://t.co/520DUeTbF0\nTG:https://t.co/mrZzq3tpLq(24h在线)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "blog.rin.wtf",
+                "end": 95,
+                "expanded_url": "https://blog.rin.wtf",
+                "start": 72,
+                "url": "https://t.co/PVGkqcilif"
+              },
+              {
+                "display_url": "blog.rin.wtf/ask",
+                "end": 124,
+                "expanded_url": "https://blog.rin.wtf/ask",
+                "start": 101,
+                "url": "https://t.co/520DUeTbF0"
+              },
+              {
+                "display_url": "t.me/Rin_Mashiro",
+                "end": 151,
+                "expanded_url": "https://t.me/Rin_Mashiro",
+                "start": 128,
+                "url": "https://t.co/mrZzq3tpLq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.rin.wtf",
+                "end": 23,
+                "expanded_url": "https://blog.rin.wtf",
+                "start": 0,
+                "url": "https://t.co/PVGkqcilif"
+              }
+            ]
+          }
+        },
+        "id": "1995146888249778177",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2094411699361378787",
+        "name": "Rin",
+        "pinned_tweet_id": "2092183830866358312",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1995146888249778177/1782917546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006297830823215106/c2krAf_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 119,
+          "like_count": 1188,
+          "listed_count": 0,
+          "media_count": 252,
+          "tweet_count": 2589
+        },
+        "url": "https://t.co/PVGkqcilif",
+        "username": "Rin_Mashiro_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

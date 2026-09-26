@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098570417229484032"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2098570420194775246",
+    "created_at": "2026-09-12T00:32:32.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T01:32:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098570420194775246"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0j829TiETk",
+          "end": 30,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2098570420194775246/photo/1",
+          "media_key": "3_2098570417229484032",
+          "start": 7,
+          "url": "https://t.co/0j829TiETk"
+        },
+        {
+          "display_url": "x.com/zhwevea/status…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/zhwevea/status/2098377810054353016",
+          "start": 31,
+          "url": "https://t.co/bWkwcAIURE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098570420194775246",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2098570417229484032"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098377810054353016",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "xyn可爱喵 https://t.co/0j829TiETk https://t.co/bWkwcAIURE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 449,
+        "media_key": "3_2098570417229484032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR-erP8bUAA5LnJ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 671,
+        "media_key": "3_2098377803901390848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR7vfrYbUAAd01_.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098570417229484032"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098570420194775246",
+        "created_at": "2026-09-12T00:32:32.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T01:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098570420194775246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0j829TiETk",
+              "end": 30,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2098570420194775246/photo/1",
+              "media_key": "3_2098570417229484032",
+              "start": 7,
+              "url": "https://t.co/0j829TiETk"
+            },
+            {
+              "display_url": "x.com/zhwevea/status…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/zhwevea/status/2098377810054353016",
+              "start": 31,
+              "url": "https://t.co/bWkwcAIURE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098570420194775246",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2098570417229484032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098377810054353016",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "xyn可爱喵 https://t.co/0j829TiETk https://t.co/bWkwcAIURE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098377803901390848"
+          ]
+        },
+        "author_id": "1690570637499154432",
+        "conversation_id": "2098377810054353016",
+        "created_at": "2026-09-11T11:47:10.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T12:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098377810054353016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VYlck21gk3",
+              "end": 42,
+              "expanded_url": "https://x.com/zhwevea/status/2098377810054353016/photo/1",
+              "media_key": "3_2098377803901390848",
+              "start": 19,
+              "url": "https://t.co/VYlck21gk3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098377810054353016",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098377803901390848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3534,
+          "like_count": 62,
+          "quote_count": 1,
+          "reply_count": 31,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好多头像长得差不多的我都要分不出来了 https://t.co/VYlck21gk3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/是大笨蛋😖/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 23,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "zhwevea"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "qiuylove"
+              },
+              {
+                "end": 83,
+                "start": 69,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tientsin",
+        "most_recent_tweet_id": "2098570420194775246",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2097851786463998326",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8866,
+          "following_count": 1304,
+          "like_count": 226262,
+          "listed_count": 7,
+          "media_count": 1339,
+          "tweet_count": 9686
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei 👋｜精益求精｜想要看遍大千世界 ✈️｜想要成为技术大拿 📲💡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/zhweaa",
+                "end": 23,
+                "expanded_url": "https://github.com/zhweaa",
+                "start": 0,
+                "url": "https://t.co/Lsl0VyAvMl"
+              }
+            ]
+          }
+        },
+        "id": "1690570637499154432",
+        "is_identity_verified": false,
+        "location": "🌏🌐",
+        "most_recent_tweet_id": "2098567588704075853",
+        "name": "Zhi Wei 🥥🧊",
+        "pinned_tweet_id": "2091021352287535331",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690570637499154432/1788581275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061738719095476224/g1B5Ghy6_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7890,
+          "following_count": 429,
+          "like_count": 33592,
+          "listed_count": 25,
+          "media_count": 2859,
+          "tweet_count": 21865
+        },
+        "url": "https://t.co/Lsl0VyAvMl",
+        "username": "zhwevea",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

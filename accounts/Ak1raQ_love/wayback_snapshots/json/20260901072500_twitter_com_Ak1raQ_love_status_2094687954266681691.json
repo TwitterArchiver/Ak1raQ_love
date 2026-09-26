@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094677517693329408"
+      ],
+      "media_source_tweet_id": [
+        "2094677521480794222"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2094687954266681691",
+    "created_at": "2026-09-01T07:25:00.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T08:25:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094687954266681691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1663066129923981312",
+          "start": 3,
+          "username": "Ak1raQ_love"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dm6pe3ElEH",
+          "end": 59,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2094677521480794222/photo/1",
+          "media_key": "3_2094677517693329408",
+          "start": 36,
+          "url": "https://t.co/dm6pe3ElEH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094687954266681691",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094677517693329408"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094677521480794222",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ak1raQ_love: 上周推u打赏的钱已经到账一部分了喵🥺 https://t.co/dm6pe3ElEH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 596,
+        "media_key": "3_2094677517693329408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRHKGrEboAAdXQ0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094677517693329408"
+          ],
+          "media_source_tweet_id": [
+            "2094677521480794222"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2094687954266681691",
+        "created_at": "2026-09-01T07:25:00.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T08:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094687954266681691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1663066129923981312",
+              "start": 3,
+              "username": "Ak1raQ_love"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dm6pe3ElEH",
+              "end": 59,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2094677521480794222/photo/1",
+              "media_key": "3_2094677517693329408",
+              "start": 36,
+              "url": "https://t.co/dm6pe3ElEH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094687954266681691",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094677517693329408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094677521480794222",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ak1raQ_love: 上周推u打赏的钱已经到账一部分了喵🥺 https://t.co/dm6pe3ElEH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094677517693329408"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2094677521480794222",
+        "created_at": "2026-09-01T06:43:33.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T07:43:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094677521480794222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dm6pe3ElEH",
+              "end": 42,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2094677521480794222/photo/1",
+              "media_key": "3_2094677517693329408",
+              "start": 19,
+              "url": "https://t.co/dm6pe3ElEH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094677521480794222",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094677517693329408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 301,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "上周推u打赏的钱已经到账一部分了喵🥺 https://t.co/dm6pe3ElEH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/什么都不会/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 29,
+                "start": 22,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "zhwevea"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "qiuylove"
+              },
+              {
+                "end": 82,
+                "start": 68,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "鹭岛",
+        "most_recent_tweet_id": "2094687954266681691",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2092116629694058989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8838,
+          "following_count": 1288,
+          "like_count": 223696,
+          "listed_count": 6,
+          "media_count": 1294,
+          "tweet_count": 9393
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

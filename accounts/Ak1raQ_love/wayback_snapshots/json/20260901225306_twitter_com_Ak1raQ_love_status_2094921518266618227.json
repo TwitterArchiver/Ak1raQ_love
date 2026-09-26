@@ -1,0 +1,446 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094921515410354176"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2094921518266618227",
+    "created_at": "2026-09-01T22:53:06.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T23:53:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094921518266618227"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PBOGhGga4s",
+          "end": 38,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2094921518266618227/photo/1",
+          "media_key": "3_2094921515410354176",
+          "start": 15,
+          "url": "https://t.co/PBOGhGga4s"
+        },
+        {
+          "display_url": "x.com/QuantumTransf/…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/QuantumTransf/status/2094817165690208649",
+          "start": 39,
+          "url": "https://t.co/vLLZrWBN1L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094921518266618227",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094921515410354176"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094817165690208649",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这人跟福黑不聊起来了，没绷住 https://t.co/PBOGhGga4s https://t.co/vLLZrWBN1L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2080,
+        "media_key": "3_2094921515410354176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRKoBNZbcAALwTB.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2340,
+        "media_key": "3_2094817138511069184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRJJFrJaQAAxbp6.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2340,
+        "media_key": "3_2094817149315682304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRJJGTZbkAAD6hB.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1456,
+        "media_key": "3_2094817157616123905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRJJGyUaQAEIqD3.jpg",
+        "width": 1204
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094921515410354176"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2094921518266618227",
+        "created_at": "2026-09-01T22:53:06.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T23:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094921518266618227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PBOGhGga4s",
+              "end": 38,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2094921518266618227/photo/1",
+              "media_key": "3_2094921515410354176",
+              "start": 15,
+              "url": "https://t.co/PBOGhGga4s"
+            },
+            {
+              "display_url": "x.com/QuantumTransf/…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/QuantumTransf/status/2094817165690208649",
+              "start": 39,
+              "url": "https://t.co/vLLZrWBN1L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094921518266618227",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094921515410354176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094817165690208649",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这人跟福黑不聊起来了，没绷住 https://t.co/PBOGhGga4s https://t.co/vLLZrWBN1L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094817138511069184",
+            "3_2094817149315682304",
+            "3_2094817157616123905"
+          ]
+        },
+        "author_id": "1692126794055647232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2094817165690208649",
+        "created_at": "2026-09-01T15:58:26.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T16:57:57.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094817042100805643",
+          "2094817165690208649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4c7o5Z1bNZ",
+              "end": 131,
+              "expanded_url": "https://x.com/QuantumTransf/status/2094817165690208649/photo/1",
+              "media_key": "3_2094817138511069184",
+              "start": 108,
+              "url": "https://t.co/4c7o5Z1bNZ"
+            },
+            {
+              "display_url": "pic.x.com/4c7o5Z1bNZ",
+              "end": 131,
+              "expanded_url": "https://x.com/QuantumTransf/status/2094817165690208649/photo/1",
+              "media_key": "3_2094817149315682304",
+              "start": 108,
+              "url": "https://t.co/4c7o5Z1bNZ"
+            },
+            {
+              "display_url": "pic.x.com/4c7o5Z1bNZ",
+              "end": 131,
+              "expanded_url": "https://x.com/QuantumTransf/status/2094817165690208649/photo/1",
+              "media_key": "3_2094817157616123905",
+              "start": 108,
+              "url": "https://t.co/4c7o5Z1bNZ"
+            },
+            {
+              "display_url": "x.com/QuantumTransf/…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/QuantumTransf/status/2094796576250306730",
+              "start": 132,
+              "url": "https://t.co/17FJ2fTbTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094817165690208649",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094817138511069184"
+          },
+          {
+            "media_key": "3_2094817149315682304"
+          },
+          {
+            "media_key": "3_2094817157616123905"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 5951,
+          "like_count": 47,
+          "quote_count": 3,
+          "reply_count": 18,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094796576250306730",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本来不想说啥的，最开始只是看到一条推文里的图片是生成的\n但我第一次见到有人连自己主页照片都是 gpt-image-2 生成的，实在太狠了，那我很难相信这个人到底有什么是真实的，全是技术与狠活\n实在刷新我的认知下限了 https://t.co/4c7o5Z1bNZ https://t.co/17FJ2fTbTS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/什么都不会/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 29,
+                "start": 22,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "zhwevea"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "qiuylove"
+              },
+              {
+                "end": 82,
+                "start": 68,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "鹭岛",
+        "most_recent_tweet_id": "2094921518266618227",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2092116629694058989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8842,
+          "following_count": 1290,
+          "like_count": 223875,
+          "listed_count": 6,
+          "media_count": 1298,
+          "tweet_count": 9405
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-17T10:52:09.000Z",
+        "description": "Building Kairos Agent for coding | ACMer & Computer Science Enthusiast | Lesbian | 💖love maimai & 📝writing | 🐱Catgirl | 💝I'll always be with you.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/tommy0103/obel…",
+                "end": 23,
+                "expanded_url": "http://github.com/tommy0103/obelisk",
+                "start": 0,
+                "url": "https://t.co/WB3ynJKHt9"
+              }
+            ]
+          }
+        },
+        "id": "1692126794055647232",
+        "is_identity_verified": false,
+        "location": "Shibuya-ku, Tokyo",
+        "most_recent_tweet_id": "2094898161282343238",
+        "name": "Yuu💖",
+        "pinned_tweet_id": "2020909686434955672",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692126794055647232/1728683032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999276127014256644/c3JQXTfM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4969,
+          "following_count": 489,
+          "like_count": 31644,
+          "listed_count": 36,
+          "media_count": 747,
+          "tweet_count": 9149
+        },
+        "url": "https://t.co/WB3ynJKHt9",
+        "username": "QuantumTransf",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

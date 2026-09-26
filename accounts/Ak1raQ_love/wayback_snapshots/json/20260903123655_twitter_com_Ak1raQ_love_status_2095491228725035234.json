@@ -1,0 +1,693 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1683514315146420225",
+          "name": "X - the everything app"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2095491228725035234",
+    "created_at": "2026-09-03T12:36:55.000Z",
+    "display_text_range": [
+      0,
+      136
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T13:36:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095491228725035234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "286418121",
+          "start": 3,
+          "username": "CyberHono"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Emoji for everyone. Contribute to jdecked/twemoji development by creating an account on GitHub.",
+          "display_url": "github.com/jdecked/twemoji",
+          "end": 136,
+          "expanded_url": "https://github.com/jdecked/twemoji",
+          "start": 113,
+          "status": 200,
+          "title": "GitHub - jdecked/twemoji: Emoji for everyone.",
+          "unwound_url": "https://github.com/jdecked/twemoji",
+          "url": "https://t.co/g321YqGM76"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095491228725035234",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095489700924711273",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CyberHono: twemoji 维护者（jdecked）之前马一龙收购的时候就被裁了吧，现在 github 她还有个 fork 继续按照 unicode 更新新标准的 emoji，反倒是 x 自己那边不更新了\n\nhttps://t.co/g321YqGM76"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2095491228725035234",
+        "created_at": "2026-09-03T12:36:55.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T13:36:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095491228725035234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "286418121",
+              "start": 3,
+              "username": "CyberHono"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Emoji for everyone. Contribute to jdecked/twemoji development by creating an account on GitHub.",
+              "display_url": "github.com/jdecked/twemoji",
+              "end": 136,
+              "expanded_url": "https://github.com/jdecked/twemoji",
+              "start": 113,
+              "status": 200,
+              "title": "GitHub - jdecked/twemoji: Emoji for everyone.",
+              "unwound_url": "https://github.com/jdecked/twemoji",
+              "url": "https://t.co/g321YqGM76"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095491228725035234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095489700924711273",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CyberHono: twemoji 维护者（jdecked）之前马一龙收购的时候就被裁了吧，现在 github 她还有个 fork 继续按照 unicode 更新新标准的 emoji，反倒是 x 自己那边不更新了\n\nhttps://t.co/g321YqGM76"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "286418121",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2095489700924711273",
+        "created_at": "2026-09-03T12:30:51.000Z",
+        "display_text_range": [
+          0,
+          121
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T13:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095489700924711273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Emoji for everyone. Contribute to jdecked/twemoji development by creating an account on GitHub.",
+              "display_url": "github.com/jdecked/twemoji",
+              "end": 121,
+              "expanded_url": "https://github.com/jdecked/twemoji",
+              "start": 98,
+              "status": 200,
+              "title": "GitHub - jdecked/twemoji: Emoji for everyone.",
+              "unwound_url": "https://github.com/jdecked/twemoji",
+              "url": "https://t.co/g321YqGM76"
+            },
+            {
+              "display_url": "x.com/ak1raq_love/st…",
+              "end": 145,
+              "expanded_url": "https://twitter.com/ak1raq_love/status/2095429877805818139",
+              "start": 122,
+              "url": "https://t.co/8rX08dK9XE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095489700924711273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095429877805818139",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "twemoji 维护者（jdecked）之前马一龙收购的时候就被裁了吧，现在 github 她还有个 fork 继续按照 unicode 更新新标准的 emoji，反倒是 x 自己那边不更新了\n\nhttps://t.co/g321YqGM76 https://t.co/8rX08dK9XE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/什么都不会/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 23,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "zhwevea"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "qiuylove"
+              },
+              {
+                "end": 83,
+                "start": 69,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "鹭岛",
+        "most_recent_tweet_id": "2095491228725035234",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2092116629694058989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8848,
+          "following_count": 1294,
+          "like_count": 224915,
+          "listed_count": 6,
+          "media_count": 1307,
+          "tweet_count": 9463
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-04-22T23:51:16.000Z",
+        "description": "🎮  https://t.co/xkvvOEaFaV 🏎️  https://t.co/JHy2gX2Ml7  ☎️  https://t.co/zZGI0xvTGU  📟 https://t.co/09eUmxlkeN\n\n🕘 GMT+9\n🔠 en, zh / ja, es (read-only)\nalt: @ieb233\n\navatar by @KGY_HN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 162,
+                "start": 155,
+                "username": "ieb233"
+              },
+              {
+                "end": 181,
+                "start": 174,
+                "username": "KGY_HN"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "majors.im",
+                "end": 26,
+                "expanded_url": "http://majors.im",
+                "start": 3,
+                "url": "https://t.co/xkvvOEaFaV"
+              },
+              {
+                "display_url": "f1setup.it",
+                "end": 54,
+                "expanded_url": "http://f1setup.it",
+                "start": 31,
+                "url": "https://t.co/JHy2gX2Ml7"
+              },
+              {
+                "display_url": "esim.gg",
+                "end": 83,
+                "expanded_url": "http://esim.gg",
+                "start": 60,
+                "url": "https://t.co/zZGI0xvTGU"
+              },
+              {
+                "display_url": "n.lpa.ee",
+                "end": 110,
+                "expanded_url": "http://n.lpa.ee",
+                "start": 87,
+                "url": "https://t.co/09eUmxlkeN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "0.td",
+                "end": 23,
+                "expanded_url": "https://0.td/",
+                "start": 0,
+                "url": "https://t.co/i6C0PXlmQf"
+              }
+            ]
+          }
+        },
+        "id": "286418121",
+        "is_identity_verified": true,
+        "location": "Fukuoka",
+        "most_recent_tweet_id": "2095489700924711273",
+        "name": "ieb",
+        "pinned_tweet_id": "2056327506102489437",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/286418121/1483897736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090434400106516480/uRdBU7_1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2065,
+          "following_count": 521,
+          "like_count": 4031,
+          "listed_count": 7,
+          "media_count": 386,
+          "tweet_count": 4640
+        },
+        "url": "https://t.co/i6C0PXlmQf",
+        "username": "CyberHono",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

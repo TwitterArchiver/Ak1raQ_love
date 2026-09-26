@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2101256428740829521",
+    "created_at": "2026-09-19T10:25:46.000Z",
+    "display_text_range": [
+      0,
+      100
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T11:25:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101256428740829521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1736265610911428608",
+          "start": 3,
+          "username": "noname2095_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101256428740829521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100973724552003755",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @noname2095_: 今天上午响了很久的防空警报，声音似乎太大了一点，耳朵都快聋了，然后想到，如果有轰炸机在9月18日在中国执行行动，人们应该如何分辨哪个是真的防空警报，哪个是假的防空警报"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2101256428740829521",
+        "created_at": "2026-09-19T10:25:46.000Z",
+        "display_text_range": [
+          0,
+          100
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T11:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101256428740829521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1736265610911428608",
+              "start": 3,
+              "username": "noname2095_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101256428740829521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100973724552003755",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @noname2095_: 今天上午响了很久的防空警报，声音似乎太大了一点，耳朵都快聋了，然后想到，如果有轰炸机在9月18日在中国执行行动，人们应该如何分辨哪个是真的防空警报，哪个是假的防空警报"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736265610911428608",
+        "conversation_id": "2100973724552003755",
+        "created_at": "2026-09-18T15:42:24.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T16:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100973724552003755"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100973724552003755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5442,
+          "like_count": 123,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "今天上午响了很久的防空警报，声音似乎太大了一点，耳朵都快聋了，然后想到，如果有轰炸机在9月18日在中国执行行动，人们应该如何分辨哪个是真的防空警报，哪个是假的防空警报"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/是大笨蛋😖/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/一号里推 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 23,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "zhwevea"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "qiuylove"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tianjin/Xiamen/Suzhou",
+        "most_recent_tweet_id": "2101256428740829521",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8844,
+          "following_count": 1310,
+          "like_count": 227799,
+          "listed_count": 7,
+          "media_count": 1356,
+          "tweet_count": 9889
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-17T06:03:03.000Z",
+        "description": "29元包年千G流量VPN👉🏻：https://t.co/MVeoKpvKXj\n\n🧡🤍🩷🏳️‍⚧️\n我很穷啥也不会请给我钱\n那你能帮帮我吗\n我是跨女给我往包裹里倒塞两盒日雌\n个人账号：https://t.co/5wRZ4IDVG0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yy.tz69.vip/#/register?cod…",
+                "end": 38,
+                "expanded_url": "https://www.yy.tz69.vip/#/register?code=BkiKFzKe",
+                "start": 15,
+                "url": "https://t.co/MVeoKpvKXj"
+              },
+              {
+                "display_url": "noname2095.bsky.social",
+                "end": 114,
+                "expanded_url": "http://noname2095.bsky.social",
+                "start": 91,
+                "url": "https://t.co/5wRZ4IDVG0"
+              }
+            ]
+          }
+        },
+        "id": "1736265610911428608",
+        "is_identity_verified": false,
+        "location": "南极洲",
+        "most_recent_tweet_id": "2101095884192895232",
+        "name": "noname",
+        "pinned_tweet_id": "1772656363941908692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1736265610911428608/1702793756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945223550417186816/HdhCpSMc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2975,
+          "following_count": 477,
+          "like_count": 5492,
+          "listed_count": 9,
+          "media_count": 329,
+          "tweet_count": 13265
+        },
+        "url": "",
+        "username": "noname2095_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

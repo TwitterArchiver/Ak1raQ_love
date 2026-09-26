@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2101636352538526069",
+    "created_at": "2026-09-20T11:35:27.000Z",
+    "display_text_range": [
+      0,
+      95
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T12:35:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101636352538526069"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ak1raQ_love/st…",
+          "end": 119,
+          "expanded_url": "https://twitter.com/Ak1raQ_love/status/2100942266890346995",
+          "start": 96,
+          "url": "https://t.co/luYfAJziad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101636352538526069",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100942266890346995",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "不过现在是从零开始到七个月一刀不剪的状态，mtf rle wiki已经建议去修一下的说，也不好看，但哎咱没这方面经验所以拖到现在也没去修（也不太敢不知道怎么做），还有是不清楚想要的是什么样子 https://t.co/luYfAJziad"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100942263597797376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSgL24NaEAA_P8Y.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2101636352538526069",
+        "created_at": "2026-09-20T11:35:27.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T12:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101636352538526069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ak1raQ_love/st…",
+              "end": 119,
+              "expanded_url": "https://twitter.com/Ak1raQ_love/status/2100942266890346995",
+              "start": 96,
+              "url": "https://t.co/luYfAJziad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101636352538526069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100942266890346995",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "不过现在是从零开始到七个月一刀不剪的状态，mtf rle wiki已经建议去修一下的说，也不好看，但哎咱没这方面经验所以拖到现在也没去修（也不太敢不知道怎么做），还有是不清楚想要的是什么样子 https://t.co/luYfAJziad"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100942263597797376"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2100942266890346995",
+        "created_at": "2026-09-18T13:37:24.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T14:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100942266890346995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sxl0pk4AV5",
+              "end": 56,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2100942266890346995/photo/1",
+              "media_key": "3_2100942263597797376",
+              "start": 33,
+              "url": "https://t.co/Sxl0pk4AV5"
+            },
+            {
+              "display_url": "x.com/Minecraftxfj/s…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/Minecraftxfj/status/2100940404564873533",
+              "start": 57,
+              "url": "https://t.co/a8hWR0rwFJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100942266890346995",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100942263597797376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1606,
+          "like_count": 34,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100940404564873533",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "距离我上次剪头发已经过去了七个月之久\n现在谁敢剪我头发我就捅似谁 https://t.co/Sxl0pk4AV5 https://t.co/a8hWR0rwFJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/是大笨蛋😖/温柔与爱/生活日常/业余技术/原创文案/负面内容/秋月喵 @qiuylove/里推 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "qiuylove"
+              },
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tianjin/Xiamen/Suzhou",
+        "most_recent_tweet_id": "2101636352538526069",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8838,
+          "following_count": 1312,
+          "like_count": 228092,
+          "listed_count": 7,
+          "media_count": 1358,
+          "tweet_count": 9937
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

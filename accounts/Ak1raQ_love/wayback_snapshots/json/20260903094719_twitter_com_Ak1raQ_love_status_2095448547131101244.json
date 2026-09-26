@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095448544291549185"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2095411086740848648",
+    "created_at": "2026-09-03T09:47:19.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T10:47:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095448547131101244"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yzQ4IxxP5z",
+          "end": 27,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2095448547131101244/photo/1",
+          "media_key": "3_2095448544291549185",
+          "start": 4,
+          "url": "https://t.co/yzQ4IxxP5z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095448547131101244",
+    "in_reply_to_user_id": "1663066129923981312",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095448544291549185"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095411086740848648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "这个喵 https://t.co/yzQ4IxxP5z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095448544291549185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRSHWU-bcAEtStl.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095448544291549185"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2095411086740848648",
+        "created_at": "2026-09-03T09:47:19.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T10:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095448547131101244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yzQ4IxxP5z",
+              "end": 27,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2095448547131101244/photo/1",
+              "media_key": "3_2095448544291549185",
+              "start": 4,
+              "url": "https://t.co/yzQ4IxxP5z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095448547131101244",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095448544291549185"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095411086740848648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "这个喵 https://t.co/yzQ4IxxP5z"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2095411086740848648",
+        "created_at": "2026-09-03T07:18:28.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T08:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095411086740848648"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095411086740848648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 292,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "几天前的推文被挖出来当复读机文案然后看到下一层5引用...7引用，然后就传开了喵，哇趣（）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/什么都不会/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 23,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "zhwevea"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "qiuylove"
+              },
+              {
+                "end": 83,
+                "start": 69,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "鹭岛",
+        "most_recent_tweet_id": "2095448547131101244",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2092116629694058989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8850,
+          "following_count": 1293,
+          "like_count": 224788,
+          "listed_count": 6,
+          "media_count": 1306,
+          "tweet_count": 9455
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

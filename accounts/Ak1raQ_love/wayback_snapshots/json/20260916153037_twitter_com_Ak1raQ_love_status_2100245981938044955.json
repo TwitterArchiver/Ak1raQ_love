@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2100245981938044955",
+    "created_at": "2026-09-16T15:30:37.000Z",
+    "display_text_range": [
+      0,
+      141
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T16:30:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100245981938044955"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Mag1ceye/statu…",
+          "end": 165,
+          "expanded_url": "https://twitter.com/Mag1ceye/status/2099487131479740768",
+          "start": 142,
+          "url": "https://t.co/A2aJlCkT1A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100245981938044955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099487131479740768",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "网络似乎把我们聚在一起，可实际上也不过是账号之间的互动。背后的人究竟在做什么呢？发出消息的时候又是啥样的呢？\n当账号下线，仿佛一切都在顷刻间烟消云散。倘若对方熄灭屏幕，网线另一头的等待与着急便显得如此脆弱。何时会再次上线呢？或许下一刻，或许明天，又或许永远都不再上线。\n这不得而知。 https://t.co/A2aJlCkT1A"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2100245981938044955",
+        "created_at": "2026-09-16T15:30:37.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T16:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100245981938044955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Mag1ceye/statu…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/Mag1ceye/status/2099487131479740768",
+              "start": 142,
+              "url": "https://t.co/A2aJlCkT1A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100245981938044955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099487131479740768",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "网络似乎把我们聚在一起，可实际上也不过是账号之间的互动。背后的人究竟在做什么呢？发出消息的时候又是啥样的呢？\n当账号下线，仿佛一切都在顷刻间烟消云散。倘若对方熄灭屏幕，网线另一头的等待与着急便显得如此脆弱。何时会再次上线呢？或许下一刻，或许明天，又或许永远都不再上线。\n这不得而知。 https://t.co/A2aJlCkT1A"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819721615569195008",
+        "conversation_id": "2099487131479740768",
+        "created_at": "2026-09-14T13:15:13.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T14:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099487131479740768"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099487131479740768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1177,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我们沉在网络的潮汐里，和隔着屏幕的同类交换情绪碎片。那些同频的呼应像一簇簇临时点燃的火，让人恍惚以为自己从不孤单。\n可按灭屏幕的瞬间，所有温度都迅速退潮。房间静得能听见心跳落空的声响，才后知后觉地发觉，偌大的空间里自始至终只有我自己。那些隔着网线的热闹，从来落不到真实的生活里。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/是大笨蛋😖/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/一号里推 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 23,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "zhwevea"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "qiuylove"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tianjin/Xiamen/Suzhou",
+        "most_recent_tweet_id": "2100245981938044955",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8852,
+          "following_count": 1308,
+          "like_count": 227336,
+          "listed_count": 7,
+          "media_count": 1350,
+          "tweet_count": 9844
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-03T13:07:05.000Z",
+        "description": "泛性恋 MTF(X) 想要对象喵 念念碎✨ 小孤独\n想和我聊天+3429474848",
+        "id": "1819721615569195008",
+        "is_identity_verified": false,
+        "location": "四川电影电视学院",
+        "most_recent_tweet_id": "2100222702699364682",
+        "name": "魚Sakana🐟🏳️‍⚧️💨",
+        "pinned_tweet_id": "2098766549234733389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1819721615569195008/1788517415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098282451919622144/jYQuNa-7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 473,
+          "like_count": 3016,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 843
+        },
+        "url": "",
+        "username": "Mag1ceye",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

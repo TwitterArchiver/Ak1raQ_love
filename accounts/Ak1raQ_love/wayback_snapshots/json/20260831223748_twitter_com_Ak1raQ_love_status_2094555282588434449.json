@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2094453245536358848",
+    "created_at": "2026-08-31T22:37:48.000Z",
+    "display_text_range": [
+      15,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T23:37:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094555282588434449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1908894436169502720",
+          "start": 0,
+          "username": "Magkyusejinki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094555282588434449",
+    "in_reply_to_user_id": "1908894436169502720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094489330119327841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Magkyusejinki 好诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2094453245536358848",
+        "created_at": "2026-08-31T22:37:48.000Z",
+        "display_text_range": [
+          15,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T23:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094555282588434449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1908894436169502720",
+              "start": 0,
+              "username": "Magkyusejinki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094555282588434449",
+        "in_reply_to_user_id": "1908894436169502720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094489330119327841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Magkyusejinki 好诶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908894436169502720",
+        "conversation_id": "2094453245536358848",
+        "created_at": "2026-08-31T18:15:44.000Z",
+        "display_text_range": [
+          13,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T19:15:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094489330119327841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094489330119327841",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094453245536358848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Ak1raQ_love 喵喵喵，那咱来互动一下喵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/什么都不会/向往自由/banner是黄厝海滩/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 28,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 56,
+                "start": 48,
+                "username": "zhwevea"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "username": "qiuylove"
+              },
+              {
+                "end": 88,
+                "start": 74,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "鹭岛",
+        "most_recent_tweet_id": "2094555282588434449",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2092116629694058989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8836,
+          "following_count": 1285,
+          "like_count": 223230,
+          "listed_count": 6,
+          "media_count": 1288,
+          "tweet_count": 9372
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-06T14:48:27.000Z",
+        "description": "｜出生日期:2009.04.16｜HRT：2026.05.09(已中断)｜无证含糖｜喜欢听音乐，喜欢养植物，喜欢Undertale及其AUs｜od｜头像来源：@suisei_1121｜闺蜜：@ansiyao520｜QQ：3783134292｜咱有时候会发一些莫名其妙的东西，若不感兴趣，无视掉就好喵｜咱的私信暂时用不了喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 79,
+                "username": "suisei_1121"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "ansiyao520"
+              }
+            ]
+          }
+        },
+        "id": "1908894436169502720",
+        "is_identity_verified": false,
+        "location": "索科特拉岛",
+        "most_recent_tweet_id": "2094548483533595073",
+        "name": "枫糖MapleSugar🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2092929377764098311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908894436169502720/1777559950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067853075789086720/EIVz5v3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 416,
+          "like_count": 6074,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 475
+        },
+        "url": "",
+        "username": "Magkyusejinki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

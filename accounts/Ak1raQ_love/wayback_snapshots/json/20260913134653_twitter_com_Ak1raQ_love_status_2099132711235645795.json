@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2099131013222039729",
+    "created_at": "2026-09-13T13:46:53.000Z",
+    "display_text_range": [
+      14,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T14:46:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099132711235645795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1519649212736049152",
+          "start": 0,
+          "username": "Mark67358226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099132711235645795",
+    "in_reply_to_user_id": "1519649212736049152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099131013222039729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mark67358226 别人b你了你是刷不到那个人发的东西的，如果刷到了似乎只有一种可能就是被你的其他互fo转推了，转推了好想静音也没用（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2099131013222039729",
+        "created_at": "2026-09-13T13:46:53.000Z",
+        "display_text_range": [
+          14,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T14:46:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099132711235645795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1519649212736049152",
+              "start": 0,
+              "username": "Mark67358226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099132711235645795",
+        "in_reply_to_user_id": "1519649212736049152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099131013222039729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mark67358226 别人b你了你是刷不到那个人发的东西的，如果刷到了似乎只有一种可能就是被你的其他互fo转推了，转推了好想静音也没用（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1519649212736049152",
+        "conversation_id": "2099131013222039729",
+        "created_at": "2026-09-13T13:40:08.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T14:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099131013222039729"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099131013222039729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想b我的可以和我說一下，因為我要靜音你\n我不想心情挺好的時候刷推看到一條灰。謝謝你們\n我不會怪b我的或者回b，但我很討厭這個傻逼功能"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/是大笨蛋😖/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 23,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "zhwevea"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "qiuylove"
+              },
+              {
+                "end": 83,
+                "start": 69,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tianjin/Xiamen/Suzhou",
+        "most_recent_tweet_id": "2099132711235645795",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8867,
+          "following_count": 1310,
+          "like_count": 226720,
+          "listed_count": 7,
+          "media_count": 1345,
+          "tweet_count": 9780
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-28T12:06:42.000Z",
+        "description": "生產日期：2010.9.6 | 181cm 53kg |北京昌平🇨🇳| 主要繁體🇹🇼 簡體🉑 |含糖mtx🍥|日語🇯🇵 朝鮮語🇰🇷也會一點 | LGBT友好 |留長髮中| 喜歡漢服、東亞文化和可愛的男孩子（小南梁），歡迎諸君找我聊天口牙！永遠最好的哥哥/戀人：@Mak1287267 永遠愛你喵🥹",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 130,
+                "username": "Mak1287267"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dreamail.cn/send?dm=2225cc…",
+                "end": 23,
+                "expanded_url": "https://dreamail.cn/send?dm=2225ccc1-e4e4-4a1f-98a3-24d13a1d0999",
+                "start": 0,
+                "url": "https://t.co/0zMrtG63tc"
+              }
+            ]
+          }
+        },
+        "id": "1519649212736049152",
+        "is_identity_verified": false,
+        "location": "琉球國首里城",
+        "most_recent_tweet_id": "2099131108822806801",
+        "name": "Lhn002",
+        "pinned_tweet_id": "2070101728381591818",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1519649212736049152/1784974138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020892688674103296/MTlilAxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1669,
+          "following_count": 2033,
+          "like_count": 52171,
+          "listed_count": 5,
+          "media_count": 715,
+          "tweet_count": 11398
+        },
+        "url": "https://t.co/0zMrtG63tc",
+        "username": "Mark67358226",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

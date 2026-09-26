@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098623635556855808"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2098607530549317883",
+    "created_at": "2026-09-12T04:04:00.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T05:04:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098623638824239236"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/s2btmQNUMS",
+          "end": 55,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2098623638824239236/photo/1",
+          "media_key": "3_2098623635556855808",
+          "start": 32,
+          "url": "https://t.co/s2btmQNUMS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098623638824239236",
+    "in_reply_to_user_id": "1663066129923981312",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098623635556855808"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098607530549317883",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "现实中的人要嘛完全不想交往或者交往不下去，要嘛就变成这种关系👇 https://t.co/s2btmQNUMS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2098623635556855808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR_PE9qa8AAlDHW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098623635556855808"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2098607530549317883",
+        "created_at": "2026-09-12T04:04:00.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T05:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098623638824239236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s2btmQNUMS",
+              "end": 55,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2098623638824239236/photo/1",
+              "media_key": "3_2098623635556855808",
+              "start": 32,
+              "url": "https://t.co/s2btmQNUMS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098623638824239236",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098623635556855808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098607530549317883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "现实中的人要嘛完全不想交往或者交往不下去，要嘛就变成这种关系👇 https://t.co/s2btmQNUMS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2098607530549317883",
+        "created_at": "2026-09-12T03:00:00.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T04:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098607530549317883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shizukululu072…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/shizukululu0721/status/2098554583962525840",
+              "start": 80,
+              "url": "https://t.co/0s3Qeftz69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098607530549317883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 323,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098554583962525840",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "咱现实中除了个别两三个要好的朋友之外就没人和咱一起了喵，而且这两三个朋友都是出柜了的说（x\n可能也因为咱性格比较与众不同吧，咱好像只能和同样同类的人交往的了呢 https://t.co/0s3Qeftz69"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/是大笨蛋😖/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 23,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "zhwevea"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "qiuylove"
+              },
+              {
+                "end": 83,
+                "start": 69,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tientsin",
+        "most_recent_tweet_id": "2098623638824239236",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2097851786463998326",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8867,
+          "following_count": 1305,
+          "like_count": 226379,
+          "listed_count": 7,
+          "media_count": 1339,
+          "tweet_count": 9696
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

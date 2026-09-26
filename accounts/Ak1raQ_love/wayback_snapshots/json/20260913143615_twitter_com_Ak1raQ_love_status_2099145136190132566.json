@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2099145136190132566",
+    "created_at": "2026-09-13T14:36:15.000Z",
+    "display_text_range": [
+      0,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T15:36:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099145136190132566"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ak1raQ_love/st…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/Ak1raQ_love/status/2099074627775709521",
+          "start": 29,
+          "url": "https://t.co/RKYSygaNov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099145136190132566",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099074627775709521",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "挂三年多蓝粉白粉蓝了，换别人早rle去了，我还是这个样😇 https://t.co/RKYSygaNov"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1073,
+        "media_key": "3_2099074624676052992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSFpP_DaQAAZjeo.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2099145136190132566",
+        "created_at": "2026-09-13T14:36:15.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T15:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099145136190132566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ak1raQ_love/st…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/Ak1raQ_love/status/2099074627775709521",
+              "start": 29,
+              "url": "https://t.co/RKYSygaNov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099145136190132566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099074627775709521",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "挂三年多蓝粉白粉蓝了，换别人早rle去了，我还是这个样😇 https://t.co/RKYSygaNov"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099074624676052992"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2099074627775709521",
+        "created_at": "2026-09-13T09:56:04.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T10:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099074627775709521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sCWih1z4ve",
+              "end": 31,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2099074627775709521/photo/1",
+              "media_key": "3_2099074624676052992",
+              "start": 8,
+              "url": "https://t.co/sCWih1z4ve"
+            },
+            {
+              "display_url": "x.com/KiraMyao/statu…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/KiraMyao/status/2099070015131762835",
+              "start": 32,
+              "url": "https://t.co/lAeWCCSmvs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099074627775709521",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099074624676052992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4341,
+          "like_count": 30,
+          "quote_count": 7,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099070015131762835",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "颤颤巍巍见自己 https://t.co/sCWih1z4ve https://t.co/lAeWCCSmvs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/是大笨蛋😖/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 23,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "zhwevea"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "qiuylove"
+              },
+              {
+                "end": 83,
+                "start": 69,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tianjin/Xiamen/Suzhou",
+        "most_recent_tweet_id": "2099145136190132566",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8865,
+          "following_count": 1310,
+          "like_count": 226737,
+          "listed_count": 7,
+          "media_count": 1345,
+          "tweet_count": 9783
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

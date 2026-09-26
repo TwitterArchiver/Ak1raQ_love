@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1887108530295226498",
+    "created_at": "2025-02-05T12:26:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T13:26:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887115629301321738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1792101664117161984",
+          "start": 0,
+          "username": "Amberlona_LK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887115629301321738",
+    "in_reply_to_user_id": "1792101664117161984",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887114518473457825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amberlona_LK 🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1887108530295226498",
+        "created_at": "2025-02-05T12:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T13:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887115629301321738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1792101664117161984",
+              "start": 0,
+              "username": "Amberlona_LK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887115629301321738",
+        "in_reply_to_user_id": "1792101664117161984",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887114518473457825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amberlona_LK 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792101664117161984",
+        "conversation_id": "1887108530295226498",
+        "created_at": "2025-02-05T12:22:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T13:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887114518473457825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887114518473457825",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887108530295226498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak1raQ_love 祝贺1500fo🎇🎉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/🌏ZH,EN/🏳️‍⚧️/🌈 Diversity & Inclusivity/🕊️Love & Peace/😔Not good at chatting/🔄Interact to gain my follow-back/🤫Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "https://mikachan.us.kg/",
+                "start": 0,
+                "url": "https://t.co/yUfVtUE4yg"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵😺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1505,
+          "following_count": 909,
+          "like_count": 113757,
+          "listed_count": 4,
+          "media_count": 822,
+          "tweet_count": 4328
+        },
+        "url": "https://t.co/yUfVtUE4yg",
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-19T07:55:38.000Z",
+        "description": "she/her\n不要讨厌我😭\n极深柜的底层穷人 但是永远爱大家\n本体是直言不讳的玫瑰剑客\n心中的大姐姐：Diana Spencer\n星空合众国居民\nLGBTQ+友好\n以清水+牢骚+学术为主 清水牢骚占大头\n现实与理想混合的进步派左翼\n@bayer04fussball 球迷\n独立生活派\n正一派/禅宗/祆教/亚述教会",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 117,
+                "username": "bayer04fussball"
+              }
+            ]
+          }
+        },
+        "id": "1792101664117161984",
+        "location": "Sonder rede dra hulle dieblaam",
+        "name": "Tuệ Quều (امبر لونا)",
+        "pinned_tweet_id": "1858043172703682561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792112053118791680/8zI0c-Dh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 621,
+          "like_count": 26356,
+          "listed_count": 4,
+          "media_count": 164,
+          "tweet_count": 11257
+        },
+        "username": "Amberlona_LK",
+        "verified": false
+      }
+    ]
+  }
+}

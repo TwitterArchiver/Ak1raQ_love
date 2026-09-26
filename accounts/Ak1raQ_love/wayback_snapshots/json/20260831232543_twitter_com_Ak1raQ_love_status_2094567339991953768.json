@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094567336779173888"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2094567339991953768",
+    "created_at": "2026-08-31T23:25:43.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T00:25:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094567339991953768"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9CnN2FtC2v",
+          "end": 55,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2094567339991953768/photo/1",
+          "media_key": "3_2094567336779173888",
+          "start": 32,
+          "url": "https://t.co/9CnN2FtC2v"
+        },
+        {
+          "display_url": "x.com/Meguminsama200…",
+          "end": 79,
+          "expanded_url": "https://twitter.com/Meguminsama2009/status/2094447620483650033",
+          "start": 56,
+          "url": "https://t.co/3IFowl2ZEW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094567339991953768",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094567336779173888"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094447620483650033",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想玩一下最近很火的那个舞萌，应用商店搜不到，有没有大佬给安装包 https://t.co/9CnN2FtC2v https://t.co/3IFowl2ZEW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2094567336779173888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRFl5TLb0AA2diF.jpg",
+        "width": 1152
+      },
+      {
+        "height": 764,
+        "media_key": "3_2094133562475982849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ_bYT-asAEypk6.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094567336779173888"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094567339991953768",
+        "created_at": "2026-08-31T23:25:43.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T00:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094567339991953768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9CnN2FtC2v",
+              "end": 55,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2094567339991953768/photo/1",
+              "media_key": "3_2094567336779173888",
+              "start": 32,
+              "url": "https://t.co/9CnN2FtC2v"
+            },
+            {
+              "display_url": "x.com/Meguminsama200…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/Meguminsama2009/status/2094447620483650033",
+              "start": 56,
+              "url": "https://t.co/3IFowl2ZEW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094567339991953768",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094567336779173888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094447620483650033",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想玩一下最近很火的那个舞萌，应用商店搜不到，有没有大佬给安装包 https://t.co/9CnN2FtC2v https://t.co/3IFowl2ZEW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094133562475982849"
+          ]
+        },
+        "author_id": "1557846379736666113",
+        "conversation_id": "2094447620483650033",
+        "created_at": "2026-08-31T15:30:00.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T16:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094447620483650033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XChcdMVaV2",
+              "end": 55,
+              "expanded_url": "https://x.com/Meguminsama2009/status/2094447620483650033/photo/1",
+              "media_key": "3_2094133562475982849",
+              "start": 32,
+              "url": "https://t.co/XChcdMVaV2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094447620483650033",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094133562475982849"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 136,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "想玩一下最近很火的那个舞萌，应用商店搜不到，有没有大佬给安装包 https://t.co/XChcdMVaV2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/什么都不会/向往自由/banner是黄厝海滩/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 28,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 56,
+                "start": 48,
+                "username": "zhwevea"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "username": "qiuylove"
+              },
+              {
+                "end": 88,
+                "start": 74,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "鹭岛",
+        "most_recent_tweet_id": "2094567339991953768",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2092116629694058989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8836,
+          "following_count": 1286,
+          "like_count": 223303,
+          "listed_count": 6,
+          "media_count": 1290,
+          "tweet_count": 9376
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-11T21:48:42.000Z",
+        "description": "🟨⬜🟪⬛",
+        "id": "1557846379736666113",
+        "is_identity_verified": false,
+        "location": "永雏塔菲",
+        "most_recent_tweet_id": "2094560869158093066",
+        "name": "Megumin_SAMA",
+        "pinned_tweet_id": "2090133381858422966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1557846379736666113/1774507754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052330873241194496/M9AbHVhu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2575,
+          "following_count": 1914,
+          "like_count": 3425,
+          "listed_count": 2,
+          "media_count": 1452,
+          "tweet_count": 8972
+        },
+        "url": "",
+        "username": "Meguminsama2009",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

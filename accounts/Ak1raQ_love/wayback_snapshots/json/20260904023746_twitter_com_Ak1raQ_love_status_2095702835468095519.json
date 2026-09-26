@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2095338012016255450",
+    "created_at": "2026-09-04T02:37:46.000Z",
+    "display_text_range": [
+      16,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T03:37:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095702835468095519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1271282054630539265",
+          "start": 0,
+          "username": "jmtnp1"
+        },
+        {
+          "end": 15,
+          "id": "1196460589",
+          "start": 8,
+          "username": "ygkkkg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095702835468095519",
+    "in_reply_to_user_id": "1271282054630539265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095339708914266356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jmtnp1 @ygkkkg Windows吧，这是你系统字体...."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 483,
+        "media_key": "3_2095339331607240704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRQkBUBaoAAZ6SH.png",
+        "width": 393
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2095338012016255450",
+        "created_at": "2026-09-04T02:37:46.000Z",
+        "display_text_range": [
+          16,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T03:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095702835468095519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1271282054630539265",
+              "start": 0,
+              "username": "jmtnp1"
+            },
+            {
+              "end": 15,
+              "id": "1196460589",
+              "start": 8,
+              "username": "ygkkkg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095702835468095519",
+        "in_reply_to_user_id": "1271282054630539265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095339708914266356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jmtnp1 @ygkkkg Windows吧，这是你系统字体...."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095339331607240704"
+          ]
+        },
+        "author_id": "1271282054630539265",
+        "conversation_id": "2095338012016255450",
+        "created_at": "2026-09-03T02:34:50.000Z",
+        "display_text_range": [
+          8,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T03:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095339708914266356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1196460589",
+              "start": 0,
+              "username": "ygkkkg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AqBlUgFn0S",
+              "end": 77,
+              "expanded_url": "https://x.com/jmtnp1/status/2095339708914266356/photo/1",
+              "media_key": "3_2095339331607240704",
+              "start": 54,
+              "url": "https://t.co/AqBlUgFn0S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095339708914266356",
+        "in_reply_to_user_id": "1196460589",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095339331607240704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095338012016255450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ygkkkg 网页版这个2.5D更是一点辨识度都没有，一眼找不到常用的表情，搜索又稀烂，只能随机出招了😤 https://t.co/AqBlUgFn0S"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/什么都不会/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 23,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "zhwevea"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "qiuylove"
+              },
+              {
+                "end": 83,
+                "start": 69,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "XMN🔜TSN",
+        "most_recent_tweet_id": "2095702835468095519",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2092116629694058989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8854,
+          "following_count": 1298,
+          "like_count": 225397,
+          "listed_count": 7,
+          "media_count": 1311,
+          "tweet_count": 9498
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-06-12T03:24:39.000Z",
+        "description": "bleeding-heart libertarian❣️theater kid🎭 animation adult👸birder🐦\n🇳🇱🇮🇪🇦🇹🇹🇼安全形势不常回fo | 误封致歉，已拉黑67,400+ | Google+🐚 | 潜水号 @jimgreeneit",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 118,
+                "username": "jimgreeneit"
+              }
+            ]
+          }
+        },
+        "id": "1271282054630539265",
+        "is_identity_verified": false,
+        "location": "Fornost",
+        "most_recent_tweet_id": "2095698520875708927",
+        "name": "川和 吉米🚀 Jimmy K",
+        "pinned_tweet_id": "1536602745364520960",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1271282054630539265/1655900353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678817260348243968/O8WsI3x1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2663,
+          "following_count": 1721,
+          "like_count": 701635,
+          "listed_count": 8,
+          "media_count": 2838,
+          "tweet_count": 19166
+        },
+        "url": "",
+        "username": "jmtnp1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-02-19T09:17:50.000Z",
+        "description": "🔥分享网络技术应用+数字金融爱好者+生活娱乐吐槽。\n🔴月底《侃侃墙》YouTube+X双平台同步视频直播。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ygkkk?sub_con…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@ygkkk?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/SjVMlzKl5A"
+              }
+            ]
+          }
+        },
+        "id": "1196460589",
+        "is_identity_verified": true,
+        "location": "YouTube频道👉",
+        "most_recent_tweet_id": "2095695844704154101",
+        "name": "甬哥侃侃侃ygkkk",
+        "pinned_tweet_id": "2089331146559807815",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1196460589/1785987341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091778271264579584/q67XPGp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15407,
+          "following_count": 708,
+          "like_count": 2424,
+          "listed_count": 65,
+          "media_count": 550,
+          "tweet_count": 4030
+        },
+        "url": "https://t.co/SjVMlzKl5A",
+        "username": "ygkkkg",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

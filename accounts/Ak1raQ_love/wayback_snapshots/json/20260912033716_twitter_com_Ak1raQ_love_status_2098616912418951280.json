@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2098604848514322633",
+    "created_at": "2026-09-12T03:37:16.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T04:37:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098616912418951280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929798380240465921",
+          "start": 0,
+          "username": "AacerF59616"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098616912418951280",
+    "in_reply_to_user_id": "1929798380240465921",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098604848514322633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AacerF59616 羡慕了喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1899,
+        "media_key": "3_2098604814984982528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR-99dkasAArX2H.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2098604848514322633",
+        "created_at": "2026-09-12T03:37:16.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T04:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098616912418951280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098616912418951280",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098604848514322633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 羡慕了喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098604814984982528"
+          ]
+        },
+        "author_id": "1929798380240465921",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098604848514322633",
+        "created_at": "2026-09-12T02:49:20.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T03:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098604848514322633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GsxbVSviml",
+              "end": 36,
+              "expanded_url": "https://x.com/AacerF59616/status/2098604848514322633/photo/1",
+              "media_key": "3_2098604814984982528",
+              "start": 13,
+              "url": "https://t.co/GsxbVSviml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098604848514322633",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098604814984982528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 690,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我妈第一次承认咱是个女的 https://t.co/GsxbVSviml"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/是大笨蛋😖/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 23,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "zhwevea"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "qiuylove"
+              },
+              {
+                "end": 83,
+                "start": 69,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tientsin",
+        "most_recent_tweet_id": "2098616912418951280",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2097851786463998326",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8866,
+          "following_count": 1304,
+          "like_count": 226371,
+          "listed_count": 7,
+          "media_count": 1338,
+          "tweet_count": 9694
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "生产日期：2008.4.15｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2098615415752765945",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2842,
+          "following_count": 954,
+          "like_count": 7758,
+          "listed_count": 2,
+          "media_count": 521,
+          "tweet_count": 3161
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

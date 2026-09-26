@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100039415074820097"
+      ],
+      "media_source_tweet_id": [
+        "2100039423513797032"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2100068064909983864",
+    "created_at": "2026-09-16T03:43:38.000Z",
+    "display_text_range": [
+      0,
+      120
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T04:43:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100068064909983864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1640917359493005313",
+          "start": 3,
+          "username": "shizukululu0721"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1ffN8eqbSO",
+          "end": 120,
+          "expanded_url": "https://x.com/shizukululu0721/status/2100039423513797032/photo/1",
+          "media_key": "3_2100039415074820097",
+          "start": 97,
+          "url": "https://t.co/1ffN8eqbSO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100068064909983864",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100039415074820097"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100039423513797032",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @shizukululu0721: “原生家庭有缺失，或在感情中自卑的人，很容易触发这样的创伤共情，他们体验过那种获得了一颗糖，就恨不得把整颗心掏给对方，但又因为自卑而缩回手的撕裂感。” https://t.co/1ffN8eqbSO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1153,
+        "media_key": "3_2100039415074820097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSTWuLXakAE11o0.jpg",
+        "width": 865
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100039415074820097"
+          ],
+          "media_source_tweet_id": [
+            "2100039423513797032"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2100068064909983864",
+        "created_at": "2026-09-16T03:43:38.000Z",
+        "display_text_range": [
+          0,
+          120
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T04:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100068064909983864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1640917359493005313",
+              "start": 3,
+              "username": "shizukululu0721"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ffN8eqbSO",
+              "end": 120,
+              "expanded_url": "https://x.com/shizukululu0721/status/2100039423513797032/photo/1",
+              "media_key": "3_2100039415074820097",
+              "start": 97,
+              "url": "https://t.co/1ffN8eqbSO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100068064909983864",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100039415074820097"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100039423513797032",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @shizukululu0721: “原生家庭有缺失，或在感情中自卑的人，很容易触发这样的创伤共情，他们体验过那种获得了一颗糖，就恨不得把整颗心掏给对方，但又因为自卑而缩回手的撕裂感。” https://t.co/1ffN8eqbSO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100039415074820097"
+          ]
+        },
+        "author_id": "1640917359493005313",
+        "conversation_id": "2100039423513797032",
+        "created_at": "2026-09-16T01:49:50.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T02:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100039423513797032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ffN8eqbSO",
+              "end": 99,
+              "expanded_url": "https://x.com/shizukululu0721/status/2100039423513797032/photo/1",
+              "media_key": "3_2100039415074820097",
+              "start": 76,
+              "url": "https://t.co/1ffN8eqbSO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100039423513797032",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100039415074820097"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 283,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "other",
+        "text": "“原生家庭有缺失，或在感情中自卑的人，很容易触发这样的创伤共情，他们体验过那种获得了一颗糖，就恨不得把整颗心掏给对方，但又因为自卑而缩回手的撕裂感。” https://t.co/1ffN8eqbSO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/是大笨蛋😖/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/偏隐私内容 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 23,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "zhwevea"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "qiuylove"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tianjin/Xiamen/Suzhou",
+        "most_recent_tweet_id": "2100068064909983864",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8853,
+          "following_count": 1306,
+          "like_count": 227186,
+          "listed_count": 7,
+          "media_count": 1347,
+          "tweet_count": 9827
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-29T03:22:47.000Z",
+        "description": "出厂日期04｜成分在推文里啦🥰｜xnn努力中…｜友跨🏳️‍⚧️｜日常和碎碎念✨｜偶尔会有不开心的内容😖｜互of喵！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Lulushizukuuu",
+                "end": 23,
+                "expanded_url": "https://t.me/Lulushizukuuu",
+                "start": 0,
+                "url": "https://t.co/IxTJNDUbn0"
+              }
+            ]
+          }
+        },
+        "id": "1640917359493005313",
+        "is_identity_verified": false,
+        "location": "Xuzhou/Suzhou",
+        "most_recent_tweet_id": "2100066462740406645",
+        "name": "雨下るる",
+        "pinned_tweet_id": "2094011514017714370",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1640917359493005313/1770278755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089256914173779969/LJrgpZEu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 639,
+          "following_count": 1754,
+          "like_count": 5262,
+          "listed_count": 2,
+          "media_count": 298,
+          "tweet_count": 3019
+        },
+        "url": "https://t.co/IxTJNDUbn0",
+        "username": "shizukululu0721",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

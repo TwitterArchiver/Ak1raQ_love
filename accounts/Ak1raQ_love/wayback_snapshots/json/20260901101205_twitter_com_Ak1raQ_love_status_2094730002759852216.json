@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2094717021875560662",
+    "created_at": "2026-09-01T10:12:05.000Z",
+    "display_text_range": [
+      12,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T11:12:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094730002759852216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999719301176262658",
+          "start": 0,
+          "username": "snzkYuurei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094730002759852216",
+    "in_reply_to_user_id": "1999719301176262658",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094725484844351676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@snzkYuurei y"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2094717021875560662",
+        "created_at": "2026-09-01T10:12:05.000Z",
+        "display_text_range": [
+          12,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T11:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094730002759852216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999719301176262658",
+              "start": 0,
+              "username": "snzkYuurei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094730002759852216",
+        "in_reply_to_user_id": "1999719301176262658",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094725484844351676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@snzkYuurei y"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999719301176262658",
+        "conversation_id": "2094717021875560662",
+        "created_at": "2026-09-01T09:54:08.000Z",
+        "display_text_range": [
+          13,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T10:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094725484844351676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094725484844351676",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094717021875560662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Ak1raQ_love 盲猜屋子马路（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/什么都不会/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 29,
+                "start": 22,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "zhwevea"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "qiuylove"
+              },
+              {
+                "end": 82,
+                "start": 68,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "鹭岛",
+        "most_recent_tweet_id": "2094730002759852216",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2092116629694058989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8838,
+          "following_count": 1288,
+          "like_count": 223716,
+          "listed_count": 6,
+          "media_count": 1295,
+          "tweet_count": 9395
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-13T05:53:41.000Z",
+        "description": "何か喋りたい。何か話したい。何か書きたい。何か歌いたい。何か伝えたい。しかし僕の世界は、言葉も文字も旋律も忘れている。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "komari.yuurei.de",
+                "end": 23,
+                "expanded_url": "https://komari.yuurei.de",
+                "start": 0,
+                "url": "https://t.co/blR0T8PQI8"
+              }
+            ]
+          }
+        },
+        "id": "1999719301176262658",
+        "is_identity_verified": false,
+        "location": "Antipathy World",
+        "most_recent_tweet_id": "2094725484844351676",
+        "name": "篠崎 幽怜",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1999719301176262658/1765606652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999724697999855616/6ZjTK6m__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 103,
+          "like_count": 19133,
+          "listed_count": 0,
+          "media_count": 324,
+          "tweet_count": 1178
+        },
+        "url": "https://t.co/blR0T8PQI8",
+        "username": "snzkYuurei",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

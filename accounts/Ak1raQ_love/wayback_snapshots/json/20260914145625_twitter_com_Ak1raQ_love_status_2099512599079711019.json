@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2099507715773219168",
+    "created_at": "2026-09-14T14:56:25.000Z",
+    "display_text_range": [
+      14,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T15:56:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099512599079711019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1733692753899569152",
+          "start": 0,
+          "username": "AmiyaArk0106"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099512599079711019",
+    "in_reply_to_user_id": "1733692753899569152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099507715773219168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmiyaArk0106 mtx还是mtf不重要啦，没必要给自己硬打标签的说，顺从自己内心就好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1523,
+        "media_key": "3_2099507708160573440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSLzIwwbAAAhpUU.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2099507715773219168",
+        "created_at": "2026-09-14T14:56:25.000Z",
+        "display_text_range": [
+          14,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T15:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099512599079711019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1733692753899569152",
+              "start": 0,
+              "username": "AmiyaArk0106"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099512599079711019",
+        "in_reply_to_user_id": "1733692753899569152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099507715773219168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmiyaArk0106 mtx还是mtf不重要啦，没必要给自己硬打标签的说，顺从自己内心就好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099507708160573440"
+          ]
+        },
+        "author_id": "1733692753899569152",
+        "conversation_id": "2099507715773219168",
+        "created_at": "2026-09-14T14:37:01.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T15:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099507715773219168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aIqFC9e4ke",
+              "end": 39,
+              "expanded_url": "https://x.com/AmiyaArk0106/status/2099507715773219168/photo/1",
+              "media_key": "3_2099507708160573440",
+              "start": 16,
+              "url": "https://t.co/aIqFC9e4ke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099507715773219168",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099507708160573440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我还是面对不了自己...... https://t.co/aIqFC9e4ke"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/是大笨蛋😖/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 23,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "zhwevea"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "qiuylove"
+              },
+              {
+                "end": 83,
+                "start": 69,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tianjin/Xiamen/Suzhou",
+        "most_recent_tweet_id": "2099512599079711019",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8868,
+          "following_count": 1308,
+          "like_count": 227011,
+          "listed_count": 7,
+          "media_count": 1347,
+          "tweet_count": 9804
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-10T03:39:55.000Z",
+        "description": "“爱具体的人，不要爱抽象的人；\n  爱生活本身，胜于爱生活的意义”\n                                               ——陀思妥耶夫斯基\n点击给我发匿名消息喵↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amiyaark01061",
+                "end": 23,
+                "expanded_url": "https://ngl.link/amiyaark01061",
+                "start": 0,
+                "url": "https://t.co/Y5nxNE2lG9"
+              }
+            ]
+          }
+        },
+        "id": "1733692753899569152",
+        "is_identity_verified": false,
+        "location": "广州海珠广场",
+        "most_recent_tweet_id": "2099507715773219168",
+        "name": "社恐猫猫Ark🐱🏳️‍⚧️",
+        "pinned_tweet_id": "2094999110789251152",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1733692753899569152/1788339807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098109363168890880/i84-jJPK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 511,
+          "like_count": 9137,
+          "listed_count": 1,
+          "media_count": 217,
+          "tweet_count": 3863
+        },
+        "url": "https://t.co/Y5nxNE2lG9",
+        "username": "AmiyaArk0106",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

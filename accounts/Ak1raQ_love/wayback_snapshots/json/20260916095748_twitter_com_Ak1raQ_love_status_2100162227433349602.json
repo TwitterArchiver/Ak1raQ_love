@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100162214150000640"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2100129539569369491",
+    "created_at": "2026-09-16T09:57:48.000Z",
+    "display_text_range": [
+      11,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T10:57:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100162227433349602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "940931345001299970",
+          "start": 0,
+          "username": "pxwwu_chan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JpT0puJVUm",
+          "end": 35,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2100162227433349602/photo/1",
+          "media_key": "3_2100162214150000640",
+          "start": 12,
+          "url": "https://t.co/JpT0puJVUm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100162227433349602",
+    "in_reply_to_user_id": "1663066129923981312",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2100162214150000640"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100161400534602216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pxwwu_chan https://t.co/JpT0puJVUm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2100162214150000640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSVGaBkb0AAeU1N.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2100161375083560960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSVFpLzaAAAT6Yc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100162214150000640"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2100129539569369491",
+        "created_at": "2026-09-16T09:57:48.000Z",
+        "display_text_range": [
+          11,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T10:57:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100162227433349602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "940931345001299970",
+              "start": 0,
+              "username": "pxwwu_chan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JpT0puJVUm",
+              "end": 35,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2100162227433349602/photo/1",
+              "media_key": "3_2100162214150000640",
+              "start": 12,
+              "url": "https://t.co/JpT0puJVUm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100162227433349602",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2100162214150000640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100161400534602216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pxwwu_chan https://t.co/JpT0puJVUm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100161375083560960"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2100129539569369491",
+        "created_at": "2026-09-16T09:54:31.000Z",
+        "display_text_range": [
+          11,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T10:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100161400534602216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "940931345001299970",
+              "start": 0,
+              "username": "pxwwu_chan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EYzqMYTxtZ",
+              "end": 35,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2100161400534602216/photo/1",
+              "media_key": "3_2100161375083560960",
+              "start": 12,
+              "url": "https://t.co/EYzqMYTxtZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100161400534602216",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2100161375083560960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100161204631257201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pxwwu_chan https://t.co/EYzqMYTxtZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/是大笨蛋😖/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/一号里推 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 23,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "zhwevea"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "qiuylove"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tianjin/Xiamen/Suzhou",
+        "most_recent_tweet_id": "2100162227433349602",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8853,
+          "following_count": 1306,
+          "like_count": 227248,
+          "listed_count": 7,
+          "media_count": 1350,
+          "tweet_count": 9836
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-12-13T13:08:09.000Z",
+        "description": "🦋：@pxwwu.moe|已摆烂の02年老阿姨|176cm|伪音摆烂中|🩷：MoeDreamAria（已销号）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 2,
+                "username": "pxwwu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pxwwu.moe",
+                "end": 23,
+                "expanded_url": "http://pxwwu.moe",
+                "start": 0,
+                "url": "https://t.co/CaU2hj6UwH"
+              }
+            ]
+          }
+        },
+        "id": "940931345001299970",
+        "is_identity_verified": false,
+        "location": "阿莉亚的被窝",
+        "most_recent_tweet_id": "2100158528468193300",
+        "name": "pxwwu🦀🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/940931345001299970/1765041029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011275549809975297/b_0xZEp8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12638,
+          "following_count": 3001,
+          "like_count": 175527,
+          "listed_count": 43,
+          "media_count": 3772,
+          "tweet_count": 18278
+        },
+        "url": "https://t.co/CaU2hj6UwH",
+        "username": "pxwwu_chan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

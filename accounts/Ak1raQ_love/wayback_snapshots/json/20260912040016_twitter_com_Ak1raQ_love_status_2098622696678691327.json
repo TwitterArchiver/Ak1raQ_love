@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2098607530549317883",
+    "created_at": "2026-09-12T04:00:16.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T05:00:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098622696678691327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1824501290203856896",
+          "start": 0,
+          "username": "linnanoda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098622696678691327",
+    "in_reply_to_user_id": "1824501290203856896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098621107947421798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@linnanoda 嗯呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2098607530549317883",
+        "created_at": "2026-09-12T04:00:16.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T05:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098622696678691327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1824501290203856896",
+              "start": 0,
+              "username": "linnanoda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098622696678691327",
+        "in_reply_to_user_id": "1824501290203856896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098621107947421798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@linnanoda 嗯呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824501290203856896",
+        "conversation_id": "2098607530549317883",
+        "created_at": "2026-09-12T03:53:57.000Z",
+        "display_text_range": [
+          13,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T04:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098621107947421798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098621107947421798",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098607530549317883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Ak1raQ_love +1\n这表示你对每一段感情都非常认真和重视，是好事。这样的友谊很更加长久真挚不是吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/是大笨蛋😖/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 23,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "zhwevea"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "qiuylove"
+              },
+              {
+                "end": 83,
+                "start": 69,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tientsin",
+        "most_recent_tweet_id": "2098622696678691327",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2097851786463998326",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8867,
+          "following_count": 1305,
+          "like_count": 226378,
+          "listed_count": 7,
+          "media_count": 1338,
+          "tweet_count": 9695
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-16T17:40:07.000Z",
+        "description": "广东 06年 mtf 乐观主义 阴暗 社恐 二次元宅  勤俭 节约 百合控 心情日常开心良好 朋友很少 留长发中 乐观主义\n如果感到心情低落可以向我诉说！ \n憧憬的目标是阿芒，正在努力改变自己\n\n如果咱的发言让您感到不适的话，在这里向您道歉",
+        "id": "1824501290203856896",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098621107947421798",
+        "name": "青琬予婷人🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1824501290203856896/1726203036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060084703831400450/sNoTelC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 56,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 43
+        },
+        "url": "",
+        "username": "linnanoda",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

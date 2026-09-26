@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2095500753683280333",
+    "created_at": "2026-09-03T15:08:25.000Z",
+    "display_text_range": [
+      16,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T16:08:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095529351991410820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1763034943599607808",
+          "start": 0,
+          "username": "moonlight_ruri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095529351991410820",
+    "in_reply_to_user_id": "1763034943599607808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095523281193545859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@moonlight_ruri 打字（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2095500753683280333",
+        "created_at": "2026-09-03T15:08:25.000Z",
+        "display_text_range": [
+          16,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T16:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095529351991410820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1763034943599607808",
+              "start": 0,
+              "username": "moonlight_ruri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095529351991410820",
+        "in_reply_to_user_id": "1763034943599607808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095523281193545859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@moonlight_ruri 打字（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763034943599607808",
+        "conversation_id": "2095500753683280333",
+        "created_at": "2026-09-03T14:44:17.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T15:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095523281193545859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095523281193545859",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095500753683280333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Ak1raQ_love 怎么贴"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/什么都不会/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 23,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "zhwevea"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "qiuylove"
+              },
+              {
+                "end": 83,
+                "start": 69,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "鹭岛",
+        "most_recent_tweet_id": "2095529351991410820",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2092116629694058989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8845,
+          "following_count": 1294,
+          "like_count": 225086,
+          "listed_count": 7,
+          "media_count": 1310,
+          "tweet_count": 9486
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-02-29T02:55:00.000Z",
+        "description": "小天使｜蓝v必回｜femboy｜ENname：LunaRuri｜EN CN JP｜little angel｜Random thoughts｜Humor｜Entertainment｜beauty share｜Verified users follow back｜Submissions welcome｜Thanks",
+        "id": "1763034943599607808",
+        "is_identity_verified": true,
+        "location": "鄂｜🉑✈️｜🚪59｜私信｜蓝v必回请耐心等待",
+        "most_recent_tweet_id": "2095523436059906541",
+        "name": "月璃_LunaRuri🏳️‍⚧️🍥🌸",
+        "pinned_tweet_id": "2064979619095392478",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763034943599607808/1786895939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064945472159272961/vaDy2Hdw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15681,
+          "following_count": 1150,
+          "like_count": 1116,
+          "listed_count": 33,
+          "media_count": 488,
+          "tweet_count": 2625
+        },
+        "url": "",
+        "username": "moonlight_ruri",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

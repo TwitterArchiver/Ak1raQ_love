@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2095338012016255450",
+    "created_at": "2026-09-04T04:29:19.000Z",
+    "display_text_range": [
+      16,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T05:29:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095730905520443709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1271282054630539265",
+          "start": 0,
+          "username": "jmtnp1"
+        },
+        {
+          "end": 15,
+          "id": "1196460589",
+          "start": 8,
+          "username": "ygkkkg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095730905520443709",
+    "in_reply_to_user_id": "1271282054630539265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095710345197457629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jmtnp1 @ygkkkg 不过只有Windows是把旗子渲染成国家代码的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2095338012016255450",
+        "created_at": "2026-09-04T04:29:19.000Z",
+        "display_text_range": [
+          16,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T05:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095730905520443709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1271282054630539265",
+              "start": 0,
+              "username": "jmtnp1"
+            },
+            {
+              "end": 15,
+              "id": "1196460589",
+              "start": 8,
+              "username": "ygkkkg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095730905520443709",
+        "in_reply_to_user_id": "1271282054630539265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095710345197457629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jmtnp1 @ygkkkg 不过只有Windows是把旗子渲染成国家代码的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1271282054630539265",
+        "conversation_id": "2095338012016255450",
+        "created_at": "2026-09-04T03:07:37.000Z",
+        "display_text_range": [
+          21,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T04:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095710345197457629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            },
+            {
+              "end": 20,
+              "id": "1196460589",
+              "start": 13,
+              "username": "ygkkkg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095710345197457629",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095702835468095519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak1raQ_love @ygkkkg 这就解释一切了，推X放弃了自己的SVG绘图方案让系统自己解析，潮酷推友的小旗子都被系统没收了🤣"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/什么都不会/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 23,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "zhwevea"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "qiuylove"
+              },
+              {
+                "end": 83,
+                "start": 69,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "XMN🔜TSN",
+        "most_recent_tweet_id": "2095730905520443709",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2092116629694058989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8853,
+          "following_count": 1298,
+          "like_count": 225443,
+          "listed_count": 7,
+          "media_count": 1311,
+          "tweet_count": 9501
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-06-12T03:24:39.000Z",
+        "description": "bleeding-heart libertarian❣️theater kid🎭 animation adult👸birder🐦\n🇳🇱🇮🇪🇦🇹🇹🇼安全形势不常回fo | 误封致歉，已拉黑67,400+ | Google+🐚 | 潜水号 @jimgreeneit",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 118,
+                "username": "jimgreeneit"
+              }
+            ]
+          }
+        },
+        "id": "1271282054630539265",
+        "is_identity_verified": false,
+        "location": "Fornost",
+        "most_recent_tweet_id": "2095717327744774150",
+        "name": "川和 吉米🚀 Jimmy K",
+        "pinned_tweet_id": "1536602745364520960",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1271282054630539265/1655900353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678817260348243968/O8WsI3x1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2663,
+          "following_count": 1722,
+          "like_count": 701755,
+          "listed_count": 8,
+          "media_count": 2838,
+          "tweet_count": 19168
+        },
+        "url": "",
+        "username": "jmtnp1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-02-19T09:17:50.000Z",
+        "description": "🔥分享网络技术应用+数字金融爱好者+生活娱乐吐槽。\n🔴月底《侃侃墙》YouTube+X双平台同步视频直播。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ygkkk?sub_con…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@ygkkk?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/SjVMlzKl5A"
+              }
+            ]
+          }
+        },
+        "id": "1196460589",
+        "is_identity_verified": true,
+        "location": "YouTube频道👉",
+        "most_recent_tweet_id": "2095719500712718453",
+        "name": "甬哥侃侃侃ygkkk",
+        "pinned_tweet_id": "2089331146559807815",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1196460589/1785987341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091778271264579584/q67XPGp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15410,
+          "following_count": 708,
+          "like_count": 2424,
+          "listed_count": 65,
+          "media_count": 551,
+          "tweet_count": 4035
+        },
+        "url": "https://t.co/SjVMlzKl5A",
+        "username": "ygkkkg",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

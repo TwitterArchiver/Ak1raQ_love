@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2096986696466432272",
+    "created_at": "2026-09-08T00:01:27.000Z",
+    "display_text_range": [
+      30,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T01:01:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097113047781474620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2060587975982141440",
+          "start": 0,
+          "username": "Rinyuyuyuyuyu"
+        },
+        {
+          "end": 29,
+          "id": "1754494415152766976",
+          "start": 15,
+          "username": "IchinichiNagi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097113047781474620",
+    "in_reply_to_user_id": "2060587975982141440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096986696466432272",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rinyuyuyuyuyu @IchinichiNagi 我一走你们全去厦门了😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2096986679542497280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRn-RlTbQAATDxv.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2096986696466432272",
+        "created_at": "2026-09-08T00:01:27.000Z",
+        "display_text_range": [
+          30,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T01:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097113047781474620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2060587975982141440",
+              "start": 0,
+              "username": "Rinyuyuyuyuyu"
+            },
+            {
+              "end": 29,
+              "id": "1754494415152766976",
+              "start": 15,
+              "username": "IchinichiNagi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097113047781474620",
+        "in_reply_to_user_id": "2060587975982141440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096986696466432272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinyuyuyuyuyu @IchinichiNagi 我一走你们全去厦门了😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096986679542497280"
+          ]
+        },
+        "author_id": "2060587975982141440",
+        "conversation_id": "2096986696466432272",
+        "created_at": "2026-09-07T15:39:23.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T16:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096986696466432272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1754494415152766976",
+              "start": 9,
+              "username": "IchinichiNagi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UoUWBEJ9Fu",
+              "end": 47,
+              "expanded_url": "https://x.com/Rinyuyuyuyuyu/status/2096986696466432272/photo/1",
+              "media_key": "3_2096986679542497280",
+              "start": 24,
+              "url": "https://t.co/UoUWBEJ9Fu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096986696466432272",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096986679542497280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "闪现厦门\n出来艾草@IchinichiNagi https://t.co/UoUWBEJ9Fu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/什么都不会/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 23,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "zhwevea"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "qiuylove"
+              },
+              {
+                "end": 83,
+                "start": 69,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tientsin",
+        "most_recent_tweet_id": "2097113047781474620",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2092116629694058989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8870,
+          "following_count": 1303,
+          "like_count": 226310,
+          "listed_count": 7,
+          "media_count": 1322,
+          "tweet_count": 9602
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-30T05:04:36.000Z",
+        "description": "MtF/HRT：2025.1.28/无证含糖中/❤️@shuangxing0325",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 26,
+                "username": "shuangxing0325"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinyu003",
+                "end": 23,
+                "expanded_url": "https://t.me/Rinyu003",
+                "start": 0,
+                "url": "https://t.co/OnkEmm6EuT"
+              }
+            ]
+          }
+        },
+        "id": "2060587975982141440",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097052529972646005",
+        "name": "綾羽Rinyu",
+        "pinned_tweet_id": "2082070280583934326",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2060587975982141440/1780117635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060588589285847041/Dydhkr5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 152,
+          "like_count": 2219,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 458
+        },
+        "url": "https://t.co/OnkEmm6EuT",
+        "username": "Rinyuyuyuyuyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "对于Nagi来说\n他们是一日男友\n\n那对于他们来说\n我是不是一日Nagi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/jub…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/jubilee/",
+                "start": 0,
+                "url": "https://t.co/nRq8LhSw2y"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "is_identity_verified": false,
+        "location": "Stansted Airport",
+        "most_recent_tweet_id": "2097001442930471117",
+        "name": "这是一日Nagi吗？",
+        "pinned_tweet_id": "2094246384962863447",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1754494415152766976/1782808002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081044089487941632/4n6xQeCv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6188,
+          "following_count": 2358,
+          "like_count": 33456,
+          "listed_count": 10,
+          "media_count": 3114,
+          "tweet_count": 28900
+        },
+        "url": "https://t.co/nRq8LhSw2y",
+        "username": "IchinichiNagi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

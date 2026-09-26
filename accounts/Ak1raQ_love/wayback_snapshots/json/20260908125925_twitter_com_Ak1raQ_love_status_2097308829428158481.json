@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2097306016170094866",
+    "created_at": "2026-09-08T12:59:25.000Z",
+    "display_text_range": [
+      9,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T13:59:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097308829428158481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1670458419986464768",
+          "start": 0,
+          "username": "nn66676"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097308829428158481",
+    "in_reply_to_user_id": "1670458419986464768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097306016170094866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nn66676 这个帖子马上要违规了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2097305990198927360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRsgr6MbIAAmZrL.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2097306003205402624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRsgsqpaMAACrON.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2097306016170094866",
+        "created_at": "2026-09-08T12:59:25.000Z",
+        "display_text_range": [
+          9,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T13:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097308829428158481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1670458419986464768",
+              "start": 0,
+              "username": "nn66676"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097308829428158481",
+        "in_reply_to_user_id": "1670458419986464768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097306016170094866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nn66676 这个帖子马上要违规了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097305990198927360",
+            "3_2097306003205402624"
+          ]
+        },
+        "author_id": "1670458419986464768",
+        "conversation_id": "2097306016170094866",
+        "created_at": "2026-09-08T12:48:14.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T13:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097306016170094866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sHyyhK7CSC",
+              "end": 46,
+              "expanded_url": "https://x.com/nn66676/status/2097306016170094866/photo/1",
+              "media_key": "3_2097305990198927360",
+              "start": 23,
+              "url": "https://t.co/sHyyhK7CSC"
+            },
+            {
+              "display_url": "pic.x.com/sHyyhK7CSC",
+              "end": 46,
+              "expanded_url": "https://x.com/nn66676/status/2097306016170094866/photo/1",
+              "media_key": "3_2097306003205402624",
+              "start": 23,
+              "url": "https://t.co/sHyyhK7CSC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097306016170094866",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097305990198927360"
+          },
+          {
+            "media_key": "3_2097306003205402624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好爽（ 还有一段发疯小视频 处理一下之后发） https://t.co/sHyyhK7CSC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/是大笨蛋😖/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 23,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "zhwevea"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "qiuylove"
+              },
+              {
+                "end": 83,
+                "start": 69,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tientsin",
+        "most_recent_tweet_id": "2097308829428158481",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2092116629694058989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8881,
+          "following_count": 1305,
+          "like_count": 226508,
+          "listed_count": 7,
+          "media_count": 1326,
+          "tweet_count": 9626
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-06-18T15:50:22.000Z",
+        "description": "一个被讨厌的人",
+        "id": "1670458419986464768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097306833392435357",
+        "name": "嗯嗯🀄️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1670458419986464768/1717741393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806979035916029952/VFgFUc0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2090,
+          "following_count": 695,
+          "like_count": 7322,
+          "listed_count": 4,
+          "media_count": 950,
+          "tweet_count": 5519
+        },
+        "url": "",
+        "username": "nn66676",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

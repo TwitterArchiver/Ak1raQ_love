@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2101301567672799273",
+    "created_at": "2026-09-19T13:33:06.000Z",
+    "display_text_range": [
+      13,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T14:33:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101303571748941976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2497764032",
+          "start": 0,
+          "username": "TainiiMikan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101303571748941976",
+    "in_reply_to_user_id": "2497764032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101301567672799273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TainiiMikan 要是舍友趁你不在的时候偷穿你裙子呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2101301567672799273",
+        "created_at": "2026-09-19T13:33:06.000Z",
+        "display_text_range": [
+          13,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T14:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101303571748941976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2497764032",
+              "start": 0,
+              "username": "TainiiMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101303571748941976",
+        "in_reply_to_user_id": "2497764032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101301567672799273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TainiiMikan 要是舍友趁你不在的时候偷穿你裙子呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2497764032",
+        "conversation_id": "2101301567672799273",
+        "created_at": "2026-09-19T13:25:08.000Z",
+        "display_text_range": [
+          0,
+          134
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T14:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101301567672799273"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101301567672799273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉现实比文案更魔幻。\n这学期开学先把睡裙挂晾衣杆上，室友回来啥也没说，也没问。\n然后第二天直接穿身上了（还有裤袜），室友依旧表现如常。\n之后每天都换一件女装，黑丝白丝啥的都穿。到现在我所有衣服都穿过一遍了。室友还是啥反应都没有，一句话都没问。\n仿佛房间里的大象一样😧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/是大笨蛋😖/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/一号里推 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 23,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "zhwevea"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "qiuylove"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tianjin/Xiamen/Suzhou",
+        "most_recent_tweet_id": "2101303571748941976",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8841,
+          "following_count": 1311,
+          "like_count": 227871,
+          "listed_count": 7,
+          "media_count": 1356,
+          "tweet_count": 9904
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2014-05-16T05:06:00.000Z",
+        "description": "是一只，后面忘了，总之是杂鱼酱 || 女装号: @JanboMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "JanboMikan"
+              }
+            ]
+          }
+        },
+        "id": "2497764032",
+        "is_identity_verified": false,
+        "location": "鱼缸",
+        "most_recent_tweet_id": "2101302748671365225",
+        "name": "タイニー蜜柑",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2497764032/1768361502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075453487794794496/Dvp18s1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1326,
+          "following_count": 140,
+          "like_count": 1610,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 1343
+        },
+        "url": "",
+        "username": "TainiiMikan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,459 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2095429877805818139",
+    "created_at": "2026-09-03T10:13:24.000Z",
+    "display_text_range": [
+      27,
+      180
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T11:13:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095455108796653986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1733692753899569152",
+          "start": 0,
+          "username": "AmiyaArk0106"
+        },
+        {
+          "end": 26,
+          "id": "1880979169297022976",
+          "start": 14,
+          "username": "Wesley10032"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Emoji designs used on Discord that are distinct from the historic Twemoji emoji designs.",
+          "display_url": "emojipedia.org/discord",
+          "end": 53,
+          "expanded_url": "https://emojipedia.org/discord",
+          "start": 30,
+          "status": 200,
+          "title": "Discord Emoji List [Updated 2025]",
+          "unwound_url": "https://emojipedia.org/discord",
+          "url": "https://t.co/qv6KMwFUsk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095455108796653986",
+    "in_reply_to_user_id": "1733692753899569152",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095454562362835080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@AmiyaArk0106 @Wesley10032 是的\nhttps://t.co/qv6KMwFUsk\nDiscord supports the use of emoji via shortcodes, with the majority of emojis displayed as images from the Twemoji design set."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2095429877805818139",
+        "created_at": "2026-09-03T10:13:24.000Z",
+        "display_text_range": [
+          27,
+          180
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T11:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095455108796653986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1733692753899569152",
+              "start": 0,
+              "username": "AmiyaArk0106"
+            },
+            {
+              "end": 26,
+              "id": "1880979169297022976",
+              "start": 14,
+              "username": "Wesley10032"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Emoji designs used on Discord that are distinct from the historic Twemoji emoji designs.",
+              "display_url": "emojipedia.org/discord",
+              "end": 53,
+              "expanded_url": "https://emojipedia.org/discord",
+              "start": 30,
+              "status": 200,
+              "title": "Discord Emoji List [Updated 2025]",
+              "unwound_url": "https://emojipedia.org/discord",
+              "url": "https://t.co/qv6KMwFUsk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095455108796653986",
+        "in_reply_to_user_id": "1733692753899569152",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095454562362835080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@AmiyaArk0106 @Wesley10032 是的\nhttps://t.co/qv6KMwFUsk\nDiscord supports the use of emoji via shortcodes, with the majority of emojis displayed as images from the Twemoji design set."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733692753899569152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2095429877805818139",
+        "created_at": "2026-09-03T10:11:13.000Z",
+        "display_text_range": [
+          26,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T11:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095454562362835080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            },
+            {
+              "end": 25,
+              "id": "1663066129923981312",
+              "start": 13,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095454562362835080",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095454043342774362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Wesley10032 @Ak1raQ_love 对，好像discord的也是这个"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/什么都不会/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 23,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "zhwevea"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "qiuylove"
+              },
+              {
+                "end": 83,
+                "start": 69,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "鹭岛",
+        "most_recent_tweet_id": "2095455108796653986",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2092116629694058989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8850,
+          "following_count": 1293,
+          "like_count": 224828,
+          "listed_count": 6,
+          "media_count": 1307,
+          "tweet_count": 9458
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-10T03:39:55.000Z",
+        "description": "“爱具体的人，不要爱抽象的人；\n  爱生活本身，胜于爱生活的意义”\n                                               ——陀思妥耶夫斯基\n点击给我发匿名消息喵↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amiyaark01061",
+                "end": 23,
+                "expanded_url": "https://ngl.link/amiyaark01061",
+                "start": 0,
+                "url": "https://t.co/Y5nxNE2lG9"
+              }
+            ]
+          }
+        },
+        "id": "1733692753899569152",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095454562362835080",
+        "name": "社恐猫猫Ark🐱",
+        "pinned_tweet_id": "2094999110789251152",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1733692753899569152/1788339807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094995432531456000/r7qr_TGG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 356,
+          "like_count": 5715,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 2298
+        },
+        "url": "https://t.co/Y5nxNE2lG9",
+        "username": "AmiyaArk0106",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n学生党 周末/节假日在线\nCN/EN/JP\n第二账号暂不公开",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "lockloveovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2095454864122032338",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1537,
+          "following_count": 1785,
+          "like_count": 22838,
+          "listed_count": 3,
+          "media_count": 487,
+          "tweet_count": 3598
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

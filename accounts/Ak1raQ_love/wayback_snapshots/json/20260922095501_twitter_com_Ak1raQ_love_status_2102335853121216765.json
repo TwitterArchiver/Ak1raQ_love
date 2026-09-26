@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102335837862260736"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2102335853121216765",
+    "created_at": "2026-09-22T09:55:01.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T10:55:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102335853121216765"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Zp4ZC2k8xa",
+          "end": 23,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2102335853121216765/photo/1",
+          "media_key": "3_2102335837862260736",
+          "start": 0,
+          "url": "https://t.co/Zp4ZC2k8xa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102335853121216765",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2102335837862260736"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "https://t.co/Zp4ZC2k8xa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 882,
+        "media_key": "3_2102335837862260736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSz_Tk5acAAHG73.jpg",
+        "width": 1913
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102335837862260736"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2102335853121216765",
+        "created_at": "2026-09-22T09:55:01.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T10:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102335853121216765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zp4ZC2k8xa",
+              "end": 23,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2102335853121216765/photo/1",
+              "media_key": "3_2102335837862260736",
+              "start": 0,
+              "url": "https://t.co/Zp4ZC2k8xa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102335853121216765",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2102335837862260736"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "https://t.co/Zp4ZC2k8xa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "Zhi Wei 👋｜精益求精｜想要看遍大千世界 ✈️｜想要成为技术大拿 📲💡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/zhweaa",
+                "end": 23,
+                "expanded_url": "https://github.com/zhweaa",
+                "start": 0,
+                "url": "https://t.co/zxOcuiUWaF"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "🌏🌐",
+        "most_recent_tweet_id": "2102335853121216765",
+        "name": "Zhi Wei 🥥🧊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1790070854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102335642273566720/vqXLooO5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8831,
+          "following_count": 1314,
+          "like_count": 228331,
+          "listed_count": 7,
+          "media_count": 1361,
+          "tweet_count": 9962
+        },
+        "url": "https://t.co/zxOcuiUWaF",
+        "username": "Ak1raQ_love",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

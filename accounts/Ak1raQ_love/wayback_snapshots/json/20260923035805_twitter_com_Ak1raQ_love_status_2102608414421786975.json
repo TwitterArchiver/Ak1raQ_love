@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102608411636682752"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2102608414421786975",
+    "created_at": "2026-09-23T03:58:05.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T04:58:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102608414421786975"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CtdnLXmIzr",
+          "end": 35,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2102608414421786975/photo/1",
+          "media_key": "3_2102608411636682752",
+          "start": 12,
+          "url": "https://t.co/CtdnLXmIzr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102608414421786975",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2102608411636682752"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "好想……成为……女同。 https://t.co/CtdnLXmIzr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 152,
+        "media_key": "3_2102608411636682752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS33NdVaUAAK-K7.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102608411636682752"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2102608414421786975",
+        "created_at": "2026-09-23T03:58:05.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T04:58:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102608414421786975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CtdnLXmIzr",
+              "end": 35,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2102608414421786975/photo/1",
+              "media_key": "3_2102608411636682752",
+              "start": 12,
+              "url": "https://t.co/CtdnLXmIzr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102608414421786975",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102608411636682752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "好想……成为……女同。 https://t.co/CtdnLXmIzr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "Zhi Wei 👋｜精益求精｜想要看遍大千世界 ✈️｜想要成为技术大拿 📲💡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/zhweaa",
+                "end": 23,
+                "expanded_url": "https://github.com/zhweaa",
+                "start": 0,
+                "url": "https://t.co/zxOcuiUWaF"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "🌏🌐",
+        "most_recent_tweet_id": "2102608414421786975",
+        "name": "Zhi Wei 🥥🧊",
+        "pinned_tweet_id": "2102335853121216765",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1790070854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102336627964334080/OjN56-Jj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8837,
+          "following_count": 1313,
+          "like_count": 228460,
+          "listed_count": 7,
+          "media_count": 1368,
+          "tweet_count": 9979
+        },
+        "url": "https://t.co/zxOcuiUWaF",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

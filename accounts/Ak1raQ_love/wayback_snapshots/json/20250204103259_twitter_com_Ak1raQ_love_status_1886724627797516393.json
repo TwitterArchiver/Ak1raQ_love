@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "1886677733876641852",
+    "created_at": "2025-02-04T10:32:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T11:32:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886724627797516393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1413448007362650115",
+          "start": 0,
+          "username": "Yayoi_no_yume"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886724627797516393",
+    "in_reply_to_user_id": "1413448007362650115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886677733876641852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yayoi_no_yume 应该是广告业务"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1886677733876641852",
+        "created_at": "2025-02-04T10:32:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T11:32:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886724627797516393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1413448007362650115",
+              "start": 0,
+              "username": "Yayoi_no_yume"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886724627797516393",
+        "in_reply_to_user_id": "1413448007362650115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886677733876641852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yayoi_no_yume 应该是广告业务"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1413448007362650115",
+        "conversation_id": "1886677733876641852",
+        "created_at": "2025-02-04T07:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T08:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886677733876641852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/imxiaohu/statu…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/imxiaohu/status/1886646069838401611",
+              "start": 33,
+              "url": "https://t.co/hTWhXskR7g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886677733876641852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 333,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886646069838401611",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这波是还在讨论鸿蒙疑似安卓套壳吗？不然我真不知道谷歌垄断了什么。 https://t.co/hTWhXskR7g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/🌏ZH,EN/🏳️‍⚧️Genderfree/🌈 Diversity & Inclusivity/🕊️Love & Peace/😔Sorry, I'm not good at chatting/Priv: @mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 121,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.us.kg",
+                "end": 23,
+                "expanded_url": "https://mikachan.us.kg/",
+                "start": 0,
+                "url": "https://t.co/yUfVtUE4yg"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄喵😺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1474,
+          "following_count": 899,
+          "like_count": 112997,
+          "listed_count": 4,
+          "media_count": 811,
+          "tweet_count": 4273
+        },
+        "url": "https://t.co/yUfVtUE4yg",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-09T10:40:52.000Z",
+        "description": "KISARAGIノ桜🌸/普通人/写真家📸/◂Ⓘ▸电吉他手🎸/🖌️绘画/文字📖/🥇Learn in public/LLM应用🔍/和开发者做朋友☀️/“🤖e/acc🚀”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yayoi.love",
+                "end": 23,
+                "expanded_url": "https://www.yayoi.love",
+                "start": 0,
+                "url": "https://t.co/ZICEMCk3kD"
+              }
+            ]
+          }
+        },
+        "id": "1413448007362650115",
+        "location": "朝焼の涙、青空の色、夕日の風、夜の月と星",
+        "name": "◂Ⓘ▸YAYOI の 夢",
+        "pinned_tweet_id": "1883904714229809255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870130340846809090/YtZYmBQu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3588,
+          "following_count": 3294,
+          "like_count": 12718,
+          "listed_count": 25,
+          "media_count": 3615,
+          "tweet_count": 20783
+        },
+        "url": "https://t.co/ZICEMCk3kD",
+        "username": "Yayoi_no_yume",
+        "verified": false
+      }
+    ]
+  }
+}

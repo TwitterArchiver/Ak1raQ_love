@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2100167722760085507",
+    "created_at": "2026-09-16T13:00:19.000Z",
+    "display_text_range": [
+      29,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T14:00:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100208157096366487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1995146888249778177",
+          "start": 0,
+          "username": "Rin_Mashiro_"
+        },
+        {
+          "end": 28,
+          "id": "2008233761763409920",
+          "start": 14,
+          "username": "galaxy1025850"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100208157096366487",
+    "in_reply_to_user_id": "1995146888249778177",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100172254277783911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rin_Mashiro_ @galaxy1025850 111我也要看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2100167722760085507",
+        "created_at": "2026-09-16T13:00:19.000Z",
+        "display_text_range": [
+          29,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T14:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100208157096366487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1995146888249778177",
+              "start": 0,
+              "username": "Rin_Mashiro_"
+            },
+            {
+              "end": 28,
+              "id": "2008233761763409920",
+              "start": 14,
+              "username": "galaxy1025850"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100208157096366487",
+        "in_reply_to_user_id": "1995146888249778177",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100172254277783911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rin_Mashiro_ @galaxy1025850 111我也要看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995146888249778177",
+        "conversation_id": "2100167722760085507",
+        "created_at": "2026-09-16T10:37:39.000Z",
+        "display_text_range": [
+          15,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T11:37:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100172254277783911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2008233761763409920",
+              "start": 0,
+              "username": "galaxy1025850"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100172254277783911",
+        "in_reply_to_user_id": "2008233761763409920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100172098895482923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@galaxy1025850 爆照了你们就取关我了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/是大笨蛋😖/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/一号里推 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 23,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "zhwevea"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "qiuylove"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tianjin/Xiamen/Suzhou",
+        "most_recent_tweet_id": "2100208157096366487",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8851,
+          "following_count": 1308,
+          "like_count": 227302,
+          "listed_count": 7,
+          "media_count": 1350,
+          "tweet_count": 9839
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-30T15:04:29.000Z",
+        "description": "VPS梦女｜处于HRT与非HRT叠加态｜J-POP｜LLM｜ACGN｜JP（N2） EN CN｜SillyTavern二开及插件开发者\nTG:https://t.co/mrZzq3tXAY(24h在线)\n个人博客:https://t.co/PVGkqciT7N\n匿名提问:https://t.co/520DUeTJuy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Rin_Mashiro",
+                "end": 94,
+                "expanded_url": "https://t.me/Rin_Mashiro",
+                "start": 71,
+                "url": "https://t.co/mrZzq3tXAY"
+              },
+              {
+                "display_url": "blog.rin.wtf",
+                "end": 130,
+                "expanded_url": "https://blog.rin.wtf",
+                "start": 107,
+                "url": "https://t.co/PVGkqciT7N"
+              },
+              {
+                "display_url": "blog.rin.wtf/ask",
+                "end": 159,
+                "expanded_url": "https://blog.rin.wtf/ask",
+                "start": 136,
+                "url": "https://t.co/520DUeTJuy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.rin.wtf",
+                "end": 23,
+                "expanded_url": "https://blog.rin.wtf",
+                "start": 0,
+                "url": "https://t.co/PVGkqciT7N"
+              }
+            ]
+          }
+        },
+        "id": "1995146888249778177",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2100205166381461642",
+        "name": "Rin",
+        "pinned_tweet_id": "2095914123938943477",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1995146888249778177/1789446351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006297830823215106/c2krAf_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 135,
+          "like_count": 1526,
+          "listed_count": 0,
+          "media_count": 356,
+          "tweet_count": 3823
+        },
+        "url": "https://t.co/PVGkqciT7N",
+        "username": "Rin_Mashiro_",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-05T17:47:02.000Z",
+        "description": "🐖 20 y.o. \n🥴准大三计科摆烂人，喜欢折腾ai，云和各种好玩的玩意\npan，非常友跨\n欢迎互 fo💫，发现被我莫名奇妙fo了就是暗恋你😘",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.17co.de",
+                "end": 23,
+                "expanded_url": "https://blog.17co.de",
+                "start": 0,
+                "url": "https://t.co/3iZAC7R5oH"
+              }
+            ]
+          }
+        },
+        "id": "2008233761763409920",
+        "is_identity_verified": false,
+        "location": "在你家厨房偷吃大白菜",
+        "most_recent_tweet_id": "2100174631676395585",
+        "name": "galaxy",
+        "pinned_tweet_id": "2093746756551160261",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080383668082851840/WI3z7833_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1237,
+          "following_count": 1057,
+          "like_count": 3348,
+          "listed_count": 4,
+          "media_count": 177,
+          "tweet_count": 1960
+        },
+        "url": "https://t.co/3iZAC7R5oH",
+        "username": "galaxy1025850",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
