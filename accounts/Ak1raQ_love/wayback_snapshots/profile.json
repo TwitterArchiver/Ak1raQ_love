@@ -1,12 +1,25 @@
 {
-  "name": "Zhi Wei 🥥🧊",
+  "name": "🌈Akiramenai💫",
   "username": "@Ak1raQ_love",
-  "bio": "Zhi Wei 👋｜精益求精｜想要看遍大千世界 ✈️｜想要成为技术大拿 📲💡",
-  "location": "🌏🌐",
+  "bio": "弃羽酱💫/🩵🩷🤍🩷🩵/生活日常/废话内容/技术分享/原创文案/负面情绪/秋月喵 @qiuylove/里推 @Akirameru_QAQ/更多内容详见置顶喵",
+  "location": "📍天津Tientsin / Amoy / Soochow",
   "link": "https://github.com/zhweaa",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "2040090150819213463",
-  "bio_entities": {},
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 50,
+        "start": 41,
+        "username": "qiuylove"
+      },
+      {
+        "end": 68,
+        "start": 54,
+        "username": "Akirameru_QAQ"
+      }
+    ]
+  },
   "_avatar_source": "https://pbs.twimg.com/profile_images/2102336627964334080/OjN56-Jj_normal.jpg"
 }
