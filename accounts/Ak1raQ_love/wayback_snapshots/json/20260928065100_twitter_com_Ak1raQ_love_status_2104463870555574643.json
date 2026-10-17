@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2104463870555574643",
+    "created_at": "2026-09-28T06:51:00.000Z",
+    "display_text_range": [
+      0,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T07:51:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104463870555574643"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Irosasmeow/sta…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/Irosasmeow/status/2104458798396215370",
+          "start": 26,
+          "url": "https://t.co/AY6jLYVijI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104463870555574643",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104458798396215370",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "同龄人：继续上学\n我：磕雌二醇上推喵来喵去\n就很😂 https://t.co/AY6jLYVijI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2104463870555574643",
+        "created_at": "2026-09-28T06:51:00.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T07:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104463870555574643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Irosasmeow/sta…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/Irosasmeow/status/2104458798396215370",
+              "start": 26,
+              "url": "https://t.co/AY6jLYVijI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104463870555574643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104458798396215370",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "同龄人：继续上学\n我：磕雌二醇上推喵来喵去\n就很😂 https://t.co/AY6jLYVijI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090322811479027712",
+        "conversation_id": "2104458798396215370",
+        "created_at": "2026-09-28T06:30:51.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T07:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104458798396215370"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104458798396215370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "同龄人：继续上学\n我：磕雌二醇上推喵来喵去\n就很😂"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/是大笨蛋😖/温柔与爱/生活日常/业余技术/原创文案/负面内容/秋月喵 @qiuylove/里推 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "qiuylove"
+              },
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tianjin/Xiamen/Suzhou",
+        "most_recent_tweet_id": "2104463870555574643",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1790157811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102700382493556736/npAiY7DJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8828,
+          "following_count": 1316,
+          "like_count": 228752,
+          "listed_count": 6,
+          "media_count": 1381,
+          "tweet_count": 10059
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T06:20:51.000Z",
+        "description": "老婆@Irosas_sub\n最好的闺蜜@Irosasmjau\n偶像@AacerF59616  @AAcer_Freilyns\n11 MtF🏳️‍⚧️/ GAHT 30.04.26",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "Irosas_sub"
+              },
+              {
+                "end": 30,
+                "start": 19,
+                "username": "Irosasmjau"
+              },
+              {
+                "end": 45,
+                "start": 33,
+                "username": "AacerF59616"
+              },
+              {
+                "end": 62,
+                "start": 47,
+                "username": "AAcer_Freilyns"
+              }
+            ]
+          }
+        },
+        "id": "2090322811479027712",
+        "is_identity_verified": false,
+        "location": "Jinan",
+        "most_recent_tweet_id": "2104458798396215370",
+        "name": "Irosas 4.0🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2102403575532200175",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090322811479027712/1788028974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093331604202762240/X-BCTe2S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 284,
+          "like_count": 1275,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 510
+        },
+        "url": "",
+        "username": "Irosasmeow",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

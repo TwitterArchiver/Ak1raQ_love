@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2108705911351246849"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2108606499987824673",
+    "created_at": "2026-10-09T23:47:24.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T00:47:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108705921006526827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1586762784393437184",
+          "start": 0,
+          "username": "DraTohru_XLN"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ozzWInh8lz",
+          "end": 41,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2108705921006526827/photo/1",
+          "media_key": "3_2108705911351246849",
+          "start": 18,
+          "url": "https://t.co/ozzWInh8lz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108705921006526827",
+    "in_reply_to_user_id": "1586762784393437184",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2108705911351246849"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108606499987824673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DraTohru_XLN 啊诶？ https://t.co/ozzWInh8lz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2108705911351246849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUOg2p3bgAEegZk.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108705911351246849"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2108606499987824673",
+        "created_at": "2026-10-09T23:47:24.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T00:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108705921006526827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1586762784393437184",
+              "start": 0,
+              "username": "DraTohru_XLN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ozzWInh8lz",
+              "end": 41,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2108705921006526827/photo/1",
+              "media_key": "3_2108705911351246849",
+              "start": 18,
+              "url": "https://t.co/ozzWInh8lz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108705921006526827",
+        "in_reply_to_user_id": "1586762784393437184",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108705911351246849"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108606499987824673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DraTohru_XLN 啊诶？ https://t.co/ozzWInh8lz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586762784393437184",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "2108606499987824673",
+        "created_at": "2026-10-09T17:12:20.000Z",
+        "display_text_range": [
+          0,
+          161
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T18:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108606499987824673"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2108606499987824673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "Google杀的太快了\n前几天刚刚Android 11 Root后再也修不好Play Integrity，现在Android 15也不行了，依旧被锁死在BASIC。\n到处都是有效keybox，到处都是有效fingerprint，但是仍然永远被卡死在BASIC，想要个DEVICE简直比飞出可观测宇宙还impossible。\n根本不知道是因为Magisk这种Root方式太过时被检测到了，还是因为LineageOS这种custom ROM增加了异常因素。\n你现在要是Root了但是还有STRONG判定的话，我他吗…当狗、舔脚舔鸡巴、叫你活爹、妈的，，，"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 192,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Google杀的太快了\n前几天刚刚Android 11 Root后再也修不好Play Integrity，现在Android 15也不行了，依旧被锁死在BASIC。\n到处都是有效keybox，到处都是有效fingerprint，但是仍然永远被卡死在BASIC，想要个DEVICE简直比飞出可观测宇宙还impossible。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/温柔与爱/生活日常/原创文案/负面内容/秋月喵 @qiuylove/里推 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 30,
+                "username": "qiuylove"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "📍Tientsin / Amoy / Soochow",
+        "most_recent_tweet_id": "2108705921006526827",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1790157811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106366654494199808/pSvA21yA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8789,
+          "following_count": 1330,
+          "like_count": 230817,
+          "listed_count": 6,
+          "media_count": 1419,
+          "tweet_count": 10234
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-30T16:51:55.000Z",
+        "description": "来自中国的21y.o.废物技术宅。\n二次元/电子电路/化学/MIDI/软件/数码产品/摄影/无人机大手子。\n属性:🏳️‍🌈LGBTQ+友好/トール可愛い🐉/《青空のラプソディ》🎵/大連好き🏝️/Yamaha XG-MIDI🎹/DJI✈️Mavic Air & Air 2S\n\n🔞Fart Fetish 注意⚠️",
+        "id": "1586762784393437184",
+        "is_identity_verified": true,
+        "location": "/storage/emulated/0/",
+        "most_recent_tweet_id": "2108644240419172386",
+        "name": "小龙娘トール⚡️🧪🎹📱💻🏝️",
+        "pinned_tweet_id": "1758324214581645818",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1586762784393437184/1789554042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827717933965234176/8TASHQHp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 922,
+          "like_count": 63483,
+          "listed_count": 5,
+          "media_count": 1671,
+          "tweet_count": 20602
+        },
+        "url": "",
+        "username": "DraTohru_XLN",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

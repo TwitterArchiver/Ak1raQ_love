@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106190685619793920"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2106190688350286008",
+    "created_at": "2026-10-03T01:12:45.000Z",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T02:12:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106190688350286008"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 0,
+          "tag": "推友情況通報"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 30,
+          "id": "2101682983103299584",
+          "start": 18,
+          "username": "ggerxiaojie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IQTd1hH8dr",
+          "end": 54,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2106190688350286008/photo/1",
+          "media_key": "3_2106190685619793920",
+          "start": 31,
+          "url": "https://t.co/IQTd1hH8dr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106190688350286008",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2106190685619793920"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "#推友情況通報 乖乖哒二小姐 新号 @ggerxiaojie https://t.co/IQTd1hH8dr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2106190685619793920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTqxRP2asAArClG.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106190685619793920"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2106190688350286008",
+        "created_at": "2026-10-03T01:12:45.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T02:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106190688350286008"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "推友情況通報"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 30,
+              "id": "2101682983103299584",
+              "start": 18,
+              "username": "ggerxiaojie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IQTd1hH8dr",
+              "end": 54,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2106190688350286008/photo/1",
+              "media_key": "3_2106190685619793920",
+              "start": 31,
+              "url": "https://t.co/IQTd1hH8dr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106190688350286008",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106190685619793920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "#推友情況通報 乖乖哒二小姐 新号 @ggerxiaojie https://t.co/IQTd1hH8dr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/温柔与爱/生活日常/业余技术/原创文案/负面内容/秋月喵 @qiuylove/里推 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "qiuylove"
+              },
+              {
+                "end": 68,
+                "start": 54,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tianjin/Xiamen/Suzhou",
+        "most_recent_tweet_id": "2106190688350286008",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1790157811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102700382493556736/npAiY7DJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8819,
+          "following_count": 1326,
+          "like_count": 229478,
+          "listed_count": 6,
+          "media_count": 1392,
+          "tweet_count": 10098
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-20T14:41:37.000Z",
+        "description": "喵喵咪咪",
+        "id": "2101682983103299584",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106061207107223559",
+        "name": "乖乖哒二小姐(蓝v互关)",
+        "pinned_tweet_id": "2101686624883183907",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2101682983103299584/1789915367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101683402885955584/zRKQ3BJt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 28,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 39
+        },
+        "url": "",
+        "username": "ggerxiaojie",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

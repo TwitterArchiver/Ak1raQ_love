@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2104858282741682283",
+    "created_at": "2026-09-29T09:03:42.000Z",
+    "display_text_range": [
+      13,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T10:03:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104859654748799080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1774264719773409280",
+          "start": 0,
+          "username": "Kassinaeris"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104859654748799080",
+    "in_reply_to_user_id": "1774264719773409280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104858282741682283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kassinaeris 没听说过有大学还管这个的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2104858282741682283",
+        "created_at": "2026-09-29T09:03:42.000Z",
+        "display_text_range": [
+          13,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T10:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104859654748799080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1774264719773409280",
+              "start": 0,
+              "username": "Kassinaeris"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104859654748799080",
+        "in_reply_to_user_id": "1774264719773409280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104858282741682283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kassinaeris 没听说过有大学还管这个的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774264719773409280",
+        "conversation_id": "2104858282741682283",
+        "created_at": "2026-09-29T08:58:15.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T09:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104858282741682283"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104858282741682283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想请问一下各位MtF在大学军训的时候有见过被强制剪头发的案例嘛，这种事情常见吗，谢谢你们喵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/是大笨蛋😖/温柔与爱/生活日常/业余技术/原创文案/负面内容/秋月喵 @qiuylove/里推 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "qiuylove"
+              },
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tianjin/Xiamen/Suzhou",
+        "most_recent_tweet_id": "2104859654748799080",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1790157811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102700382493556736/npAiY7DJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8822,
+          "following_count": 1317,
+          "like_count": 228951,
+          "listed_count": 6,
+          "media_count": 1383,
+          "tweet_count": 10069
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-31T02:37:37.000Z",
+        "description": "Besjung världen med sång\n可以叫我kassi酱喵\n\n全世界第一可爱的妹妹@Chatcolate❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 48,
+                "username": "Chatcolate"
+              }
+            ]
+          }
+        },
+        "id": "1774264719773409280",
+        "is_identity_verified": false,
+        "location": "Linköping, Östergötland",
+        "most_recent_tweet_id": "2104858334713241834",
+        "name": "Kassinaeris🍥🌈",
+        "pinned_tweet_id": "2059584555456102757",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1774264719773409280/1790255347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103108736156069889/ZnyE6eAz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 822,
+          "like_count": 53038,
+          "listed_count": 5,
+          "media_count": 452,
+          "tweet_count": 3261
+        },
+        "url": "",
+        "username": "Kassinaeris",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

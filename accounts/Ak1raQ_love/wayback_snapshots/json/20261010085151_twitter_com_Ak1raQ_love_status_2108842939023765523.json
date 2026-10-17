@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2108842939023765523",
+    "created_at": "2026-10-10T08:51:51.000Z",
+    "display_text_range": [
+      0,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T09:51:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108842939023765523"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ak1raQ_love/st…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/Ak1raQ_love/status/2108517733445030049",
+          "start": 25,
+          "url": "https://t.co/rP8Q4ginQq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108842939023765523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108517733445030049",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "而且已经好几次在地铁闸机前点开微信付款码了... https://t.co/rP8Q4ginQq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2108842939023765523",
+        "created_at": "2026-10-10T08:51:51.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T09:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108842939023765523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ak1raQ_love/st…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/Ak1raQ_love/status/2108517733445030049",
+              "start": 25,
+              "url": "https://t.co/rP8Q4ginQq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108842939023765523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108517733445030049",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "而且已经好几次在地铁闸机前点开微信付款码了... https://t.co/rP8Q4ginQq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2108517733445030049",
+        "created_at": "2026-10-09T11:19:36.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T12:19:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108517733445030049"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2108517733445030049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 674,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "拿舞萌二维码扫地铁闸机，我是这个👍"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/温柔与爱/生活日常/原创文案/负面内容/秋月喵 @qiuylove/里推 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 30,
+                "username": "qiuylove"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "📍Tientsin / Amoy / Soochow",
+        "most_recent_tweet_id": "2108842939023765523",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1790157811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106366654494199808/pSvA21yA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8790,
+          "following_count": 1330,
+          "like_count": 230972,
+          "listed_count": 6,
+          "media_count": 1421,
+          "tweet_count": 10247
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

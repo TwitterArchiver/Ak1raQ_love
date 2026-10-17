@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106354434964099072",
+        "3_2106354435324776448",
+        "3_2106354435693973504"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2106354461010706702",
+    "created_at": "2026-10-03T12:03:32.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T13:03:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106354461010706702"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 5,
+          "start": 0,
+          "tag": "阿弃乱逛"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZCNYHOFd6r",
+          "end": 37,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2106354461010706702/photo/1",
+          "media_key": "3_2106354434964099072",
+          "start": 14,
+          "url": "https://t.co/ZCNYHOFd6r"
+        },
+        {
+          "display_url": "pic.x.com/ZCNYHOFd6r",
+          "end": 37,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2106354461010706702/photo/1",
+          "media_key": "3_2106354435324776448",
+          "start": 14,
+          "url": "https://t.co/ZCNYHOFd6r"
+        },
+        {
+          "display_url": "pic.x.com/ZCNYHOFd6r",
+          "end": 37,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2106354461010706702/photo/1",
+          "media_key": "3_2106354435693973504",
+          "start": 14,
+          "url": "https://t.co/ZCNYHOFd6r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106354461010706702",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2106354434964099072"
+      },
+      {
+        "media_key": "3_2106354435324776448"
+      },
+      {
+        "media_key": "3_2106354435693973504"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "#阿弃乱逛 鸟巢和水立方喵 https://t.co/ZCNYHOFd6r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2106354434964099072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTtGMtsakAAIWoL.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2106354435324776448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTtGMvCaEAABMqv.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2106354435693973504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTtGMwabkAAr4H8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106354434964099072",
+            "3_2106354435324776448",
+            "3_2106354435693973504"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2106354461010706702",
+        "created_at": "2026-10-03T12:03:32.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T13:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106354461010706702"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "阿弃乱逛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZCNYHOFd6r",
+              "end": 37,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2106354461010706702/photo/1",
+              "media_key": "3_2106354434964099072",
+              "start": 14,
+              "url": "https://t.co/ZCNYHOFd6r"
+            },
+            {
+              "display_url": "pic.x.com/ZCNYHOFd6r",
+              "end": 37,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2106354461010706702/photo/1",
+              "media_key": "3_2106354435324776448",
+              "start": 14,
+              "url": "https://t.co/ZCNYHOFd6r"
+            },
+            {
+              "display_url": "pic.x.com/ZCNYHOFd6r",
+              "end": 37,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2106354461010706702/photo/1",
+              "media_key": "3_2106354435693973504",
+              "start": 14,
+              "url": "https://t.co/ZCNYHOFd6r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106354461010706702",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2106354434964099072"
+          },
+          {
+            "media_key": "3_2106354435324776448"
+          },
+          {
+            "media_key": "3_2106354435693973504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "#阿弃乱逛 鸟巢和水立方喵 https://t.co/ZCNYHOFd6r"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/温柔与爱/生活日常/业余技术/原创文案/负面内容/秋月喵 @qiuylove/里推 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "qiuylove"
+              },
+              {
+                "end": 68,
+                "start": 54,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tianjin/Xiamen/Suzhou",
+        "most_recent_tweet_id": "2106354461010706702",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1790157811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102700382493556736/npAiY7DJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8815,
+          "following_count": 1326,
+          "like_count": 229603,
+          "listed_count": 6,
+          "media_count": 1397,
+          "tweet_count": 10109
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2104214515630092787",
+    "created_at": "2026-09-27T23:03:57.000Z",
+    "display_text_range": [
+      14,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T00:03:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104346335533232256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1663466214184853505",
+          "start": 0,
+          "username": "Kiyoshiki525"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104346335533232256",
+    "in_reply_to_user_id": "1663466214184853505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104272759190900882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Kiyoshiki525 853不行，测过了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2104214515630092787",
+        "created_at": "2026-09-27T23:03:57.000Z",
+        "display_text_range": [
+          14,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T00:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104346335533232256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1663466214184853505",
+              "start": 0,
+              "username": "Kiyoshiki525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104346335533232256",
+        "in_reply_to_user_id": "1663466214184853505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104272759190900882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Kiyoshiki525 853不行，测过了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663466214184853505",
+        "conversation_id": "2104214515630092787",
+        "created_at": "2026-09-27T18:11:35.000Z",
+        "display_text_range": [
+          13,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T19:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104272759190900882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104272759190900882",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104214515630092787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Ak1raQ_love 聪明，53端口做DNS流量伪装一般不会有人去审查53端口的（影响全网了，顶多记个日志），VLESS太好用了（话说853端口能用不，不然直接套tls更稳点）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/是大笨蛋😖/温柔与爱/生活日常/业余技术/原创文案/负面内容/秋月喵 @qiuylove/里推 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "qiuylove"
+              },
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tianjin/Xiamen/Suzhou",
+        "most_recent_tweet_id": "2104346335533232256",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1790157811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102700382493556736/npAiY7DJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8833,
+          "following_count": 1317,
+          "like_count": 228702,
+          "listed_count": 7,
+          "media_count": 1381,
+          "tweet_count": 10057
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-30T08:44:08.000Z",
+        "description": "不主玩推，随缘冒泡，各抒己见",
+        "id": "1663466214184853505",
+        "is_identity_verified": true,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2104272759190900882",
+        "name": "百忧解不加氟西汀",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663466214184853505/1767372971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104141587832000512/6-mgSeHs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 49,
+          "like_count": 1258,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 136
+        },
+        "url": "",
+        "username": "Kiyoshiki525",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

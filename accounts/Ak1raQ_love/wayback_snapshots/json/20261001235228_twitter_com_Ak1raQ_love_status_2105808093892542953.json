@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2105808093892542953",
+    "created_at": "2026-10-01T23:52:28.000Z",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T00:52:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105808093892542953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2086130299067637761",
+          "start": 3,
+          "username": "AmiyaArkCat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105808093892542953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105729674865438980",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AmiyaArkCat: 宿舍没人的好处就是想哭可以哭出声音"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2105808093892542953",
+        "created_at": "2026-10-01T23:52:28.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T00:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105808093892542953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2086130299067637761",
+              "start": 3,
+              "username": "AmiyaArkCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105808093892542953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105729674865438980",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AmiyaArkCat: 宿舍没人的好处就是想哭可以哭出声音"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2086130299067637761",
+        "conversation_id": "2105729674865438980",
+        "created_at": "2026-10-01T18:40:51.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T19:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105729674865438980"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105729674865438980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 359,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宿舍没人的好处就是想哭可以哭出声音"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/是大笨蛋😖/温柔与爱/生活日常/业余技术/原创文案/负面内容/秋月喵 @qiuylove/里推 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "qiuylove"
+              },
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tianjin/Xiamen/Suzhou",
+        "most_recent_tweet_id": "2105808093892542953",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1790157811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102700382493556736/npAiY7DJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8818,
+          "following_count": 1323,
+          "like_count": 229261,
+          "listed_count": 6,
+          "media_count": 1391,
+          "tweet_count": 10091
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-08T16:42:54.000Z",
+        "description": "大号（上一世）@AmiyaArk0106\n最好的姐姐：@KanoYumoe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 7,
+                "username": "AmiyaArk0106"
+              },
+              {
+                "end": 37,
+                "start": 27,
+                "username": "KanoYumoe"
+              }
+            ]
+          }
+        },
+        "id": "2086130299067637761",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105734564647964904",
+        "name": "猫猫ark🐱🏳️‍⚧️",
+        "pinned_tweet_id": "2103379595085205966",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103720915507044352/80k5dZvl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 240,
+          "like_count": 486,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 251
+        },
+        "url": "",
+        "username": "AmiyaArkCat",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

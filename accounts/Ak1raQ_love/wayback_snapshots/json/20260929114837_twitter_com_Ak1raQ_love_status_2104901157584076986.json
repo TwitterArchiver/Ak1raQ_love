@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104895493512003584"
+      ],
+      "media_source_tweet_id": [
+        "2104895496330600524"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2104901157584076986",
+    "created_at": "2026-09-29T11:48:37.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T12:48:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104901157584076986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1663066129923981312",
+          "start": 3,
+          "username": "Ak1raQ_love"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eSC4OaS5W5",
+          "end": 50,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2104895496330600524/photo/1",
+          "media_key": "3_2104895493512003584",
+          "start": 27,
+          "url": "https://t.co/eSC4OaS5W5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104901157584076986",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2104895493512003584"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104895496330600524",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @Ak1raQ_love: shizuku阿弃 https://t.co/eSC4OaS5W5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2104895493512003584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTYXTJQagAA1SQB.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104895493512003584"
+          ],
+          "media_source_tweet_id": [
+            "2104895496330600524"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2104901157584076986",
+        "created_at": "2026-09-29T11:48:37.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T12:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104901157584076986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1663066129923981312",
+              "start": 3,
+              "username": "Ak1raQ_love"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eSC4OaS5W5",
+              "end": 50,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2104895496330600524/photo/1",
+              "media_key": "3_2104895493512003584",
+              "start": 27,
+              "url": "https://t.co/eSC4OaS5W5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104901157584076986",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104895493512003584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104895496330600524",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @Ak1raQ_love: shizuku阿弃 https://t.co/eSC4OaS5W5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104895493512003584"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2104895496330600524",
+        "created_at": "2026-09-29T11:26:08.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T12:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104895496330600524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eSC4OaS5W5",
+              "end": 33,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2104895496330600524/photo/1",
+              "media_key": "3_2104895493512003584",
+              "start": 10,
+              "url": "https://t.co/eSC4OaS5W5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104895496330600524",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104895493512003584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "other",
+        "text": "shizuku阿弃 https://t.co/eSC4OaS5W5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/是大笨蛋😖/温柔与爱/生活日常/业余技术/原创文案/负面内容/秋月喵 @qiuylove/里推 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "qiuylove"
+              },
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tianjin/Xiamen/Suzhou",
+        "most_recent_tweet_id": "2104901157584076986",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1790157811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102700382493556736/npAiY7DJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8820,
+          "following_count": 1317,
+          "like_count": 229020,
+          "listed_count": 6,
+          "media_count": 1384,
+          "tweet_count": 10073
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

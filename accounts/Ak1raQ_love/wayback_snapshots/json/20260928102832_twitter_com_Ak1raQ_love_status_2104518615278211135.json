@@ -1,0 +1,521 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10044903039",
+          "name": "Apple - iOS"
+        }
+      }
+    ],
+    "conversation_id": "2104495425340502420",
+    "created_at": "2026-09-28T10:28:32.000Z",
+    "display_text_range": [
+      29,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T11:28:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104518615278211135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1995146888249778177",
+          "start": 0,
+          "username": "Rin_Mashiro_"
+        },
+        {
+          "end": 28,
+          "id": "1442362841193795593",
+          "start": 14,
+          "username": "kusunoki_riko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104518615278211135",
+    "in_reply_to_user_id": "1995146888249778177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104517452784865780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rin_Mashiro_ @kusunoki_riko 检测sim卡是真的，只是因为iOS现在已经不让检测了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "2104495425340502420",
+        "created_at": "2026-09-28T10:28:32.000Z",
+        "display_text_range": [
+          29,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T11:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104518615278211135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1995146888249778177",
+              "start": 0,
+              "username": "Rin_Mashiro_"
+            },
+            {
+              "end": 28,
+              "id": "1442362841193795593",
+              "start": 14,
+              "username": "kusunoki_riko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104518615278211135",
+        "in_reply_to_user_id": "1995146888249778177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104517452784865780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rin_Mashiro_ @kusunoki_riko 检测sim卡是真的，只是因为iOS现在已经不让检测了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995146888249778177",
+        "conversation_id": "2104495425340502420",
+        "created_at": "2026-09-28T10:23:55.000Z",
+        "display_text_range": [
+          15,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T11:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104517452784865780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1442362841193795593",
+              "start": 0,
+              "username": "kusunoki_riko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104517452784865780",
+        "in_reply_to_user_id": "1442362841193795593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104516028986482983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kusunoki_riko 可能我美版机+全局日语风控会小一点吧，但我觉得没有传的这么严重，那些人要不就是用万人骑ip要不就试都没试过…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/是大笨蛋😖/温柔与爱/生活日常/业余技术/原创文案/负面内容/秋月喵 @qiuylove/里推 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "qiuylove"
+              },
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tianjin/Xiamen/Suzhou",
+        "most_recent_tweet_id": "2104518615278211135",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1790157811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102700382493556736/npAiY7DJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8826,
+          "following_count": 1314,
+          "like_count": 228830,
+          "listed_count": 6,
+          "media_count": 1381,
+          "tweet_count": 10062
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-30T15:04:29.000Z",
+        "description": "VPS梦女｜处于HRT与非HRT叠加态｜J-POP｜LLM｜ACGN｜JP（N2） EN CN｜SillyTavern二开及插件开发者\nTG:https://t.co/mrZzq3tXAY(24h在线)\n个人博客:https://t.co/PVGkqciT7N\n匿名提问:https://t.co/520DUeTJuy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Rin_Mashiro",
+                "end": 94,
+                "expanded_url": "https://t.me/Rin_Mashiro",
+                "start": 71,
+                "url": "https://t.co/mrZzq3tXAY"
+              },
+              {
+                "display_url": "blog.rin.wtf",
+                "end": 130,
+                "expanded_url": "https://blog.rin.wtf",
+                "start": 107,
+                "url": "https://t.co/PVGkqciT7N"
+              },
+              {
+                "display_url": "blog.rin.wtf/ask",
+                "end": 159,
+                "expanded_url": "https://blog.rin.wtf/ask",
+                "start": 136,
+                "url": "https://t.co/520DUeTJuy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.rin.wtf",
+                "end": 23,
+                "expanded_url": "https://blog.rin.wtf",
+                "start": 0,
+                "url": "https://t.co/PVGkqciT7N"
+              }
+            ]
+          }
+        },
+        "id": "1995146888249778177",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2104517452784865780",
+        "name": "Rin",
+        "pinned_tweet_id": "2101637675392672080",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1995146888249778177/1789446351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006297830823215106/c2krAf_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 145,
+          "like_count": 2042,
+          "listed_count": 1,
+          "media_count": 455,
+          "tweet_count": 4914
+        },
+        "url": "https://t.co/PVGkqciT7N",
+        "username": "Rin_Mashiro_",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-27T05:38:10.000Z",
+        "description": "是非在己，毁誉由人，得失不论‖\n匿名提问箱：\nhttps://t.co/N7GBPQKIYY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/bxigpwgwwmbr8e…",
+                "end": 46,
+                "expanded_url": "https://marshmallow-qa.com/bxigpwgwwmbr8e0?t=le0DzQ&utm_medium=url_text&utm_source=promotion",
+                "start": 23,
+                "url": "https://t.co/N7GBPQKIYY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/kusunoki_riko",
+                "end": 23,
+                "expanded_url": "https://t.me/kusunoki_riko",
+                "start": 0,
+                "url": "https://t.co/n7zJdOnlgI"
+              }
+            ]
+          }
+        },
+        "id": "1442362841193795593",
+        "is_identity_verified": false,
+        "location": "此心安处是吾乡",
+        "most_recent_tweet_id": "2104518320984875145",
+        "name": "楠•理子",
+        "pinned_tweet_id": "2083491575318155443",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1442362841193795593/1787237632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100028633796792320/MIvBOdhR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8287,
+          "following_count": 1702,
+          "like_count": 111802,
+          "listed_count": 32,
+          "media_count": 4678,
+          "tweet_count": 61286
+        },
+        "url": "https://t.co/n7zJdOnlgI",
+        "username": "kusunoki_riko",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

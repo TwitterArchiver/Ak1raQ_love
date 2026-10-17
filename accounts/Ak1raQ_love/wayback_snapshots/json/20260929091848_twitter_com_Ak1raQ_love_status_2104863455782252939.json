@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2104863455782252939",
+    "created_at": "2026-09-29T09:18:48.000Z",
+    "display_text_range": [
+      0,
+      87
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T10:18:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104863455782252939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1253165636210978817",
+          "start": 3,
+          "username": "Exusiai159"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104863455782252939",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104854358555078760",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Exusiai159: 不好意思宝宝，我想到国庆要跟你面基，就紧张地一直喝水，所以有点水肿了。为了干净地见到你，洗澡过敏了，胖了40斤，现在大概三百斤。你不要嫌弃我。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2104863455782252939",
+        "created_at": "2026-09-29T09:18:48.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T10:18:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104863455782252939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1253165636210978817",
+              "start": 3,
+              "username": "Exusiai159"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104863455782252939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104854358555078760",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Exusiai159: 不好意思宝宝，我想到国庆要跟你面基，就紧张地一直喝水，所以有点水肿了。为了干净地见到你，洗澡过敏了，胖了40斤，现在大概三百斤。你不要嫌弃我。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253165636210978817",
+        "conversation_id": "2104854358555078760",
+        "created_at": "2026-09-29T08:42:40.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T09:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104854358555078760"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104854358555078760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 180,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "不好意思宝宝，我想到国庆要跟你面基，就紧张地一直喝水，所以有点水肿了。为了干净地见到你，洗澡过敏了，胖了40斤，现在大概三百斤。你不要嫌弃我。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/是大笨蛋😖/温柔与爱/生活日常/业余技术/原创文案/负面内容/秋月喵 @qiuylove/里推 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "qiuylove"
+              },
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tianjin/Xiamen/Suzhou",
+        "most_recent_tweet_id": "2104863455782252939",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1790157811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102700382493556736/npAiY7DJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8822,
+          "following_count": 1317,
+          "like_count": 228958,
+          "listed_count": 6,
+          "media_count": 1383,
+          "tweet_count": 10070
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-04-23T03:36:01.000Z",
+        "description": "二正控｜中推鹿野灸粉丝头子｜方舟牢玩家\n｜喜欢furry｜性取向不明｜Love is Love🏳️‍🌈｜已有恋爱对象｜转发NSFW🔞，如有介意请不要关注｜推特记录碎碎念｜数码产品｜汽车模型｜政治犬儒主义｜对贴脸的极端歧视仇恨言论会直接开喷｜避难所@Exusiai159_2｜扩列可私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 123,
+                "username": "Exusiai159_2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Exusiai159",
+                "end": 23,
+                "expanded_url": "http://t.me/Exusiai159",
+                "start": 0,
+                "url": "https://t.co/z598x1t5k0"
+              }
+            ]
+          }
+        },
+        "id": "1253165636210978817",
+        "is_identity_verified": false,
+        "location": "炎国 姜齐",
+        "most_recent_tweet_id": "2104857100027589080",
+        "name": "一只能天使",
+        "pinned_tweet_id": "1925197266241077292",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253165636210978817/1772890501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102739353902751744/OaJop0bA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5338,
+          "following_count": 7080,
+          "like_count": 201103,
+          "listed_count": 10,
+          "media_count": 5879,
+          "tweet_count": 60673
+        },
+        "url": "https://t.co/z598x1t5k0",
+        "username": "Exusiai159",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

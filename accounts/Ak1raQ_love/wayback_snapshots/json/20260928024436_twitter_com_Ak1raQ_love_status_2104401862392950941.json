@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104226447204421632"
+      ],
+      "media_source_tweet_id": [
+        "2104226477067936006"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2104401862392950941",
+    "created_at": "2026-09-28T02:44:36.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T03:44:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104401862392950941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1863439189909618688",
+          "start": 3,
+          "username": "hsn8086xe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7DMW1x3K8v",
+          "end": 38,
+          "expanded_url": "https://x.com/hsn8086xe/status/2104226477067936006/photo/1",
+          "media_key": "3_2104226447204421632",
+          "start": 15,
+          "url": "https://t.co/7DMW1x3K8v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104401862392950941",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2104226447204421632"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104226477067936006",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hsn8086xe: https://t.co/7DMW1x3K8v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2104226447204421632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTO2zhiaEAAsZRW.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104226447204421632"
+          ],
+          "media_source_tweet_id": [
+            "2104226477067936006"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2104401862392950941",
+        "created_at": "2026-09-28T02:44:36.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T03:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104401862392950941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1863439189909618688",
+              "start": 3,
+              "username": "hsn8086xe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7DMW1x3K8v",
+              "end": 38,
+              "expanded_url": "https://x.com/hsn8086xe/status/2104226477067936006/photo/1",
+              "media_key": "3_2104226447204421632",
+              "start": 15,
+              "url": "https://t.co/7DMW1x3K8v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104401862392950941",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2104226447204421632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104226477067936006",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hsn8086xe: https://t.co/7DMW1x3K8v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104226447204421632"
+          ]
+        },
+        "author_id": "1863439189909618688",
+        "conversation_id": "2104226477067936006",
+        "created_at": "2026-09-27T15:07:41.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T16:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104226477067936006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7DMW1x3K8v",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086xe/status/2104226477067936006/photo/1",
+              "media_key": "3_2104226447204421632",
+              "start": 0,
+              "url": "https://t.co/7DMW1x3K8v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104226477067936006",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2104226447204421632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 8026,
+          "like_count": 471,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7DMW1x3K8v"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/是大笨蛋😖/温柔与爱/生活日常/业余技术/原创文案/负面内容/秋月喵 @qiuylove/里推 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "qiuylove"
+              },
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tianjin/Xiamen/Suzhou",
+        "most_recent_tweet_id": "2104401862392950941",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1790157811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102700382493556736/npAiY7DJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8830,
+          "following_count": 1316,
+          "like_count": 228726,
+          "listed_count": 7,
+          "media_count": 1381,
+          "tweet_count": 10058
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "",
+        "id": "1863439189909618688",
+        "is_identity_verified": false,
+        "location": "Internet",
+        "most_recent_tweet_id": "2104391021111173395",
+        "name": "hsn.bot",
+        "pinned_tweet_id": "2100823651490894097",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100823574361817088/77RA33ps_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37682,
+          "following_count": 360,
+          "like_count": 266,
+          "listed_count": 109,
+          "media_count": 19602,
+          "tweet_count": 19707
+        },
+        "url": "",
+        "username": "hsn8086xe",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

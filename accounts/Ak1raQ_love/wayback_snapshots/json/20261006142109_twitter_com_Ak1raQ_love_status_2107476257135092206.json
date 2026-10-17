@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2107476257135092206",
+    "created_at": "2026-10-06T14:21:09.000Z",
+    "display_text_range": [
+      0,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T15:21:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107476257135092206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1414259680612818951",
+          "start": 3,
+          "username": "RainEngine2021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107476257135092206",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107475784424378694",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RainEngine2021: 怀念2026年的那个夏天..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2107476257135092206",
+        "created_at": "2026-10-06T14:21:09.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T15:21:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107476257135092206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1414259680612818951",
+              "start": 3,
+              "username": "RainEngine2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107476257135092206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107475784424378694",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RainEngine2021: 怀念2026年的那个夏天..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414259680612818951",
+        "conversation_id": "2107475784424378694",
+        "created_at": "2026-10-06T14:19:16.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T15:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107475784424378694"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107475784424378694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "怀念2026年的那个夏天..."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/温柔与爱/生活日常/原创文案/负面内容/秋月喵 @qiuylove/里推 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 30,
+                "username": "qiuylove"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tianjin/📍Xiamen/Suzhou",
+        "most_recent_tweet_id": "2107476257135092206",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1790157811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106366654494199808/pSvA21yA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8801,
+          "following_count": 1327,
+          "like_count": 230076,
+          "listed_count": 6,
+          "media_count": 1404,
+          "tweet_count": 10173
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-11T16:26:11.000Z",
+        "description": "雨擎项目组联合创始人 | 小米 / 欧加合作伙伴 | 喜欢的事，就要做到极致 | 一个小透明 | PM前请征得同意否则Ban | 回复消息可能不及时还请谅解 | GMT+8 | ZH-CN / EN-US is OK /",
+        "id": "1414259680612818951",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107475784424378694",
+        "name": "她说话一股孩子气",
+        "pinned_tweet_id": "2107149669302452506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1414259680612818951/1789238274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100767177762852865/QKMQ8SqQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 850,
+          "following_count": 318,
+          "like_count": 5509,
+          "listed_count": 3,
+          "media_count": 257,
+          "tweet_count": 847
+        },
+        "url": "",
+        "username": "RainEngine2021",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

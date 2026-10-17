@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2109115500932591616"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2109131883846254747",
+    "created_at": "2026-10-11T04:00:01.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T05:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2109131883846254747"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 31,
+          "tag": "推友情況通報"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XYnqlIGM0g",
+          "end": 62,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2109131883846254747/photo/1",
+          "media_key": "3_2109115500932591616",
+          "start": 39,
+          "url": "https://t.co/XYnqlIGM0g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109131883846254747",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2109115500932591616"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "奇，有缘再见，祝好\n\n可愛奇奇 [@]ntfuko 注销账号\n#推友情況通報 https://t.co/XYnqlIGM0g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 704,
+        "media_key": "3_2109115500932591616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUUVX59bcAAXOKY.jpg",
+        "width": 731
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2109115500932591616"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2109131883846254747",
+        "created_at": "2026-10-11T04:00:01.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T05:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109131883846254747"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 31,
+              "tag": "推友情況通報"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XYnqlIGM0g",
+              "end": 62,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2109131883846254747/photo/1",
+              "media_key": "3_2109115500932591616",
+              "start": 39,
+              "url": "https://t.co/XYnqlIGM0g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109131883846254747",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2109115500932591616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "奇，有缘再见，祝好\n\n可愛奇奇 [@]ntfuko 注销账号\n#推友情況通報 https://t.co/XYnqlIGM0g"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/生活日常/废话内容/原创文案/负面情绪/秋月喵 @qiuylove/里推 @Akirameru_QAQ/更多内容详见置顶喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 36,
+                "username": "qiuylove"
+              },
+              {
+                "end": 63,
+                "start": 49,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "📍Tientsin / Amoy / Soochow",
+        "most_recent_tweet_id": "2109131883846254747",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1790157811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106366654494199808/pSvA21yA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8802,
+          "following_count": 1328,
+          "like_count": 231079,
+          "listed_count": 6,
+          "media_count": 1427,
+          "tweet_count": 10269
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

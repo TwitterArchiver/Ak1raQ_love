@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107686931039756288"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2107676705246884060",
+    "created_at": "2026-10-07T04:18:18.000Z",
+    "display_text_range": [
+      15,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T05:18:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107686934688792698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1938537315586244608",
+          "start": 0,
+          "username": "ruoruoruoMing"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2doVyUgLnc",
+          "end": 46,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2107686934688792698/photo/1",
+          "media_key": "3_2107686931039756288",
+          "start": 23,
+          "url": "https://t.co/2doVyUgLnc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107686934688792698",
+    "in_reply_to_user_id": "1938537315586244608",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2107686931039756288"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107676705246884060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@ruoruoruoMing 大兴机场线（） https://t.co/2doVyUgLnc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2107686931039756288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUACGMZboAAlr2N.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2107676693888692224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT_4yUCa8AAkxdZ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107686931039756288"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2107676705246884060",
+        "created_at": "2026-10-07T04:18:18.000Z",
+        "display_text_range": [
+          15,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T05:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107686934688792698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1938537315586244608",
+              "start": 0,
+              "username": "ruoruoruoMing"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2doVyUgLnc",
+              "end": 46,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2107686934688792698/photo/1",
+              "media_key": "3_2107686931039756288",
+              "start": 23,
+              "url": "https://t.co/2doVyUgLnc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107686934688792698",
+        "in_reply_to_user_id": "1938537315586244608",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107686931039756288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107676705246884060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@ruoruoruoMing 大兴机场线（） https://t.co/2doVyUgLnc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107676693888692224"
+          ]
+        },
+        "author_id": "1938537315586244608",
+        "conversation_id": "2107676705246884060",
+        "created_at": "2026-10-07T03:37:39.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T04:37:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107676705246884060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EuYr1KBTqL",
+              "end": 23,
+              "expanded_url": "https://x.com/ruoruoruoMing/status/2107676705246884060/photo/1",
+              "media_key": "3_2107676693888692224",
+              "start": 0,
+              "url": "https://t.co/EuYr1KBTqL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107676705246884060",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2107676693888692224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "https://t.co/EuYr1KBTqL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/温柔与爱/生活日常/原创文案/负面内容/秋月喵 @qiuylove/里推 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 30,
+                "username": "qiuylove"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tianjin/📍Xiamen/Suzhou",
+        "most_recent_tweet_id": "2107686934688792698",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1790157811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106366654494199808/pSvA21yA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8799,
+          "following_count": 1328,
+          "like_count": 230176,
+          "listed_count": 6,
+          "media_count": 1406,
+          "tweet_count": 10175
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-27T09:58:21.000Z",
+        "description": "GDUT大一|INFP|十分社恐|交通迷|F1梅奔+法拉利粉|音游|天际线\nmtx?|🏳️‍⚧️友跨|含糖🍥\n互fo喵\n另一个号@feng_sulfone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 64,
+                "username": "feng_sulfone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo_ming",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo_ming",
+                "start": 0,
+                "url": "https://t.co/1YBPxsvHb8"
+              }
+            ]
+          }
+        },
+        "id": "1938537315586244608",
+        "is_identity_verified": false,
+        "location": "广州/天津",
+        "most_recent_tweet_id": "2107676705246884060",
+        "name": "ruo_Ming",
+        "pinned_tweet_id": "2099731959014682712",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1938537315586244608/1772355120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027423783368511488/BkyHZST5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 994,
+          "following_count": 1163,
+          "like_count": 8411,
+          "listed_count": 0,
+          "media_count": 246,
+          "tweet_count": 2605
+        },
+        "url": "https://t.co/1YBPxsvHb8",
+        "username": "ruoruoruoMing",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107414882304065537",
+        "3_2107414882975129600"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2107414897051258907",
+    "created_at": "2026-10-06T10:17:19.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T11:17:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107414897051258907"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BBV5UCGJjq",
+          "end": 23,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2107414897051258907/photo/1",
+          "media_key": "3_2107414882304065537",
+          "start": 0,
+          "url": "https://t.co/BBV5UCGJjq"
+        },
+        {
+          "display_url": "pic.x.com/BBV5UCGJjq",
+          "end": 23,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2107414897051258907/photo/1",
+          "media_key": "3_2107414882975129600",
+          "start": 0,
+          "url": "https://t.co/BBV5UCGJjq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107414897051258907",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2107414882304065537"
+      },
+      {
+        "media_key": "3_2107414882975129600"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "following",
+    "text": "https://t.co/BBV5UCGJjq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2107414882304065537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT8Kq34bAAEpmWy.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2107414882975129600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT8Kq6YaoAAC3Xn.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107414882304065537",
+            "3_2107414882975129600"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2107414897051258907",
+        "created_at": "2026-10-06T10:17:19.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T11:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107414897051258907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BBV5UCGJjq",
+              "end": 23,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2107414897051258907/photo/1",
+              "media_key": "3_2107414882304065537",
+              "start": 0,
+              "url": "https://t.co/BBV5UCGJjq"
+            },
+            {
+              "display_url": "pic.x.com/BBV5UCGJjq",
+              "end": 23,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2107414897051258907/photo/1",
+              "media_key": "3_2107414882975129600",
+              "start": 0,
+              "url": "https://t.co/BBV5UCGJjq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107414897051258907",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2107414882304065537"
+          },
+          {
+            "media_key": "3_2107414882975129600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/BBV5UCGJjq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/温柔与爱/生活日常/原创文案/负面内容/秋月喵 @qiuylove/里推 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 30,
+                "username": "qiuylove"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tianjin/📍Xiamen/Suzhou",
+        "most_recent_tweet_id": "2107414897051258907",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1790157811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106366654494199808/pSvA21yA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8803,
+          "following_count": 1327,
+          "like_count": 229945,
+          "listed_count": 6,
+          "media_count": 1404,
+          "tweet_count": 10160
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2108416088027639808",
+    "created_at": "2026-10-09T04:35:42.000Z",
+    "display_text_range": [
+      0,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T05:35:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108416088027639808"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/E1ysium__/stat…",
+          "end": 80,
+          "expanded_url": "https://twitter.com/E1ysium__/status/2108375522493567122",
+          "start": 57,
+          "url": "https://t.co/XHc6P8aDp1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108416088027639808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108375522493567122",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小时候一直觉得抽烟、喝酒，自残，同性恋、抑郁症、心理有问题、穿孔，逃学这些听起来都好恐怖，现在发现这些都是我朋友 https://t.co/XHc6P8aDp1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2108416088027639808",
+        "created_at": "2026-10-09T04:35:42.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T05:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108416088027639808"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/E1ysium__/stat…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/E1ysium__/status/2108375522493567122",
+              "start": 57,
+              "url": "https://t.co/XHc6P8aDp1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108416088027639808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108375522493567122",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小时候一直觉得抽烟、喝酒，自残，同性恋、抑郁症、心理有问题、穿孔，逃学这些听起来都好恐怖，现在发现这些都是我朋友 https://t.co/XHc6P8aDp1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893109107034574848",
+        "conversation_id": "2108375522493567122",
+        "created_at": "2026-10-09T01:54:30.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T02:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108375522493567122"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2108375522493567122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小时候一直觉得抽烟、喝酒，自残，同性恋、抑郁症、心理有问题、穿孔，逃学这些听起来都好恐怖，现在发现这些都是我朋友"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/温柔与爱/生活日常/原创文案/负面内容/秋月喵 @qiuylove/里推 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 30,
+                "username": "qiuylove"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "📍Tianjin/Xiamen/Suzhou",
+        "most_recent_tweet_id": "2108416088027639808",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1790157811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106366654494199808/pSvA21yA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8793,
+          "following_count": 1328,
+          "like_count": 230552,
+          "listed_count": 6,
+          "media_count": 1414,
+          "tweet_count": 10210
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-22T01:22:49.000Z",
+        "description": "这里是可雯\n高中生/萌新kiger/mc/sensei/友跨🏳‍⚧/不是mtf\n简/繁/En \n不抽烟/不喝酒/不od/不自残\n有什么烦心事欢迎找我倾诉\n欢迎互fo聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kewen.moe",
+                "end": 23,
+                "expanded_url": "http://kewen.moe",
+                "start": 0,
+                "url": "https://t.co/kkQMQI6voL"
+              }
+            ]
+          }
+        },
+        "id": "1893109107034574848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108375522493567122",
+        "name": "🧊🥥Wei Zhi",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1893109107034574848/1788456272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102311897081294848/fQ8357kO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 202,
+          "like_count": 432,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 761
+        },
+        "url": "https://t.co/kkQMQI6voL",
+        "username": "E1ysium__",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

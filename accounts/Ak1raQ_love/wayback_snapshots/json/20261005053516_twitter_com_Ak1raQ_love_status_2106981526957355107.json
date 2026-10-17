@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2106981526957355107",
+    "created_at": "2026-10-05T05:35:16.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T06:35:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106981526957355107"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ak1raQ_love/st…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/Ak1raQ_love/status/2106981156185153591",
+          "start": 21,
+          "url": "https://t.co/eYGLXFmBAX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106981526957355107",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106981156185153591",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "*翻照片\n*展示\n「你看看他以前多帅啊」 https://t.co/eYGLXFmBAX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2106981526957355107",
+        "created_at": "2026-10-05T05:35:16.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T06:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106981526957355107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ak1raQ_love/st…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/Ak1raQ_love/status/2106981156185153591",
+              "start": 21,
+              "url": "https://t.co/eYGLXFmBAX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106981526957355107",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106981156185153591",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "*翻照片\n*展示\n「你看看他以前多帅啊」 https://t.co/eYGLXFmBAX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2106981156185153591",
+        "created_at": "2026-10-05T05:33:48.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T06:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106981156185153591"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106981156185153591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "回老家好烦，所有亲戚看到我就开始催我剪头发。真的好烦啊，关他们什么事啊，好讨厌。为什么不剪头发，哪有其他男的和你一样，无语。。。唉唉唉。要不是有两个人还要面我真的不会回来的。。。还不如回学校"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/温柔与爱/生活日常/原创文案/负面内容/秋月喵 @qiuylove/里推 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 30,
+                "username": "qiuylove"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tianjin/Xiamen/Suzhou",
+        "most_recent_tweet_id": "2106981526957355107",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1790157811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106366654494199808/pSvA21yA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8797,
+          "following_count": 1328,
+          "like_count": 229787,
+          "listed_count": 6,
+          "media_count": 1399,
+          "tweet_count": 10135
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2108978607188263416",
+    "created_at": "2026-10-10T17:50:57.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T18:50:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108978607188263416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1663066129923981312",
+          "start": 3,
+          "username": "Ak1raQ_love"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108978607188263416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108976187519406457",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @Ak1raQ_love: 阿弃觉得自己也是差不多的一种状态了，已经很不情愿和推友之外的任何人社交了。去做什么也是自己一个人独来独往。好像就我这样吧，会不会其实是自己的问题呢。也许是逃避，逃避自己是没适应环境的能力、以自己为中心、妄想着他人来顺着自己的人。早就被当做很奇怪…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_2108976180913455104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUSWqacbQAA1ZTm.jpg",
+        "width": 504
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2108978607188263416",
+        "created_at": "2026-10-10T17:50:57.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T18:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108978607188263416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1663066129923981312",
+              "start": 3,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108978607188263416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108976187519406457",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @Ak1raQ_love: 阿弃觉得自己也是差不多的一种状态了，已经很不情愿和推友之外的任何人社交了。去做什么也是自己一个人独来独往。好像就我这样吧，会不会其实是自己的问题呢。也许是逃避，逃避自己是没适应环境的能力、以自己为中心、妄想着他人来顺着自己的人。早就被当做很奇怪…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108976180913455104"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2108976187519406457",
+        "created_at": "2026-10-10T17:41:20.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T18:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108976187519406457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZDGrfNAd3q",
+              "end": 164,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2108976187519406457/photo/1",
+              "media_key": "3_2108976180913455104",
+              "start": 141,
+              "url": "https://t.co/ZDGrfNAd3q"
+            },
+            {
+              "display_url": "x.com/shizukululu072…",
+              "end": 188,
+              "expanded_url": "https://twitter.com/shizukululu0721/status/2108581547230273583",
+              "start": 165,
+              "url": "https://t.co/3VSxWWkZYh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108976187519406457",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108976180913455104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "阿弃觉得自己也是差不多的一种状态了，已经很不情愿和推友之外的任何人社交了。去做什么也是自己一个人独来独往。好像就我这样吧，会不会其实是自己的问题呢。也许是逃避，逃避自己是没适应环境的能力、以自己为中心、妄想着他人来顺着自己的人。早就被当做很奇怪的人来看了，反正形象也早就烂完了。经常安安静静的一句话不说，自己这样已经不只是用内向来形容了，也不知道是什么。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108581547230273583",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "阿弃觉得自己也是差不多的一种状态了，已经很不情愿和推友之外的任何人社交了。去做什么也是自己一个人独来独往。好像就我这样吧，会不会其实是自己的问题呢。也许是逃避，逃避自己是没适应环境的能力、以自己为中心、妄想着他人来顺着自己的人。早就被当做很奇怪的人来看了，反正形象也早就烂完了。经 https://t.co/ZDGrfNAd3q https://t.co/3VSxWWkZYh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/生活日常/废话内容/原创文案/负面情绪/秋月喵 @qiuylove/里推 @Akirameru_QAQ/更多内容详见置顶喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 36,
+                "username": "qiuylove"
+              },
+              {
+                "end": 63,
+                "start": 49,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "📍Tientsin / Amoy / Soochow",
+        "most_recent_tweet_id": "2108978607188263416",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1790157811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106366654494199808/pSvA21yA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8800,
+          "following_count": 1330,
+          "like_count": 231066,
+          "listed_count": 6,
+          "media_count": 1425,
+          "tweet_count": 10264
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

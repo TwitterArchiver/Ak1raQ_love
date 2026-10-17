@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2106023849053860345",
+    "created_at": "2026-10-02T14:09:48.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T15:09:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106023849053860345"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bghtnya/status…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/bghtnya/status/2105976193828954312",
+          "start": 4,
+          "url": "https://t.co/mnQTmHtET7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106023849053860345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105976193828954312",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "贴贴喵 https://t.co/mnQTmHtET7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2105976179505451010",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTnuLWTbUAIN0kz.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2106023849053860345",
+        "created_at": "2026-10-02T14:09:48.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T15:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106023849053860345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/bghtnya/status/2105976193828954312",
+              "start": 4,
+              "url": "https://t.co/mnQTmHtET7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106023849053860345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105976193828954312",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "贴贴喵 https://t.co/mnQTmHtET7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105976179505451010"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2105976193828954312",
+        "created_at": "2026-10-02T11:00:26.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T12:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105976193828954312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2038547314835705856",
+              "start": 0,
+              "username": "asaltfishes"
+            },
+            {
+              "end": 22,
+              "id": "1512976991976402949",
+              "start": 14,
+              "username": "bghtnya"
+            },
+            {
+              "end": 31,
+              "id": "2032037309219315712",
+              "start": 24,
+              "username": "fcjdfb"
+            },
+            {
+              "end": 45,
+              "id": "1663066129923981312",
+              "start": 33,
+              "username": "Ak1raQ_love"
+            },
+            {
+              "end": 63,
+              "id": "1640917359493005313",
+              "start": 47,
+              "username": "shizukululu0721"
+            },
+            {
+              "end": 75,
+              "id": "1499411488645074945",
+              "start": 65,
+              "username": "runnaosfa"
+            },
+            {
+              "end": 89,
+              "id": "1758876738652942336",
+              "start": 77,
+              "username": "Felicia1337"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ep5ZDoAYcI",
+              "end": 113,
+              "expanded_url": "https://x.com/bghtnya/status/2105976193828954312/photo/1",
+              "media_key": "3_2105976179505451010",
+              "start": 90,
+              "url": "https://t.co/Ep5ZDoAYcI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105976193828954312",
+        "in_reply_to_user_id": "2038547314835705856",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2105976179505451010"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 557,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "@asaltfishes \n@bghtnya \n@fcjdfb \n@Ak1raQ_love \n@shizukululu0721 \n@runnaosfa \n@Felicia1337 https://t.co/Ep5ZDoAYcI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/是大笨蛋😖/温柔与爱/生活日常/业余技术/原创文案/负面内容/秋月喵 @qiuylove/里推 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "qiuylove"
+              },
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tianjin/Xiamen/Suzhou",
+        "most_recent_tweet_id": "2106023849053860345",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1790157811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102700382493556736/npAiY7DJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8819,
+          "following_count": 1323,
+          "like_count": 229449,
+          "listed_count": 6,
+          "media_count": 1391,
+          "tweet_count": 10095
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  无性别or跨女同 / 🦋 INFP-A  /   Ⓐ☭ 无政府共产主义   /   🪨登越无人见闻顶，重置五岳三山名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/bghta6",
+                "end": 23,
+                "expanded_url": "https://t.me/bghta6",
+                "start": 0,
+                "url": "https://t.co/NEsfcXr2hm"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "is_identity_verified": false,
+        "location": "https://github.com/bghtnya",
+        "most_recent_tweet_id": "2105988107191620039",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512976991976402949/1688735742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11338,
+          "following_count": 2343,
+          "like_count": 189289,
+          "listed_count": 19,
+          "media_count": 4299,
+          "tweet_count": 51908
+        },
+        "url": "https://t.co/NEsfcXr2hm",
+        "username": "bghtnya",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-03-30T09:22:54.000Z",
+        "description": "這裡是saltfish喵～\nFrom 110｜090928｜简/繁/En｜欢迎互fo \n妹妹&恋人@meowania_Fan\nMtFtX | HRT 2026.7.9｜社恐!!｜ISFP-T \nAnother @asaltfishMeow｜Loading…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "meowania_Fan"
+              },
+              {
+                "end": 119,
+                "start": 105,
+                "username": "asaltfishMeow"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/asaltfishes",
+                "end": 23,
+                "expanded_url": "http://ngl.link/asaltfishes",
+                "start": 0,
+                "url": "https://t.co/5ihgjUgzux"
+              }
+            ]
+          }
+        },
+        "id": "2038547314835705856",
+        "is_identity_verified": false,
+        "location": "Heaven Forever",
+        "most_recent_tweet_id": "2105976373370376687",
+        "name": "saltfish🏳️‍⚧️",
+        "pinned_tweet_id": "2094206779135815920",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2038547314835705856/1785291915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096215303781056512/3vu2t4do_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1135,
+          "following_count": 1564,
+          "like_count": 6549,
+          "listed_count": 1,
+          "media_count": 297,
+          "tweet_count": 1396
+        },
+        "url": "https://t.co/5ihgjUgzux",
+        "username": "asaltfishes",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

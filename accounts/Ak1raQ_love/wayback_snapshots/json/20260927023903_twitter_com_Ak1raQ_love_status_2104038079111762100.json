@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2104036409657135105",
+    "created_at": "2026-09-27T02:39:03.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T03:39:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104038079111762100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2102989355036065792",
+          "start": 0,
+          "username": "SepMiaoFour"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104038079111762100",
+    "in_reply_to_user_id": "2102989355036065792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104037738379153914",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@SepMiaoFour 14天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2104036409657135105",
+        "created_at": "2026-09-27T02:39:03.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T03:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104038079111762100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2102989355036065792",
+              "start": 0,
+              "username": "SepMiaoFour"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104038079111762100",
+        "in_reply_to_user_id": "2102989355036065792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104037738379153914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@SepMiaoFour 14天"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2102989355036065792",
+        "conversation_id": "2104036409657135105",
+        "created_at": "2026-09-27T02:37:42.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T03:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104037738379153914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104037738379153914",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104036409657135105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Ak1raQ_love 这么快喵？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/是大笨蛋😖/温柔与爱/生活日常/业余技术/原创文案/负面内容/秋月喵 @qiuylove/里推 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "qiuylove"
+              },
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tianjin/Xiamen/Suzhou",
+        "most_recent_tweet_id": "2104038079111762100",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1790157811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102700382493556736/npAiY7DJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8835,
+          "following_count": 1316,
+          "like_count": 228600,
+          "listed_count": 7,
+          "media_count": 1376,
+          "tweet_count": 10040
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-24T05:13:08.000Z",
+        "description": "「人生在世 一半烟火一半闲」\n一只大二猫猫，你也叫我九猫/小九\n爱社交but社恐 | 分享生活&科技\n科技/IT/Python/Java/爱听休闲音乐/友跨🏳️‍⚧️\n可以随时找我聊天哦，当你的心理委员",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sepcat",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sepcat",
+                "start": 0,
+                "url": "https://t.co/kzlBZ9CyKk"
+              }
+            ]
+          }
+        },
+        "id": "2102989355036065792",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104037738379153914",
+        "name": "SepMiao4.0",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2102989355036065792/1790227514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102989805269491712/sXdmwb86_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 45,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 54
+        },
+        "url": "https://t.co/kzlBZ9CyKk",
+        "username": "SepMiaoFour",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

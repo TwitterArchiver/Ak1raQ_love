@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103051679818305536"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2103004329263378598",
+    "created_at": "2026-09-24T09:19:31.000Z",
+    "display_text_range": [
+      11,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T10:19:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103051694359900369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1401538162036412422",
+          "start": 0,
+          "username": "ImKrisYan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mlco39C54S",
+          "end": 51,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2103051694359900369/photo/1",
+          "media_key": "3_2103051679818305536",
+          "start": 28,
+          "url": "https://t.co/mlco39C54S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103051694359900369",
+    "in_reply_to_user_id": "1401538162036412422",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103051679818305536"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103004329263378598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ImKrisYan 以防你没见过招行万事达长什么样： https://t.co/mlco39C54S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2103051679818305536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS-KXD_b0AAj4Jo.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1761,
+        "media_key": "3_2103004283797217280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS9fQQDboAAthgd.jpg",
+        "width": 2193
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103051679818305536"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2103004329263378598",
+        "created_at": "2026-09-24T09:19:31.000Z",
+        "display_text_range": [
+          11,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T10:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103051694359900369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1401538162036412422",
+              "start": 0,
+              "username": "ImKrisYan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mlco39C54S",
+              "end": 51,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2103051694359900369/photo/1",
+              "media_key": "3_2103051679818305536",
+              "start": 28,
+              "url": "https://t.co/mlco39C54S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103051694359900369",
+        "in_reply_to_user_id": "1401538162036412422",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103051679818305536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103004329263378598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ImKrisYan 以防你没见过招行万事达长什么样： https://t.co/mlco39C54S"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103004283797217280"
+          ]
+        },
+        "author_id": "1401538162036412422",
+        "conversation_id": "2103004329263378598",
+        "created_at": "2026-09-24T06:11:18.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T07:11:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103004329263378598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A74Ruwimb4",
+              "end": 47,
+              "expanded_url": "https://x.com/ImKrisYan/status/2103004329263378598/photo/1",
+              "media_key": "3_2103004283797217280",
+              "start": 24,
+              "url": "https://t.co/A74Ruwimb4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103004329263378598",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103004283797217280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 149,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请指出此 AI Slop 中的槽点（15 分） https://t.co/A74Ruwimb4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/是大笨蛋😖/温柔与爱/生活日常/业余技术/原创文案/负面内容/秋月喵 @qiuylove/里推 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "qiuylove"
+              },
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tianjin/Xiamen/Suzhou",
+        "most_recent_tweet_id": "2103051694359900369",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1790157811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102700382493556736/npAiY7DJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8831,
+          "following_count": 1314,
+          "like_count": 228708,
+          "listed_count": 7,
+          "media_count": 1372,
+          "tweet_count": 10004
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-06-06T13:55:23.000Z",
+        "description": "Eng Alt: @KrisYan8964 | 418 I'm a teapot | student | OIer (formerly) | English/Mandarin | Engagement is not equal to endorsement.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "KrisYan8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "krisyan.dev",
+                "end": 23,
+                "expanded_url": "https://krisyan.dev/",
+                "start": 0,
+                "url": "https://t.co/0lcRs0SIa8"
+              }
+            ]
+          }
+        },
+        "id": "1401538162036412422",
+        "is_identity_verified": true,
+        "location": "IP属地：192.168.0.1",
+        "most_recent_tweet_id": "2103004396154187820",
+        "name": "Kris Yan",
+        "pinned_tweet_id": "1913614721183633786",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1401538162036412422/1755253443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070215917313949696/-hIEWzE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 984,
+          "like_count": 236891,
+          "listed_count": 3,
+          "media_count": 814,
+          "tweet_count": 4730
+        },
+        "url": "https://t.co/0lcRs0SIa8",
+        "username": "ImKrisYan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

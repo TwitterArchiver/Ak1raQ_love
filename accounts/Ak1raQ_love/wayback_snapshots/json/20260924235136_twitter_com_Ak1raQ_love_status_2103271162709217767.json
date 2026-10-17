@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103271159915806720"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2103271162709217767",
+    "created_at": "2026-09-24T23:51:36.000Z",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T00:51:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103271162709217767"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jOFFPlrgzB",
+          "end": 42,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2103271162709217767/photo/1",
+          "media_key": "3_2103271159915806720",
+          "start": 19,
+          "url": "https://t.co/jOFFPlrgzB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103271162709217767",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103271159915806720"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "中秋快乐呀，给大家发雌二醇月饼🍥🍥🥮 https://t.co/jOFFPlrgzB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1261,
+        "media_key": "3_2103271159915806720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTBR-fEbAAAZKtE.jpg",
+        "width": 1263
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103271159915806720"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2103271162709217767",
+        "created_at": "2026-09-24T23:51:36.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T00:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103271162709217767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jOFFPlrgzB",
+              "end": 42,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2103271162709217767/photo/1",
+              "media_key": "3_2103271159915806720",
+              "start": 19,
+              "url": "https://t.co/jOFFPlrgzB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103271162709217767",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103271159915806720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "中秋快乐呀，给大家发雌二醇月饼🍥🍥🥮 https://t.co/jOFFPlrgzB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/是大笨蛋😖/温柔与爱/生活日常/业余技术/原创文案/负面内容/秋月喵 @qiuylove/里推 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "qiuylove"
+              },
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tianjin/Xiamen/Suzhou",
+        "most_recent_tweet_id": "2103271162709217767",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1790157811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102700382493556736/npAiY7DJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8834,
+          "following_count": 1316,
+          "like_count": 228386,
+          "listed_count": 7,
+          "media_count": 1375,
+          "tweet_count": 10018
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

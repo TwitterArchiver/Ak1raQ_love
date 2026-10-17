@@ -1,0 +1,592 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      }
+    ],
+    "conversation_id": "2104930145647907211",
+    "created_at": "2026-09-29T13:43:49.000Z",
+    "display_text_range": [
+      0,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T14:43:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104930145647907211"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Timfurry233/st…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/Timfurry233/status/2103900366479987092",
+          "start": 20,
+          "url": "https://t.co/TXxh9unHBN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104930145647907211",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103900366479987092",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "国产安卓厂商，你们究竟看到了多远... https://t.co/TXxh9unHBN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3168,
+        "media_key": "3_2103900323215794176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTKOMnAbYAAIJbg.jpg",
+        "width": 1440
+      },
+      {
+        "height": 3168,
+        "media_key": "3_2103900337145057280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTKONa5bEAAvyyz.jpg",
+        "width": 1440
+      },
+      {
+        "height": 3168,
+        "media_key": "3_2103900347064516609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTKON_2aAAE8nMK.jpg",
+        "width": 1440
+      },
+      {
+        "height": 3168,
+        "media_key": "3_2103900357025996800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTKOOk9aIAAkBIN.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "2104930145647907211",
+        "created_at": "2026-09-29T13:43:49.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T14:43:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104930145647907211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Timfurry233/st…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/Timfurry233/status/2103900366479987092",
+              "start": 20,
+              "url": "https://t.co/TXxh9unHBN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104930145647907211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103900366479987092",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "国产安卓厂商，你们究竟看到了多远... https://t.co/TXxh9unHBN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103900323215794176",
+            "3_2103900337145057280",
+            "3_2103900347064516609",
+            "3_2103900357025996800"
+          ]
+        },
+        "author_id": "1420377473901072390",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "2103900366479987092",
+        "created_at": "2026-09-26T17:31:50.000Z",
+        "display_text_range": [
+          0,
+          160
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T18:31:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103900366479987092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s2zxIMYRXp",
+              "end": 184,
+              "expanded_url": "https://x.com/Timfurry233/status/2103900366479987092/photo/1",
+              "media_key": "3_2103900323215794176",
+              "start": 161,
+              "url": "https://t.co/s2zxIMYRXp"
+            },
+            {
+              "display_url": "pic.x.com/s2zxIMYRXp",
+              "end": 184,
+              "expanded_url": "https://x.com/Timfurry233/status/2103900366479987092/photo/1",
+              "media_key": "3_2103900337145057280",
+              "start": 161,
+              "url": "https://t.co/s2zxIMYRXp"
+            },
+            {
+              "display_url": "pic.x.com/s2zxIMYRXp",
+              "end": 184,
+              "expanded_url": "https://x.com/Timfurry233/status/2103900366479987092/photo/1",
+              "media_key": "3_2103900347064516609",
+              "start": 161,
+              "url": "https://t.co/s2zxIMYRXp"
+            },
+            {
+              "display_url": "pic.x.com/s2zxIMYRXp",
+              "end": 184,
+              "expanded_url": "https://x.com/Timfurry233/status/2103900366479987092/photo/1",
+              "media_key": "3_2103900357025996800",
+              "start": 161,
+              "url": "https://t.co/s2zxIMYRXp"
+            },
+            {
+              "display_url": "x.com/Timfurry233/st…",
+              "end": 208,
+              "expanded_url": "https://twitter.com/Timfurry233/status/2103779804608889099",
+              "start": 185,
+              "url": "https://t.co/VOVRwYPcT6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103900366479987092",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103900323215794176"
+          },
+          {
+            "media_key": "3_2103900337145057280"
+          },
+          {
+            "media_key": "3_2103900347064516609"
+          },
+          {
+            "media_key": "3_2103900357025996800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 274,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103779804608889099",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "孩子们如何教你如何在Android16下启用“谷歌反诈中心”（需要root，理论上Adb也可以），直接进谷歌商店安装后，打开爱玩机工具箱找到这个应用，手动进入组件管理打开Warm mode activity就可以进到验证页面了，Keep Android open说的是真的，还真有PIN验证和24小时倒计时，真逆天😅😅😅 https://t.co/s2zxIMYRXp https://t.co/VOVRwYPcT6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/是大笨蛋😖/温柔与爱/生活日常/业余技术/原创文案/负面内容/秋月喵 @qiuylove/里推 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "qiuylove"
+              },
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tianjin/Xiamen/Suzhou",
+        "most_recent_tweet_id": "2104930145647907211",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1790157811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102700382493556736/npAiY7DJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8822,
+          "following_count": 1317,
+          "like_count": 229062,
+          "listed_count": 6,
+          "media_count": 1384,
+          "tweet_count": 10076
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-28T13:36:23.000Z",
+        "description": "wikifur维基兽！/立志成为编程兽/咱是一只furry哦！⚠️偶尔会有🔞内容啦( ˃̶̤́ ꒳ ˂̶̤̀ )，懂一点点前端代码啦，但还很生疏💻中文⭕️English⭕️/日本语❌机翻telegram: https://t.co/5gGVDFMyMd blog: https://t.co/sjwsjkHAB1",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/im_furry_Data",
+                "end": 126,
+                "expanded_url": "http://t.me/im_furry_Data",
+                "start": 103,
+                "url": "https://t.co/5gGVDFMyMd"
+              },
+              {
+                "display_url": "furries.fun",
+                "end": 156,
+                "expanded_url": "https://furries.fun",
+                "start": 133,
+                "url": "https://t.co/sjwsjkHAB1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "furries.fun",
+                "end": 23,
+                "expanded_url": "https://furries.fun",
+                "start": 0,
+                "url": "https://t.co/sjwsjkHAB1"
+              }
+            ]
+          }
+        },
+        "id": "1420377473901072390",
+        "is_identity_verified": true,
+        "location": "毛毛之家: furryhome.cn",
+        "most_recent_tweet_id": "2104823980758835247",
+        "name": "xiaohuangbo🔜床",
+        "pinned_tweet_id": "1998775629785813199",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1420377473901072390/1755504818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957346714417037312/nxpCXagl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5242,
+          "following_count": 4138,
+          "like_count": 55163,
+          "listed_count": 21,
+          "media_count": 842,
+          "tweet_count": 5068
+        },
+        "url": "https://t.co/sjwsjkHAB1",
+        "username": "Timfurry233",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

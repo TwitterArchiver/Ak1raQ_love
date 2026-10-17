@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104179137959297024"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2104176796141047933",
+    "created_at": "2026-09-27T11:59:37.000Z",
+    "display_text_range": [
+      9,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T12:59:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104179149032321348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1934766733237342209",
+          "start": 0,
+          "username": "Adrawta"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qV0X8i9TCF",
+          "end": 38,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2104179149032321348/photo/1",
+          "media_key": "3_2104179137959297024",
+          "start": 15,
+          "url": "https://t.co/qV0X8i9TCF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104179149032321348",
+    "in_reply_to_user_id": "1934766733237342209",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104179137959297024"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104178910577807739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Adrawta 正在研究（ https://t.co/qV0X8i9TCF"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2104178910577807739].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2104178910577807739",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2104178910577807739"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2104179137959297024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTOLxw3aAAAZyb2.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104179137959297024"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2104176796141047933",
+        "created_at": "2026-09-27T11:59:37.000Z",
+        "display_text_range": [
+          9,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T12:59:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104179149032321348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1934766733237342209",
+              "start": 0,
+              "username": "Adrawta"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qV0X8i9TCF",
+              "end": 38,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2104179149032321348/photo/1",
+              "media_key": "3_2104179137959297024",
+              "start": 15,
+              "url": "https://t.co/qV0X8i9TCF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104179149032321348",
+        "in_reply_to_user_id": "1934766733237342209",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104179137959297024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104178910577807739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Adrawta 正在研究（ https://t.co/qV0X8i9TCF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/是大笨蛋😖/温柔与爱/生活日常/业余技术/原创文案/负面内容/秋月喵 @qiuylove/里推 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "qiuylove"
+              },
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tianjin/Xiamen/Suzhou",
+        "most_recent_tweet_id": "2104179149032321348",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1790157811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102700382493556736/npAiY7DJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8834,
+          "following_count": 1316,
+          "like_count": 228663,
+          "listed_count": 7,
+          "media_count": 1381,
+          "tweet_count": 10052
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-17T00:15:29.000Z",
+        "description": "sense",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wh.gov",
+                "end": 23,
+                "expanded_url": "https://wh.gov",
+                "start": 0,
+                "url": "https://t.co/DjeEeFCoqS"
+              }
+            ]
+          }
+        },
+        "id": "1934766733237342209",
+        "is_identity_verified": false,
+        "location": "inside QEMU",
+        "most_recent_tweet_id": "2100569220732141970",
+        "name": "raw_data💫",
+        "pinned_tweet_id": "2098760850500886563",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934766733237342209/1783393111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104137262187556864/bP7dAQBH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 172,
+          "like_count": 12455,
+          "listed_count": 3,
+          "media_count": 494,
+          "tweet_count": 3093
+        },
+        "url": "https://t.co/DjeEeFCoqS",
+        "username": "Adrawta",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

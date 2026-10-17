@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2105081351624134794",
+    "created_at": "2026-09-29T23:44:39.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T00:44:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105081351624134794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1300828282061877249",
+          "start": 3,
+          "username": "HANLIANYI331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105081351624134794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105038126158918110",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HANLIANYI331: “妈妈，为什么那些女孩子可以穿裙子，我却不可以穿裙子？”\n\n“因为你是男孩子啊，男孩子就应该穿男孩子的衣服，裙子是女孩子才可以穿的”\n\n“为什么男孩子就一定要穿男孩子的衣服，不可以穿裙子呢？”\n\n“因为你是小男子汉，男子汉大丈夫，要有阳刚之气…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1441,
+        "media_key": "3_2105038109478109184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTaZAfIaQAAAC8q.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1433,
+        "media_key": "3_2105038115643777024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTaZA2Ga4AAUFyd.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1139,
+        "media_key": "3_2105038120576237568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTaZBIeaQAAtTkV.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2105081351624134794",
+        "created_at": "2026-09-29T23:44:39.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T00:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105081351624134794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1300828282061877249",
+              "start": 3,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105081351624134794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105038126158918110",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HANLIANYI331: “妈妈，为什么那些女孩子可以穿裙子，我却不可以穿裙子？”\n\n“因为你是男孩子啊，男孩子就应该穿男孩子的衣服，裙子是女孩子才可以穿的”\n\n“为什么男孩子就一定要穿男孩子的衣服，不可以穿裙子呢？”\n\n“因为你是小男子汉，男子汉大丈夫，要有阳刚之气…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105038109478109184",
+            "3_2105038115643777024",
+            "3_2105038120576237568"
+          ]
+        },
+        "author_id": "1300828282061877249",
+        "conversation_id": "2105038126158918110",
+        "created_at": "2026-09-29T20:52:53.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T21:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105038126158918110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LgLUWOAtXc",
+              "end": 164,
+              "expanded_url": "https://x.com/HANLIANYI331/status/2105038126158918110/photo/1",
+              "media_key": "3_2105038109478109184",
+              "start": 141,
+              "url": "https://t.co/LgLUWOAtXc"
+            },
+            {
+              "display_url": "pic.x.com/LgLUWOAtXc",
+              "end": 164,
+              "expanded_url": "https://x.com/HANLIANYI331/status/2105038126158918110/photo/1",
+              "media_key": "3_2105038115643777024",
+              "start": 141,
+              "url": "https://t.co/LgLUWOAtXc"
+            },
+            {
+              "display_url": "pic.x.com/LgLUWOAtXc",
+              "end": 164,
+              "expanded_url": "https://x.com/HANLIANYI331/status/2105038126158918110/photo/1",
+              "media_key": "3_2105038120576237568",
+              "start": 141,
+              "url": "https://t.co/LgLUWOAtXc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105038126158918110",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105038109478109184"
+          },
+          {
+            "media_key": "3_2105038115643777024"
+          },
+          {
+            "media_key": "3_2105038120576237568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "“妈妈，为什么那些女孩子可以穿裙子，我却不可以穿裙子？”\n\n“因为你是男孩子啊，男孩子就应该穿男孩子的衣服，裙子是女孩子才可以穿的”\n\n“为什么男孩子就一定要穿男孩子的衣服，不可以穿裙子呢？”\n\n“因为你是小男子汉，男子汉大丈夫，要有阳刚之气。而裙子是阴柔和美的衣服，不适合你穿”\n\n“那为什么那些女孩子可以穿男孩子的衣服，可以有阳刚之气。我却不能穿裙子，有阴柔和美呢？”\n\n“男孩子和女孩子不一样，男孩子是强者，女孩子是弱者，男子汉天生就是要保护女生的，阴柔是女孩子才可以的”\n\n“这不公平！那些女孩子打架一个比一个厉害，力气一个比一个大，还天天欺负我，我凭什么要保护她们啊，她们那么厉害，是她们保护我才对”\n\n“我也要被保护！我也要穿裙子！我也要穿裙子！裙子那么好看我凭什么不能穿！我也要我也要！！！”\n\n“哈哈哈，别闹，你这样会被同学和老师笑话的，你姥娘今天在家给你做了你最喜欢吃的青菜饺子，还炖了面汤，你早点到家早点能吃哦。”\n\n“啊！是饺子是饺子！”（孩子被转移注意力，飞速跑走了）\n\n（这是寒涟漪小时候的经历）"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 2132,
+          "like_count": 78,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "“妈妈，为什么那些女孩子可以穿裙子，我却不可以穿裙子？”\n\n“因为你是男孩子啊，男孩子就应该穿男孩子的衣服，裙子是女孩子才可以穿的”\n\n“为什么男孩子就一定要穿男孩子的衣服，不可以穿裙子呢？”\n\n“因为你是小男子汉，男子汉大丈夫，要有阳刚之气。而裙子是阴柔和美的衣服，不适合你穿” https://t.co/LgLUWOAtXc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/是大笨蛋😖/温柔与爱/生活日常/业余技术/原创文案/负面内容/秋月喵 @qiuylove/里推 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "qiuylove"
+              },
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tianjin/Xiamen/Suzhou",
+        "most_recent_tweet_id": "2105081351624134794",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1790157811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102700382493556736/npAiY7DJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8820,
+          "following_count": 1318,
+          "like_count": 229117,
+          "listed_count": 6,
+          "media_count": 1384,
+          "tweet_count": 10077
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女性｜01年｜艺术学本科毕业、法学在读｜约十年危机干预和救助经历，曾为此散尽了个人的所有青春和财富\n\n我会写下十多年来中国的跨性别女性群体是如何生存的，她们又是如何燃尽自己的生命帮助其他人的。还有我自己的见闻和救助经历，如果想了解，可以查看我的很多早期的历史推文\n\n如果想了解我的详细情况，可以查看我的置顶推文",
+        "id": "1300828282061877249",
+        "is_identity_verified": true,
+        "location": "涟漪危机干预小组",
+        "most_recent_tweet_id": "2105057524051562507",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1300828282061877249/1683794048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42854,
+          "following_count": 4205,
+          "like_count": 2398,
+          "listed_count": 3,
+          "media_count": 418,
+          "tweet_count": 3228
+        },
+        "url": "",
+        "username": "HANLIANYI331",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

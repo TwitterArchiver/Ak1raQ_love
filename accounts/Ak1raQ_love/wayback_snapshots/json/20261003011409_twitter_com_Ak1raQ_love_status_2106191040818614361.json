@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2106072481241141667",
+    "created_at": "2026-10-03T01:14:09.000Z",
+    "display_text_range": [
+      8,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T02:14:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106191040818614361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1690570637499154432",
+          "start": 0,
+          "username": "zhweaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106191040818614361",
+    "in_reply_to_user_id": "1690570637499154432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106072481241141667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhweaa 面我🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1909,
+        "media_key": "3_2106071480215949312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTpE2lHaUAAutJt.jpg",
+        "width": 1153
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2106072481241141667",
+        "created_at": "2026-10-03T01:14:09.000Z",
+        "display_text_range": [
+          8,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T02:14:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106191040818614361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1690570637499154432",
+              "start": 0,
+              "username": "zhweaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106191040818614361",
+        "in_reply_to_user_id": "1690570637499154432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106072481241141667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhweaa 面我🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106071480215949312"
+          ]
+        },
+        "author_id": "1690570637499154432",
+        "conversation_id": "2106072481241141667",
+        "created_at": "2026-10-02T17:23:03.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T18:19:07.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106071490991190467",
+          "2106072481241141667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sgSDPLUc93",
+              "end": 32,
+              "expanded_url": "https://x.com/zhweaa/status/2106072481241141667/photo/1",
+              "media_key": "3_2106071480215949312",
+              "start": 9,
+              "url": "https://t.co/sgSDPLUc93"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106072481241141667",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106071480215949312"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 425,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "寒假预估行程安排 https://t.co/sgSDPLUc93"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/温柔与爱/生活日常/业余技术/原创文案/负面内容/秋月喵 @qiuylove/里推 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "qiuylove"
+              },
+              {
+                "end": 68,
+                "start": 54,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tianjin/Xiamen/Suzhou",
+        "most_recent_tweet_id": "2106191040818614361",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1790157811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102700382493556736/npAiY7DJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8819,
+          "following_count": 1326,
+          "like_count": 229479,
+          "listed_count": 6,
+          "media_count": 1392,
+          "tweet_count": 10099
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei 🤗｜精益求精｜想要看遍大千世界 ✈️｜想要组办构建前沿技术项目 🏗️ 📲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/zhweaa",
+                "end": 23,
+                "expanded_url": "http://github.com/zhweaa",
+                "start": 0,
+                "url": "https://t.co/MtaZw36pCH"
+              }
+            ]
+          }
+        },
+        "id": "1690570637499154432",
+        "is_identity_verified": false,
+        "location": "🌐 → Yangtze Delta Region 🌏",
+        "most_recent_tweet_id": "2106187485327896775",
+        "name": "Zhi Wei 🥥🧊",
+        "pinned_tweet_id": "2104618676922241509",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690570637499154432/1790169870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102751600225968128/Je3rVd9S_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8389,
+          "following_count": 436,
+          "like_count": 33684,
+          "listed_count": 23,
+          "media_count": 2947,
+          "tweet_count": 22280
+        },
+        "url": "https://t.co/MtaZw36pCH",
+        "username": "zhweaa",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2102607929279135759",
+    "created_at": "2026-09-24T05:03:49.000Z",
+    "display_text_range": [
+      14,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T06:03:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102987346266423499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1231671320750043136",
+          "start": 0,
+          "username": "rowanb3rries"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102987346266423499",
+    "in_reply_to_user_id": "1231671320750043136",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102870293408891230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@rowanb3rries what?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2102607929279135759",
+        "created_at": "2026-09-24T05:03:49.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T06:03:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102987346266423499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1231671320750043136",
+              "start": 0,
+              "username": "rowanb3rries"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102987346266423499",
+        "in_reply_to_user_id": "1231671320750043136",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102870293408891230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@rowanb3rries what?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1231671320750043136",
+        "conversation_id": "2102607929279135759",
+        "created_at": "2026-09-23T21:18:42.000Z",
+        "display_text_range": [
+          13,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T22:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102870293408891230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102870293408891230",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "no",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102607929279135759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Ak1raQ_love 4.5/8, fraud tier?"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/是大笨蛋😖/温柔与爱/生活日常/业余技术/原创文案/负面内容/秋月喵 @qiuylove/里推 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "qiuylove"
+              },
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tianjin/Xiamen/Suzhou",
+        "most_recent_tweet_id": "2102987346266423499",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1790157811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102700382493556736/npAiY7DJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8835,
+          "following_count": 1313,
+          "like_count": 228650,
+          "listed_count": 7,
+          "media_count": 1370,
+          "tweet_count": 10000
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-02-23T20:05:15.000Z",
+        "description": "transfemme 🏳️‍⚧️ studying math & physics // somewhat stupid // e-succubitch who feasts on your attention // alg geo, stoch calc, model theory, PDE",
+        "id": "1231671320750043136",
+        "is_identity_verified": false,
+        "location": "New York City, New York",
+        "most_recent_tweet_id": "2102870293408891230",
+        "name": "Rowan 🏳️‍⚧️ ☭",
+        "pinned_tweet_id": "2096946022844924391",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1231671320750043136/1788708139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091844614953025537/Oivx-G-v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 16,
+          "like_count": 194,
+          "listed_count": 4,
+          "media_count": 50,
+          "tweet_count": 470
+        },
+        "url": "",
+        "username": "rowanb3rries",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

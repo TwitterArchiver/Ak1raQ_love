@@ -1,0 +1,497 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2107389499651309894",
+    "created_at": "2026-10-06T09:33:11.000Z",
+    "display_text_range": [
+      71,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T10:33:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107403787082280981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1608817124704923648",
+          "start": 0,
+          "username": "Hyperbubuemia"
+        },
+        {
+          "end": 29,
+          "id": "1827053984521318400",
+          "start": 15,
+          "username": "C_baba_66ccff"
+        },
+        {
+          "end": 41,
+          "id": "940931345001299970",
+          "start": 30,
+          "username": "pxwwu_chan"
+        },
+        {
+          "end": 57,
+          "id": "1670362954590728197",
+          "start": 42,
+          "username": "citric_baizhou"
+        },
+        {
+          "end": 70,
+          "id": "1915723009161375744",
+          "start": 58,
+          "username": "Lyrica_1005"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107403787082280981",
+    "in_reply_to_user_id": "1608817124704923648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107396406428541348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@Hyperbubuemia @C_baba_66ccff @pxwwu_chan @citric_baizhou @Lyrica_1005 机会难得（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2107389499651309894",
+        "created_at": "2026-10-06T09:33:11.000Z",
+        "display_text_range": [
+          71,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T10:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107403787082280981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1608817124704923648",
+              "start": 0,
+              "username": "Hyperbubuemia"
+            },
+            {
+              "end": 29,
+              "id": "1827053984521318400",
+              "start": 15,
+              "username": "C_baba_66ccff"
+            },
+            {
+              "end": 41,
+              "id": "940931345001299970",
+              "start": 30,
+              "username": "pxwwu_chan"
+            },
+            {
+              "end": 57,
+              "id": "1670362954590728197",
+              "start": 42,
+              "username": "citric_baizhou"
+            },
+            {
+              "end": 70,
+              "id": "1915723009161375744",
+              "start": 58,
+              "username": "Lyrica_1005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107403787082280981",
+        "in_reply_to_user_id": "1608817124704923648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107396406428541348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Hyperbubuemia @C_baba_66ccff @pxwwu_chan @citric_baizhou @Lyrica_1005 机会难得（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608817124704923648",
+        "conversation_id": "2107389499651309894",
+        "created_at": "2026-10-06T09:03:51.000Z",
+        "display_text_range": [
+          69,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T10:03:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107396406428541348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            },
+            {
+              "end": 27,
+              "id": "1827053984521318400",
+              "start": 13,
+              "username": "C_baba_66ccff"
+            },
+            {
+              "end": 39,
+              "id": "940931345001299970",
+              "start": 28,
+              "username": "pxwwu_chan"
+            },
+            {
+              "end": 55,
+              "id": "1670362954590728197",
+              "start": 40,
+              "username": "citric_baizhou"
+            },
+            {
+              "end": 68,
+              "id": "1915723009161375744",
+              "start": 56,
+              "username": "Lyrica_1005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107396406428541348",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107389499651309894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Ak1raQ_love @C_baba_66ccff @pxwwu_chan @citric_baizhou @Lyrica_1005 这么多人吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/温柔与爱/生活日常/原创文案/负面内容/秋月喵 @qiuylove/里推 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 30,
+                "username": "qiuylove"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tianjin/📍Xiamen/Suzhou",
+        "most_recent_tweet_id": "2107403787082280981",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1790157811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106366654494199808/pSvA21yA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8801,
+          "following_count": 1327,
+          "like_count": 229898,
+          "listed_count": 6,
+          "media_count": 1402,
+          "tweet_count": 10158
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-30T13:28:18.000Z",
+        "description": "🐹🤍🏳️‍⚧️🍥",
+        "id": "1608817124704923648",
+        "is_identity_verified": false,
+        "location": "Hamilton 厦门",
+        "most_recent_tweet_id": "2107396406428541348",
+        "name": "布",
+        "pinned_tweet_id": "1753991720667083028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1608817124704923648/1730001726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070640516044148736/NyR_id8i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1075,
+          "following_count": 856,
+          "like_count": 13496,
+          "listed_count": 3,
+          "media_count": 415,
+          "tweet_count": 7541
+        },
+        "url": "",
+        "username": "Hyperbubuemia",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-23T18:43:22.000Z",
+        "description": "MtF🏳️‍⚧️｜持证含糖｜hrt 2025.8.30🍥｜家长党｜小猫｜ISFP｜双相情感障碍｜半夜发癫｜ wota藝初心者｜锦依卫｜洛天依｜停电前夜｜小号@C_baba_tianyi｜可爱猫猫@AGeSang2008喵喵｜https://t.co/cEXXthqcm5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 78,
+                "username": "C_baba_tianyi"
+              },
+              {
+                "end": 109,
+                "start": 97,
+                "username": "AGeSang2008"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "cbaba.icu",
+                "end": 135,
+                "expanded_url": "http://www.cbaba.icu",
+                "start": 112,
+                "url": "https://t.co/cEXXthqcm5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/C_baba_ty0712",
+                "end": 23,
+                "expanded_url": "https://telegram.me/C_baba_ty0712",
+                "start": 0,
+                "url": "https://t.co/FJeTQJpxIy"
+              }
+            ]
+          }
+        },
+        "id": "1827053984521318400",
+        "is_identity_verified": false,
+        "location": "距你2km",
+        "most_recent_tweet_id": "2107391723257450905",
+        "name": "C_baba🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2020509877383393497",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827053984521318400/1757181255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004745444769828864/6JWhaSvS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1026,
+          "following_count": 1038,
+          "like_count": 29454,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 729
+        },
+        "url": "https://t.co/FJeTQJpxIy",
+        "username": "C_baba_66ccff",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-12-13T13:08:09.000Z",
+        "description": "🦋：@pxwwu.moe|已摆烂の02年老阿姨|176cm|伪音摆烂中|🩷：MoeDreamAria（已销号）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 2,
+                "username": "pxwwu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pxwwu.moe",
+                "end": 23,
+                "expanded_url": "http://pxwwu.moe",
+                "start": 0,
+                "url": "https://t.co/CaU2hj6UwH"
+              }
+            ]
+          }
+        },
+        "id": "940931345001299970",
+        "is_identity_verified": false,
+        "location": "阿莉亚的被窝",
+        "most_recent_tweet_id": "2107389615368007933",
+        "name": "pxwwu🦀🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/940931345001299970/1765041029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101763185938464768/Gv9KmvFl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12676,
+          "following_count": 3009,
+          "like_count": 175580,
+          "listed_count": 42,
+          "media_count": 3789,
+          "tweet_count": 18306
+        },
+        "url": "https://t.co/CaU2hj6UwH",
+        "username": "pxwwu_chan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-18T09:29:12.000Z",
+        "description": "自然男｜青春って値札が背中に貼られていて。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ikukoo0413",
+                "end": 23,
+                "expanded_url": "http://t.me/ikukoo0413",
+                "start": 0,
+                "url": "https://t.co/IuMJpLsd5g"
+              }
+            ]
+          }
+        },
+        "id": "1670362954590728197",
+        "is_identity_verified": false,
+        "location": "🐟鱼头朝向的地方",
+        "most_recent_tweet_id": "2090607037935988849",
+        "name": "粥白粥粥白 📷",
+        "pinned_tweet_id": "2014788860937716118",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1670362954590728197/1780822665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107318383637413888/D7U0xaQI_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 979,
+          "like_count": 43301,
+          "listed_count": 6,
+          "media_count": 1028,
+          "tweet_count": 7016
+        },
+        "url": "https://t.co/IuMJpLsd5g",
+        "username": "citric_baizhou",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-25T11:02:16.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyrica_1005",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyrica_1005",
+                "start": 0,
+                "url": "https://t.co/4s7hRbd5zD"
+              }
+            ]
+          }
+        },
+        "id": "1915723009161375744",
+        "is_identity_verified": false,
+        "location": "🌄",
+        "most_recent_tweet_id": "1959529256263774263",
+        "name": "ﾘﾘｶ.",
+        "pinned_tweet_id": "2071532645037793349",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1915723009161375744/1784938874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063921008134983680/E0-g7aPB_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 433,
+          "like_count": 49729,
+          "listed_count": 1,
+          "media_count": 1379,
+          "tweet_count": 13292
+        },
+        "url": "https://t.co/4s7hRbd5zD",
+        "username": "Lyrica_1005",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2109109617066389597",
+    "created_at": "2026-10-12T05:23:43.000Z",
+    "display_text_range": [
+      8,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-12T06:23:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109515335766626560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1511946291277819904",
+          "start": 0,
+          "username": "ycMiaT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109515335766626560",
+    "in_reply_to_user_id": "1511946291277819904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109512376412434833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@ycMiaT 什么意思，被Google ban吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2109109617066389597",
+        "created_at": "2026-10-12T05:23:43.000Z",
+        "display_text_range": [
+          8,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T06:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109515335766626560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1511946291277819904",
+              "start": 0,
+              "username": "ycMiaT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109515335766626560",
+        "in_reply_to_user_id": "1511946291277819904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109512376412434833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@ycMiaT 什么意思，被Google ban吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511946291277819904",
+        "conversation_id": "2109109617066389597",
+        "created_at": "2026-10-12T05:11:58.000Z",
+        "display_text_range": [
+          13,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T06:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109512376412434833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109512376412434833",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109109617066389597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Ak1raQ_love 快删除这则推文\n被下一次训练时洗入数据就会被ban"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/生活日常/废话内容/技术分享/原创文案/负面情绪/秋月喵 @qiuylove/里推 @Akirameru_QAQ/更多内容详见置顶喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "qiuylove"
+              },
+              {
+                "end": 68,
+                "start": 54,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "📍天津Tientsin / Amoy / Soochow",
+        "most_recent_tweet_id": "2109515335766626560",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1790157811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106366654494199808/pSvA21yA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8873,
+          "following_count": 1331,
+          "like_count": 231274,
+          "listed_count": 6,
+          "media_count": 1432,
+          "tweet_count": 10306
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-07T05:57:54.000Z",
+        "description": "nya",
+        "id": "1511946291277819904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109512376412434833",
+        "name": "William K1hasn",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1511946349872263169/28WNiDv5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 35,
+          "like_count": 1107,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 366
+        },
+        "url": "",
+        "username": "ycMiaT",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

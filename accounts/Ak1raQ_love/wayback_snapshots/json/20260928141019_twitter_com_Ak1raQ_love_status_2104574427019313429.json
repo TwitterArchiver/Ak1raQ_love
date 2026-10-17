@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104574424406237184"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2104574427019313429",
+    "created_at": "2026-09-28T14:10:19.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T15:10:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104574427019313429"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mYYrMpAVEX",
+          "end": 65,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2104574427019313429/photo/1",
+          "media_key": "3_2104574424406237184",
+          "start": 42,
+          "url": "https://t.co/mYYrMpAVEX"
+        },
+        {
+          "display_url": "x.com/lunassorbit/st…",
+          "end": 89,
+          "expanded_url": "https://twitter.com/lunassorbit/status/2104283481958416443",
+          "start": 66,
+          "url": "https://t.co/LA5lUxBBpW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104574427019313429",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2104574424406237184"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104283481958416443",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "what the notification actually looks like https://t.co/mYYrMpAVEX https://t.co/LA5lUxBBpW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 700,
+        "media_key": "3_2104574424406237184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTTzSdobIAAnF46.jpg",
+        "width": 1080
+      },
+      {
+        "height": 180,
+        "media_key": "3_2104283480020672512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTPqrRVa4AAgodD.jpg",
+        "width": 518
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104574424406237184"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2104574427019313429",
+        "created_at": "2026-09-28T14:10:19.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T15:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104574427019313429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mYYrMpAVEX",
+              "end": 65,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2104574427019313429/photo/1",
+              "media_key": "3_2104574424406237184",
+              "start": 42,
+              "url": "https://t.co/mYYrMpAVEX"
+            },
+            {
+              "display_url": "x.com/lunassorbit/st…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/lunassorbit/status/2104283481958416443",
+              "start": 66,
+              "url": "https://t.co/LA5lUxBBpW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104574427019313429",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2104574424406237184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104283481958416443",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "what the notification actually looks like https://t.co/mYYrMpAVEX https://t.co/LA5lUxBBpW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104283480020672512"
+          ]
+        },
+        "author_id": "1946983502735708160",
+        "conversation_id": "2104283481958416443",
+        "created_at": "2026-09-27T18:54:12.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T19:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104283481958416443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kEeqXdjalh",
+              "end": 46,
+              "expanded_url": "https://x.com/lunassorbit/status/2104283481958416443/photo/1",
+              "media_key": "3_2104283480020672512",
+              "start": 23,
+              "url": "https://t.co/kEeqXdjalh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104283481958416443",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2104283480020672512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 522,
+          "impression_count": 735647,
+          "like_count": 30672,
+          "quote_count": 310,
+          "reply_count": 281,
+          "retweet_count": 3985
+        },
+        "reply_settings": "everyone",
+        "text": "i’m so fucking excited https://t.co/kEeqXdjalh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/是大笨蛋😖/温柔与爱/生活日常/业余技术/原创文案/负面内容/秋月喵 @qiuylove/里推 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "qiuylove"
+              },
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tianjin/Xiamen/Suzhou",
+        "most_recent_tweet_id": "2104574427019313429",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1790157811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102700382493556736/npAiY7DJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8825,
+          "following_count": 1315,
+          "like_count": 228875,
+          "listed_count": 6,
+          "media_count": 1382,
+          "tweet_count": 10066
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-20T17:20:32.000Z",
+        "description": "𖦹 ✩ luna ! | published author | sharing yume ! they/she ♡ eng/esp/jp ♡ pjsk, anime, manga ↳ softposting + silly rambles ♡ .",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xelunaaa.straw.page",
+                "end": 23,
+                "expanded_url": "https://xelunaaa.straw.page",
+                "start": 0,
+                "url": "https://t.co/Bht74z43jg"
+              }
+            ]
+          }
+        },
+        "id": "1946983502735708160",
+        "is_identity_verified": false,
+        "location": "ʚɞ ⁺˖ ⸝⸝ 19.ᐟ",
+        "most_recent_tweet_id": "2104436511341269199",
+        "name": "luna ♡",
+        "pinned_tweet_id": "2102536872841126295",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1946983502735708160/1790118999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102536695606591488/gr9Vtl_z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3934,
+          "following_count": 3680,
+          "like_count": 9492,
+          "listed_count": 10,
+          "media_count": 1110,
+          "tweet_count": 5048
+        },
+        "url": "https://t.co/Bht74z43jg",
+        "username": "lunassorbit",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

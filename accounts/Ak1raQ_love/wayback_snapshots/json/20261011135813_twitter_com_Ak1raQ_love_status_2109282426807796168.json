@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2109282249267126582",
+    "created_at": "2026-10-11T13:58:13.000Z",
+    "display_text_range": [
+      8,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T14:58:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109282426807796168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1690570637499154432",
+          "start": 0,
+          "username": "zhweaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109282426807796168",
+    "in_reply_to_user_id": "1690570637499154432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109282249267126582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhweaa 裙子😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1742,
+        "media_key": "3_2109282240509472768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUWtBbSbcAAL4r9.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2109282249267126582",
+        "created_at": "2026-10-11T13:58:13.000Z",
+        "display_text_range": [
+          8,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T14:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109282426807796168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1690570637499154432",
+              "start": 0,
+              "username": "zhweaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109282426807796168",
+        "in_reply_to_user_id": "1690570637499154432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109282249267126582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhweaa 裙子😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2109282240509472768"
+          ]
+        },
+        "author_id": "1690570637499154432",
+        "conversation_id": "2109282249267126582",
+        "created_at": "2026-10-11T13:57:31.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T14:57:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109282249267126582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/APQIX41I38",
+              "end": 59,
+              "expanded_url": "https://x.com/zhweaa/status/2109282249267126582/photo/1",
+              "media_key": "3_2109282240509472768",
+              "start": 36,
+              "url": "https://t.co/APQIX41I38"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109282249267126582",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2109282240509472768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买了点衣服\n\n你们说我下装应该是阔腿裤呢，还是鲨鱼裤，还是裙子+袜子呢 https://t.co/APQIX41I38"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/生活日常/废话内容/技术分享/原创文案/负面情绪/秋月喵 @qiuylove/里推 @Akirameru_QAQ/更多内容详见置顶喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "qiuylove"
+              },
+              {
+                "end": 68,
+                "start": 54,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "📍天津Tientsin / Amoy / Soochow",
+        "most_recent_tweet_id": "2109282426807796168",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1790157811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106366654494199808/pSvA21yA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8855,
+          "following_count": 1332,
+          "like_count": 231183,
+          "listed_count": 6,
+          "media_count": 1431,
+          "tweet_count": 10290
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei 🤗｜精益求精 不虚此行｜🗺️ 力成大旅行家 ✈️\n生活日记本在下面 🔜⤵️ ；我的项目在这里👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/zhweaa",
+                "end": 23,
+                "expanded_url": "http://github.com/zhweaa",
+                "start": 0,
+                "url": "https://t.co/MtaZw36Xsf"
+              }
+            ]
+          }
+        },
+        "id": "1690570637499154432",
+        "is_identity_verified": false,
+        "location": "🌐 → Yangtze Delta Region 🌏",
+        "most_recent_tweet_id": "2109282249267126582",
+        "name": "Zhi Wei 🥥🧊",
+        "pinned_tweet_id": "2045171291104403596",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690570637499154432/1790169870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102751600225968128/Je3rVd9S_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8513,
+          "following_count": 439,
+          "like_count": 33734,
+          "listed_count": 23,
+          "media_count": 2991,
+          "tweet_count": 22535
+        },
+        "url": "https://t.co/MtaZw36Xsf",
+        "username": "zhweaa",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

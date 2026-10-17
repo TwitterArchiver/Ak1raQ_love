@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105882675320082432"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "conversation_id": "2105882693187838026",
+    "created_at": "2026-10-02T04:48:54.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T05:48:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105882693187838026"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/r30CMNQruV",
+          "end": 23,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2105882693187838026/photo/1",
+          "media_key": "3_2105882675320082432",
+          "start": 0,
+          "url": "https://t.co/r30CMNQruV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105882693187838026",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2105882675320082432"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "https://t.co/r30CMNQruV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1614,
+        "media_key": "3_2105882675320082432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTmZIsEaUAAj9EY.jpg",
+        "width": 1077
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105882675320082432"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2105882693187838026",
+        "created_at": "2026-10-02T04:48:54.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T05:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105882693187838026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r30CMNQruV",
+              "end": 23,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2105882693187838026/photo/1",
+              "media_key": "3_2105882675320082432",
+              "start": 0,
+              "url": "https://t.co/r30CMNQruV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105882693187838026",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2105882675320082432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "https://t.co/r30CMNQruV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/是大笨蛋😖/温柔与爱/生活日常/业余技术/原创文案/负面内容/秋月喵 @qiuylove/里推 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "qiuylove"
+              },
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tianjin/Xiamen/Suzhou",
+        "most_recent_tweet_id": "2105882693187838026",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1790157811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102700382493556736/npAiY7DJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8818,
+          "following_count": 1323,
+          "like_count": 229355,
+          "listed_count": 6,
+          "media_count": 1392,
+          "tweet_count": 10093
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

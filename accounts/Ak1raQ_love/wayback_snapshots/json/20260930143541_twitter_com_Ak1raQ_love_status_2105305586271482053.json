@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105305549059584000"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2105305586271482053",
+    "created_at": "2026-09-30T14:35:41.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T15:35:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105305586271482053"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 8,
+          "start": 0,
+          "tag": "阿弃今天吃什么"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/X6Ugqto9VG",
+          "end": 36,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2105305586271482053/photo/1",
+          "media_key": "3_2105305549059584000",
+          "start": 13,
+          "url": "https://t.co/X6Ugqto9VG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105305586271482053",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2105305549059584000"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "#阿弃今天吃什么\n烤肉喵 https://t.co/X6Ugqto9VG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2105305549059584000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTeMPhNa8AAHVJB.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105305549059584000"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2105305586271482053",
+        "created_at": "2026-09-30T14:35:41.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T15:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105305586271482053"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "阿弃今天吃什么"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X6Ugqto9VG",
+              "end": 36,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2105305586271482053/photo/1",
+              "media_key": "3_2105305549059584000",
+              "start": 13,
+              "url": "https://t.co/X6Ugqto9VG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105305586271482053",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2105305549059584000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "#阿弃今天吃什么\n烤肉喵 https://t.co/X6Ugqto9VG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/是大笨蛋😖/温柔与爱/生活日常/业余技术/原创文案/负面内容/秋月喵 @qiuylove/里推 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "qiuylove"
+              },
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tianjin/Xiamen/Suzhou",
+        "most_recent_tweet_id": "2105305586271482053",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1790157811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102700382493556736/npAiY7DJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8819,
+          "following_count": 1321,
+          "like_count": 229195,
+          "listed_count": 6,
+          "media_count": 1387,
+          "tweet_count": 10081
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

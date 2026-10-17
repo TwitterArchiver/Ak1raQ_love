@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "5G",
+          "id": "1085628093627195392",
+          "name": "5G"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2109286569530265927",
+    "created_at": "2026-10-11T14:14:41.000Z",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T15:14:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2109286569530265927"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ZIO00I/status/…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/ZIO00I/status/2109215618239226038",
+          "start": 35,
+          "url": "https://t.co/5G0CSguTls"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109286569530265927",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109215618239226038",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "远传电信真远传的，我在厦门岛内天天搜到这个信号，其他运营商还得跑海边 https://t.co/5G0CSguTls"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 942,
+        "media_key": "3_2109215597871693825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUVwaUHbAAEi3_S.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2109215597850673152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUVwaUCaQAA7eIr.jpg",
+        "width": 1036
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2109286569530265927",
+        "created_at": "2026-10-11T14:14:41.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T15:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109286569530265927"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ZIO00I/status/…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/ZIO00I/status/2109215618239226038",
+              "start": 35,
+              "url": "https://t.co/5G0CSguTls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109286569530265927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109215618239226038",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "远传电信真远传的，我在厦门岛内天天搜到这个信号，其他运营商还得跑海边 https://t.co/5G0CSguTls"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2109215597871693825",
+            "3_2109215597850673152"
+          ]
+        },
+        "author_id": "1956962007477006336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2109215618239226038",
+        "created_at": "2026-10-11T09:32:45.000Z",
+        "display_text_range": [
+          0,
+          151
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T10:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109215618239226038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tjefg28dvB",
+              "end": 175,
+              "expanded_url": "https://x.com/ZIO00I/status/2109215618239226038/photo/1",
+              "media_key": "3_2109215597871693825",
+              "start": 152,
+              "url": "https://t.co/Tjefg28dvB"
+            },
+            {
+              "display_url": "pic.x.com/Tjefg28dvB",
+              "end": 175,
+              "expanded_url": "https://x.com/ZIO00I/status/2109215618239226038/photo/1",
+              "media_key": "3_2109215597850673152",
+              "start": 152,
+              "url": "https://t.co/Tjefg28dvB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109215618239226038",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2109215597871693825"
+          },
+          {
+            "media_key": "3_2109215597850673152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "台湾SIM卡办理方法，+886真实号码，支持5G-NSA漫游及eSIM\n\n讲下大家关注的台湾卡如何办理：（由X友提供）\n\n注意，是 Postpaid（上台）不是Prepaid（预付）\n大陆居民办理方法，需要的可以留意下：\n✅运营商：FET傳遠電信\n\n✅门市：金门金城直营门市（无需入台湾本岛，金门即可）\n\n✅所需证件：大通证（大陆居民往返台湾通行证）、大陆身份证（护照不行只能身份证）\n\n✅按金：2400台币+预存8000台币话费，共10400台币≈2180人民币（价格中规中矩）\n\n✅合约时长：2年半（1坤年😂）\n\n✅办理无法线上，个别科技选手可以收一收心\n\n支持5G-NSA漫游上网，喜欢收集台湾卡，以及做台区TK的可以考虑下…\n详细套餐都在图内，可参考\n推友办理的套餐合约详情：\n✅5G 599专案，月费588新台币\n无限分钟网内通话、60分钟他网通话(主叫+被叫)\n台湾本地32G(限500Mbps)数据 超出部分降速4G 12Mbps（无限任用）漫游需搭配漫游包\n\n✅充值话费：外籍客户不适用便利店、超商缴费\n线上缴费适用“台湾发行的本人信用卡”\n除此之外只能门市缴费（比较原始）\n\n✅更换设备：更换eSIM设备/改回实体卡等，须亲临门市，手续费300新台币（所谓反诈吧）\n\n✅VoWiFi：台湾运营商不限制漫游拉起\n但隔壁中华电信在台湾外拉起VoWiFi呼叫本地\n会显示+886海外来电+播放反诈提示音（其它运营商未知）\n\n✅VoLTE漫游：2026之前台湾运营商不订购漫游包的情况下，只能在大陆2/3G漫游（跟多数国家地区的运营商一样）\n✅但在去年远传电信已率先开放免费VoLTE漫游，无需开通漫游流量也可以注册到4G网络，比较稍微有点儿人性\n\n详细的看下方图片："
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 17480,
+          "like_count": 77,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "台湾SIM卡办理方法，+886真实号码，支持5G-NSA漫游及eSIM\n\n讲下大家关注的台湾卡如何办理：（由X友提供）\n\n注意，是 Postpaid（上台）不是Prepaid（预付）\n大陆居民办理方法，需要的可以留意下：\n✅运营商：FET傳遠電信\n\n✅门市：金门金城直营门市（无需入台湾本岛，金门即可） https://t.co/Tjefg28dvB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/生活日常/废话内容/技术分享/原创文案/负面情绪/秋月喵 @qiuylove/里推 @Akirameru_QAQ/更多内容详见置顶喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "qiuylove"
+              },
+              {
+                "end": 68,
+                "start": 54,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "📍天津Tientsin / Amoy / Soochow",
+        "most_recent_tweet_id": "2109286569530265927",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1790157811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106366654494199808/pSvA21yA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8856,
+          "following_count": 1332,
+          "like_count": 231193,
+          "listed_count": 6,
+          "media_count": 1432,
+          "tweet_count": 10294
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-17T06:11:27.000Z",
+        "description": "APAC | ASEAN | 亚太数字资产交易研究员 🇹🇭🇸🇬🇲🇾\n加密市场观察员｜交易策略交流\n亚太沐足首席体验官｜国际两性关系专家\n职业街溜子｜东南亚著名癫佬✈️",
+        "id": "1956962007477006336",
+        "is_identity_verified": false,
+        "location": "Southeast Asia",
+        "most_recent_tweet_id": "2109215618239226038",
+        "name": "所長",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1956962007477006336/1791340868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056220318856040448/ynhRmzwZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5247,
+          "following_count": 434,
+          "like_count": 86,
+          "listed_count": 13,
+          "media_count": 323,
+          "tweet_count": 867
+        },
+        "url": "",
+        "username": "ZIO00I",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

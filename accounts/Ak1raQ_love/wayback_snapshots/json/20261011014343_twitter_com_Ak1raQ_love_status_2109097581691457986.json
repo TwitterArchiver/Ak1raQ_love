@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2109097001166278839",
+    "created_at": "2026-10-11T01:43:43.000Z",
+    "display_text_range": [
+      9,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T02:43:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109097581691457986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1882678524596867072",
+          "start": 0,
+          "username": "gdioiui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109097581691457986",
+    "in_reply_to_user_id": "1882678524596867072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109097001166278839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gdioiui 啊是怎么了嘛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3458,
+        "media_key": "3_2109096964650655744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUUEg87bYAAHre6.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2109096988616876032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUUEiWNa4AAhWaz.jpg",
+        "width": 2807
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2109097001166278839",
+        "created_at": "2026-10-11T01:43:43.000Z",
+        "display_text_range": [
+          9,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T02:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109097581691457986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109097581691457986",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109097001166278839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 啊是怎么了嘛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2109096964650655744",
+            "3_2109096988616876032"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2109097001166278839",
+        "created_at": "2026-10-11T01:41:24.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T02:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109097001166278839"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "紧急通知"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OaHs1HzZqw",
+              "end": 65,
+              "expanded_url": "https://x.com/gdioiui/status/2109097001166278839/photo/1",
+              "media_key": "3_2109096964650655744",
+              "start": 42,
+              "url": "https://t.co/OaHs1HzZqw"
+            },
+            {
+              "display_url": "pic.x.com/OaHs1HzZqw",
+              "end": 65,
+              "expanded_url": "https://x.com/gdioiui/status/2109097001166278839/photo/1",
+              "media_key": "3_2109096988616876032",
+              "start": 42,
+              "url": "https://t.co/OaHs1HzZqw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109097001166278839",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2109096964650655744"
+          },
+          {
+            "media_key": "3_2109096988616876032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#紧急通知 昨天晚上三一在夜里遭到袭击 导致挂彩还弄脏了鲨鲨\n大家睡觉不要睡太死哦 https://t.co/OaHs1HzZqw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/生活日常/废话内容/原创文案/负面情绪/秋月喵 @qiuylove/里推 @Akirameru_QAQ/更多内容详见置顶喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 36,
+                "username": "qiuylove"
+              },
+              {
+                "end": 63,
+                "start": 49,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "📍Tientsin / Amoy / Soochow",
+        "most_recent_tweet_id": "2109097581691457986",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1790157811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106366654494199808/pSvA21yA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8799,
+          "following_count": 1330,
+          "like_count": 231068,
+          "listed_count": 6,
+          "media_count": 1425,
+          "tweet_count": 10266
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "最喜欢的僚舰@kurazawanaki\n首次编译 08.12.3\n来自异空间（原住民）\n纯血神人_三代遗传神经病_八年对抗防火长城\n_noodwiki_异常神经电受益者\n喜欢研究 喜欢计算机 网络\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "kurazawanaki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "is_identity_verified": true,
+        "location": "地下室to太平间",
+        "most_recent_tweet_id": "2109097312698142874",
+        "name": "​圣三一第一步枪 🍥☣️⚢",
+        "pinned_tweet_id": "2090732255757107234",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882678524596867072/1762015699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3497,
+          "following_count": 493,
+          "like_count": 5641,
+          "listed_count": 5,
+          "media_count": 2038,
+          "tweet_count": 9522
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

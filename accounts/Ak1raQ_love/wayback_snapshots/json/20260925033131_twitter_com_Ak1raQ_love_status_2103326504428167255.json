@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2089994100493947283",
+    "created_at": "2026-09-25T03:31:31.000Z",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T04:31:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103326504428167255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1917261838485708802",
+          "start": 0,
+          "username": "qiujiudev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103326504428167255",
+    "in_reply_to_user_id": "1663066129923981312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089994100493947283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@qiujiudev 打赢复活赛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2001,
+        "media_key": "3_2089994097708961792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQEmjwCbEAAbdTO.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2089994100493947283",
+        "created_at": "2026-09-25T03:31:31.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T04:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103326504428167255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1917261838485708802",
+              "start": 0,
+              "username": "qiujiudev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103326504428167255",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089994100493947283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@qiujiudev 打赢复活赛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089994097708961792"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2089994100493947283",
+        "created_at": "2026-08-19T08:33:18.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T09:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089994100493947283"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "推友情況通報"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sRl0XqRjjk",
+              "end": 50,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2089994100493947283/photo/1",
+              "media_key": "3_2089994097708961792",
+              "start": 27,
+              "url": "https://t.co/sRl0XqRjjk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089994100493947283",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089994097708961792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3090,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "#推友情況通報 账号被冻结\n秋玖\nqiujiudev https://t.co/sRl0XqRjjk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/是大笨蛋😖/温柔与爱/生活日常/业余技术/原创文案/负面内容/秋月喵 @qiuylove/里推 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "qiuylove"
+              },
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tianjin/Xiamen/Suzhou",
+        "most_recent_tweet_id": "2103326504428167255",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1790157811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102700382493556736/npAiY7DJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8831,
+          "following_count": 1318,
+          "like_count": 228426,
+          "listed_count": 7,
+          "media_count": 1375,
+          "tweet_count": 10019
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-29T16:57:06.000Z",
+        "description": "你好啊，我是秋玖，一个普普通通的10后wmc，重度VOCALOID爱好者 音游痴 和杂食党 爱玩魔裁。爱好广泛，欢迎扩列～私信和TG随时欢迎随时骚扰！TG:https://t.co/v5O8gYnjm0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Qiujiudev",
+                "end": 101,
+                "expanded_url": "http://t.me/Qiujiudev",
+                "start": 78,
+                "url": "https://t.co/v5O8gYnjm0"
+              }
+            ]
+          }
+        },
+        "id": "1917261838485708802",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103317158487015729",
+        "name": "秋玖",
+        "pinned_tweet_id": "2089403510664343750",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917261838485708802/1784106973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086924198023401472/BvTDiyir_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 568,
+          "like_count": 3545,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 1026
+        },
+        "url": "",
+        "username": "qiujiudev",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

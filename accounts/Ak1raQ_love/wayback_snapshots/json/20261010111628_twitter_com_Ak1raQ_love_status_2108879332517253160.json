@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2108875203166007401",
+    "created_at": "2026-10-10T11:16:28.000Z",
+    "display_text_range": [
+      10,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T12:16:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108879332517253160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2070858923431825408",
+          "start": 0,
+          "username": "safrerkv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108879332517253160",
+    "in_reply_to_user_id": "2070858923431825408",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108875203166007401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@safrerkv 😱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1128,
+        "media_key": "3_2108788610237624320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUPsEXOacAAZcUn.jpg",
+        "width": 980
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2108875203166007401",
+        "created_at": "2026-10-10T11:16:28.000Z",
+        "display_text_range": [
+          10,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T12:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108879332517253160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070858923431825408",
+              "start": 0,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108879332517253160",
+        "in_reply_to_user_id": "2070858923431825408",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108875203166007401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safrerkv 😱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108788610237624320"
+          ]
+        },
+        "author_id": "2070858923431825408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2108875203166007401",
+        "created_at": "2026-10-10T11:00:04.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T12:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108875203166007401"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5jgsOBFkNY",
+              "end": 23,
+              "expanded_url": "https://x.com/safrerkv/status/2108875203166007401/photo/1",
+              "media_key": "3_2108788610237624320",
+              "start": 0,
+              "url": "https://t.co/5jgsOBFkNY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108875203166007401",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2108788610237624320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5jgsOBFkNY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/温柔与爱/生活日常/原创文案/负面内容/秋月喵 @qiuylove/里推 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 30,
+                "username": "qiuylove"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "📍Tientsin / Amoy / Soochow",
+        "most_recent_tweet_id": "2108879332517253160",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1790157811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106366654494199808/pSvA21yA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8791,
+          "following_count": 1330,
+          "like_count": 230984,
+          "listed_count": 6,
+          "media_count": 1422,
+          "tweet_count": 10252
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊｜🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 ｜友跨｜\n我叫相融       和我聊天：https://t.co/tpi8Vbpwcz\n                         tg群聊↓   主人@shunyuQAQ\n                        想和我扩列互fo可以私信我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 101,
+                "username": "shunyuQAQ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiangrongTvT",
+                "end": 65,
+                "expanded_url": "https://t.me/xiangrongTvT",
+                "start": 42,
+                "url": "https://t.co/tpi8Vbpwcz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+6MOIrdnz1xcxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+6MOIrdnz1xcxMjVl",
+                "start": 0,
+                "url": "https://t.co/1Djqu66g7u"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2108878357782028498",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2108174277392703642",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1791457178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1731,
+          "following_count": 2051,
+          "like_count": 9187,
+          "listed_count": 1,
+          "media_count": 790,
+          "tweet_count": 3722
+        },
+        "url": "https://t.co/1Djqu66g7u",
+        "username": "safrerkv",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

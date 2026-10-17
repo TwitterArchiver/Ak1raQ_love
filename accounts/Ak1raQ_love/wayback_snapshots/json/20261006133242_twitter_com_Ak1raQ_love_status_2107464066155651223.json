@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2107464066155651223",
+    "created_at": "2026-10-06T13:32:42.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T14:32:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107464066155651223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1494669485214633984",
+          "start": 3,
+          "username": "_Axer1a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107464066155651223",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106718483161796641",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_Axer1a: 想象你的室友留长发天天也不说几句话，每天晚上往手臂内侧涂不明液体，柜子里摆了一堆药还时不时用秤称白色粉末吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2107464066155651223",
+        "created_at": "2026-10-06T13:32:42.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T14:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107464066155651223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1494669485214633984",
+              "start": 3,
+              "username": "_Axer1a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107464066155651223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106718483161796641",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_Axer1a: 想象你的室友留长发天天也不说几句话，每天晚上往手臂内侧涂不明液体，柜子里摆了一堆药还时不时用秤称白色粉末吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2106718483161796641",
+        "created_at": "2026-10-04T12:10:01.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T13:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106718483161796641"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106718483161796641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 23418,
+          "like_count": 363,
+          "quote_count": 2,
+          "reply_count": 50,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "想象你的室友留长发天天也不说几句话，每天晚上往手臂内侧涂不明液体，柜子里摆了一堆药还时不时用秤称白色粉末吃"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/温柔与爱/生活日常/原创文案/负面内容/秋月喵 @qiuylove/里推 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 30,
+                "username": "qiuylove"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tianjin/📍Xiamen/Suzhou",
+        "most_recent_tweet_id": "2107464066155651223",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1790157811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106366654494199808/pSvA21yA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8801,
+          "following_count": 1327,
+          "like_count": 230062,
+          "listed_count": 6,
+          "media_count": 1404,
+          "tweet_count": 10170
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby/mtx 07年生 非健全 💊&🩸/药理学习中\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 34,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 97,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 74,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "is_identity_verified": false,
+        "location": "0.9km",
+        "most_recent_tweet_id": "2107454867661111524",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2089257044322963893",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1494669485214633984/1772769378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1011,
+          "following_count": 2045,
+          "like_count": 92989,
+          "listed_count": 0,
+          "media_count": 456,
+          "tweet_count": 5711
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

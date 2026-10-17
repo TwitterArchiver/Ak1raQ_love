@@ -1,0 +1,682 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2108548944976637952",
+        "3_2108549445986201600"
+      ],
+      "media_source_tweet_id": [
+        "2108549459231887397",
+        "2108549459231887397"
+      ]
+    },
+    "author_id": "1663066129923981312",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2108890676842655949",
+    "created_at": "2026-10-10T12:01:33.000Z",
+    "display_text_range": [
+      0,
+      112
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T13:01:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108890676842655949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "616537873",
+          "start": 3,
+          "username": "aaarjkkmiao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U2OU4gRI8p",
+          "end": 112,
+          "expanded_url": "https://x.com/aaarjkkmiao/status/2108549459231887397/video/1",
+          "media_key": "13_2108548944976637952",
+          "start": 89,
+          "url": "https://t.co/U2OU4gRI8p"
+        },
+        {
+          "display_url": "pic.x.com/U2OU4gRI8p",
+          "end": 112,
+          "expanded_url": "https://x.com/aaarjkkmiao/status/2108549459231887397/video/1",
+          "media_key": "3_2108549445986201600",
+          "start": 89,
+          "url": "https://t.co/U2OU4gRI8p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108890676842655949",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2108548944976637952"
+      },
+      {
+        "media_key": "3_2108549445986201600"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108549459231887397",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aaarjkkmiao: 我的X😋\n虽然图片缩放动画时有时无\n但是 Material 3 取色\n旧版图标还是很舒服的\n\n（需要LSposed github仓库在评论区） https://t.co/U2OU4gRI8p"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19762,
+        "height": 1608,
+        "media_key": "13_2108548944976637952",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2108548944976637952/img/cwFTkf5Qid3GwkFP.jpg",
+        "public_metrics": {
+          "view_count": 166
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2108548944976637952/vid/avc1/320x714/qbiLeTyYxoQIe3MW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2108548944976637952/vid/avc1/480x1072/_wQItVMhlpl5DODo.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2108548944976637952/vid/avc1/720x1608/HQC3zmE8rWmjuG1s.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2108548944976637952/pl/OxzrKpW-qemSXvxG.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2412,
+        "media_key": "3_2108549445986201600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUMSjK9asAAc0tu.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2108548944976637952",
+            "3_2108549445986201600"
+          ],
+          "media_source_tweet_id": [
+            "2108549459231887397",
+            "2108549459231887397"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2108890676842655949",
+        "created_at": "2026-10-10T12:01:33.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T13:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108890676842655949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "616537873",
+              "start": 3,
+              "username": "aaarjkkmiao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U2OU4gRI8p",
+              "end": 112,
+              "expanded_url": "https://x.com/aaarjkkmiao/status/2108549459231887397/video/1",
+              "media_key": "13_2108548944976637952",
+              "start": 89,
+              "url": "https://t.co/U2OU4gRI8p"
+            },
+            {
+              "display_url": "pic.x.com/U2OU4gRI8p",
+              "end": 112,
+              "expanded_url": "https://x.com/aaarjkkmiao/status/2108549459231887397/video/1",
+              "media_key": "3_2108549445986201600",
+              "start": 89,
+              "url": "https://t.co/U2OU4gRI8p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108890676842655949",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2108548944976637952"
+          },
+          {
+            "media_key": "3_2108549445986201600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108549459231887397",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aaarjkkmiao: 我的X😋\n虽然图片缩放动画时有时无\n但是 Material 3 取色\n旧版图标还是很舒服的\n\n（需要LSposed github仓库在评论区） https://t.co/U2OU4gRI8p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2108548944976637952",
+            "3_2108549445986201600"
+          ]
+        },
+        "author_id": "616537873",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2108549459231887397",
+        "created_at": "2026-10-09T13:25:40.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T14:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108549459231887397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U2OU4gRI8p",
+              "end": 95,
+              "expanded_url": "https://x.com/aaarjkkmiao/status/2108549459231887397/video/1",
+              "media_key": "13_2108548944976637952",
+              "start": 72,
+              "url": "https://t.co/U2OU4gRI8p"
+            },
+            {
+              "display_url": "pic.x.com/U2OU4gRI8p",
+              "end": 95,
+              "expanded_url": "https://x.com/aaarjkkmiao/status/2108549459231887397/video/1",
+              "media_key": "3_2108549445986201600",
+              "start": 72,
+              "url": "https://t.co/U2OU4gRI8p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108549459231887397",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2108548944976637952"
+          },
+          {
+            "media_key": "3_2108549445986201600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 305,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我的X😋\n虽然图片缩放动画时有时无\n但是 Material 3 取色\n旧版图标还是很舒服的\n\n（需要LSposed github仓库在评论区） https://t.co/U2OU4gRI8p"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/温柔与爱/生活日常/原创文案/负面内容/秋月喵 @qiuylove/里推 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 30,
+                "username": "qiuylove"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "📍Tientsin / Amoy / Soochow",
+        "most_recent_tweet_id": "2108890676842655949",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1790157811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106366654494199808/pSvA21yA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8791,
+          "following_count": 1330,
+          "like_count": 231001,
+          "listed_count": 6,
+          "media_count": 1423,
+          "tweet_count": 10255
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-06-23T22:30:17.000Z",
+        "description": "活在幻想中☁️希望咱们每天都能开开心心的☺️☁️成绩倒数(?)☁️查成分互Follow(?)☁️172cm53kg巨人🍥8/31/2026小资历🎂10/14/2010天残党 家长半管党\n🏳️小号@a0brjkk(负面?🤔)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 97,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shop.aaarjkk.top",
+                "end": 23,
+                "expanded_url": "https://shop.aaarjkk.top/",
+                "start": 0,
+                "url": "https://t.co/lIxlEX4uF5"
+              }
+            ]
+          }
+        },
+        "id": "616537873",
+        "is_identity_verified": true,
+        "location": "@aaarjkk (2025.8-2026.8) 永远怀念 ",
+        "most_recent_tweet_id": "2108884775134220641",
+        "name": "喵喵式茂",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/616537873/1786621805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103733863138926592/-g5vl17p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 747,
+          "like_count": 10,
+          "listed_count": 2,
+          "media_count": 228,
+          "tweet_count": 1178
+        },
+        "url": "https://t.co/lIxlEX4uF5",
+        "username": "aaarjkkmiao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2109518333318173152",
+    "created_at": "2026-10-12T05:35:38.000Z",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-12T06:35:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2109518333318173152"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/moonlight_ruri…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/moonlight_ruri/status/2109497034378215669",
+          "start": 17,
+          "url": "https://t.co/U0slTlTmz9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109518333318173152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109497034378215669",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我面基被父母发现be like： https://t.co/U0slTlTmz9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1196,
+        "media_key": "3_2109285927600480256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUWwYCxbYAAJeEz.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1116,
+        "media_key": "3_2109285927575289857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUWwYCrbAAE3vKz.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2109518333318173152",
+        "created_at": "2026-10-12T05:35:38.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T06:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109518333318173152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/moonlight_ruri…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/moonlight_ruri/status/2109497034378215669",
+              "start": 17,
+              "url": "https://t.co/U0slTlTmz9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109518333318173152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109497034378215669",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我面基被父母发现be like： https://t.co/U0slTlTmz9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2109285927600480256",
+            "3_2109285927575289857"
+          ]
+        },
+        "author_id": "1763034943599607808",
+        "conversation_id": "2109497034378215669",
+        "created_at": "2026-10-12T04:11:00.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T05:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109497034378215669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1rLKbHZerq",
+              "end": 169,
+              "expanded_url": "https://x.com/moonlight_ruri/status/2109497034378215669/photo/1",
+              "media_key": "3_2109285927600480256",
+              "start": 146,
+              "url": "https://t.co/1rLKbHZerq"
+            },
+            {
+              "display_url": "pic.x.com/1rLKbHZerq",
+              "end": 169,
+              "expanded_url": "https://x.com/moonlight_ruri/status/2109497034378215669/photo/1",
+              "media_key": "3_2109285927575289857",
+              "start": 146,
+              "url": "https://t.co/1rLKbHZerq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109497034378215669",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2109285927600480256"
+          },
+          {
+            "media_key": "3_2109285927575289857"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "为与男网友“奔现”，16岁女孩瞒着父母独自乘高铁前往浙江见面\n\n国庆假期，一名刚满16周岁的山东女孩瞒着家人独自乘坐高铁，计划前往浙江慈溪与男网友见面。其家属得知后报警求助。\n\n接到家属求助后，余姚站派出所民警迅速行动，及时拦下女孩，耐心劝导，最终将女孩平安交到其父母手中，避免了潜在危险。\n\n据民警介绍，女孩家属发现孩子独自离家、坐上高铁后焦急万分，立刻报警求助。当时女孩正在列车上，目的地为慈溪。接到警情后，警方迅速联动开展处置，安排警力在余姚北站成功找到女孩，第一时间安抚她的情绪。\n\n民警表示，这名女孩年仅16岁，心智尚未完全成熟，辨别风险能力较弱。贸然独自跨省奔赴陌生地点会见网友，极有可能落入不法分子圈套，面临人身、财产安全风险。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 451,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为与男网友“奔现”，16岁女孩瞒着父母独自乘高铁前往浙江见面\n\n国庆假期，一名刚满16周岁的山东女孩瞒着家人独自乘坐高铁，计划前往浙江慈溪与男网友见面。其家属得知后报警求助。\n\n接到家属求助后，余姚站派出所民警迅速行动，及时拦下女孩，耐心劝导，最终将女孩平安交到其父母手中，避免了潜在危险。 https://t.co/1rLKbHZerq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/生活日常/废话内容/技术分享/原创文案/负面情绪/秋月喵 @qiuylove/里推 @Akirameru_QAQ/更多内容详见置顶喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "qiuylove"
+              },
+              {
+                "end": 68,
+                "start": 54,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "📍天津Tientsin / Amoy / Soochow",
+        "most_recent_tweet_id": "2109518333318173152",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1790157811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106366654494199808/pSvA21yA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8873,
+          "following_count": 1332,
+          "like_count": 231287,
+          "listed_count": 6,
+          "media_count": 1432,
+          "tweet_count": 10307
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-02-29T02:55:00.000Z",
+        "description": "小天使｜蓝v必回｜femboy｜ENname：LunaRuri｜EN CN JP｜little angel｜Random thoughts｜Humor｜Entertainment｜beauty share｜Verified users follow back｜Submissions welcome｜Thanks",
+        "id": "1763034943599607808",
+        "is_identity_verified": true,
+        "location": "鄂｜🉑✈️｜🚪59｜私信｜蓝v必回请耐心等待",
+        "most_recent_tweet_id": "2109502451380555854",
+        "name": "月璃_LunaRuri🏳️‍⚧️🍥🌸",
+        "pinned_tweet_id": "2064979619095392478",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763034943599607808/1786895939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064945472159272961/vaDy2Hdw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17812,
+          "following_count": 1386,
+          "like_count": 1132,
+          "listed_count": 44,
+          "media_count": 584,
+          "tweet_count": 2953
+        },
+        "url": "",
+        "username": "moonlight_ruri",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1663066129923981312",
+    "conversation_id": "2107370986626801670",
+    "created_at": "2026-10-06T11:30:47.000Z",
+    "display_text_range": [
+      12,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T12:30:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107433382552715326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1401733664682102786",
+          "start": 0,
+          "username": "mukdengise"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107433382552715326",
+    "in_reply_to_user_id": "1401733664682102786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107433056697237975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@mukdengise 我明天就从厦门走了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2107370986626801670",
+        "created_at": "2026-10-06T11:30:47.000Z",
+        "display_text_range": [
+          12,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T12:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107433382552715326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1401733664682102786",
+              "start": 0,
+              "username": "mukdengise"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107433382552715326",
+        "in_reply_to_user_id": "1401733664682102786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107433056697237975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@mukdengise 我明天就从厦门走了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1401733664682102786",
+        "conversation_id": "2107370986626801670",
+        "created_at": "2026-10-06T11:29:29.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T12:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107433056697237975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107433056697237975",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107370986626801670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Ak1raQ_love 叫我一个🥹"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/温柔与爱/生活日常/原创文案/负面内容/秋月喵 @qiuylove/里推 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 30,
+                "username": "qiuylove"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tianjin/📍Xiamen/Suzhou",
+        "most_recent_tweet_id": "2107433382552715326",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1790157811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106366654494199808/pSvA21yA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8802,
+          "following_count": 1327,
+          "like_count": 229997,
+          "listed_count": 6,
+          "media_count": 1404,
+          "tweet_count": 10163
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-06-07T02:52:13.000Z",
+        "description": "IG: ilhajugvn//人類學在讀//好詭祕：@__Ju___Ju__",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "__Ju___Ju__"
+              }
+            ]
+          }
+        },
+        "id": "1401733664682102786",
+        "is_identity_verified": false,
+        "location": "Nomadizing⋯",
+        "most_recent_tweet_id": "2107433056697237975",
+        "name": "花路探險記",
+        "pinned_tweet_id": "2106764309435183391",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1401733664682102786/1789928334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021635233884598273/yaJUaGpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10250,
+          "following_count": 756,
+          "like_count": 139448,
+          "listed_count": 51,
+          "media_count": 1970,
+          "tweet_count": 26050
+        },
+        "url": "",
+        "username": "mukdengise",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
